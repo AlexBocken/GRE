@@ -57,7 +57,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "css": ".card {\n  font-family: helvetica;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n\n#bottom-left {\n  position: absolute;\n  bottom: 20px;\n  left: 20px;\n}\n\n#bottom-right {\n  position: absolute;\n  bottom: 20px;\n  right: 20px;\n}\n\n#bottom-center {\n  position: fixed;\n  left: 50%;\n  bottom: 20px;\n  transform: translate(-50%,0);\n  margin: 0 auto;\n}",
+            "css": ".card {\n  font-family: helvetica;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n\n#bottom-left {\n  position: absolute;\n  bottom: 20px;\n  left: 20px;\n}\n\n#bottom-right {\n  position: absolute;\n  bottom: 20px;\n  right: 20px;\n}\n\n#bottom-center {\n  position: fixed;\n  left: 50%;\n  bottom: 20px;\n  transform: translate(-50%,0);\n  margin: 0 auto;\n}\n\n#right{\n\tposition: relative;\n\ttext-align: right;\n}",
             "flds": [
                 {
                     "font": "Linux Biolinum",
@@ -147,7 +147,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "{{Word}}<br>\n\n<hr id=answer>\n\n<b>{{Meaning}}</b><br>\n{{part of speech}}<br>\n{{explanation}}<br>\nex.:{{example}}<br>\n\n<div id=\"bottom-left\">{{no.}} </div>\n<div id=\"bottom-center\">{{Source}}</div>\n<div id=\"bottom-right\">{{type/level}}</div>",
+                    "afmt": "{{Word}}<br>\n\n<hr id=answer>\n\n<b>{{Meaning}}</b> </br>\n{{part of speech}}</br></br>\n<i>Explanation:</i></br>{{explanation}}</br></br>\n<i>Example:</i></br>{{example}}<br>\n\n<div id=\"bottom-left\">{{no.}} </div>\n<div id=\"bottom-center\">{{Source}}</div>\n<div id=\"bottom-right\">{{type/level}}</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -3429,24 +3429,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "156",
-                "compass / compress",
-                "",
-                "",
-                "",
-                "",
-                "Easily confused words",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "rT/ldKt1xJ",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "157",
                 "compelling",
                 "captivating, very persuasive",
@@ -3880,7 +3862,7 @@
                 "body",
                 "Greek/Latin root",
                 "",
-                "corpse<br/> corporeal punishment<br/> corpus callosum",
+                "corpse<br> corporeal punishment<br> corpus callosum",
                 "Greek/Latin",
                 "MSU"
             ],
