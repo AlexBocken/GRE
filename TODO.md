@@ -1,4 +1,4 @@
-#Words that should be added
+# Words that should be added
 
 | Word    | Occurence                     |
 | :----:  | :---------:                   |
