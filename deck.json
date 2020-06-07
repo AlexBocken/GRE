@@ -24294,6 +24294,24 @@
             "guid": "IRanFS?DC/",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "957",
+                "edify",
+                "Instruct or improve (someone) morally or intellectually",
+                "verb",
+                "Modern French édifier:&nbsp; build; install; teach, instruct (morally),&nbsp; Same root as the English word : edifice=building<div>Synonyms: educate, instruct, enlighten</div>",
+                "The Church school aims to edify its pupils mind and spirits",
+                "Most Difficult",
+                "FT"
+            ],
+            "flags": 0,
+            "guid": "L`na(_-6Lb",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
         }
     ]
 }
