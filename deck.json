@@ -49,7 +49,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 15,
     "extendRev": 50,
     "media_files": [],
     "name": "GRE",
@@ -1540,7 +1540,7 @@
             "data": "",
             "fields": [
                 "arbitrate",
-                "to settle a dispute by impulse (n: arbitration)",
+                "to settle a dispute (n: arbitration)",
                 "verb",
                 "From Latin :   arbiter \"a judge, umpire, mediator\". See arbitre (French) = umpire. Verb is arbitratation",
                 "The mediator arbitrated the dispute between the two parties.",
@@ -1946,7 +1946,7 @@
             "data": "",
             "fields": [
                 "avarice",
-                "greed",
+                "extreme greed",
                 "noun",
                 "From Latin (via French) avaritia \"greed, inordinate desire",
                 "The third of the 7 deadly Christian sins is avarice - greed",
