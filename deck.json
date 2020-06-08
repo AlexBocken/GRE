@@ -187,10 +187,10 @@
             "data": "",
             "fields": [
                 "2",
-                "a, an",
-                "without, not",
+                "a<br/> an",
+                "without<br/> not",
                 "Greek/Latin root",
-                "Atypical=not typical                                    Atheist =one who does not believe in God                    Atrophy=wasting away,    deterioration",
+                "Atypical=not typical<br/>Atheist =one who does not believe in God<br/>Atrophy=wasting away<br/>deterioration",
                 "asexual<br/> amoral<br/> anarchy<br/> anhydrous<br/> Anabaptist<br/> anachronism",
                 "Greek/Latin",
                 "MSU"
@@ -207,10 +207,10 @@
             "data": "",
             "fields": [
                 "3",
-                "ab, abs, a",
-                "apart, away from",
+                "ab<br/> abs<br/> a",
+                "apart<br/> away from",
                 "Greek/Latin root",
-                "Abnormal=deviating from normal                                      Abhor=to hate, detest                  Abominate=to detest                      Abduct=to take by force                 Abstruse=hard to understand                     Abstract=considered apart from normal existence",
+                "Abnormal=deviating from normal<br/>Abhor=to hate<br/> detest<br/>Abominate=to detest<br/>Abduct=to take by force<br/>Abstruse=hard to understand<br/>Abstract=considered apart from normal existence",
                 "abnormal<br/> abduct<br/> abductor (muscle)<br/> abscission",
                 "Greek/Latin",
                 "MSU"
@@ -331,7 +331,7 @@
                 "abjure",
                 "to reject or renounce",
                 "verb",
-                "From Latin abiurare \"deny on oath,\" from ab \"off, away from\" (see ab-) + iurare \"to swear,                                <br/>Synonyms: relinquish, reject, disavow",
+                "From Latin abiurare \"deny on oath,\" from ab \"off, away from\" (see ab-) + iurare \"to swear,<br/><br/><br/><br/><br/><br/><br/><br/><br/>Synonyms: relinquish, reject, disavow",
                 "“Since 1986 he has been asking candidates for public office to sign his Taxpayer Protection Pledge, in which they abjure tax increases of any sort forever.”",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -450,10 +450,10 @@
             "fields": [
                 "5",
                 "ac",
-                "sharp, bitter",
+                "sharp<br/> bitter",
                 "Greek/Latin root",
-                "Greek, PIE : be sharp, rise (out) to a point, pierce. SUBFORMS ARE. akros/acro \"at the end, at the top, outermost;  excellent,\"  akis \"sharp point,\"   akme \"summit, edge,\"                                    acacia; acanthus; accipiter; acer; acerbic;    acescent; acetic; acid; acicular;  acne; acrid; acridity; acrimony; ; acuity;  acumen; acupressure; acupuncture; acute;  anoxic; ; coelacanth; dioxin; deoxy-; eager; edge (n.); egg (v.) \"to goad on, incite;\"  epoxy;  exacerbation;  ; selvage; vinegar",
-                "Acute =sharp, severe<br/>Acerbic=sour or astringent in taste<br/>Acrid=unpleasantly sharp or bitter<br/>Acidic=something that is sour<br/> Acrimony-bitter animosity<br/>acrylic (liquid originally found in onions that make eyes tear)",
+                "Greek<br/> PIE : be sharp<br/> rise (out) to a point<br/> pierce. SUBFORMS ARE<br/>akros \"at the end<br/> at the top<br/> outermost; consummate<br/> excellent<br/>\" akis \"sharp point<br/>\"<br/> akros \"at the farthest point<br/> highest<br/> outermost<br/>\"<br/>akantha \"thorn<br/>\" akme \"summit<br/> edge<br/>\" oxys \"sharp<br/> bitter;\"",
+                "Acute =sharp<br/> severe<br/>Acerbic=sour or astringent in taste<br/>Acrid=unpleasantly sharp or bitter<br/>Acidic=something that is sour<br/> Acrimony-bitter animosity<br/>acrylic (liquid originally found in onions that make eyes tear)",
                 "Root words",
                 "Aristotle"
             ],
@@ -472,9 +472,9 @@
             "fields": [
                 "1118",
                 "acro<br/>akro",
-                "at the top,at the end,  outermost;  excellent",
+                "at the top<br/>at the end<br/>  outermost;  excellent",
                 "Greek/Latin root",
-                "a subfrom of the Greek, PIE root \"ac\": be sharp, rise (out) to a point, pierce.",
+                "a subfrom of the Greek<br/> PIE root \"ac\": be sharp<br/> rise (out) to a point<br/> pierce.",
                 "acrobat(one that goes high/to the limit)<br/> acromegaly=growth disease( highest size (mega))<br/> acronym(sharp name=use of first letters)<br/> acrophobia(fear of heights)<br/> acropolis(city at the top)<br/>",
                 "Root words",
                 "SMB"
@@ -492,13 +492,13 @@
             "data": "",
             "fields": [
                 "779",
-                "oxy",
-                "oxys,oxy- \"sharp, bitter,\"",
-                "Greek/Latin root",
-                "a subfrom of the Greek, PIE root \"ac\": be sharp, rise (out) to a point, pierce.",
-                "oxalic<br/> oxide<br/>oxygen(D=Sauerstoff...)<br/> oxymoron(oxy=sharp+moron=stupid =>a word with composites of opposite meaning)<br/> paroxysm  (",
-                "Root words",
-                "SMB"
+                "pertain",
+                "be appropriate, related, or applicable",
+                "verb",
+                "Synonyms: concern, relate to, be related to",
+                "“Religious exceptions to the law, such as those pertaining to animal welfare, should ideally be ended...”",
+                "Least Difficult",
+                "FT"
             ],
             "flags": 0,
             "guid": "btfWFH^X(m",
@@ -577,9 +577,9 @@
             "fields": [
                 "17",
                 "ad",
-                "toward, to",
+                "toward<br/> to",
                 "Greek/Latin root",
-                "Sometimes broader than ad, eg  (ac, al, af, an, ap, as, at)",
+                "Sometimes broader than ad<br/> eg  (ac<br/> al<br/> af<br/> an<br/> ap<br/> as<br/> at)",
                 "adhere<br/> adductor (muscle)<br/>  adumbrate",
                 "Greek/Latin",
                 "MSU"
@@ -742,7 +742,7 @@
             "fields": [
                 "26",
                 "-age",
-                "act of, state of, collection of",
+                "act of<br/> state of<br/> collection of",
                 "suffix",
                 "added to root words (often French) to form a noun",
                 "salvage<br/> storage<br/> forage",
@@ -929,7 +929,7 @@
                 "altruism",
                 "the belief in or practice of selfless concern for the well-being of others",
                 "noun",
-                "Synonyms: selflessness, compassion, goodwill.     <br/>Deutsch : Uneigennützigkeit, Selbstlosigkeit.  From Latin/(old french) :  alter/(altrui) = others",
+                "Synonyms: selflessness, compassion, goodwill.     <br/>Deutsch : Uneigennützigkeit, Selbstlosigkeit.  <br/>from Latin/(old french) :  alter/(altrui) = others",
                 "He was not the first to wonder about the connection between religion and altruism",
                 "Least Difficult",
                 "FT"
@@ -946,11 +946,11 @@
             "data": "",
             "fields": [
                 "1040",
-                "am, ami",
+                "am<br/> ami",
                 "love",
                 "Greek/Latin root",
                 "",
-                "amiable -friendly, pleasant, lovable<br/>amicable =characterized by friendliness<br/>amity -friendly and peaceful relations<br/> amorous -showing romantic love    <br/>enamored=inflamed with love,captivated",
+                "amiable -friendly<br/> pleasant<br/> lovable<br/>amicable =characterized by friendliness<br/>amity -friendly and peaceful relations<br/> amorous -showing romantic love    <br/>enamored=inflamed with love<br/>captivated",
                 "Root words",
                 "Aristotle"
             ],
@@ -1130,8 +1130,8 @@
             "data": "",
             "fields": [
                 "47",
-                "amphi,",
-                "round,",
+                "amphi<br/>",
+                "round<br/>",
                 "Greek/Latin root",
                 "",
                 "amphitheater<br/> amphibian<br/>",
@@ -1360,7 +1360,7 @@
                 "ante",
                 "before",
                 "Greek/Latin root",
-                "sometimes anti (when comes from Italian), where ante and anti have merged to one word (eg. Antipasti)",
+                "sometimes anti (when comes from Italian)<br/> where ante and anti have merged to one word (eg. Antipasti)",
                 "antedate<br/>anteroom<br/>antecedent<br/>anterior",
                 "Greek/Latin",
                 "MSU"
@@ -1677,7 +1677,7 @@
             "fields": [
                 "77",
                 "arch",
-                "leader, first, chief",
+                "leader<br/> first<br/> chief",
                 "Greek/Latin root",
                 "",
                 "monarchy<br/> oligarchy<br/> anarchy<br/> archetype<br/> architect <br/> archbishop",
@@ -1903,7 +1903,7 @@
                 "astonishment",
                 "total surprise, shock",
                 "noun",
-                "from Old French estoner \"to stun, daze, deafen, astound,\" from Vulgar Latin *extonare, from Latin ex \"out\" + tonare \"to thunder\"",
+                "from Old French estoner \"to stun, daze, deafen, astound,\" from Vulgar Latin *extonare, <br/>from Latin ex \"out\" + tonare \"to thunder\"",
                 "The homeless man looked at me in astonishment when I gave him the bag of money.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -1967,7 +1967,7 @@
                 "showing a willingness to take surprisingly bold risks. extremely bold; fearless, especially said of human behavior (n: audacity)",
                 "adjective",
                 "Synonyms: bold, daring, fearless",
-                "The new CEO pursued audacious initiatives to save the company from bankruptcy. / The student’s audacious remark earned her a seat in afternoon detention.",
+                "The new CEO pursued audacious initiatives to save the company from bankruptcy. <br/> The student’s audacious remark earned her a seat in afternoon detention.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -1985,7 +1985,7 @@
             "fields": [
                 "92",
                 "audio",
-                "hear, sound",
+                "hear<br/> sound",
                 "Greek/Latin root",
                 "",
                 "audiophile(someone who likes music)<br/> audiometer(something that measures sound)<br/> auditory(somewhere where one listens to lectures)",
@@ -2093,7 +2093,7 @@
                 "aver",
                 "to assert or allege. to declare",
                 "verb",
-                "Deutsch : beteuern, behaupten.               from Latin ad \"to\" (see ad-) + verus \"true\" - later meaning to assert with confident",
+                "Deutsch : beteuern, behaupten.               <br/>from Latin ad \"to\" (see ad-) + verus \"true\" - later meaning to assert with confident",
                 "Many of those who voted for the President,  his opponent averred, did so because they were rooked by devious  lies",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -2199,7 +2199,7 @@
                 "war",
                 "Greek/Latin root",
                 "",
-                "bellicose =warlike in manner or temperament<br/> belligerent =hostile, ready to fight<br/>rebel =person who opposes and fights",
+                "bellicose =warlike in manner or temperament<br/> belligerent =hostile<br/> ready to fight<br/>rebel =person who opposes and fights",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -2216,7 +2216,7 @@
             "fields": [
                 "103",
                 "bene",
-                "well, favorable",
+                "well<br/> favorable",
                 "Greek/Latin root",
                 "",
                 "benefit<br/> benevolent<br/> benefactor<br/> beneficent",
@@ -2780,7 +2780,7 @@
                 "calumny",
                 "lie or slander, often to damage somone's reputation",
                 "noun",
-                "from Old French calomnie (15c.), from Latin calumnia \"trickery, subterfuge, misrepresentation, malicious charge",
+                "from Old French calomnie (15c.), <br/>from Latin calumnia \"trickery, subterfuge, misrepresentation, malicious charge",
                 "The film was supposed to be a true story, but in fact it was a huge calumny  to tarnish the star’s reputation.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -3111,10 +3111,10 @@
             "fields": [
                 "146",
                 "chorale <br/> corral",
-                "n. a type of hymn (sung) or a choir",
+                "n. a type of hymn (sung) or a choir <br/>n. a fenced enclosure for cattle or horses. v. to herd cattle or horses (or people) into one place",
                 "",
-                "n. a fenced enclosure for cattle or horses. v. to herd cattle or horses (or people) into one place",
-                "Maimie always corraled Marnie into serving as secretary for the meetings.",
+                "Corral is of Spanish origin. The  protective wide circle of ox-wagons called laager by the Afrikaners was called corral by the Americans travelling West in their wagons.",
+                "Maimie always corraled Marnie into serving as secretary for the meetings. <br/>The <b>chorale<b/> originated when Martin Luther translated <u>sacred songs into the vernacular language <u/>",
                 "Homophone",
                 "MSU"
             ],
@@ -3211,9 +3211,9 @@
             "fields": [
                 "1380",
                 "circum",
-                "word-forming element meaning \"around, round about, all around, on all sides,\" from Latin",
+                "word-forming element meaning \"around<br/> round about<br/> all around<br/> on all sides<br/>\" from Latin",
                 "Latrin Prefix",
-                "Circa, circadian(about a day), circuit, circumambient(surroundings), circumambulate(to walk around), circumbendibus(a round about way - round the bend), circumcise (cut around), circumcision, circumference, circumflex(sign bent around), circumfluent(a fluid flowing around), circumjacent(bordering on every side), circumlocution(a round about way of speaking, elusive",
+                "Circa<br/> circadian(about a day)<br/> circuit<br/> circumambient(surroundings)<br/> circumambulate(to walk around)<br/> circumbendibus(a round about way - round the bend)<br/> circumcise (cut around)<br/> circumcision<br/> circumference<br/> circumflex(sign bent around)<br/> circumfluent(a fluid flowing around)<br/> circumjacent(bordering on every side)<br/> circumlocution(a round about way of speaking<br/> elusive",
                 ")<br/> circumnavigate(sail around the globe)<br/> circumpolar(surround one of the poles)<br/> circumscribe(to make a circle around= to encompass)<br/> circumspect(looking around from all sides=suspect<br/> wary)<br/> circumspection<br/> circumstance<br/> circumvent(to go around)<br/> circumvolve(to turn or to cause to roll around)<br/> circus<br/>",
                 "Latin words",
                 "nko"
@@ -3351,7 +3351,7 @@
                 "to know",
                 "Greek/Latin root",
                 "",
-                "Cognizant=fully informed, conscious<br/>cognition =process of acquiring knowledge<br/> incognito =disguised so no one knows you<br/>recognize =to discover that one knows<br/> cogitate =to think carefully about",
+                "Cognizant=fully informed<br/> conscious<br/>cognition =process of acquiring knowledge<br/> incognito =disguised so no one knows you<br/>recognize =to discover that one knows<br/> cogitate =to think carefully about",
                 "Root words",
                 "Aristotle"
             ],
@@ -3389,7 +3389,7 @@
             "data": "",
             "fields": [
                 "1044",
-                "col, con, com",
+                "col<br/> con<br/> com",
                 "with",
                 "Greek/Latin root",
                 "",
@@ -3862,7 +3862,7 @@
                 "body",
                 "Greek/Latin root",
                 "",
-                "corpse<br> corporeal punishment<br> corpus callosum",
+                "corpse<br/> corporal punishment<br/> corpus callosum",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -3920,7 +3920,7 @@
             "fields": [
                 "1074",
                 "cosm",
-                "order, world",
+                "order<br/> world",
                 "Greek/Latin root",
                 "",
                 "cosmos<br/> microcosm",
@@ -3943,7 +3943,7 @@
                 "cosmopolitan",
                 "of or relating to a large city or massive urban area",
                 "adjective",
-                "belonging to all parts of the world, limited to no place or society.                                           adj. sophisticated",
+                "belonging to all parts of the world, limited to no place or society. <br/>adj. sophisticated",
                 "With its hugely diverse population, New York City is considered one of the most cosmopolitan cities in the world",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4088,7 +4088,7 @@
                 "belief",
                 "Greek/Latin root",
                 "",
-                "credence =belief that something is true or valid<br/>credulous =believing things too easily, gullible<br/>incredible =unbelievable<br/>incredulous=skeptical, disbelieving",
+                "credence =belief that something is true or valid<br/>credulous =believing things too easily<br/> gullible<br/>incredible =unbelievable<br/>incredulous=skeptical<br/> disbelieving",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -4616,7 +4616,7 @@
                 "desiccate",
                 "to dry out completely",
                 "verb",
-                "from de- \"thoroughly\" (see de-) + siccare \"to dry\"                   v. to suck out the vitality and passion",
+                "from de- \"thoroughly\" (see de-) + siccare \"to dry\"<br/>v. to suck out the vitality and passion",
                 "One should use sliced fruits within one day as the insides quickly desiccate.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4637,7 +4637,7 @@
                 "desiccate",
                 "to dry out completely",
                 "verb",
-                "from de- \"thoroughly\" (see de-) + siccare \"to dry\"                   v. to suck out the vitality and passion",
+                "from de- \"thoroughly\" (see de-) + siccare \"to dry\"<br/>v. to suck out the vitality and passion",
                 "One should use sliced fruits within one day as the insides quickly desiccate.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4659,7 +4659,7 @@
                 "desultory",
                 "halfhearted, not having a plan or purpose",
                 "adjective",
-                "<br/>Deutsch : halbherzig             adj. inconsistent or random",
+                "<br/>Deutsch : halbherzig<br/>adj. inconsistent or random",
                 "1)The bronze medal winner managed a desultory smile.           2)The students were confused by the teacher’s desultory lecture which seemed to have no real focus",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4723,7 +4723,7 @@
             "fields": [
                 "214",
                 "di",
-                "two, double",
+                "two<br/> double",
                 "Greek/Latin root",
                 "",
                 "deductions are the conditions on 31 December of the tax period or at the end of the tax liability.",
@@ -4743,7 +4743,7 @@
             "fields": [
                 "215",
                 "dia",
-                "across, through",
+                "across<br/> through",
                 "Greek/Latin root",
                 "",
                 "diagonal<br/> dialectic<br/> dialogue<br/> diagnosis",
@@ -4784,7 +4784,7 @@
             "fields": [
                 "1077",
                 "dict",
-                "word, speak, say",
+                "word<br/> speak<br/> say",
                 "Greek/Latin root",
                 "",
                 "dictate<br/> dictation<br/> dictator",
@@ -4825,7 +4825,7 @@
                 "didactic",
                 "educational or with an instructive purpose; often includes an element of moralizing",
                 "adjective",
-                "French didactique, from Latinized form of Greek didaktikos \"apt at teaching",
+                "French didactique, <br/>from Latinized form of Greek didaktikos \"apt at teaching",
                 "Because Mrs. Jones came up with lessons that were not only didactic but also fun, everyone thought she was a fantastic teacher.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4966,7 +4966,7 @@
                 "dirge",
                 "funeral or mourning lament",
                 "noun",
-                "In the catholic burial mass,  the first answer sung is from  Psalms v.9, which begins in Latin :  \"Dirige, Domine, Deus meus, in conspectu tuo viam meam (\"Direct, O Lord, my God, my way in thy sight\"). So, Dirge is linked to first word, Direct in English.                   now, n. any sad, slow song\"",
+                "In the catholic burial mass,  the first answer sung is from  Psalms v.9, which begins in Latin :  \"Dirige, Domine, Deus meus, in conspectu tuo viam meam (\"Direct, O Lord, my God, my way in thy sight\"). So, Dirge is linked to first word, Direct in English.<br/><br/>   now, n. any sad, slow song\"",
                 "Elton John wrote and sang the dirge at Lady Di's funeral.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4985,7 +4985,7 @@
             "fields": [
                 "225",
                 "dis",
-                "not, apart",
+                "not<br/> apart",
                 "Greek/Latin root",
                 "",
                 "disperse<br/> disinherit<br/> disenfranchise<br/> distend",
@@ -5087,10 +5087,10 @@
             "fields": [
                 "230",
                 "discrepancy",
-                "inconsistency",
+                "a difference or inconsistency especially between things that should be the same",
                 "noun",
                 "",
-                "",
+                "The police were confused by the discrepancy between the testimonies of the two witnesses who saw the same event.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5189,7 +5189,7 @@
                 "dissimilar to such a degree that comparison is not possible",
                 "adjective",
                 "",
-                "",
+                "Even though they are identical twins, they have such disparate personalities that it’s impossible to get them confused",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5210,7 +5210,7 @@
                 "impartial or cool; calm; objective; unbiased",
                 "adjective",
                 "",
-                "",
+                "Liza is a dispassionate person who rarely displays her emotions to others",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5231,7 +5231,7 @@
                 "to ignore or pay no attention to",
                 "verb",
                 "",
-                "",
+                "If you disregard the red light at an intersection  you are not only breaking the law but also endangering your life",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5252,7 +5252,7 @@
                 "to mislead or conceal the truth, esp. with respect to one’s motives. to conceal one's real motive, to feign",
                 "verb",
                 "",
-                "",
+                "Rather than answer the reporter’s questions directly, the politician chose to dissemble his responses",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5272,7 +5272,7 @@
                 "dissemble <br/> disassemble",
                 "Disassemble is to take something apart, like an old car motor, but dissemble is sneaky — it means to hide your true self,to lie to misrepresent oneself -  like the guy who said he was a mechanic but had never actually seen a motor, much less put one back together.",
                 "Easily confused words",
-                "dis= reverse +assemble+collect in one place=> take aprt                              dis=not + semble=appear=>not true representation",
+                "dis= reverse +assemble+collect in one place=> take aprt<br/><br/><br/>      dis=not + semble=appear=>not true representation",
                 "the word is that these are Chinese actors who have been hired to resemble and dissemble North Korean fans.",
                 "Easily confused words",
                 "MSU"
@@ -5294,7 +5294,7 @@
                 "to spread widely (esp. information)",
                 "verb",
                 "",
-                "",
+                "The pollen will disseminate into the region by Thursday, causing further burdens for allergy sufferers.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5356,7 +5356,7 @@
                 "to split apart, esp. a road or path",
                 "verb",
                 "",
-                "",
+                "Knowing that everyone would diverge after graduation, she was worried that she would not see her friends anymore.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5451,7 +5451,7 @@
                 "the official beliefs or tenets of particular sect or group",
                 "noun",
                 "",
-                "",
+                "Although Jake considered himself to be quite religious, he did not blindly follow the dogma of the church.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5487,10 +5487,10 @@
             "fields": [
                 "1045",
                 "dol",
-                "pain, suffering",
+                "pain<br/> suffering",
                 "Greek/Latin root",
                 "",
-                "Condolence = expression of sympathy<br/> Indolence = a state of being lazy or slothful<br/> Doleful = sorrowful, mournful<br/>Dolorous = full of pain or sorrow",
+                "Condolence = expression of sympathy<br/> Indolence = a state of being lazy or slothful<br/> Doleful = sorrowful<br/> mournful<br/>Dolorous = full of pain or sorrow",
                 "Root words",
                 "Aristotle"
             ],
@@ -5527,7 +5527,7 @@
             "fields": [
                 "251",
                 "dominus",
-                "lord , master",
+                "lord <br/> master",
                 "Greek/Latin root",
                 "",
                 "dominant<br/> dominion",
@@ -5603,8 +5603,8 @@
             "data": "",
             "fields": [
                 "1078",
-                "duc, duct",
-                "carry, lead",
+                "duc<br/> duct",
+                "carry<br/> lead",
                 "Greek/Latin root",
                 "",
                 "conduct<br/> conducive",
@@ -5627,7 +5627,7 @@
                 "to deceive or fool",
                 "verb",
                 "",
-                "",
+                "My brother is a schemer who is always trying to dupe people out of their money.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5665,10 +5665,10 @@
             "fields": [
                 "1046",
                 "dys",
-                "abnormal, bad",
+                "abnormal<br/> bad",
                 "Greek/Latin root",
                 "",
-                "dyspepsia =abnormal indigestion           dystopia =an imaginary place of total misery            dyslexia =impairmentof the ability to handle word       dysfunctional =poorly functional",
+                "dyspepsia =abnormal indigestion<br/>dystopia =an imaginary place of total misery<br/>dyslexia =impairmentof the ability to handle word<br/>dysfunctional =poorly functional",
                 "Root words",
                 "Aristotle"
             ],
@@ -5869,7 +5869,7 @@
                 "effectiveness; capability to produce a desired effect",
                 "noun",
                 "",
-                "",
+                "The instructor’s efficacy was reduced by the lack of educational materials.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5908,7 +5908,7 @@
                 "the quality of flowing out. something that flows out, such as a stream from a river (n: effluence)",
                 "adjective, n",
                 "",
-                "",
+                "Angered citizens confronted the factory for the effluent because they carelessly dumped into the Jackson Lake.",
                 "Common GRE",
                 "MSU"
             ],
@@ -5923,7 +5923,7 @@
             "fields": [
                 "264",
                 "ego",
-                "I, self",
+                "I<br/> self",
                 "Greek/Latin root",
                 "",
                 "ego<br/> egomaniac<br/> egocentric<br/>",
@@ -5966,7 +5966,7 @@
                 "sad poem or song, often in remembrance of someone deceased",
                 "noun",
                 "",
-                "",
+                "When the princess died, one of her favorite songwriters wrote a moving elegy for her.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5987,7 +5987,7 @@
                 "to provoke a response",
                 "verb",
                 "",
-                "",
+                "In the experiment, the scientist hoped to elicit a response from a mouse by piping high-pitched sounds into a sealed cage.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6008,7 +6008,7 @@
                 "persuasive and articulate speech",
                 "adjective",
                 "",
-                "",
+                "Since the girl spoke from the heart, the eloquence in her words allowed everyone to completely understand and believe what she was saying.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6068,7 +6068,7 @@
                 "well-known, respected, distinguished",
                 "adjective",
                 "",
-                "",
+                "Everyone was looking forward to taking the class with such an eminent professor.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6089,7 +6089,7 @@
                 "softening; something that softens",
                 "adjective, noun",
                 "",
-                "",
+                "The lotion was a great emollient for her dry skin",
                 "Common GRE",
                 "MSU"
             ],
@@ -6107,7 +6107,7 @@
                 "based on evidence",
                 "adjective",
                 "",
-                "",
+                "Our data is based on empirical evidence collected in numerous studies",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6125,10 +6125,10 @@
             "fields": [
                 "273",
                 "emulate",
-                "to imitate or attempt to equal in accomplishment. to strive to equal or excel (n: emulation)",
+                "to imitate or attempt to equal in <b>accomplishment<b/> to strive to equal or excel (n: emulation)<br> It is about the setting a goal to equal or exceed what someone else achieved, not necessarily doing it their way.",
                 "verb",
                 "",
-                "",
+                "Sue is going to emulate her brother's strong work ethic in order to be successful.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6146,10 +6146,10 @@
             "fields": [
                 "274",
                 "emulate <br/> imitate",
-                "to pattern one's behavior (on a respected role model)",
+                "Emulate means \"to try to be as good or successful as.\"<br/> Imitate means \"to copy or fashion oneself after.\"",
                 "Easily confused words",
-                "to copy",
                 "",
+                "He did not limit his actions to imitating his role model, but wished to go further and emulate his idol's success",
                 "Easily confused words",
                 "MSU"
             ],
@@ -6209,7 +6209,7 @@
                 "a formal eulogy or speech of praise",
                 "noun",
                 "",
-                "",
+                "Mrs. Poundstone was surprised and delighted on the last day of school when the students in her most difficult class presented her with an encomium they had written, praising her work as a teacher.",
                 "Common GRE",
                 "MSU"
             ],
@@ -6281,10 +6281,10 @@
             "fields": [
                 "282",
                 "enervate",
-                "to exhaust or drain of energy. to weaken or destroy the strength or vitality of: \"The heatenervated everyone.\" (adj: enervating)",
+                "to exhaust or drain of energy. to weaken or destroy the strength or vitality of:  (adj: enervating)",
                 "verb",
                 "",
-                "",
+                "The heat <b>enervated<b/> everyone.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6302,10 +6302,10 @@
             "fields": [
                 "282",
                 "enervate",
-                "to exhaust or drain of energy. to weaken or destroy the strength or vitality of: \"The heatenervated everyone.\" (adj: enervating)",
+                "to exhaust or drain of energy. to weaken or destroy the strength or vitality of:  (adj: enervating)",
                 "verb",
                 "",
-                "",
+                "The heat <b>enervated<b/> everyone.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6327,7 +6327,7 @@
                 "to cause or give rise to",
                 "verb",
                 "",
-                "His slip of the toungue engendered much laughter.",
+                "His slip of the toungue <b>engendered<b/> much laughter.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6348,7 +6348,7 @@
                 "to cause or give rise to",
                 "verb",
                 "",
-                "His slip of the toungue engendered much laughter.",
+                "His slip of the toungue <b>engendered<b/> much laughter.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6370,7 +6370,7 @@
                 "engender is to bring into being, whereas endanger is to put at risk",
                 "Easily confused words",
                 "",
-                "",
+                "Some people believe violent video games <b>engender<b/> feelings of hostility in young people, thereby <b>endangering<b/> them and those around them.",
                 "Easily confused words",
                 "MSU"
             ],
@@ -6391,7 +6391,7 @@
                 "intensify, increase, augment",
                 "verb",
                 "",
-                "",
+                "When Jane paints her bedroom yellow, she is going to really <b>enhance<b/> the room and make it appear brighter.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6412,7 +6412,7 @@
                 "a person or thing that is mysterious, puzzling, or difficult to understand",
                 "noun",
                 "puzzle, mystery",
-                "Scientists continue to research cancer to solve the enigma of its primary cause, which will hopefully lead to a cure.",
+                "Scientists continue to research cancer to solve the <b>enigma<b/> of its primary cause, which will hopefully lead to a cure.",
                 "Common GRE",
                 "MSU"
             ],
@@ -6430,7 +6430,7 @@
                 "belief that one deserves things one has not earned",
                 "noun",
                 "n. the rights one is afforded under the law",
-                "",
+                "The spoiled girl’s sense of <b>entitlement<b/> to any object in sight resulted in her inability to make friends",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6469,7 +6469,7 @@
             "fields": [
                 "292",
                 "epi",
-                "upon, over",
+                "upon<br/> over",
                 "Greek/Latin root",
                 "",
                 "epidermis<br/> epidemic<br/> epigram<br/> epitaph<br/> epithet<br/> epiphyte<br/> epistasis<br/> epinephrine<br/> epiphysis",
@@ -6528,7 +6528,7 @@
                 "even-tempered",
                 "adjective",
                 "adj. not given to much change or variation",
-                "",
+                "Because she is so <b>equable<b/>, my even-tempered mother rarely gets upset.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6549,7 +6549,7 @@
                 "ambiguous; unclear; subject to more than one interpretation -- often intentionally so: \"Republicans complained that Bill Clinton's answers were equivocal.\" (v. equivocate)",
                 "adjective",
                 "",
-                "Politicians have been known to provide equivocal answers to reporters’ questions.",
+                "x",
                 "Common GRE",
                 "MSU"
             ],
@@ -6567,7 +6567,7 @@
                 "to use ambiguous language in order to mislead or deceive",
                 "verb",
                 "",
-                "",
+                "Whenever the politician responded to questions, he would avoid eye contact and equivocate his answers.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6626,7 +6626,7 @@
                 "incorrect",
                 "adjective",
                 "",
-                "",
+                "Despite the fact that you used an erroneous method to solve the problem, somehow you managed to arrive at the correct solution.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6726,7 +6726,7 @@
                 "avoid or abstain from",
                 "verb",
                 "",
-                "",
+                "True vegetarians eschew food items that come from living animals.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6829,7 +6829,7 @@
                 "deserving respect, esteem, and admiration",
                 "adjective",
                 "",
-                "",
+                "Our estimable professor is constantly being recognized for his cancer research",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6885,10 +6885,10 @@
             "fields": [
                 "1047",
                 "eu",
-                "good, well",
+                "good<br/> well",
                 "Greek/Latin root",
                 "",
-                "euphemism =replacing an offensive word with an inoffensive one                euphony =having a pleasant sound         euphoria =feeling of well=being         eulogy =speech in praise of someone          eugenics =the study of hereditary improvement of a race",
+                "euphemism =replacing an offensive word with an inoffensive one<br/>euphony =having a pleasant sound<br/>euphoria =feeling of well=being<br/>eulogy =speech in praise of someone<br/>eugenics =the study of hereditary improvement of a race",
                 "Root words",
                 "Aristotle"
             ],
@@ -6988,7 +6988,7 @@
                 "challenging, demanding, grueling",
                 "adjective",
                 "",
-                "",
+                "Sarah’s exacting client insisted she work during the holidays.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7045,10 +7045,10 @@
             "fields": [
                 "318",
                 "exigent",
-                "urgent or pressing",
+                "urgent or pressing; demanding or pressing",
                 "adjective",
                 "",
-                "",
+                "An exigent officer is difficult to get along with because he asks ridiculous things of his soldiers.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7069,7 +7069,7 @@
                 "to clear of charges of wrongdoing",
                 "verb",
                 "",
-                "",
+                "The testimony from the witness will hopefully exonerate my husband of the charges.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7110,7 +7110,7 @@
                 "to elaborate on something in great detail",
                 "verb",
                 "",
-                "",
+                "During his book signing, Clark will expatiate on his military adventures",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7149,7 +7149,7 @@
                 "to explain in detail",
                 "verb",
                 "",
-                "",
+                "If the auditor finds an error in the accounting records, the treasurer will need to explicate the mistake.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7263,10 +7263,10 @@
             "fields": [
                 "1048",
                 "extra",
-                "outside, beyond",
+                "outside<br/> beyond",
                 "Greek/Latin root",
                 "",
-                "extraordinary =beyond ordinary      extraterrestrial =outside the Earth       extrovert =an outgoing person      extradite =to hand over an accused to the state where crime was committed",
+                "extraordinary =beyond ordinary<br/>extraterrestrial =outside the Earth<br/>extrovert =an outgoing person<br/>extradite =to hand over an accused to the state where crime was committed",
                 "Root words",
                 "Aristotle"
             ],
@@ -7284,7 +7284,7 @@
                 "irrelevant or superfluous",
                 "adjective",
                 "",
-                "",
+                "If you slip off your diet, the extraneous calories will make you gain all the weight you lost.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7322,8 +7322,8 @@
             "data": "",
             "fields": [
                 "1079",
-                "fac, fact",
-                "do, make",
+                "fac<br/> fact",
+                "do<br/> make",
                 "Greek/Latin root",
                 "",
                 "facsimile<br/> manufacture",
@@ -7384,8 +7384,8 @@
                 "facilitate",
                 "to make something easier or simpler",
                 "verb",
-                "",
-                "",
+                "facile=easy in French.",
+                "Going to all lectures and doing all tutorials greatly facilitates passing the exam",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7423,8 +7423,8 @@
                 "fallacious",
                 "relying on a fallacy and thus incorrect/misinformed",
                 "adjective",
-                "",
-                "",
+                "From fallacy <br/>Deutsch : irreführend",
+                "He clung to the fallacious hope that she would return.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7481,7 +7481,7 @@
                 "meticulous",
                 "adjective",
                 "adj. invested in cleanliness",
-                "",
+                "Constantly licking themselves, cats are fastidious creatures.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7560,7 +7560,7 @@
             "fields": [
                 "1080",
                 "fect",
-                "do, make",
+                "do<br/> make",
                 "Greek/Latin root",
                 "",
                 "perfect",
@@ -7578,7 +7578,7 @@
             "fields": [
                 "340",
                 "federis (see also roots section)",
-                "league, pact",
+                "league<br/> pact",
                 "Greek/Latin root",
                 "",
                 "federation<br/> confederate",
@@ -7778,8 +7778,8 @@
                 "fledgling",
                 "a baby bird; an inexperienced person; inexperienced.",
                 "noun, adjective",
-                "",
-                "",
+                "also implies potential to improve",
+                "Jill is a fledgling skater who must work on her turns more.",
                 "Common GRE",
                 "MSU"
             ],
@@ -8465,10 +8465,10 @@
             "fields": [
                 "1049",
                 "gen<br/>o<br/>e<br/>genesis",
-                "birth, gender, family, kind, race (genre)",
+                "birth<br/> gender<br/> family<br/> kind<br/> race (genre)",
                 "Greek/Latin root",
                 "",
-                "genealogy =the study of the history of a family         generation =all the people born at approx the same         genetic =relating to heredity encoded in the genes.      Congenital =existing from birth",
+                "genealogy =the study of the history of a family<br/>generation =all the people born at approx the same<br/>genetic =relating to heredity encoded in the genes<br/> Congenital =existing from birth",
                 "Root words",
                 "Aristotle"
             ],
@@ -8565,10 +8565,10 @@
             "fields": [
                 "371",
                 "glib",
-                "talking volubly, but carelessly or insincerely",
+                "talking volubly,easily but carelessly or insincerely",
                 "adjective",
                 "",
-                "",
+                "Because she is so conceited, Linda is constantly fishing for compliments, and she takes all the glib flattery seriously.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8680,8 +8680,8 @@
             "data": "",
             "fields": [
                 "373",
-                "graph, gram",
-                "write, record",
+                "graph<br/> gram",
+                "write<br/> record",
                 "Greek/Latin root",
                 "",
                 "graphic<br/> graphite<br/> graphology<br/> telegram",
@@ -8704,7 +8704,7 @@
                 "pleasing",
                 "Greek/Latin root",
                 "",
-                "gratify =to pleasesomeone<br/>grateful =feeling thankful <br/>gratuity =a tip, token of appreciationin<br/>gratiate =to bring oneself into the favor ofanother by deliberate efforts",
+                "gratify =to pleasesomeone<br/>grateful =feeling thankful <br/>gratuity =a tip<br/> token of appreciationin<br/>gratiate =to bring oneself into the favor ofanother by deliberate efforts",
                 "Root words",
                 "Aristotle"
             ],
@@ -9010,7 +9010,7 @@
             "fields": [
                 "384",
                 "hetero",
-                "mixed, unlike",
+                "mixed<br/> unlike",
                 "Greek/Latin root",
                 "",
                 "heterogeneous<br/> heterosexual<br/> heterodox<br/> heterodont<br/> hetero atom<br/> heterocyclic<br/> heterozygous<br/>",
@@ -9087,7 +9087,7 @@
             "fields": [
                 "386",
                 "homo",
-                "same, alike",
+                "same<br/> alike",
                 "Greek/Latin root",
                 "",
                 "homogeneous<br/> homogenized<br/> homozygous<br/> homolytic fission<br/> Homo sapiens<br/> homonid<br/> homeostasis <br/> homophone",
@@ -9779,7 +9779,7 @@
             "data": "",
             "fields": [
                 "416",
-                "in, im",
+                "in<br/> im",
                 "not",
                 "Greek/Latin root",
                 "",
@@ -10280,7 +10280,7 @@
                 "ingrate",
                 "an ungrateful person",
                 "noun",
-                "<br/>Deutsch : undankbar. From Latin : in- \"not\"  + gratus \"pleasing, beloved, dear, agreeable\"",
+                "<br/>Deutsch : undankbar. <br/>from Latin : in- \"not\"  + gratus \"pleasing, beloved, dear, agreeable\"",
                 "“Greater liberty... over the past generation is abused by ingrates who think it funny to depict their leaders pantless...”",
                 "Least Difficult",
                 "FT"
@@ -10440,7 +10440,7 @@
                 "insipid",
                 "bland, uninspired, inane; lacking zest or excitement; dull",
                 "adjective",
-                "Synonyms: boring, vapid, dull. <br/>Deutsch : Geschmacklos, fad. From Latin from in- \"not\"  + Latin sapidus \"tasty,\" from sapere",
+                "Synonyms: boring, vapid, dull. <br/>Deutsch : Geschmacklos, fad. <br/>from Latin from in- \"not\"  + Latin sapidus \"tasty,\" from sapere",
                 "“It was a stultifying procession of patriotic songs... insipid skits and bald propaganda.”",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -11214,7 +11214,7 @@
             "fields": [
                 "479",
                 "liber",
-                "free, book",
+                "free<br/> book",
                 "Greek/Latin root",
                 "",
                 "liberty<br/> library<br/> liberal",
@@ -11364,7 +11364,7 @@
             "data": "",
             "fields": [
                 "1051",
-                "loc, loq",
+                "loc<br/> loq",
                 "speak",
                 "Greek/Latin root",
                 "",
@@ -11402,8 +11402,8 @@
             "data": "",
             "fields": [
                 "1086",
-                "log, logy",
-                "speech, study of dialog",
+                "log<br/> logy",
+                "speech<br/> study of dialog",
                 "Greek/Latin root",
                 "",
                 "analogy",
@@ -11605,7 +11605,7 @@
                 "lurid",
                 "Presented in vividly shocking or sensational terms",
                 "adjective",
-                "Synonyms: melodramatic, exaggerated, overdramatized. <br/>Deutsch : Reißerisch, grell. From Latin : pale, the colour of bruises, ghastly",
+                "Synonyms: melodramatic, exaggerated, overdramatized. <br/>Deutsch : Reißerisch, grell. <br/>from Latin : pale, the colour of bruises, ghastly",
                 "“Their absence from the public eye, especially in a Western country with an abundant supply of good hospitals, tends to spark lurid rumours of illness and even death.”",
                 "Least Difficult",
                 "FT"
@@ -11646,7 +11646,7 @@
                 "large",
                 "Greek/Latin root",
                 "",
-                "macroeconomics, macroscopic, macrophage",
+                "macroeconomics<br/>macroscopic<br/>macrophage",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -11717,11 +11717,11 @@
             "data": "",
             "fields": [
                 "1052",
-                "mal, male",
-                "bad, evil, ill",
+                "mal<br/> male",
+                "bad<br/> evil<br/> ill",
                 "Greek/Latin root",
                 "",
-                "malfunction=not functioning properly<br/>malevolence=ill will<br/>malicious =showing strong ill will<br/>malediction=a curse<br/>malign=to speak ill about someone<br/>maladroit =clumsy, tactless",
+                "malfunction=not functioning properly<br/>malevolence=ill will<br/>malicious =showing strong ill will<br/>malediction=a curse<br/>malign=to speak ill about someone<br/>maladroit =clumsy<br/> tactless",
                 "Root words",
                 "Aristotle"
             ],
@@ -11835,7 +11835,7 @@
             "data": "",
             "fields": [
                 "1087",
-                "man, manu",
+                "man<br/> manu",
                 "hand",
                 "Greek/Latin root",
                 "",
@@ -11895,8 +11895,8 @@
             "data": "",
             "fields": [
                 "1088",
-                "mater, matri",
-                "mother, home",
+                "mater<br/> matri",
+                "mother<br/> home",
                 "Greek/Latin root",
                 "",
                 "matriarch<br/> maternity",
@@ -12037,10 +12037,10 @@
             "fields": [
                 "1053",
                 "meta",
-                "beyond, change, between",
+                "beyond<br/> change<br/> between",
                 "Greek/Latin root",
                 "",
-                "metaphysics =study of nature and reality           metamorphosis =a complete change of form            metastasis =the transmission of disease to other parts of the body.",
+                "metaphysics =study of nature and reality<br/>metamorphosis =a complete change of form<br/>metastasis =the transmission of disease to other parts of the body.",
                 "Root words",
                 "Aristotle"
             ],
@@ -12363,7 +12363,7 @@
             "data": "",
             "fields": [
                 "514",
-                "mit, miss",
+                "mit<br/> miss",
                 "send",
                 "Greek/Latin root",
                 "",
@@ -12441,7 +12441,7 @@
             "fields": [
                 "517",
                 "mono",
-                "one, single",
+                "one<br/> single",
                 "Greek/Latin root",
                 "",
                 "monocle<br/> monopoly<br/> monogamy<br/> monovalent<br/> monomania<br/> monarchy",
@@ -12538,10 +12538,10 @@
             "fields": [
                 "1054",
                 "morph",
-                "shape, form",
+                "shape<br/> form",
                 "Greek/Latin root",
                 "",
-                "metamorphosis =complete change of form            morphology =the branch of biology that deals with the structure & form of organisms              amorphous =without distinct shape or form",
+                "metamorphosis =complete change of form<br/>morphology =the branch of biology that deals with the structure & form of organisms<br/>amorphous =without distinct shape or form",
                 "Root words",
                 "Aristotle"
             ],
@@ -12755,7 +12755,7 @@
                 "born",
                 "Greek/Latin root",
                 "",
-                "innate =included since birth<br/>nascent =starting to develop <br/>natal =relating to birth<br/>natural =gotten at birth, not afterward",
+                "innate =included since birth<br/>nascent =starting to develop <br/>natal =relating to birth<br/>natural =gotten at birth<br/> not afterward",
                 "Root words",
                 "Aristotle"
             ],
@@ -12906,11 +12906,11 @@
             "data": "",
             "fields": [
                 "1092",
-                "nom, nym",
+                "nom<br/> nym",
                 "name",
                 "Greek/Latin root",
                 "",
-                "nominate, synonym",
+                "nominate<br/> synonym",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -12928,7 +12928,7 @@
                 "name",
                 "Greek/Latin root",
                 "",
-                "noble, ignominy, nomenclature, nominal",
+                "noble<br/> ignominy<br/> nomenclature<br/> nominal",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -13038,11 +13038,11 @@
             "data": "",
             "fields": [
                 "1056",
-                "ob, op",
-                "against, opposition,",
+                "ob<br/> op",
+                "against<br/> opposition<br/>",
                 "Greek/Latin root",
                 "",
-                "object =to be against something         obscure =hard to understand           obstruct=hinder            obfuscate=confuse, darken            obtuse –not sharp, dull         obstreperous –noisly defiant.Unruly",
+                "object =to be against something<br/>obscure =hard to understand<br/>obstruct=hinder<br/>obfuscate=confuse<br/> darken<br/>obtuse –not sharp<br/> dull<br/>obstreperous –noisly defiant.Unruly",
                 "Root words",
                 "Aristotle"
             ],
@@ -13301,7 +13301,7 @@
                 "few",
                 "Greek/Latin root",
                 "",
-                "oligarchy, oligopoly",
+                "oligarchy<br/> oligopoly",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -13319,7 +13319,7 @@
                 "all",
                 "Greek/Latin root",
                 "",
-                "omnipotent =with all the power             omniscient =knowing all things            omnipresent=present everywhere           omnivorous =eating all foods",
+                "omnipotent =with all the power<br/>omniscient =knowing all things<br/>omnipresent=present everywhere<br/>omnivorous =eating all foods",
                 "Root words",
                 "Aristotle"
             ],
@@ -13653,10 +13653,10 @@
             "fields": [
                 "1058",
                 "pan",
-                "all, any, everyone",
+                "all<br/> any<br/> everyone",
                 "Greek/Latin root",
                 "",
-                "panacea =a cure for all diseases or problems           panorama =an allaround view                     pantheism =the worship of all gods             pandemic =affecting all",
+                "panacea =a cure for all diseases or problems<br/>panorama =an allaround view<br/>pantheism =the worship of all gods<br/>pandemic =affecting all",
                 "Root words",
                 "Aristotle"
             ],
@@ -13863,7 +13863,7 @@
                 "father",
                 "Greek/Latin root",
                 "",
-                "paternal, paternity, patricide",
+                "paternal<br/>paternity<br/>patricide",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -13877,11 +13877,11 @@
             "data": "",
             "fields": [
                 "1093",
-                "pater, patri",
+                "pater<br/> patri",
                 "father",
                 "Greek/Latin root",
                 "",
-                "paternal, patriarch",
+                "paternal<br/> patriarch",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -13896,10 +13896,10 @@
             "fields": [
                 "1059",
                 "path",
-                "feeling, emoition",
+                "feeling<br/> emoition",
                 "Greek/Latin root",
                 "",
-                "empathy=identification with & understanding of another’s feeling               sapathy =a lack of feeling or interest           sympathy=harmony or agreement, sharing someone’s feelings          antipathy=a feeling of great dislike",
+                "empathy=identification with & understanding of another’s feeling<br/>sapathy =a lack of feeling or interest<br/>sympathy=harmony or agreement<br/> sharing someone’s feelings<br/>antipathy=a feeling of great dislike",
                 "Root words",
                 "Aristotle"
             ],
@@ -13914,10 +13914,10 @@
             "fields": [
                 "1129",
                 "para",
-                "1. Greek origin = alongside,coming from,  beyond; altered; contrary; irregular, abnormal,             2. Latin origin =\"defense, protection against; that which protects from,\"",
+                "1. Greek origin = alongside<br/>coming from<br/>  beyond; altered; contrary; irregular<br/> abnormal<br/>             2. Latin origin =\"defense<br/> protection against; that which protects from<br/>\"",
                 "Greek/Latin root",
-                "1. GREEK origin : parallel (alongside each other), paramedic (someone alongside a medic), paraphrase (restatement=coming from phase), parastatal (organisation that runs alongside state organisation), paresis (altered ie, partial paralysis), paralegal(one trained in subsidiary legal matters \"alongside legal\"), parameter (used alongside to measure system), paraplegic (to be struck on the one side - eg lower side, left side), paranormal (beyond normal), parasite (alongside food)",
-                "2. LATIN origin : parachute (protect from falling), parasol (protect from sun),",
+                "1. GREEK origin : parallel (alongside each other)<br/> paramedic (someone alongside a medic)<br/>paraphrase (restatement=coming from phase)<br/> parastatal (organisation that runs alongside state organisation)<br/>paresis (altered ie<br/> partial paralysis)<br/> paralegal(one trained in subsidiary legal matters \"alongside legal\")<br/> parameter (used alongside to measure system)<br/> paraplegic (to be struck on the one side - eg lower side<br/> left side)<br/> paranormal (beyond normal)<br/>parasite (alongside food)",
+                "2. LATIN origin : <br/>parachute (protect from falling)<br/> parasol (protect from sun)<br/>",
                 "Greek/Latin",
                 "SMB"
             ],
@@ -13934,7 +13934,7 @@
             "fields": [
                 "1094",
                 "pathy",
-                "feeling, suffering",
+                "feeling<br/> suffering",
                 "Greek/Latin root",
                 "",
                 "sympathy",
@@ -14016,7 +14016,7 @@
                 "foot",
                 "Greek/Latin root",
                 "",
-                "pedestrian, pedal, pedicure, podiatrist",
+                "pedestrian<br/> pedal<br/> pedicure<br/>podiatrist",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14192,7 +14192,7 @@
                 "around",
                 "Greek/Latin root",
                 "",
-                "peripatetic, periscope, perineum, peritoneum",
+                "peripatetic<br/>periscope<br/>perineum<br/>peritoneum",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14269,13 +14269,13 @@
             "data": "",
             "fields": [
                 "779",
-                "oxy",
-                "oxys,oxy- \"sharp, bitter,\"",
-                "Greek/Latin root",
-                "a subfrom of the Greek, PIE root \"ac\": be sharp, rise (out) to a point, pierce.",
-                "oxalic<br/> oxide<br/>oxygen(D=Sauerstoff...)<br/> oxymoron(oxy=sharp+moron=stupid =>a word with composites of opposite meaning)<br/> paroxysm  (",
-                "Root words",
-                "SMB"
+                "pertain",
+                "be appropriate, related, or applicable",
+                "verb",
+                "Synonyms: concern, relate to, be related to",
+                "“Religious exceptions to the law, such as those pertaining to animal welfare, should ideally be ended...”",
+                "Least Difficult",
+                "FT"
             ],
             "flags": 0,
             "guid": "KG8KDV]%1Z",
@@ -14353,7 +14353,7 @@
                 "eat",
                 "Greek/Latin root",
                 "",
-                "phagocyte, phagocytosis",
+                "phagocyte<br/>phagocytosis",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14446,7 +14446,7 @@
                 "love",
                 "Greek/Latin root",
                 "",
-                "philosophy, philanthropy, philanthropist =one who loves humanity             philology =the love of words        philosophy =the love of wisdom            philatelist –one who loves or collects stamps             bibliophile –a lover of books",
+                "philosophy<br/>philanthropy<br/> philanthropist =one who loves humanity<br/>philology =the love of words<br/>philosophy =the love of wisdom<br/>philatelist –one who loves or collects stamps<br/>bibliophile –a lover of books",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14485,7 +14485,7 @@
                 "",
                 "Greek/Latin root",
                 "",
-                "phobia,",
+                "phobia<br/>",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14835,7 +14835,7 @@
                 "city",
                 "Greek/Latin root",
                 "",
-                "political, metropolitan",
+                "political<br/> metropolitan",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14855,7 +14855,7 @@
                 "many",
                 "Greek/Latin root",
                 "",
-                "polygamy, polyphonic, hoi polloi",
+                "polygamy<br/> polyphonic<br/> hoi polloi",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14891,11 +14891,11 @@
             "data": "",
             "fields": [
                 "604",
-                "port, porto",
+                "port<br/> porto",
                 "carry",
                 "Greek/Latin root",
                 "",
-                "porter, export , transport, portable",
+                "porter<br/> export <br/> transport<br/> portable",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14931,7 +14931,7 @@
                 "after",
                 "Greek/Latin root",
                 "",
-                "post script (p.s.), ex post facto, post hoc, post-mortem",
+                "post script (p.s.)<br/> ex post facto<br/> post hoc<br/> post-mortem",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -14970,7 +14970,7 @@
                 "before",
                 "Greek/Latin root",
                 "",
-                "premier, preview, premium, prescient",
+                "premier<br/> preview<br/> premium<br/> prescient",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -15228,10 +15228,10 @@
             "fields": [
                 "622",
                 "pro",
-                "before, in favor of",
+                "before<br/> in favor of",
                 "Greek/Latin root",
                 "",
-                "project, projectile,",
+                "project<br/> projectile<br/>",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -15524,7 +15524,7 @@
             "fields": [
                 "633",
                 "psych",
-                "mind, soul",
+                "mind<br/> soul",
                 "Greek/Latin root",
                 "",
                 "psychology",
@@ -15547,7 +15547,7 @@
                 "people",
                 "Greek/Latin root",
                 "",
-                "public, republic, pub, publican",
+                "public<br/> republic<br/> pub<br/> publican",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -15601,7 +15601,7 @@
                 "clean",
                 "Greek/Latin root",
                 "",
-                "Purge =remove anything undesirable                purgatory =according to Roman Catholics a placewhere souls must clean themselves of sin                   expurgate =remove objectionable passages from a publication",
+                "Purge =remove anything undesirable<br/>purgatory =according to Roman Catholics a placewhere souls must clean themselves of sin<br/>expurgate =remove objectionable passages from a publication",
                 "Root words",
                 "Aristotle"
             ],
@@ -15954,10 +15954,10 @@
             "fields": [
                 "643",
                 "recondite",
-                "arcane or obscure",
+                "arcane or obscure, not understood or known by many people",
                 "adjective",
-                "",
-                "",
+                "Latin/French e=back    : com=with ; dere=put, ie. Put back again, hide",
+                "Since I do not have a law degree, I find it hard to understand the <b>recondite<b/> terms of the contract.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -15995,8 +15995,8 @@
                 "refute",
                 "to rebut or disprove",
                 "verb",
-                "",
-                "",
+                "Latin : from re=back  +futare =\"to beat\", ie. To resist, repel, oppose",
+                "The evidence provided by the prosecutor will <b>refute<b/> the defendant’s claim of innocence.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -16014,10 +16014,10 @@
             "fields": [
                 "645",
                 "relentless",
-                "never stopping, constant",
+                "never stopping, constant, unyielding, persistent",
                 "adjective",
                 "",
-                "",
+                "<b>relentless<b/> and driven, the runner managed to finish the race despite his bruised ankle",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -16578,7 +16578,7 @@
                 "climb",
                 "Greek/Latin root",
                 "",
-                "ascend, descend",
+                "ascend<br/> descend",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -16596,7 +16596,7 @@
                 "to know",
                 "Greek/Latin root",
                 "",
-                "conscience =sense of knowing right from wrong             conscious =knowing what is happening                   omniscient =knowing everything                    prescient =ability to perceive events before they occur",
+                "conscience =sense of knowing right from wrong<br/>conscious =knowing what is happening<br/>omniscient =knowing everything<br/>prescient =ability to perceive events before they occur",
                 "Root words",
                 "Aristotle"
             ],
@@ -16632,7 +16632,7 @@
                 "examine",
                 "Greek/Latin root",
                 "",
-                "microscope, oscilloscope",
+                "microscope<br/> oscilloscope",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -16664,11 +16664,11 @@
             "data": "",
             "fields": [
                 "669",
-                "scrib, script",
+                "scrib<br/> script",
                 "write",
                 "Greek/Latin root",
                 "",
-                "transcribe, scribe, script",
+                "transcribe<br/> scribe<br/> script",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -16727,7 +16727,7 @@
                 "follow",
                 "Greek/Latin root",
                 "",
-                "consecutive, non sequitur",
+                "consecutive<br/> non sequitur",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -16799,10 +16799,10 @@
             "fields": [
                 "1100",
                 "sent",
-                "feel, think",
+                "feel<br/> think",
                 "Greek/Latin root",
                 "",
-                "sentient, consent, sentiment",
+                "sentient<br/> consent<br/> sentiment",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -16822,7 +16822,7 @@
                 "follow",
                 "Greek/Latin root",
                 "",
-                "sequence, subsequently",
+                "sequence<br/> subsequently",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -16857,11 +16857,11 @@
             "data": "",
             "fields": [
                 "675",
-                "sin (sys before b, p, or m)",
-                "together, with",
+                "sin (sys before b<br/> p<br/> or m)",
+                "together<br/> with",
                 "Greek/Latin root",
                 "",
-                "synchronize, symphony, sympathy, syncretic, syncope",
+                "synchronize<br/> symphony<br/> sympathy<br/> syncretic<br/> syncope",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -16915,7 +16915,7 @@
                 "alone",
                 "Greek/Latin root",
                 "",
-                "solo, solitary , desolate =lonely, dismal, gloomy                       solitary =done alone, by yourself                       soliloquy–the act of speaking to oneself",
+                "solo<br/>solitary<br/>desolate =lonely<br/> dismal<br/> gloomy<br/>solitary =done alone<br/> by yourself<br/>soliloquy–the act of speaking to oneself",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -16974,7 +16974,7 @@
                 "sleep",
                 "Greek/Latin root",
                 "",
-                "insomnia =inability to fall asleep               somniloquy =talking in one’ssleep                      somnolent =feeling sleepy               Somnambulist=sleep walker",
+                "insomnia =inability to fall asleep<br/>somniloquy =talking in one’s sleep<br/>somnolent =feeling sleepy<br/>Somnambulist=sleep walker",
                 "Root words",
                 "Aristotle"
             ],
@@ -17282,10 +17282,10 @@
             "fields": [
                 "689",
                 "subter",
-                "under, secret",
+                "under<br/> secret",
                 "Greek/Latin root",
                 "",
-                "subterfuge, subtle, subaltern, subterranean",
+                "subterfuge<br/> subtle<br/> subaltern<br/> subterranean",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -17581,7 +17581,7 @@
                 "touch",
                 "Greek/Latin root",
                 "",
-                "contact, tactless (without feeling)",
+                "contact<br/> tactless (without feeling)",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -17635,7 +17635,7 @@
                 "distance",
                 "Greek/Latin root",
                 "",
-                "telegraph, telephone, teleology",
+                "telegraph<br/> telephone<br/> teleology",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -17785,7 +17785,7 @@
                 "god",
                 "Greek/Latin root",
                 "",
-                "monotheism =belief in one god                      polytheism =worshiping more than one God                               theology =the study of religion, god, etc                                  theocracy=Form of govt where religion is the guiding principle",
+                "monotheism =belief in one god<br/>polytheism =worshiping more than one God<br/>theology =the study of religion<br/> god<br/> etc<br/>theocracy=Form of govt where religion is the guiding principle",
                 "Root words",
                 "Aristotle"
             ],
@@ -17935,10 +17935,10 @@
             "fields": [
                 "1104",
                 "tract",
-                "pull, draw out",
+                "pull<br/> draw out",
                 "Greek/Latin root",
                 "",
-                "tractor, attractive",
+                "tractor<br/> attractive",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -18011,10 +18011,10 @@
             "fields": [
                 "1105",
                 "trans",
-                "across, move",
+                "across<br/> move",
                 "Greek/Latin root",
                 "",
-                "transit, transient",
+                "transit<br/> transient",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -18032,10 +18032,10 @@
             "fields": [
                 "1105",
                 "trans",
-                "across, move",
+                "across<br/> move",
                 "Greek/Latin root",
                 "",
-                "transit, transient",
+                "transit<br/> transient",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -18349,7 +18349,7 @@
                 "useful",
                 "Greek/Latin root",
                 "",
-                "utility, utilitarian",
+                "utility<br/> utilitarian",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -18367,7 +18367,7 @@
                 "empty",
                 "Greek/Latin root",
                 "",
-                "evacuate =to empty a dangerous place                        vacant =empty, not occupied                         vacation =a time without work                  vacuous =lacking intelligence",
+                "evacuate =to empty a dangerous place<br/>vacant =empty<br/> not occupied<br/>acation =a time without work<br/>vacuous =lacking intelligence",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -18484,7 +18484,7 @@
             "fields": [
                 "1106",
                 "vene",
-                "assemble, meet",
+                "assemble<br/> meet",
                 "Greek/Latin root",
                 "",
                 "convene",
@@ -18545,7 +18545,7 @@
             "fields": [
                 "1107",
                 "vent",
-                "come, go",
+                "come<br/> go",
                 "Greek/Latin root",
                 "",
                 "advent",
@@ -18566,7 +18566,7 @@
                 "truth",
                 "Greek/Latin root",
                 "",
-                "veracious =truthful, honest <br/>veracity =the truth <br/>verify =to make sure that something is true <br/>veritable <br/>averasseverate",
+                "veracious =truthful<br/> honest <br/>veracity =the truth <br/>verify =to make sure that something is true <br/>veritable <br/>averasseverate",
                 "Root words",
                 "Aristotle"
             ],
@@ -18646,7 +18646,7 @@
                 "turn",
                 "Greek/Latin root",
                 "",
-                "reverse, versatile",
+                "reverse<br/> versatile",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -18663,7 +18663,7 @@
                 "vert",
                 "turn",
                 "Greek/Latin root",
-                "Do NOT confuse with French \"vert\", which means green",
+                "Do NOT confuse with French \"vert\"<br/> which means green",
                 "convert",
                 "Greek/Latin",
                 "Manhattan"
@@ -18737,11 +18737,11 @@
             "data": "",
             "fields": [
                 "735",
-                "vide, visibil, vis",
+                "vide<br/> visibil<br/> vis",
                 "see",
                 "Greek/Latin root",
                 "",
-                "video, vision, visible",
+                "video<br/> vision<br/> visible",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -18833,7 +18833,7 @@
                 "vitiate",
                 "Destroy or impair the legal validity of",
                 "verb",
-                "Synonyms: put an end to, do away with, scrap. <br/>Deutsch : Beeinträchtigen, verderben, zerstören. From Latin \"vitiare\"= to make faulty. Same origin as \"vice\", therefore same pronounciation root \"vishiate\"",
+                "Synonyms: put an end to, do away with, scrap. <br/>Deutsch : Beeinträchtigen, verderben, zerstören. <br/>from Latin \"vitiare\"= to make faulty. Same origin as \"vice\", therefore same pronounciation root \"vishiate\"",
                 "‘The firm admitted that it vitiated its stated standards for evaluating securities in an area where those standards put in question its ability to win business.”",
                 "Least Difficult",
                 "FT"
@@ -18872,7 +18872,7 @@
                 "life",
                 "Greek/Latin root",
                 "",
-                "Vivid=livelyrevival =the act of bringing back to life                  vital =pertaining to live                   vivacious =high-spirited and full of life           convivial=sociable",
+                "Vivid=livelyrevival =the act of bringing back to life<br/>vital =pertaining to live<br/>vivacious =high-spirited and full of life<br/>convivial=sociable",
                 "Root words",
                 "Aristotle"
             ],
@@ -18886,11 +18886,11 @@
             "data": "",
             "fields": [
                 "1110",
-                "voc, vok",
-                "voice, call",
+                "voc<br/> vok",
+                "voice<br/> call",
                 "Greek/Latin root",
                 "",
-                "vocal, revoke",
+                "vocal<br/> revoke",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -18965,8 +18965,8 @@
             "data": "",
             "fields": [
                 "1113",
-                "volu, volve",
-                "turn, roll",
+                "volu<br/> volve",
+                "turn<br/> roll",
                 "Greek/Latin root",
                 "",
                 "revolution",
@@ -19460,11 +19460,11 @@
             "data": "",
             "fields": [
                 "1420",
-                "acious, cious",
+                "acious<br/> cious",
                 "having the quality of",
                 "Latin Suffix",
                 "",
-                "spacious,",
+                "spacious<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -19482,7 +19482,7 @@
                 "field",
                 "Greek/Latin root",
                 "",
-                "agriculture,",
+                "agriculture<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -19500,7 +19500,7 @@
                 "High",
                 "Greek/Latin root",
                 "",
-                "alto (high pitched singer),",
+                "alto (high pitched singer)<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -19518,7 +19518,7 @@
                 "other",
                 "Greek/Latin root",
                 "",
-                "alter-ego<br/> alternative<br/> alternate,",
+                "alter-ego<br/> alternative<br/> alternate<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -19535,7 +19535,7 @@
             "fields": [
                 "1153",
                 "ambul",
-                "walk, move",
+                "walk<br/> move",
                 "Greek/Latin root",
                 "",
                 "ambulance",
@@ -19570,7 +19570,7 @@
             "data": "",
             "fields": [
                 "1142",
-                "ann, annu, enni",
+                "ann<br/> annu<br/> enni",
                 "year",
                 "Greek/Latin root",
                 "",
@@ -19628,8 +19628,8 @@
             "data": "",
             "fields": [
                 "1157",
-                "apo, apho",
-                "away, off, separate",
+                "apo<br/> apho",
+                "away<br/> off<br/> separate",
                 "Greek/Latin root",
                 "",
                 "apogee (furthest away)",
@@ -19686,7 +19686,7 @@
             "data": "",
             "fields": [
                 "1148",
-                "aster, astr",
+                "aster<br/> astr",
                 "star",
                 "Greek/Latin root",
                 "",
@@ -19706,7 +19706,7 @@
             "data": "",
             "fields": [
                 "1424",
-                "ate, ent, ant, ante",
+                "ate<br/> ent<br/> ant<br/> ante",
                 "one who",
                 "Latin Suffix",
                 "",
@@ -19745,7 +19745,7 @@
             "fields": [
                 "1164",
                 "bar",
-                "pressure, weight",
+                "pressure<br/> weight",
                 "Greek/Latin root",
                 "",
                 "barometer",
@@ -19763,7 +19763,7 @@
             "fields": [
                 "1163",
                 "brev",
-                "brief, short",
+                "brief<br/> short",
                 "Greek/Latin root",
                 "",
                 "brevity<br/>",
@@ -19783,7 +19783,7 @@
             "fields": [
                 "1165",
                 "burs",
-                "pouch, purse",
+                "pouch<br/> purse",
                 "Greek/Latin root",
                 "",
                 "bursary(stipend) <br/> bursar(treasurer of a college)",
@@ -19802,7 +19802,7 @@
             "data": "",
             "fields": [
                 "1166",
-                "cad, cas",
+                "cad<br/> cas",
                 "fall",
                 "Greek/Latin root",
                 "",
@@ -19823,7 +19823,7 @@
             "fields": [
                 "1167",
                 "cand",
-                "white, shining",
+                "white<br/> shining",
                 "Greek/Latin root",
                 "",
                 "candescent(shining)<br/> candella",
@@ -19842,10 +19842,10 @@
             "data": "",
             "fields": [
                 "1168",
-                "cap, capt, cept",
-                "take, hold",
+                "cap<br/> capt<br/> cept",
+                "take<br/> hold",
                 "Greek/Latin root",
-                "In old legal documents determining seizure of assets, the header was entitled \"document of caption\"- which eventually led to the word caption being used to mean as a short summary text",
+                "In old legal documents determining seizure of assets<br/> the header was entitled \"document of caption\"- which eventually led to the word caption being used to mean as a short summary text",
                 "captivity<br/> captive<br/> capture<br/> captious(seizes any opportunity to talk a lot about little faults)<br/> captivation (taken hold by  beauty or excellence)<br/>",
                 "Latin words",
                 "nko"
@@ -19863,7 +19863,7 @@
             "fields": [
                 "1169",
                 "capit",
-                "head, main",
+                "head<br/> main",
                 "Greek/Latin root",
                 "",
                 "capitulate<br/>",
@@ -19923,7 +19923,7 @@
             "fields": [
                 "1185",
                 "cata",
-                "down, against completely, intensive, according to",
+                "down<br/> against completely<br/> intensive<br/> according to",
                 "Greek/Latin root",
                 "",
                 "catabatic wind(downslope)<br/> catapult(throw against intensely) catastrophe(intense against what is expected)<br/> catoptric(pertaining to mirrors)<br/> cataclysm(flood=intensive washing)<br/> cataclasm(great breaking down)<br/> cathode(lower negative pole)<br/> catheter(lets  down liquid out of body)<br/> catacomb(underground burial place)<br/>",
@@ -19942,7 +19942,7 @@
             "data": "",
             "fields": [
                 "1186",
-                "caust, caut",
+                "caust<br/> caut",
                 "to burn",
                 "Greek/Latin root",
                 "",
@@ -20063,7 +20063,7 @@
             "fields": [
                 "1189",
                 "chrys",
-                "gold, yellow",
+                "gold<br/> yellow",
                 "Greek/Latin root",
                 "",
                 "chrysthanium",
@@ -20080,7 +20080,7 @@
             "data": "",
             "fields": [
                 "1382",
-                "contra, contro, counter",
+                "contra<br/> contro<br/> counter",
                 "against",
                 "Latrin Prefix",
                 "",
@@ -20120,7 +20120,7 @@
             "data": "",
             "fields": [
                 "1184",
-                "curr, curs",
+                "curr<br/> curs",
                 "run",
                 "Greek/Latin root",
                 "",
@@ -20141,7 +20141,7 @@
             "fields": [
                 "1383",
                 "de",
-                "down, opposite of, away from, about",
+                "down<br/> opposite of<br/> away from<br/> about",
                 "Latrin Prefix",
                 "",
                 "decline<br/> descent<br/>",
@@ -20201,7 +20201,7 @@
                 "demi",
                 "half",
                 "Prefix",
-                "word-forming element meaning \"half, half-sized, partial,\" used in technical terms from French",
+                "word-forming element meaning \"half<br/> half-sized<br/> partial<br/>\" used in technical terms from French",
                 "demigod<br/>",
                 "Latin words",
                 "nko"
@@ -20317,7 +20317,7 @@
             "fields": [
                 "1203",
                 "dur",
-                "harden, to last, lasting",
+                "harden<br/> to last<br/> lasting",
                 "Greek/Latin root",
                 "",
                 "durable<br/>",
@@ -20355,7 +20355,7 @@
             "fields": [
                 "1208",
                 "fid",
-                "faith, truth",
+                "faith<br/> truth",
                 "Greek/Latin root",
                 "",
                 "fidelity<br/>",
@@ -20394,7 +20394,7 @@
             "data": "",
             "fields": [
                 "1210",
-                "flect,flex",
+                "flect<br/>flex",
                 "bend",
                 "Greek/Latin root",
                 "",
@@ -20415,7 +20415,7 @@
             "fields": [
                 "1221",
                 "fore",
-                "in front of, previous, earlier",
+                "in front of<br/> previous<br/> earlier",
                 "Greek/Latin root",
                 "",
                 "forehead<br/>",
@@ -20434,7 +20434,7 @@
             "data": "",
             "fields": [
                 "1213",
-                "frag, fract",
+                "frag<br/> fract",
                 "break",
                 "Greek/Latin root",
                 "",
@@ -20455,7 +20455,7 @@
             "fields": [
                 "1214",
                 "fug",
-                "flee<br/>бежать, спасаться бегством",
+                "flee<br/>бежать<br/> спасаться бегством",
                 "Greek/Latin root",
                 "",
                 "fugitive<br/>",
@@ -20475,7 +20475,7 @@
             "fields": [
                 "1223",
                 "gest",
-                "carry, bring",
+                "carry<br/> bring",
                 "Greek/Latin root",
                 "",
                 "gestation period",
@@ -20512,8 +20512,8 @@
             "data": "",
             "fields": [
                 "1224",
-                "grad, gress",
-                "step, go",
+                "grad<br/> gress",
+                "step<br/> go",
                 "Greek/Latin root",
                 "",
                 "gradual<br/> gradient<br/>",
@@ -20650,7 +20650,7 @@
             "data": "",
             "fields": [
                 "1228",
-                "integer, integra, integrum",
+                "integer<br/> integra<br/> integrum",
                 "entire",
                 "Greek/Latin root",
                 "",
@@ -20731,7 +20731,7 @@
             "fields": [
                 "1230",
                 "junct",
-                "meet, join",
+                "meet<br/> join",
                 "Greek/Latin root",
                 "",
                 "junction<br/>",
@@ -20830,7 +20830,7 @@
             "data": "",
             "fields": [
                 "1237",
-                "luc, lum",
+                "luc<br/> lum",
                 "light",
                 "Greek/Latin root",
                 "",
@@ -20934,7 +20934,7 @@
                 "Look",
                 "Greek/Latin root",
                 "",
-                "mirage,",
+                "mirage<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -20948,7 +20948,7 @@
             "data": "",
             "fields": [
                 "514",
-                "mit, miss",
+                "mit<br/> miss",
                 "send",
                 "Greek/Latin root",
                 "",
@@ -21032,7 +21032,7 @@
                 "not",
                 "Latrin Prefix",
                 "",
-                "non existant,",
+                "non existant<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21068,7 +21068,7 @@
                 "work",
                 "Greek/Latin root",
                 "",
-                "operate,",
+                "operate<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21086,7 +21086,7 @@
                 "straight",
                 "Greek/Latin root",
                 "",
-                "orthoate,orthodontist,",
+                "orthoate<br/>orthodontist<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21100,11 +21100,11 @@
             "data": "",
             "fields": [
                 "1444",
-                "ous, ose",
+                "ous<br/> ose",
                 "full of",
                 "Latin Suffix",
                 "",
-                "lachrymose(full of tears),",
+                "lachrymose(full of tears)<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21122,7 +21122,7 @@
                 "foot",
                 "Greek/Latin root",
                 "",
-                "pedestrian, pedal, pedicure, podiatrist",
+                "pedestrian<br/> pedal<br/> pedicure<br/>podiatrist",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -21136,11 +21136,11 @@
             "data": "",
             "fields": [
                 "1281",
-                "pend, pens",
+                "pend<br/> pens",
                 "hang",
                 "Greek/Latin root",
                 "",
-                "pending, pendant,",
+                "pending<br/>pendant<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21155,10 +21155,10 @@
             "fields": [
                 "1283",
                 "petr",
-                "stone, rock",
+                "stone<br/> rock",
                 "Greek/Latin root",
-                "From Peter \"you are the rock that I will build my Church\", said Jesus",
-                "petrified,",
+                "From Peter \"you are the rock that I will build my Church\"<br/> said Jesus",
+                "petrified<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21176,7 +21176,7 @@
                 "",
                 "Greek/Latin root",
                 "",
-                "phobia,",
+                "phobia<br/>",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -21190,11 +21190,11 @@
             "data": "",
             "fields": [
                 "1302",
-                "plaud, plod, plaus, plos",
-                "approve, clap",
+                "plaud<br/> plod<br/> plaus<br/> plos",
+                "approve<br/> clap",
                 "Greek/Latin root",
                 "",
-                "applaud, laudable,",
+                "applaud<br/> laudable<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21212,7 +21212,7 @@
                 "city",
                 "Greek/Latin root",
                 "",
-                "political, metropolitan",
+                "political<br/> metropolitan",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -21230,7 +21230,7 @@
                 "many",
                 "Greek/Latin root",
                 "",
-                "polygamy, polyphonic, hoi polloi",
+                "polygamy<br/> polyphonic<br/> hoi polloi",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -21248,7 +21248,7 @@
                 "drink",
                 "Greek/Latin root",
                 "",
-                "potable water,",
+                "potable water<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21266,7 +21266,7 @@
                 "powerful",
                 "Greek/Latin root",
                 "",
-                "potentate, potent",
+                "potentate<br/> potent",
                 "Latin words",
                 "nko"
             ],
@@ -21280,11 +21280,11 @@
             "data": "",
             "fields": [
                 "1292",
-                "prehend, prehens",
-                "take, grasp",
+                "prehend<br/> prehens",
+                "take<br/> grasp",
                 "Greek/Latin root",
                 "",
-                "comprehend, aprehend,",
+                "comprehend<br/> aprehend<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21317,7 +21317,7 @@
             "fields": [
                 "633",
                 "psych",
-                "mind, soul",
+                "mind<br/> soul",
                 "Greek/Latin root",
                 "",
                 "psychology",
@@ -21338,7 +21338,7 @@
                 "fire",
                 "Greek/Latin root",
                 "",
-                "pyromaniac,",
+                "pyromaniac<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21445,9 +21445,9 @@
             "fields": [
                 "1177",
                 "clin",
-                "lean, bend",
+                "lean<br/> bend",
                 "Greek/Latin root",
-                "word-forming element meaning \"slope, slant, incline",
+                "word-forming element meaning \"slope<br/> slant<br/> incline",
                 "incline<br/> decline<br/> recline<br/> clinometer<br/>",
                 "Latin words",
                 "nko"
@@ -21536,8 +21536,8 @@
             "data": "",
             "fields": [
                 "1206",
-                "fac, fact, fect",
-                "make, do",
+                "fac<br/> fact<br/> fect",
+                "make<br/> do",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21555,7 +21555,7 @@
             "fields": [
                 "1207",
                 "fer",
-                "bear, carry/нести, передавать",
+                "bear<br/> carry/нести<br/> передавать",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21573,7 +21573,7 @@
             "fields": [
                 "1215",
                 "fus",
-                "pour<br/>лить, слияние",
+                "pour<br/",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21593,7 +21593,7 @@
             "fields": [
                 "1216",
                 "e",
-                "out, away",
+                "out<br/> away",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21610,8 +21610,8 @@
             "data": "",
             "fields": [
                 "1217",
-                "em, en",
-                "into, cover with, cause",
+                "em<br/> en",
+                "into<br/> cover with<br/> cause",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21628,7 +21628,7 @@
             "data": "",
             "fields": [
                 "1218",
-                "en, in",
+                "en<br/> in",
                 "inside",
                 "Greek/Latin root",
                 "",
@@ -21646,11 +21646,11 @@
             "data": "",
             "fields": [
                 "1310",
-                "rid, ris",
+                "rid<br/> ris",
                 "laugh",
                 "Greek/Latin root",
                 "",
-                "ridicule,",
+                "ridicule<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21664,11 +21664,11 @@
             "data": "",
             "fields": [
                 "1219",
-                "erg",
+                "ergo",
                 "work",
                 "Greek/Latin root",
                 "",
-                "",
+                "argon(a=not+ergon=work=>inert)<br/>ergophobia(fear of work)<br/>ergonomic=economic study of work<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21686,7 +21686,7 @@
                 "break",
                 "Greek/Latin root",
                 "",
-                "rupture,",
+                "rupture<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21700,11 +21700,11 @@
             "data": "",
             "fields": [
                 "1312",
-                "sacr, sanct",
+                "sacr<br/> sanct",
                 "holy",
                 "Greek/Latin root",
                 "",
-                "sacrement, sanctuary",
+                "sacrement<br/> sanctuary",
                 "Latin words",
                 "nko"
             ],
@@ -21737,7 +21737,7 @@
             "fields": [
                 "1231",
                 "lat",
-                "to carry, to bear (correlation)/передавать",
+                "to carry<br/> to bear (correlation)/передавать",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21758,7 +21758,7 @@
                 "health",
                 "Greek/Latin root",
                 "",
-                "sanitatin,",
+                "sanitatin<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -21772,8 +21772,8 @@
             "data": "",
             "fields": [
                 "1232",
-                "leg, lig, lect",
-                "choose, gather",
+                "leg<br/> lig<br/> lect",
+                "choose<br/> gather",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21791,7 +21791,7 @@
             "fields": [
                 "1235",
                 "log",
-                "word, study",
+                "word<br/> study",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21809,7 +21809,7 @@
             "fields": [
                 "1241",
                 "helic",
-                "spiral, circular",
+                "spiral<br/> circular",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21826,11 +21826,11 @@
             "data": "",
             "fields": [
                 "1243",
-                "hem",
+                "hemo-<br> hemato-<br> emia-",
                 "blood",
                 "Greek/Latin root",
                 "",
-                "",
+                "anaemia:an=lack of blood<br>\n    azotemia:azot=nitrogen in the blodd<br>\n    glycemia:glyco=sugar in the blood<br>\n    hematite:tite=stone, ie. bloodlike stone<br>\n    hemoglobin:globule=red cells in blood<br>\n    hemophilia:philia=loves (to shed) blood, ie. \"bluter\"<br>\n    hemorrhage:rhage=breaking/tear, ie. losing a lot of blood<br>\n    hemorrhoids:rhoos=stream, ie. stream of blood from veins (in rectal area)<br>\n    hypoglycemia:hypo=under+glyc=sugar, d.h. low sugar level<br>\n    leukemia:leukos =white cell accumulation in blood, ie. cancer<br>\n    thalassemia:thalasse=sea, ie. an inherited blood disease common to those nations around hte mediterreanean sea<br>\n    toxemia:toxon=toxic blood, ie. blood poisoning<br>\n    uremia:disease of urine/urea in blood due to kidney malfunctioning<br>",
                 "Latin words",
                 "nko"
             ],
@@ -21862,7 +21862,7 @@
             "data": "",
             "fields": [
                 "1250",
-                "lud, lus",
+                "lud<br/> lus",
                 "play",
                 "Greek/Latin root",
                 "",
@@ -21880,11 +21880,11 @@
             "data": "",
             "fields": [
                 "669",
-                "scrib, script",
+                "scrib<br/> script",
                 "write",
                 "Greek/Latin root",
                 "",
-                "transcribe, scribe, script",
+                "transcribe<br/> scribe<br/> script",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -21917,7 +21917,7 @@
             "fields": [
                 "1258",
                 "merg",
-                "plunge, sink/погружаться, тонуть",
+                "plunge<br/> sink/погружаться<br/> тонуть",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21934,7 +21934,7 @@
             "data": "",
             "fields": [
                 "1265",
-                "mot, move",
+                "mot<br/> move",
                 "move",
                 "Greek/Latin root",
                 "",
@@ -21992,7 +21992,7 @@
                 "half",
                 "Latrin Prefix",
                 "",
-                "semi circle,",
+                "semi circle<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22060,7 +22060,7 @@
             "data": "",
             "fields": [
                 "1280",
-                "pel, pulse",
+                "pel<br/> pulse",
                 "drive",
                 "Greek/Latin root",
                 "",
@@ -22082,7 +22082,7 @@
                 "alone",
                 "Greek/Latin root",
                 "",
-                "solo, solitary , desolate =lonely, dismal, gloomy                       solitary =done alone, by yourself                       soliloquy–the act of speaking to oneself",
+                "solo<br/>solitary<br/>desolate =lonely<br/> dismal<br/> gloomy<br/>solitary =done alone<br/> by yourself<br/>soliloquy–the act of speaking to oneself",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -22133,7 +22133,7 @@
             "fields": [
                 "1287",
                 "plic",
-                "fold, bend/складывать, сгибать",
+                "fold<br/> bend/складывать<br/> сгибать",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22150,8 +22150,8 @@
             "data": "",
             "fields": [
                 "1289",
-                "pon, pos",
-                "place, put",
+                "pon<br/> pos",
+                "place<br/> put",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22172,7 +22172,7 @@
                 "wisdom",
                 "Greek/Latin root",
                 "",
-                "sophomore,",
+                "sophomore<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22205,7 +22205,7 @@
             "fields": [
                 "1297",
                 "od",
-                "pass, way",
+                "pass<br/> way",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22226,7 +22226,7 @@
                 "breathe",
                 "Greek/Latin root",
                 "",
-                "aspiration, expiration,",
+                "aspiration<br/> expiration<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22240,7 +22240,7 @@
             "data": "",
             "fields": [
                 "1299",
-                "pept, peps",
+                "pept<br/> peps",
                 "digestion",
                 "Greek/Latin root",
                 "",
@@ -22259,7 +22259,7 @@
             "fields": [
                 "1300",
                 "phyt",
-                "plant, grow",
+                "plant<br/> grow",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22276,11 +22276,11 @@
             "data": "",
             "fields": [
                 "1327",
-                "stat, stab",
+                "stat<br/> stab",
                 "stand",
                 "Greek/Latin root",
                 "",
-                "static, stationary,",
+                "static<br/> stationary<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22312,7 +22312,7 @@
             "data": "",
             "fields": [
                 "1304",
-                "pugn, pung",
+                "pugn<br/> pung",
                 "fight",
                 "Greek/Latin root",
                 "",
@@ -22330,11 +22330,11 @@
             "data": "",
             "fields": [
                 "1329",
-                "stru, struct",
+                "stru<br/> struct",
                 "build",
                 "Greek/Latin root",
                 "",
-                "structure,",
+                "structure<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22348,8 +22348,8 @@
             "data": "",
             "fields": [
                 "1307",
-                "quer, quir",
-                "ask, seek",
+                "quer<br/> quir",
+                "ask<br/> seek",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22366,7 +22366,7 @@
             "data": "",
             "fields": [
                 "1308",
-                "quis, ques",
+                "quis<br/> ques",
                 "guest",
                 "Greek/Latin root",
                 "",
@@ -22384,8 +22384,8 @@
             "data": "",
             "fields": [
                 "1309",
-                "reg, rig, rect",
-                "rule, govern",
+                "reg<br/> rig<br/> rect",
+                "rule<br/> govern",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22402,7 +22402,7 @@
             "data": "",
             "fields": [
                 "1316",
-                "sec, sect",
+                "sec<br/> sect",
                 "cut",
                 "Greek/Latin root",
                 "",
@@ -22420,8 +22420,8 @@
             "data": "",
             "fields": [
                 "1317",
-                "sed, sid, sess",
-                "sit, seat",
+                "sed<br/> sid<br/> sess",
+                "sit<br/> seat",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22457,10 +22457,10 @@
             "fields": [
                 "1412",
                 "super",
-                "above, beyond",
+                "above<br/> beyond",
                 "Latrin Prefix",
                 "",
-                "supercede,",
+                "supercede<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22475,7 +22475,7 @@
             "fields": [
                 "1321",
                 "sist",
-                "place, stand",
+                "place<br/> stand",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22492,7 +22492,7 @@
             "data": "",
             "fields": [
                 "1322",
-                "solv, solu",
+                "solv<br/> solu",
                 "loosen",
                 "Greek/Latin root",
                 "",
@@ -22510,8 +22510,8 @@
             "data": "",
             "fields": [
                 "1325",
-                "spec, spect, spic",
-                "look, appear",
+                "spec<br/> spect<br/> spic",
+                "look<br/> appear",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22528,7 +22528,7 @@
             "data": "",
             "fields": [
                 "1328",
-                "string, strict",
+                "string<br/> strict",
                 "bind/связывать",
                 "Greek/Latin root",
                 "",
@@ -22546,7 +22546,7 @@
             "data": "",
             "fields": [
                 "1330",
-                "sum, sumpt",
+                "sum<br/> sumpt",
                 "take",
                 "Greek/Latin root",
                 "",
@@ -22564,7 +22564,7 @@
             "data": "",
             "fields": [
                 "1331",
-                "radic, radix",
+                "radic<br/> radix",
                 "root",
                 "Greek/Latin root",
                 "",
@@ -22586,7 +22586,7 @@
                 "arrangement",
                 "Greek/Latin root",
                 "",
-                "taxomologist,",
+                "taxomologist<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22600,11 +22600,11 @@
             "data": "",
             "fields": [
                 "1340",
-                "teg, tect",
+                "teg<br/> tect",
                 "cover",
                 "Greek/Latin root",
                 "",
-                "tectonic plates,",
+                "tectonic plates<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22636,7 +22636,7 @@
             "data": "",
             "fields": [
                 "1333",
-                "rub, rhod",
+                "rub<br/> rhod",
                 "red",
                 "Greek/Latin root",
                 "",
@@ -22690,11 +22690,11 @@
             "data": "",
             "fields": [
                 "1345",
-                "ter, terr",
-                "land, earth",
+                "ter<br/> terr",
+                "land<br/> earth",
                 "Greek/Latin root",
                 "",
-                "terresital, terraine, termite,",
+                "terresital<br/> terraine<br/> termite<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22712,7 +22712,7 @@
                 "end",
                 "Greek/Latin root",
                 "",
-                "terminal, terminus,",
+                "terminal<br/> terminus<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22730,7 +22730,7 @@
                 "heat",
                 "Greek/Latin root",
                 "",
-                "thermometer, thermal, therme, isotherm,",
+                "thermometer<br/> thermal<br/> therme<br/> isotherm<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22744,7 +22744,7 @@
             "data": "",
             "fields": [
                 "1339",
-                "tang, ting, tact, tig",
+                "tang<br/> ting<br/> tact<br/> tig",
                 "touch",
                 "Greek/Latin root",
                 "",
@@ -22762,8 +22762,8 @@
             "data": "",
             "fields": [
                 "1343",
-                "ten, tain",
-                "hold, reach",
+                "ten<br/> tain",
+                "hold<br/> reach",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22780,11 +22780,11 @@
             "data": "",
             "fields": [
                 "1347",
-                "tort, tors",
+                "tort<br/> tors",
                 "twist",
                 "Greek/Latin root",
                 "",
-                "torsion,",
+                "torsion<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22799,7 +22799,7 @@
             "fields": [
                 "1349",
                 "trit",
-                "rub/тереть,натирать",
+                "rub/тереть<br/>натирать",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22816,8 +22816,8 @@
             "data": "",
             "fields": [
                 "1350",
-                "trud, trus",
-                "thrust/толкать, засовывать, выпад",
+                "trud<br/> trus",
+                "thrust/толкать<br/> засовывать<br/> выпад",
                 "Greek/Latin root",
                 "",
                 "",
@@ -22834,7 +22834,7 @@
             "data": "",
             "fields": [
                 "1355",
-                "vad, vas",
+                "vad<br/> vas",
                 "go",
                 "Greek/Latin root",
                 "",
@@ -22870,7 +22870,7 @@
             "data": "",
             "fields": [
                 "1367",
-                "vor, vour",
+                "vor<br/> vour",
                 "eat",
                 "Greek/Latin root",
                 "",
@@ -22892,7 +22892,7 @@
                 "state of",
                 "Latin Suffix",
                 "",
-                "certitude,",
+                "certitude<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -22950,7 +22950,7 @@
                 "shade",
                 "Greek/Latin root",
                 "",
-                "penumbra,",
+                "penumbra<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23005,9 +23005,9 @@
             "fields": [
                 "1380",
                 "circum",
-                "word-forming element meaning \"around, round about, all around, on all sides,\" from Latin",
+                "word-forming element meaning \"around<br/> round about<br/> all around<br/> on all sides<br/>\" from Latin",
                 "Latrin Prefix",
-                "Circa, circadian(about a day), circuit, circumambient(surroundings), circumambulate(to walk around), circumbendibus(a round about way - round the bend), circumcise (cut around), circumcision, circumference, circumflex(sign bent around), circumfluent(a fluid flowing around), circumjacent(bordering on every side), circumlocution(a round about way of speaking, elusive",
+                "Circa<br/> circadian(about a day)<br/> circuit<br/> circumambient(surroundings)<br/> circumambulate(to walk around)<br/> circumbendibus(a round about way - round the bend)<br/> circumcise (cut around)<br/> circumcision<br/> circumference<br/> circumflex(sign bent around)<br/> circumfluent(a fluid flowing around)<br/> circumjacent(bordering on every side)<br/> circumlocution(a round about way of speaking<br/> elusive",
                 ")<br/> circumnavigate(sail around the globe)<br/> circumpolar(surround one of the poles)<br/> circumscribe(to make a circle around= to encompass)<br/> circumspect(looking around from all sides=suspect<br/> wary)<br/> circumspection<br/> circumstance<br/> circumvent(to go around)<br/> circumvolve(to turn or to cause to roll around)<br/> circus<br/>",
                 "Latin words",
                 "nko"
@@ -23048,7 +23048,7 @@
                 "one",
                 "Latrin Prefix",
                 "",
-                "universal,",
+                "universal<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23062,7 +23062,7 @@
             "data": "",
             "fields": [
                 "1382",
-                "contra, contro, counter",
+                "contra<br/> contro<br/> counter",
                 "against",
                 "Latrin Prefix",
                 "",
@@ -23086,7 +23086,7 @@
                 "city",
                 "Greek/Latin root",
                 "",
-                "urban,",
+                "urban<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23101,7 +23101,7 @@
             "fields": [
                 "1383",
                 "de",
-                "down, opposite of, away from, about",
+                "down<br/> opposite of<br/> away from<br/> about",
                 "Latrin Prefix",
                 "",
                 "decline<br/> descent<br/>",
@@ -23138,11 +23138,11 @@
             "data": "",
             "fields": [
                 "1356",
-                "val, vail",
+                "val<br/> vail",
                 "be strong",
                 "Greek/Latin root",
                 "",
-                "avail,",
+                "avail<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23156,8 +23156,8 @@
             "data": "",
             "fields": [
                 "1388",
-                "e, ex, ef",
-                "out of, from",
+                "e<br/> ex<br/> ef",
+                "out of<br/> from",
                 "Latrin Prefix",
                 "",
                 "",
@@ -23175,7 +23175,7 @@
             "fields": [
                 "1391",
                 "hypo",
-                "too little, under",
+                "too little<br/> under",
                 "Latrin Prefix",
                 "",
                 "",
@@ -23192,8 +23192,8 @@
             "data": "",
             "fields": [
                 "1392",
-                "in, il, im, ir",
-                "into, in, on",
+                "in<br/> il<br/> im<br/> ir",
+                "into<br/> in<br/> on",
                 "Latrin Prefix",
                 "",
                 "",
@@ -23214,7 +23214,7 @@
                 "instead of",
                 "Latrin Prefix",
                 "",
-                "vice-governor, vice-roy, vice-captain,",
+                "vice-governor<br/> vice-roy<br/> vice-captain<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23229,7 +23229,7 @@
             "fields": [
                 "1407",
                 "re",
-                "back, again",
+                "back<br/> again",
                 "Latrin Prefix",
                 "",
                 "",
@@ -23246,11 +23246,11 @@
             "data": "",
             "fields": [
                 "1362",
-                "vinc, vict",
+                "vinc<br/> vict",
                 "conquer",
                 "Greek/Latin root",
                 "",
-                "victor, victorious, vincible,",
+                "victor<br/> victorious<br/> vincible<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23265,10 +23265,10 @@
             "fields": [
                 "1366",
                 "vol",
-                "wish, will",
+                "wish<br/> will",
                 "Greek/Latin root",
                 "",
-                "volunatary,",
+                "volunatary<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23301,7 +23301,7 @@
             "fields": [
                 "1409",
                 "se",
-                "apart, away",
+                "apart<br/> away",
                 "Latrin Prefix",
                 "",
                 "",
@@ -23340,7 +23340,7 @@
                 "in the direction of",
                 "Latin Suffix",
                 "",
-                "forward, backward,",
+                "forward<br/> backward<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23372,7 +23372,7 @@
             "data": "",
             "fields": [
                 "1429",
-                "er, or",
+                "er<br/> or",
                 "one who",
                 "Latin Suffix",
                 "",
@@ -23408,11 +23408,11 @@
             "data": "",
             "fields": [
                 "1368",
-                "xen, xeno",
+                "xen<br/> xeno",
                 "foreign",
                 "Greek/Latin root",
                 "",
-                "xenophobe,",
+                "xenophobe<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23430,7 +23430,7 @@
                 "dry",
                 "Greek/Latin root",
                 "",
-                "xerox,",
+                "xerox<br/>",
                 "Latin words",
                 "nko"
             ],
@@ -23462,8 +23462,8 @@
             "data": "",
             "fields": [
                 "1433",
-                "ic, id",
-                "of, like",
+                "ic<br/> id",
+                "of<br/> like",
                 "Latin Suffix",
                 "",
                 "",
@@ -23540,7 +23540,7 @@
             "data": "",
             "fields": [
                 "1434",
-                "il, ile",
+                "il<br/> ile",
                 "capable of being",
                 "Latin Suffix",
                 "",
@@ -23653,7 +23653,7 @@
             "fields": [
                 "1445",
                 "ship",
-                "state of, skill",
+                "state of<br/> skill",
                 "Latin Suffix",
                 "",
                 "",
@@ -23761,7 +23761,7 @@
             "fields": [
                 "1389",
                 "extra",
-                "out of, beyond",
+                "out of<br/> beyond",
                 "Latrin Prefix",
                 "",
                 "",
@@ -24048,7 +24048,7 @@
             "data": "",
             "fields": [
                 "1277",
-                "pater, patri",
+                "pater<br/> patri",
                 "father",
                 "Greek/Latin root",
                 "",
@@ -24178,7 +24178,7 @@
                 "pull",
                 "Greek/Latin root",
                 "",
-                "attract =to pull nearer                distract =to drag attention away fromsomething             Intractable=stubborn",
+                "attract =to pull nearer<br/>distract =to drag attention away fromsomething<br/>Intractable=stubborn",
                 "Root words",
                 "Aristotle"
             ],
@@ -24196,7 +24196,7 @@
                 "across",
                 "Greek/Latin root",
                 "",
-                "transport, transcend, transmogrify",
+                "transport<br/> transcend<br/> transmogrify",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -24285,13 +24285,103 @@
                 "edify",
                 "Instruct or improve (someone) morally or intellectually",
                 "verb",
-                "Modern French édifier:&nbsp; build; install; teach, instruct (morally),&nbsp; Same root as the English word : edifice=building<div>Synonyms: educate, instruct, enlighten</div>",
+                "Modern French édifier:  \"build; install; teach, instruct (morally),  Same root as the English word : edifice=building             <br/>Synonyms: educate, instruct, enlighten",
                 "The Church school aims to edify its pupils mind and spirits",
                 "Most Difficult",
                 "FT"
             ],
             "flags": 0,
             "guid": "L`na(_-6Lb",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1450",
+                "effect <br/> affect EXCEPTIONS",
+                "However , effect can be a verb as an exception. In these cases it is nearly always used together with a noun like \"change\" or \"solution.\" To effect change/ to effect for a solution.",
+                "Easily confused words",
+                "",
+                "\"The protesters wanted to effect change in the corrupt government and fight for a solution\" = bring about change   BUT<br/>, \" The protesters wanted to affect change\" = modify the intended change",
+                "Easily confused words",
+                "MSU"
+            ],
+            "flags": 0,
+            "guid": "oreeF>+qew",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1451",
+                "effect <br/> affect EXCEPTIONS",
+                "however, affect can be used as a noun - Affect as a noun means feeling, emotion, or specific emotional response.",
+                "Easily confused words",
+                "",
+                "The patient had a flat affect throughout the therapy session. (he patient was in kind of a blah mood)",
+                "Easily confused words",
+                "MSU"
+            ],
+            "flags": 0,
+            "guid": "b+e(K5dMP6",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1452",
+                "missive",
+                "a written note; note or instruction sent by superior authority",
+                "noun",
+                "Synonyms : command, note",
+                "As soon as the general received the missive from his commander-in-chief, he launched an airstrike against the enemy.",
+                "Common GRE",
+                "Prepscholar"
+            ],
+            "flags": 0,
+            "guid": "na)/UlO]/4",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1453",
+                "complaisant<br/>complacent",
+                "complaisant =\"pleasing, obliging, gracious\"<br/>complacent = pleased with oneself, one's conditions, self-satisfied, often overly so",
+                "adjective",
+                "complacent is often used to  imply that one is TOO self-satisfied with oneself or with what one achieved - in the sense of \"resting on one's laurels\"",
+                "Although Chuck wanted an 'A' in the class, he was complacent with a 'B'<br/>Because John is too complaisant in his willingness to please others, people often take advantage of him",
+                "Homophone",
+                "merriam-webster"
+            ],
+            "flags": 0,
+            "guid": "lUtBv~~~Y2",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1454",
+                "akantha",
+                "thorn",
+                "Greek/Latin root",
+                "a subfrom of the Greek<br/> PIE root \"ac\": be sharp<br/> rise (out) to a point<br/> pierce.",
+                "acacia(african thorn bush)<br/> acanthus (mediterreanian thorn tree)",
+                "Root words",
+                "SMB"
+            ],
+            "flags": 0,
+            "guid": "o#eI0ROdEU",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }

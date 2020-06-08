@@ -2,6 +2,7 @@
 
 | Word                     | Occurence                     | Explanation                                                                                          |
 | :----------------------- | :---------------------------- | :--------------------------------------------------------------------------------------------------- |
-| missive                  | Prepscholar - Reading closely |                                                                                                      |
-| choralle/corral          | this list (no.146)            | fix additional words being in expl.                                                                  |
-| complaisant/complacent   |                               | add to list of homophones [merriam-webster](https://www.merriam-webster.com/dictionary/complaisant)  |
+|                          | no.779                        | Appeared twice in file                                                                               |
+|                          | no.1380                       | Appeared twice in file                                                                               |
+|                          | no.1382                       | Appeared twice in file                                                                               |
+|                          | no.1383                       | Appeared twice in file                                                                               |
