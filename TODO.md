@@ -2,12 +2,9 @@
 
 | Word                     | Occurence                     | Explanation                                                                         |
 | :----------------------- | :---------------------------- | :----------------------                                                             |
-| credulous                | this list (no.842)            | choose one spelling of naive/naïve. Missing space in Exampele text                  |
-| -ade                     | this list (no.18)             | fix part of speech (mentions "noun" twice                                           |
-| deft                     | this list (no.196)            | Explanation seems more appropriate in meaning part "adj." removed from it of course |
-| delineate                | this list (no.198)            | Example & explanation fit better to meaning                                         |
-|                          |                               |                                                                                     |
+| deprecate/depreciate     | this list (no.203)            | move last to sentences of meaning to explanation                                    |
 
+Remove "Easily confused words" from "Word"-Field for the words from this category. (It's listed on the bottom right anyway)
 # Questions to answer:
 
 - Difference between _abate_ & _attenuate_
