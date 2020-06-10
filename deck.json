@@ -494,7 +494,7 @@
                 "acerbic",
                 "(Especially of a comment or style of speaking) sharp and forthright,   expressing harsh or sharp criticism in a clever way",
                 "adjective",
-                "Deutsch : Bitter, Sauer                                       </br>Synonyms: sardonic, biting, caustic",
+                "ic=nature of, like<br>Deutsch : Bitter, Sauer                                       </br>Synonyms: sardonic, biting, caustic",
                 "The writer’s acerbic tone did not sit well with people who had an issue with harsh criticism.",
                 "Medium Difficult",
                 "FT"
@@ -547,7 +547,7 @@
                 "18",
                 "-ade",
                 "result of action",
-                "verb or noun  noun",
+                "verb or noun",
                 "",
                 "blockade</br> lemonade",
                 "Suffix",
@@ -638,7 +638,7 @@
                 "aesthetic",
                 "concerned with the nature of beauty and art",
                 "adjective",
-                "",
+                "ic=nature of, like",
                 "The critics <u>admire the work of art for its<b> aesthetic</b> value</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -1518,9 +1518,9 @@
             "fields": [
                 "75",
                 "archaic",
-                "old-fashioned",
+                "old-fashioned, adj. no longer in the common usage",
                 "adjective",
-                "adj. no longer in the common usage",
+                "archaios=\"old\"+ic=\"nature of, like",
                 "In comparison to portable laptop computers, typewriters are considered archaic",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -1664,7 +1664,7 @@
                 "ascetic",
                 "austere or self-denying",
                 "adjective",
-                "Greek :  asketes \"monk, hermit,\"",
+                "Greek :  asketes \"monk, hermit,\" + ïc=\"nature of, like",
                 "The monk leads an ascetic life.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -1934,7 +1934,7 @@
                 "belie",
                 "give a false impression (intentional or unintentional) in word, appearance, or deed",
                 "verb",
-                "",
+                "Old English beleogan (Deutsch : belügen)",
                 "Janice hoped her smile would belie the sadness she felt.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -2042,8 +2042,8 @@
                 "biased",
                 "prejudiced, displaying partiality",
                 "adjective",
-                "",
-                "The bigot admits that he is biased toward immigrants and stereotypes people according to their race before he ever meets them",
+                "From French : biais : a slant, a slope, an oblique, later figuratively : giving a bias to, causing to incline to one side",
+                "The bigot admits that he is u><b>biased</b> toward immigrants</u> and stereotypes people according to their race before he ever meets them",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -2187,7 +2187,7 @@
                 "to support or strengthen",
                 "verb",
                 "Old English bolster \"bolster, cushion, something stuffed so that it swells up                </br>Deutsch : gleiche Urspurng Polster",
-                "The prosecutor worked to find evidence that would bolster her case against the defendant.",
+                "The prosecutor worked to find evidence that would <u><b>bolster</b> her case against the defendant.</u>",
                 "Common GRE",
                 "Kaplan"
             ],
@@ -2205,7 +2205,7 @@
                 "to support or strengthen",
                 "verb",
                 "Old English bolster \"bolster, cushion, something stuffed so that it swells up                </br>Deutsch : gleiche Urspurng Polster",
-                "The prosecutor worked to find evidence that would bolster her case against the defendant.",
+                "The prosecutor worked to find evidence that would <u><b>bolster</b> her case against the defendant.</u>",
                 "Common GRE",
                 "Kaplan"
             ],
@@ -2240,7 +2240,7 @@
                 "bombastic",
                 "overblown, theatrical. High-sounding but with little meaning; inflated",
                 "adjective",
-                "Synonyms: pompous, blustering, turgid",
+                "bombast + ic=\"nature of, like\"</br>Synonyms: pompous, blustering, turgid",
                 "If you want to sell your energy drink, then you must use <u><b>bombastic</b> claims</u> in your commercials.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -2348,7 +2348,7 @@
                 "bucolic",
                 "Relating to the pleasant aspects of the countryside and country life,  pastoral, rustic, countryfied",
                 "adjective",
-                "Synonyms: rustic, rural, pastoral",
+                "ic=nature of, like</br>Synonyms: rustic, rural, pastoral",
                 "General Electric... is now swapping its bucolic site for a collection of warehouses on the Boston waterfront.",
                 "Medium Difficult",
                 "FT"
@@ -2403,7 +2403,7 @@
                 "to support. a support",
                 "verb, noun",
                 "old French",
-                "Her good arguments buttressed her credibility",
+                "Her good arguments <u><b>buttressed</b> her credibility</u>",
                 "Common GRE",
                 "MSU"
             ],
@@ -2582,7 +2582,7 @@
                 "caprice",
                 "an impulsive act",
                 "noun",
-                "",
+                "French caprice=\"whim\"",
                 "Because John <u>did not think before acting,</u> he could spend years in prison for a silly <b>caprice.</b>",
                 "Common GRE",
                 "MSU"
@@ -2670,9 +2670,9 @@
             "fields": [
                 "141",
                 "caustic",
-                "corrosive. capable of dissolving by chemical action; highly critical:",
+                "corrosive. capable of dissolving by chemical action; highly critical:adj. bitterly sarcastic",
                 "adjective",
-                "adj. bitterly sarcastic",
+                "+ ic=\"nature of, like\"</br>",
                 "His <b><u>caustic</b> remarks</u> spoiled the mood of the party",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -2690,8 +2690,8 @@
                 "censure",
                 "to express intense condemnation, an official reprimand",
                 "verb",
-                "French, censurer.  Do not confuse with \"censor\"",
-                "Since the marine left base without permission, he is expecting both a censure and punishment when he returns tomorrow.",
+                "French, censurer.  </br>Do not confuse with \"censor\"(=prevent publication)</br> Do not confuse with \"sensor\"(=something that senses/measures\")",
+                "Since the marine left base without permission, he is <u>expecting both a censure and punishment</u> when he returns tomorrow.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -2726,7 +2726,7 @@
                 "chauvinist",
                 "someone who believes prejudicially that their own group is the superior one, exaggerated, blind nationalism; patriotism degenerated into a vice",
                 "noun",
-                "French : chauvinisme, after behaviour of N. Chauvin, soldier of Napoleon who idolized Napoleon  long after it was history",
+                "French : chauvinisme, after behaviour of N. Chauvin, soldier of Napoleon who idolized Napoleon  long after he was history",
                 "<u>His sister was <b>chauvinist</b> when it comes to feminism</u>, as she gets both angry and irritated when someone opposes her point of view",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -2780,8 +2780,8 @@
                 "chronic",
                 "(Of a problem) long lasting and difficult to eradicate",
                 "adjective",
-                "Synonyms: constant, continuing, persistent",
-                "Pessimists think the productivity problem is chronic. Technological advances, they say, are ever-less revolutionary...",
+                "Greek : chronos=time+ic=nature of/like=>lasting a long time</br>Synonyms: constant, continuing, persistent",
+                "Pessimists think the productivity problem is <b>chronic</b>.",
                 "Least Difficult",
                 "FT"
             ],
@@ -3159,7 +3159,7 @@
                 "1. a great fire OR  <br>2. a conflict or war",
                 "noun",
                 "con=with/togethe+ =flagrare \"to burn, blaze, glow",
-                "1. The combustion products such as smoke,heat and hot conflagration gases generated during a fire rise upwards</br>2.  It seems as though the conflagration in the Middle East has been going on for centuries",
+                "1. The combustion products such as smoke,heat and hot <b>conflagration</b> gases generated during a <u>fire</u> rise upwards</br>2.  It seems as though the <u><b>conflagration</b> in the Middle East</u> has been going on for centuries",
                 "Common GRE",
                 "MSU"
             ],
@@ -3177,7 +3177,7 @@
                 "to confuse or astonish. Prove (a theory, expectation, or prediction) wrong",
                 "verb",
                 "Synonyms: contradict, counter, go against",
-                "Yet in another sense, the Fed has confounded predictions—at least, those it made itself.",
+                "Yet in another sense, <u>the Fed has <b>confounded</b> predictions</u>—at least, those it made itself.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3194,7 +3194,7 @@
                 "connoisseur",
                 "an expert in a particular subject matter area, usually relating to the fine arts or cultural pursuits",
                 "noun",
-                "French. Note how modern French spells it connaisseur, whereas  English  follows the old French spelling of connoisseur",
+                "French. Connaisseur is a specialist, and  connoisseur (with an \"o\") is \"higher ranked\", as they are a conaisseur AND their opinions are valued !",
                 "Since you are <u>a wine <b>connoisseur</b></u>, I thought I would ask your opinion on the best wines for my dinner party",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -3230,8 +3230,8 @@
                 "consequential",
                 "as a result of, \"following as an effect or result\"",
                 "adjective",
-                "adj. significant or memorable",
-                "The consequential damages of the critical reactor breaking down were significant, as the entire plant had to shut for months",
+                "con=with a sequence </br>adj. significant or memorable",
+                "The <u><b>consequential damages</b></u> of the critical reactor breaking down were significant, as the entire plant had to shut for months",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3267,7 +3267,7 @@
                 "to interpret",
                 "verb",
                 "same latin/French origin as \"construct\", ie. With/together + piling up= interpret",
-                "Although I tried to pay you a compliment, you have decided to construe my words as an insult",
+                "Although I tried to pay you a compliment, you have decided to <u><b>construe</b> my words</u> as an insult",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3285,7 +3285,7 @@
                 "utilization (esp. of a resource)",
                 "noun",
                 "",
-                "Excessive alcohol consumption has been linked to liver damage",
+                "Excessive <u>alcohol consumption</u> has been linked to liver damage",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3302,8 +3302,8 @@
                 "contend",
                 "assert or claim",
                 "verb",
-                "old French comptendre : engage in rivalry, compete,",
-                "To obtain custody of her children in the divorce, Bridgett will contend her husband is an abusive man",
+                "old French comptendre : engage in rivalry, compete",
+                "In order to obtain custody of her children in the divorce, Bridgett will <b>contend</b> nasty things about her husband",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3321,7 +3321,7 @@
                 "controversial, causing or likely to cause an argument",
                 "adjective",
                 "Latin contentiosus \"obstinate, quarrelsome",
-                "As a rule, I tend to avoid contentious topics of conversation which might lead to arguments",
+                "As a rule, I tend to <u>avoid <b>contentious</b> topics of conversation</u> which might lead to arguments",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3375,7 +3375,7 @@
                 "plentiful or abundant",
                 "adjective",
                 "Latin : \"abundant, plentiful,\"",
-                "Take copious notes in class so that you have plenty of review material for the test.",
+                "<u>Take <b>copious</b> notes in class</u> so that you have plenty of review material for the test.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3411,7 +3411,7 @@
                 "of or having to do with material, as opposed to spiritual; tangible. (In older writings, coeporeal could be a synonym for corporal. This usage is no longer common)",
                 "adjective",
                 "Latin : \"of a material or physical nature, not mental or spiritual,\" with adjectival suffix -al preceded by  corpus \"body\" (living or dead),",
-                "As Jack reached for the ghost, he realized it was not corporeal when his hands went straight through the shape.",
+                "As Jack reached for <u>the ghost</u>, he realized it <u>was not <b>corporeal</b></u> when his hands went straight through the shape.",
                 "Common GRE",
                 "MSU"
             ],
@@ -3840,9 +3840,9 @@
             "fields": [
                 "196",
                 "deft",
-                "skill, acumen",
+                "skill, acumen, manual dexterity",
                 "adjective",
-                "adj. manual dexterity",
+                "",
                 "The deft musician was able to play the harmonica and the piano at the same time.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -3876,10 +3876,10 @@
             "fields": [
                 "198",
                 "delineate",
-                "to describe very accurately",
+                "1. to describe very accurately, to clearly describe or portray something</br>2.  to clearly demarcate a boundary,  to render an outline",
                 "verb",
-                "v. to clearly demarcate a boundary",
-                "v. to render an outline",
+                "Latin : de- \"completely\"+ lineare \"draw lines,",
+                "1.<u>While I cannot <b>delineate</b></u> the style of car she drove, <u>I can </u>give you the license plate number. </br>2. <u>Jason put a fence up to <b>delineate</b> his property</u> from his neighbor’s.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3912,7 +3912,7 @@
             "fields": [
                 "843",
                 "demur",
-                "Raise doubts or objections or show reluctance.  to object or raise concerns",
+                "i",
                 "verb",
                 "Synonyms: object, take exception, take issue",
                 "Mr. Sasse demurs. He does not want less fighting between the left and right. He wants more meaningful fighting about issues of substance.",
@@ -3933,7 +3933,7 @@
                 "say negative things about, particularly in a defamatory way",
                 "verb",
                 "Latin denigratus, past participle of denigrare \"to blacken; to defame,\"  de- \"completely\" (see de-) + nigr-, stem of niger \"black\"",
-                "During the election, the crooked politician did everything in his power to denigrate his rival.",
+                "During the election, the crooked <u>politician did everything in his power to <b>denigrate</b> his rival.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3951,7 +3951,7 @@
                 "to show, create a picture of.",
                 "verb",
                 "Latin depictus, past participle of depingere \"to portray, paint, sketch; describe, imagine,\"  de \"down\" (see de-) + pingere \"to paint\"",
-                "The drawings on the cave walls depict the lives of the earliest men on the planet.",
+                "<u>The drawings</u> on the cave walls <b>depict</b> the lives of the earliest men on the planet.",
                 "Common GRE",
                 "MSU"
             ],
@@ -4004,7 +4004,7 @@
                 "deprecation",
                 "disapproval, earnest expression of feeling against",
                 "noun",
-                "Do NOT confuse with deprecIation, a finance term",
+                "Has the word \"Pray\" in its origins, in the sense \"pray, do not\"</br>Do NOT confuse with deprecIation, a finance term",
                 "Ingrid is well-known for her self-deprecation, as she constantly looks down on herself and harshly judges all of her actions.",
                 "Common GRE",
                 "MSU"
@@ -4020,7 +4020,7 @@
             "fields": [
                 "205",
                 "depredation",
-                "the act of preying upon or plundering:",
+                "the act of preying upon or plundering. To act as a predator.",
                 "noun",
                 "French/latin :  de- \"thoroughly\" (see de-) + praedari \"to plunder,\" literally \"to make prey of,\"  praeda \"prey\"",
                 "The <u><b>depredations</b> of the invaders demoralized</u> the population.",
@@ -4077,7 +4077,7 @@
                 "to make clear, to say",
                 "verb",
                 "Deutsch : entdecken, wahrnehmen",
-                "If you descry illegality contents on the linked websites, we beg for notification",
+                "<u>If you <b>descry</b> illegal content</u> on the linked websites, we beg for notification",
                 "Common GRE",
                 "MSU"
             ],
@@ -4092,10 +4092,10 @@
             "fields": [
                 "210",
                 "desiccate",
-                "to dry out completely",
+                "1.  to dry out completely </br>2. to suck out the vitality and passion",
                 "verb",
-                "de- \"thoroughly\" (see de-) + siccare \"to dry\"</br>v. to suck out the vitality and passion",
-                "One should use sliced fruits within one day as the insides quickly desiccate.",
+                "de- \"thoroughly\" (see de-) + siccare \"to dry\"</br>",
+                "1. One should use sliced fruits within one day as the insides quickly <b>desiccate.</b> </br>2. The professional soccer player became<u> <b>desiccated</b> after being in a car accident that left him in a coma.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -4110,10 +4110,10 @@
             "fields": [
                 "210",
                 "desiccate",
-                "to dry out completely",
+                "1.  to dry out completely </br>2. to suck out the vitality and passion",
                 "verb",
-                "de- \"thoroughly\" (see de-) + siccare \"to dry\"</br>v. to suck out the vitality and passion",
-                "One should use sliced fruits within one day as the insides quickly desiccate.",
+                "de- \"thoroughly\" (see de-) + siccare \"to dry\"</br>",
+                "1. One should use sliced fruits within one day as the insides quickly <b>desiccate.</b> </br>2. The professional soccer player became<u> <b>desiccated</b> after being in a car accident that left him in a coma.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -4166,7 +4166,7 @@
                 "determinant",
                 "a strong factor in an outcome",
                 "noun",
-                "</br>Deutsch : Bestimmungsfaktor",
+                "Latin :  de= \"off\"  + terminare \"to mark the end or boundary</br>Deutsch : Bestimmungsfaktor",
                 "The key determinant for social security deductions are the conditions at year end",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4274,7 +4274,7 @@
                 "didactic",
                 "educational or with an instructive purpose; often includes an element of moralizing",
                 "adjective",
-                "French didactique, </br> Latinized form of Greek didaktikos \"apt at teaching",
+                "French didactique, </br> Latinized form of Greek didaktikos \"apt at teaching</br>didact=teach +ic=nature of, like",
                 "Because Mrs. Jones came up with lessons that were <u>not only <b>didactic</b> but also fun</u>, everyone thought she was a fantastic teacher.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4416,7 +4416,7 @@
             "fields": [
                 "225",
                 "dis",
-                "not</br> apart",
+                "not</br> apart, off, away </br>the opposite of</br>completely</br>in every direction",
                 "Greek/Latin root",
                 "",
                 "disperse</br> disinherit</br> disenfranchise</br> distend",
@@ -4524,10 +4524,10 @@
             "fields": [
                 "231",
                 "disingenuous",
-                "not candid or sincere",
+                "not candid or sincere, generally by pretending one knows less than one actually does",
                 "adjective",
-                "Synonyms: dishonest, deceitful, duplicitous",
-                "But shamelessly self-interested and probably contrary to his real views on the EU though it is, the mayor’s move is perhaps not entirely disingenuous.",
+                "from dis- \"opposite of\" + ingenuous(=naïve)</br>Synonyms: dishonest, deceitful, duplicitous",
+                "The detective was a <b><u>disingenuous</b> man who  played dumb to trick others</u> into confessing",
                 "Least Difficult",
                 "FT"
             ],
@@ -4616,7 +4616,7 @@
                 "dispassionate",
                 "impartial or cool; calm; objective; unbiased",
                 "adjective",
-                "",
+                "from dis- \"the opposite of\" + passionate",
                 "Liza is a <u><b>dispassionate</b> person who rarely displays her emotions</u> to others",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4688,7 +4688,7 @@
                 "disseminate",
                 "to spread widely (esp. information)",
                 "verb",
-                "",
+                "Latin : dis- \"in every direction\" (see dis-) + seminare \"to plant, propagate,\" from semen (genitive seminis) \"seed\"",
                 "The pollen will disseminate into the region by Thursday, causing further burdens for allergy sufferers.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4706,7 +4706,7 @@
                 "dissonance",
                 "a clash between two elements that don’t blend well, a lack of harmony or agreement",
                 "noun",
-                "",
+                "Latin : dissonantem\"differ in sound\", ie lack of harmony",
                 "The school board’s meeting lasted for hours due to the length debate fueled by dissonance among opinions.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4742,7 +4742,7 @@
                 "diverge",
                 "to split apart, esp. a road or path",
                 "verb",
-                "",
+                "Laitin :  assimilated form of dis- \"apart\" + vergere \"to bend, turn, tend toward\"</br> opposite of converge",
                 "Knowing that everyone would diverge after graduation, she was worried that she would not see her friends anymore.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4778,7 +4778,7 @@
                 "docile",
                 "Ready to accept control or instruction; submissive",
                 "adjective",
-                "Synonyms: compliant, obedient, pliant",
+                "Latin  : docilis \"easily taught\"</br> Synonyms: compliant, obedient, pliant",
                 "Docile with humans, they are fierce defenders of territory and their young.",
                 "Least Difficult",
                 "FT"
@@ -4814,7 +4814,7 @@
                 "dogged",
                 "stubborn or determined:",
                 "adjective",
-                "",
+                "\"having the qualities of a (bull)dog\", in a negative sense",
                 "Her dogged pursuit of the degree eventually paid off.",
                 "Common GRE",
                 "MSU"
@@ -4832,7 +4832,7 @@
                 "dogma",
                 "the official beliefs or tenets of particular sect or group",
                 "noun",
-                "",
+                "Latin : dogma \"philosophical tenet,",
                 "Although Jake considered himself to be quite religious, he did not blindly follow the dogma of the church.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -4850,7 +4850,7 @@
                 "dogmatic",
                 "relying upon doctrine or dogma, as opposed to evidence",
                 "adjective",
-                "",
+                "dogma + -ic (= nature of, like)",
                 "",
                 "Common GRE",
                 "MSU"
@@ -4994,7 +4994,7 @@
                 "dupe",
                 "to deceive or fool",
                 "verb",
-                "",
+                "French, duper",
                 "My brother is a schemer who is always trying to dupe people out of their money.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -5048,7 +5048,7 @@
                 "dyspeptic",
                 "Of or having indigestion or consequent irritability or depression",
                 "adjective",
-                "Greek dyspeptos \"hard to digest,\"  dys- \"bad, difficult\" (see dys-) + peptos \"digested,\"                             </br>Synonyms: bad-tempered, short-tempered, irritable, depressed, pessimistic, misanthropic)",
+                "Greek dyspeptos \"hard to digest,\"  dys- \"bad, difficult\" (see dys-) + peptos \"digested,\"ic=nature of, like</br> Synonyms: bad-tempered, short-tempered, irritable, depressed, pessimistic, misanthropic)",
                 "As dyspeptic and irritable as she was, the woman was in a happy mood when she went to the beach",
                 "Most Difficult",
                 "FT"
@@ -5084,7 +5084,7 @@
                 "eccentric",
                 "quirky or unusual",
                 "adjective",
-                "Greek astronomy referring to planet orbitals: ekkentros \"out of the center\" (as opposed to concentric),  ek \"out\" (see ex-) + kentron \"center\".  Meaning now modified to \"odd or whimsical person\"",
+                "Greek astronomy referring to planet orbitals: ekkentros \"out of the center\" (as opposed to concentric),  ek \"out\" (see ex-) + kentron \"center\"+ ic=nature of, like. Meaning now modified to \"odd or whimsical person\"",
                 "The eccentric artist was quite happy to walk around with green hair",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -5120,7 +5120,7 @@
                 "eclectic",
                 "composed of a variety of styles, themes, motifs, etc. selecting or employing individual elements from a variety of sources:",
                 "adjective",
-                "",
+                "ic=nature of, like",
                 "Many modern decorators prefer an eclectic style. (n: eclecticism)",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -5318,7 +5318,7 @@
                 "elicit",
                 "to provoke a response",
                 "verb",
-                "",
+                "ic=nature of, like",
                 "In the experiment, the scientist hoped to <u><b>elicit</b> a response</u> from a mouse by piping high-pitched sounds into a sealed cage.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -5534,7 +5534,7 @@
                 "endemic",
                 "(Of a disease or condition) regularly found among particular people or in a certain area. prevalent in or native to a certain region, locality, or people:",
                 "adjective",
-                "Synonyms: local, regional.  Don't confuse this word with epidemic.",
+                "ic=nature of, like</br>Synonyms: local, regional.  Don't confuse this word with epidemic.",
                 "One of the mysteries of epidemiology is why Asia does not suffer from yellow fever. The disease is endemic in Africa, the continent where it evolved. The disease was endemic to the region.",
                 "Medium Difficult",
                 "FT"
@@ -5552,7 +5552,7 @@
                 "endemic </br> epidemic",
                 "endemic is an inherent characteristic whereas epidemic is an illness wave that affect many in the population at the same time",
                 "Easily confused words",
-                "",
+                "ic=nature of, like",
                 "",
                 "Easily confused words",
                 "MSU"
@@ -5984,7 +5984,7 @@
                 "eschew",
                 "avoid or abstain from",
                 "verb",
-                "",
+                "same root as : German scheuen \"to fear, shun, shrink from\"",
                 "True vegetarians eschew food items that come from living animals.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -6038,7 +6038,7 @@
                 "esoteric",
                 "obscure, arcane, intended for or understood by only a few:",
                 "adjective",
-                "Synonyms: abstruse, obscure, arcane",
+                "Synonyms: abstruse, obscure, arcane </br>ic=\"nature of, like",
                 "The esoteric discussion confused some people. (n: esoterica)</br>The subjects at hand often sound esoteric, if not silly, but the questions may prove more than merely academic.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -6362,7 +6362,7 @@
                 "explicate",
                 "to explain in detail",
                 "verb",
-                "",
+                "ic=nature of, like</br>",
                 "If the auditor finds an error in the accounting records, the treasurer will need to explicate the mistake.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -6399,7 +6399,7 @@
                 "a thorough explanation",
                 "noun",
                 "n. a public show or fair",
-                "",
+                "The researcher gave <u>a full <b>exposition</b> of his research results.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6417,7 +6417,7 @@
                 "in existence, still existing:",
                 "adjective",
                 "Synonyms: living, still existing, remaining",
-                "The only extant representative of that species.",
+                "The only <b>extant</b> representative of that species.",
                 "Common GRE",
                 "MSU"
             ],
@@ -7082,8 +7082,8 @@
                 "foment",
                 "to foster unrest or discontent",
                 "verb",
-                "",
-                "",
+                "Latin fomentum \"warm application, poultice,\"on the notion of \"encourage the growth of,\" similar to ferment",
+                "the police are here to keep people calm, not to <u?<b>foment</b> violence</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7226,7 +7226,7 @@
                 "frenetic",
                 "Fast and energetic in a rather wild and uncontrolled way",
                 "adjective",
-                "Synonyms: frantic, wild, frenzied",
+                "ic=nature of, like</br>Synonyms: frantic, wild, frenzied",
                 "Frenetic multi-tasking—surfing the web while watching TV while listening to music—is a formula for distraction, rather than good management.",
                 "Medium Difficult",
                 "FT"
@@ -7388,8 +7388,8 @@
                 "gainsay",
                 "deny or oppose",
                 "verb",
-                "",
-                "",
+                "Literally : Say against",
+                "It is <u>impossible to <u>gainsay</u> the importance of a good education</u> in today’s competitive job market.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7406,8 +7406,8 @@
                 "gainsay",
                 "deny or oppose",
                 "verb",
-                "",
-                "",
+                "Literally : Say against",
+                "It is <u>impossible to <u>gainsay</u> the importance of a good education</u> in today’s competitive job market.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7442,8 +7442,8 @@
                 "galvanize",
                 "to prod someone into action",
                 "verb",
-                "",
-                "",
+                "figurative sense of \"galvanize by electricity\"",
+                "By holding a rally, <u>the politician hoped to <b>galvanize</b> young people to vote </u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7460,8 +7460,8 @@
                 "galvanize",
                 "to prod someone into action",
                 "verb",
-                "",
-                "",
+                "figurative sense of \"galvanize by electricity\"",
+                "By holding a rally, <u>the politician hoped to <b>galvanize</b> young people to vote </u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7514,7 +7514,7 @@
                 "garrulous",
                 "talkative; verbose; talkative; rambling:",
                 "adjective",
-                "",
+                "from Latin garrulus \"talkative, chattering",
                 "We tried to avoid our garrulous neighbor.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -7532,7 +7532,7 @@
                 "garrulous",
                 "talkative; verbose; talkative; rambling:",
                 "adjective",
-                "",
+                "from Latin garrulus \"talkative, chattering",
                 "We tried to avoid our garrulous neighbor.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -7602,10 +7602,10 @@
             "fields": [
                 "370",
                 "germane",
-                "relevant to the matter at hand",
+                "relevant to the matter at hand, closely connected, relevant",
                 "adjective",
-                "",
-                "",
+                "Latin : germanus = having the same parents",
+                "The president will only respond to media questions that are <b>germane</b>to the economic crisis.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7656,9 +7656,9 @@
             "fields": [
                 "371",
                 "glib",
-                "talking volubly,easily but carelessly or insincerely",
+                "speaking in a smooth, easy way that is insincere ta. lking volubly,easily but carelessly or insincerely",
                 "adjective",
-                "",
+                "From German \"glibberig\", now used in a figurative sense",
                 "Because she is so conceited, Linda is constantly fishing for compliments, and she takes all the glib flattery seriously.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -7802,7 +7802,7 @@
                 "gregarious",
                 "sociable, genial",
                 "adjective",
-                "",
+                "Latin : gregarius=\"pertaining to a flock",
                 "Humans are by nature gregarious, and like to live close together",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -7910,8 +7910,8 @@
                 "hack",
                 "1. v. to chop. 2. n. a bad or unoriginal writer.",
                 "",
-                "(2) Even though he worked for the New York Times, he always felt like a hack.",
                 "",
+                "(2) Even though he worked for the New York Times, he always felt like a hack.",
                 "Homonym",
                 "MSU"
             ],
@@ -7926,10 +7926,10 @@
             "fields": [
                 "379",
                 "hackneyed",
-                "cliché, trite, banal",
+                "overused,  so overused as to have become uninteresting, repeated  too often,  cliché, trite, banal",
                 "adjective",
-                "",
-                "",
+                "Named after London Borough of Hackney where small horses were let out for hire, so figuratively :  used many times over that it has become uninteresting",
+                "Too often used by young girls, <u>the word “like” has become <b>hackneyed<b/></u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8019,7 +8019,7 @@
                 "the pursuit of pleasure",
                 "noun",
                 "",
-                "",
+                "Freddie Mercuy was known to be a great singer and a non-stop hedonist",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8054,7 +8054,7 @@
                 "hermetic",
                 "Insulated or protected from outside influences",
                 "adjective",
-                "Synonyms: airtight, sealed",
+                "ic=nature of, like</br>Synonyms: airtight, sealed",
                 "North Korea is often called the <u><b>\"hermetic</b> kingdom'</u>",
                 "Most Difficult",
                 "FT"
@@ -8235,7 +8235,7 @@
                 "obvious exaggeration for effect",
                 "noun",
                 "",
-                "Obviously the network is <u>overreacting and engaging in <b>hyperbole</b></u> when they say 55 million people are in danger! for normal thunderstorms",
+                "Obviously the network is <u>overreacting and engaging in <b>hyperbole</b></u> when they say 55 million people are in danger! Due to normal thunderstorms",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8450,8 +8450,8 @@
                 "imminent",
                 "about to happen",
                 "adjective",
-                "",
-                "",
+                "French/ Latin : \"overhanging; impending,\"",
+                "When the Secret Service arrived, everyone knew <u>the president’s arrival was <b>imminent.</b></u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8486,8 +8486,8 @@
                 "impair",
                 "to hinder or weaken someone or something",
                 "verb",
-                "",
-                "",
+                "French/latin :  impeiorare \"make worse",
+                "<u>Alcohol can greatly <b>impair</b> your judgement.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8522,8 +8522,8 @@
                 "impecunious",
                 "penniless; poor",
                 "adjective",
-                "",
-                "",
+                "Latin : in- \"not, opposite of\"  +pecuniosus \"rich, money",
+                "<u>He spent more than he earned, so he was always <b>impecunious</b></u>",
                 "Common GRE",
                 "MSU"
             ],
@@ -9168,9 +9168,9 @@
             "fields": [
                 "435",
                 "ingenuous",
-                "naïve or innocent ;unsophisticated; artless; straightforward; candid:",
+                "naive or innocent ;unsophisticated; artless; straightforward; candid:",
                 "adjective",
-                "",
+                "Latin : ingenuus \"with the virtues of freeborn people, of noble character, frank, upright, candid\"",
                 "Wilson's ingenuous response to the controversial calmed the suspicious listeners.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -9186,9 +9186,9 @@
             "fields": [
                 "435",
                 "ingenuous",
-                "naïve or innocent ;unsophisticated; artless; straightforward; candid:",
+                "naive or innocent ;unsophisticated; artless; straightforward; candid:",
                 "adjective",
-                "",
+                "Latin : ingenuus \"with the virtues of freeborn people, of noble character, frank, upright, candid\"",
                 "Wilson's ingenuous response to the controversial calmed the suspicious listeners.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -9800,7 +9800,7 @@
                 "laconic",
                 "taciturn, reserved, succinct, using few words; terse: (of a person, speech, or style of writing) using very few words",
                 "adjective",
-                "Synonyms: brief, concise, terse",
+                "ic=nature of, like/br>Synonyms: brief, concise, terse",
                 "The student’s laconic response suggested  that she did not know very much about the topic the professor was discussing.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -10016,7 +10016,7 @@
                 "lethargic",
                 "lacking energy",
                 "adjective",
-                "",
+                "ic=nature of, like</br>",
                 "It’s not uncommon to feel lethargic for weeks or even months after major surgery.",
                 "Common GRE",
                 "Kaplan"
@@ -10736,10 +10736,10 @@
             "fields": [
                 "500",
                 "maverick",
-                "an unorthodox person or rebel",
+                "an unorthodox person or rebel, tending to choose a different path from everyone else",
                 "noun",
-                "",
-                "",
+                "called after  Samuel A. Maverick (1803-1870), Texas cattle owner who was notoriously negligent in branding his calves.His grandson, was also the only Southerner to vote against the anti-lynching bills in the 30's",
+                "My <b>maverick</b> boss has made his fortune<u> by using a selling strategy different from that of his competitors.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -10774,8 +10774,8 @@
                 "mendacity",
                 "untruthfulness, dishonesty",
                 "noun",
-                "",
-                "",
+                "Latin mendax \"lying; a liar\"",
+                "<u>A first  sign of a new drug addict is their <b>mendacity</b></u>, not necessarily the effects of the drugs.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -10808,10 +10808,10 @@
             "fields": [
                 "503",
                 "mercurial",
-                "easily changeable, fickle",
+                "easily changeable, fickle, subject to sudden or unpredictable changes",
                 "adjective",
-                "",
-                "",
+                "Latin : Mercurius  \"pertaining to the god Mercury, having the form or qualities attributed to Mercury\", ie.  \"light-hearted, sprightly, volatile, changeable, quick",
+                "As my sister has \"<b><u>mercurial</b> moods</b> we never know how she will be feeling from one moment to the next.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -10864,8 +10864,8 @@
                 "meticulous",
                 "paying close attention to detail",
                 "adjective",
-                "",
-                "",
+                "French méticuleux \"timorously fussy\"",
+                "<u>This accounting job requires a b>meticulous</b> person.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -10918,8 +10918,8 @@
                 "milk",
                 "1. n. opaque liquid secreted by the mammary glands. 2. v. to extract by action similar to milking. to drain the strength from or exploit.",
                 "noun, verb",
-                "(2) John became very good at milking his misfortunes for all the sympathy he could get.",
                 "",
+                "(2) John became very good at <b><u>milking</b> his misfortunes for all the sympathy he could get.</u>",
                 "Homonym",
                 "MSU"
             ],
@@ -11224,7 +11224,7 @@
                 "monolithic",
                 "large, powerful, and intractably indivisible and uniform",
                 "adjective",
-                "Synonyms: inflexible, rigid, unbending",
+                "ic=nature of, like</br>Synonyms: inflexible, rigid, unbending",
                 "Four things have made Europe a harsher environment for the centre left: its own success, structural change in the economy, a reduced fear of political extremes and the decline of monolithic class groups.",
                 "Most Difficult",
                 "FT"
@@ -11314,8 +11314,8 @@
                 "muffler",
                 "1. n. an object for suppressing noise. 2. n. a scarf worn around the neck for warmth.",
                 "",
-                "(2) Our mother would never let us leave the house without our mufflers and mittens in the winter.",
                 "",
+                "(2) Our mother would never let us leave the house without our <u><b>mufflers</b> and mittens</u> in the winter.",
                 "Homonym",
                 "MSU"
             ],
@@ -11350,8 +11350,8 @@
                 "mundane",
                 "everyday, boring",
                 "adjective",
-                "",
-                "",
+                "Old French mondain/Latinmondulus: \"of this world, worldly, terrestrial,\"",
+                "Going about his everyday routine,<u> the man’s <b>mundane</b> schedule had him bored to tears.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -11404,7 +11404,7 @@
                 "myopic",
                 "nearsighted",
                 "adjective",
-                "Synonyms: short-sighted, insular, small-minded",
+                "ic=nature of, like</br>Synonyms: short-sighted, insular, small-minded",
                 "They are also myopic, judging politicians’ economic management on the basis of only the very recent past.",
                 "Most Difficult",
                 "FT"
@@ -12358,7 +12358,7 @@
                 "panegyric",
                 "a writing or speech in praise of a person or thing",
                 "noun",
-                "",
+                "ic=nature of, like",
                 "",
                 "Common GRE",
                 "MSU"
@@ -12700,7 +12700,7 @@
                 "pedantic",
                 "overly concerned with irrelevant detail, fussy; showing a narrow concern for rules or formal book learning; making an excessive display of one's own learning:pedant, pedantry).",
                 "adjective",
-                "",
+                "ic=nature of, like",
                 "",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -13078,7 +13078,7 @@
                 "phlegmatic",
                 "cool and unruffled; sluggish",
                 "adjective",
-                "",
+                "ic=nature of, like",
                 "",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -13240,7 +13240,7 @@
                 "plastic",
                 "related to being shaped or molded; capable of being molded. (n: plasticity n: plastic)",
                 "adjective",
-                "",
+                "ic=nature of, like",
                 "",
                 "Common GRE",
                 "MSU"
@@ -13384,7 +13384,7 @@
                 "polemic",
                 "a strong verbal or written attack on someone or something",
                 "noun",
-                "Synonyms: diatribe, invective",
+                "ic=nature of, like</br>Synonyms: diatribe, invective",
                 "Marion Nestle's heavyweight polemic against Coca-Cola and PepsiCo comes at an odd moment for the industry.",
                 "Most Difficult",
                 "FT"
@@ -13526,9 +13526,9 @@
             "fields": [
                 "607",
                 "pragmatic",
-                "dealing with the problems that exist in a reasonable and logical way instead of depending on theories",
+                "dealing with the problems that exist in a reasonable and logical way instead of depending on theories, practical",
                 "adjective",
-                "practical",
+                "ic=nature of, like",
                 "A pragmatic approach to legislation can be difficult given the complexities of politics.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -13817,7 +13817,7 @@
                 "rashly wasteful:, wastefully extravagant",
                 "adjective",
                 "",
-                "Americans' prodigal devotion to the automobile is unique.               The prodigal prince bought lavish gifts and planned expensive events.",
+                "Americans' <b>prodigal</b> devotion to the automobile is unique.</br>The <b>prodigal</b> prince bought lavish gifts and planned expensive events.",
                 "Common GRE",
                 "MSU"
             ],
@@ -13835,7 +13835,7 @@
                 "rashly wasteful:, wastefully extravagant",
                 "adjective",
                 "",
-                "Americans' prodigal devotion to the automobile is unique.               The prodigal prince bought lavish gifts and planned expensive events.",
+                "Americans' <b>prodigal</b> devotion to the automobile is unique.</br>The <b>prodigal</b> prince bought lavish gifts and planned expensive events.",
                 "Common GRE",
                 "MSU"
             ],
@@ -13906,7 +13906,7 @@
                 "prolific",
                 "(of an artist, author, or composer) producing many works",
                 "adjective",
-                "Synonyms: productive, creative, inventive",
+                "ic=nature of, like</br>Synonyms: productive, creative, inventive",
                 "It is true that few artists have been so prolific. On average, he released a studio album every year...",
                 "Medium Difficult",
                 "FT"
@@ -13924,7 +13924,7 @@
                 "prophetic",
                 "Accurately describing or predicting what will happen in the future",
                 "",
-                "Synonyms: predictive, visionary",
+                "ic=nature of, like</br>Synonyms: predictive, visionary",
                 "As the depleted council began, Metropolitan Kallistos Ware... said he still hoped it could avoid being mired in Orthodoxy’s internal woes and 'speak in a firm, prophetic voice' to humanity.",
                 "Least Difficult",
                 "FT"
@@ -13978,7 +13978,7 @@
                 "prosaic",
                 "Commonplace; unromantic",
                 "adjective",
-                "Synonyms: ordinary, everyday",
+                "ic=nature of, like</br>Synonyms: ordinary, everyday",
                 "However, while it is large-scale evacuations at times of crisis that grab attention, the biggest risks that business travellers face are more prosaic.",
                 "Most Difficult",
                 "FT"
@@ -14320,7 +14320,7 @@
                 "quixotic",
                 "exceedingly idealistic; unrealistic and impractical",
                 "adjective",
-                "Synonyms: unrealistic, impractical, romantic",
+                "ic=nature of, like</br>Synonyms: unrealistic, impractical, romantic",
                 "In one chapter... the director probes some of the quixotic visionaries driving the digital revolution forward.",
                 "Most Difficult",
                 "FT"
@@ -14734,7 +14734,7 @@
                 "rhetoric",
                 "the art of effective communication (written or verbal)",
                 "noun",
-                "",
+                "ic=nature of, like</br>",
                 "",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -14950,7 +14950,7 @@
                 "sardonic",
                 "grimly mocking or cynical",
                 "adjective",
-                "Synonyms: satirical, sarcastic, ironic",
+                "ic=nature of, like</br>Synonyms: satirical, sarcastic, ironic",
                 "Ms Jefferson, it must be said, is a master of the arched-eyebrow, sardonic quip.",
                 "Medium Difficult",
                 "FT"
@@ -15238,7 +15238,7 @@
                 "semantic",
                 "Relating to meaning in language or logic",
                 "adjective",
-                "Synonyms: lingual, semasiological",
+                "ic=nature of, like</br>Synonyms: lingual, semasiological",
                 "Semantic parsing also ensued over whether the modifier 'meaningful' is significantly (or meaningfully) different from 'significant.'",
                 "Most Difficult",
                 "FT"
@@ -15436,7 +15436,7 @@
                 "soporific",
                 "Tending to induce drowsiness or sleep",
                 "adjective",
-                "Synonyms: sleep-inducing, somnolent, sedative",
+                "ic=nature of, like</br>Synonyms: sleep-inducing, somnolent, sedative",
                 "In the soporific heat you would be forgiven for thinking that time had forgotten the New Jersey-sized nation.",
                 "Most Difficult",
                 "FT"
@@ -15490,7 +15490,7 @@
                 "sporadic",
                 "occasional or scattered",
                 "adjective",
-                "",
+                "ic=nature of, like</br>",
                 "",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -18404,9 +18404,9 @@
             "fields": [
                 "196",
                 "deft",
-                "skill, acumen",
+                "skill, acumen, manual dexterity",
                 "adjective",
-                "adj. manual dexterity",
+                "",
                 "The deft musician was able to play the harmonica and the piano at the same time.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -18641,7 +18641,7 @@
                 "break",
                 "Greek/Latin root",
                 "",
-                "frag</br> fractify</br> frag</br> fract</br> frag</br> fractifications</br>",
+                "fragment</br> fractify</br> fraction</br> fractal",
                 "Latin words",
                 "nko"
             ],
@@ -18656,7 +18656,7 @@
             "fields": [
                 "1214",
                 "fug",
-                "flee</br>бежать</br> спасаться бегством",
+                "flee</br>",
                 "Greek/Latin root",
                 "",
                 "fugitive</br>",
@@ -19718,7 +19718,7 @@
             "fields": [
                 "1215",
                 "fus",
-                "pour<br/",
+                "pour</br>",
                 "Greek/Latin root",
                 "",
                 "",
@@ -19739,7 +19739,7 @@
                 "out</br> away",
                 "Greek/Latin root",
                 "",
-                "",
+                "emigration",
                 "Latin words",
                 "nko"
             ],
@@ -19954,7 +19954,7 @@
                 "helic",
                 "spiral</br> circular",
                 "Greek/Latin root",
-                "",
+                "ic=nature of, like</br>",
                 "",
                 "Latin words",
                 "nko"
@@ -20060,7 +20060,7 @@
             "fields": [
                 "1258",
                 "merg",
-                "plunge</br> sink/погружаться</br> тонуть",
+                "plunge",
                 "Greek/Latin root",
                 "",
                 "",
@@ -20603,7 +20603,7 @@
                 "above</br> beyond",
                 "Latin Prefix",
                 "",
-                "supercede</br>",
+                "supercede</br> superman</br><b>supersohn<b></br>",
                 "Latin words",
                 "nko"
             ],
@@ -20672,7 +20672,7 @@
             "fields": [
                 "1328",
                 "string</br> strict",
-                "bind/связывать",
+                "bind",
                 "Greek/Latin root",
                 "",
                 "",
@@ -20942,7 +20942,7 @@
             "fields": [
                 "1349",
                 "trit",
-                "rub/тереть</br>натирать",
+                "rub",
                 "Greek/Latin root",
                 "",
                 "",
@@ -20960,7 +20960,7 @@
             "fields": [
                 "1350",
                 "trud</br> trus",
-                "thrust/толкать</br> засовывать</br> выпад",
+                "thrust",
                 "Greek/Latin root",
                 "",
                 "",
@@ -21592,7 +21592,7 @@
                 "ic</br> id",
                 "of</br> like",
                 "Latin Suffix",
-                "",
+                "ic=nature of, like</br>",
                 "",
                 "Latin words",
                 "nko"
