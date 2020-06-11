@@ -2,7 +2,7 @@
 
 | Word                     | Occurence                     | Explanation                                                                                                                                                                                                                               |
 | :----------------------- | :---------------------------- | :----------------------                                                                                                                                                                                                                   |
-| deprecate/depreciate     | this list (no.203)            | move last to sentences of meaning to explanation                                                                                                                                                                                          |
+| deprecate/depreciate     | this list (no.203)            | move last two sentences of meaning to explanation                                                                                                                                                                                         |
 | abasement                | this list (no.820)            | remove circular definition in meaning                                                                                                                                                                                                     |
 | die                      | this list (no.219)            | numbering starts at 2. -> missing example for dying in a mortal sense. Missing space between _same_ and _die_ in example. Also maybe clean up numbering so it's consistent formatting wise. Could also move the 2nd meaning to a new line |
 | desultory                | this list (no.211)            | insert linebreak between the two different meanings. Number formatting of those as well                                                                                                                                                   |
@@ -22,7 +22,6 @@
 | ac                       | this list (no.5)              | similar issue to circum. (See below) Weird formatting in explanation                                                                                                                                                                      |
 
 <img src="/../assets/circum_formatting.png" alt="Circum formatting issues" width="500">
-
 
 Remove "Easily confused words" from "Word"-Field for the words from this category. (It's listed on the bottom right anyway)
 # Questions to answer:
