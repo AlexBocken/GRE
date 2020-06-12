@@ -1,11 +1,18 @@
 # Words that should be added/modified
 
-| Word                     | Occurence                     | Explanation                                                   |
-| :----------------------- | :---------------------------- | :----------------------                                       |
-| excise                   | Prep-scholar                  | Came up in _Analyzing text structure & purpose (Core Verbal)_ |
-| acquiescence             | Prep-scholar                  | Came up in _Interference (Core Verbal)_                       |
-| connote                  | Prep-scholar                  | Came up in _Interference (Core Verbal)_                       |
-| extant                   | Prep-scholar                  | Came up in _Interference (Core Verbal)_                       |
+| Word                     | Occurence                     | Explanation                                                                                                                                                                                                                                                                                           |
+| :----------------------- | :---------------------------- | :----------------------                                                                                                                                                                                                                                                                               |
+| excise                   | Prep-scholar                  | Came up in _Analyzing text structure & purpose (Core Verbal)_                                                                                                                                                                                                                                         |
+| acquiescence             | Prep-scholar                  | Came up in _Interference (Core Verbal)_                                                                                                                                                                                                                                                               |
+| connote                  | Prep-scholar                  | Came up in _Interference (Core Verbal)_                                                                                                                                                                                                                                                               |
+| deprecate/depreciate     | this list (no.203)            | Use an example with the other meaning of _deprecate_, not the software meaning                                                                                                                                                                                                                        |
+| blight                   | this list (no.110)            | missing </b> at the end of example                                                                                                                                                                                                                                                                    |
+| divest                   | this list (no.851)            | Example just reads _Droll_ for some reason. Either delete or replace with good example. (pretty easy word though)                                                                                                                                                                                     |
+| capacity                 | this list (no.133)            | missing </b> & </u> in example.                                                                                                                                                                                                                                                                       |
+| eddy                     | this list (no.854)            | better example: _<u>Leonardo Da Vinci</u> could apply his <u>research into eddys</u> to the main <u>aorto</u>'s valve closing mechanism centuries before modern science proved his theories to be correct_ (maybe not specific, but something that helps me personally remember the word really well) |
+| effect/affect            | this list (no.260)            | either pin down underlines in example or remove, underlining everything seems redundant.                                                                                                                                                                                                              |
+
+
 
 # Questions to answer:
 
