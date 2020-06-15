@@ -22630,6 +22630,1878 @@
             "guid": "szp`BLUSp,",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1456",
+                "abstemious",
+                "marked by temperance in indulgence. Abstinent, abstentious",
+                "adj.",
+                "Latin: abs-= \"away.\" T+  temetum, \"intoxicating drink,\" =>  someone who keeps alcohol (or other temptations) at arm's length.",
+                "Because I was <b><u>abstemious</b> with alcohol</u> when I was younger, I am still quite healthy in my later years.",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "f4oB{8VpJ-",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1457",
+                "aggregate",
+                "a sum total of many heterogeneous things taken together",
+                "adj., verb",
+                "Latin : ad \"to\"  + gregare \"to collect into a flock, gather,\"",
+                "Schools often use test scores to <b><u>aggregate</b> students into classes</u> based on intelligence.",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "iz*hAydTsj",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1458",
+                "approbation",
+                "official acceptance or agreement",
+                "noun",
+                "Probation hat den gleichen Sinn wie \"Probezeit\". Approbation bedeutet, dass man diese bestanden hat.",
+                "<u>Filled with <b>approbation</b>, the audience gave a standing ovation.</u>",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "f^#H0AudC^",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1459",
+                "assiduous",
+                "marked by care and persistent effort",
+                "adj.",
+                "Latin:  ad \"to\" + sedere \"to sit=>constantly working at it",
+                "His <b>assiduous</b>attempts to improve his GRE vocab got him a top verbal score",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "O4?lxZlJOf",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1460",
+                "beneficent",
+                "doing or producing good",
+                "adj.",
+                "bene=good",
+                "My <b><u>beneficent neighbor</b> gives out meals to the poor</u> every Sunday.",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "rd0c!(#sm$",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1461",
+                "boorish",
+                "ill-mannered and coarse in behavior or appearance",
+                "adj.",
+                "old English for herdsman (Bauer..)",
+                "The hometown fans acted in such a <b>boorish</b> way toward the visiting team that they had to forfeit the game.",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "AisC=(yI/K",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1462",
+                "burnish",
+                "polish and make shiny",
+                "",
+                "you could burnish a car, a suit of armor, or a copper kettle. Reputations are among the most common non-physical things to be burnished.",
+                "Richard is forever attempting to <u><b>burnish</b> his reputation</u> so that he can advance his position within our company.",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "r%09ArrlP(",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1463",
+                "castigation",
+                "harsh verbal reprimand",
+                "noun",
+                "",
+                "The teacher’s <u>verbal <b>castigation</b> of the student was harsh</u> but needed since he refused to do any work.",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "zpFXR/H|QY",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1464",
+                "conciliatory",
+                "making or willing to make concessions",
+                "",
+                "Latin:  conciliatus \"to bring together, win over,\" same root as \"council\"+  –ory  \"relating to or doing. Context often involves compromise",
+                "Even though Henry hated fruit cake, <u>he still accepted the <b>conciliatory</b> gift from his neighbor.</u>",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "k<O,G!,;(U",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1465",
+                "contention",
+                "the act of competing as for profit or a prize",
+                "noun",
+                "\"a violent effort to obtain something\"",
+                "Does anyone know the <u>bone of <b>contention</b></u> that started the fight between Jim and Bob?",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "o}/~8h:K&Y",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1466",
+                "conundrum",
+                "a difficult problem",
+                "noun",
+                "unclear origin",
+                "The <b><u>conundrum</b> is that I am stranded in the middle of nowhere</u> without my cell phone.",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "yKrY,M5O8U",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1467",
+                "daunt",
+                "cause to lose courage",
+                "adj.",
+                "Daunt rhymes with haunt, another word which means to frighten(but daunt is less creepy)",
+                "David faced the <u><b>daunting</b> task</u> of fighting Goliath",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "irW<.@1t<i",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1468",
+                "deterrent",
+                "something immaterial that interferes with action or progress",
+                "noun",
+                "Latin : de \"away\" + terrere \"frighten, fill with fear\"",
+                "North Korea is proud of its >u>nuclear <b>deterrent</u></b> arsenal",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "JXl3|!k-b1",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1469",
+                "dichotomy",
+                "a classification into two opposed parts or subclasses",
+                "noun",
+                "Greek dikhotomia \"a cutting in half,",
+                "The statement : \"All cars are either small and efficient or large and polluting\" is a  <u>false <b>dichotomy</b></u> because there are some cars that don't fit into either category.",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "o%(.]Jak:{",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1470",
+                "digression",
+                "a message that departs from the main subject",
+                "",
+                "Latin:  dis- \"apart, aside\" (see dis-) + gradi \"to step, go\"=>act of deviating from the main subject matter in speaking or writing",
+                "The <u>professor's <b>digression</b> from the lesson's theme</u> was another subtle attempt to indoctrinate the class with his radicalism",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "u^g-@oK%OX",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1471",
+                "disjointed",
+                "taken apart at the points of connection",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "L2O1m}7x3%",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1472",
+                "dismiss",
+                "stop associating with",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "tg]-9?Kk`f",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1473",
+                "dissolution",
+                "separation into component parts",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Ov|W/*%h^P",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1474",
+                "distend",
+                "cause to expand as if by internal pressure",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "d^<-xS!$8P",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1475",
+                "dormant",
+                "inactive but capable of becoming active",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "bi[!=vSoFb",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1476",
+                "effrontery",
+                "audacious behavior that you have no right to",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "sgs;[<zkHr",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1477",
+                "embellish",
+                "make more attractive, as by adding ornament or color",
+                "",
+                "em=to make, bel=beauty",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "AVjUt`*1b3",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1478",
+                "equanimity",
+                "steadiness of mind under stress",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "HwrcIt}wVT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1479",
+                "euphemism",
+                "an inoffensive expression substituted for an offensive one",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "FYdZV55Wum",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1480",
+                "exigency",
+                "a pressing or urgent situation",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "H`<0JGD2{@",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1481",
+                "fatuous",
+                "devoid of intelligence",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "k%-|O~/TMt",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1482",
+                "fawning",
+                "attempting to win favor by flattery",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "w|7ST0@QLc",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1483",
+                "felicitous",
+                "exhibiting an agreeably appropriate manner or style",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "E}*ybzS/4t",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1484",
+                "fervor",
+                "feelings of great warmth and intensity",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "dqEdXk`GWp",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1485",
+                "frugality",
+                "prudence in avoiding waste",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "?@EpMkv[O",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1486",
+                "futile",
+                "producing no result or effect",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "O;%$)(m|}h",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1487",
+                "iconoclastic",
+                "characterized by attack on established beliefs",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "gm-(~fE=!T",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1488",
+                "idolatry",
+                "the worship of objects or images as gods",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "M8+RVO%KE(",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1489",
+                "impassive",
+                "having or revealing little emotion or sensibility",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "uNf{gIV!]m",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1490",
+                "impede",
+                "be a hindrance or obstacle to",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "dJf9aHb^+X",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1491",
+                "impermeable",
+                "preventing especially liquids to pass or diffuse through",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "d{v}>N<,!z",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1492",
+                "impervious",
+                "not admitting of passage or capable of being affected",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "H.DBQz;E!)",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1493",
+                "inadvertently",
+                "without knowledge or intention",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "APdy`mIxJe",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1494",
+                "incongruity",
+                "the quality of disagreeing",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "H}[{vgrL5t",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1495",
+                "inconsequential",
+                "lacking worth or importance",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Ny{isU/6:Q",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1496",
+                "incorporate",
+                "make into a whole or make part of a whole",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "y`bq[Y40rg",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1497",
+                "indeterminate",
+                "not fixed or known in advance",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "H]/VQfJziT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1498",
+                "indigence",
+                "a state of extreme poverty or destitution",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Exxx=BYLpI",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1499",
+                "insinuate",
+                "suggest in an indirect or covert way; give to understand",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "nVNn,26tFQ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1500",
+                "insularity",
+                "the state of being isolated or detached",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "lCgD9+jQQ)",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1501",
+                "intransigence",
+                "stubborn refusal to compromise or change",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "la)nAHa0zT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1502",
+                "inundate",
+                "fill or cover completely, usually with water",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "lDh,$,O_ci",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1503",
+                "inured",
+                "made tough by habitual exposure",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "FX&UxyT]Mu",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1504",
+                "invective",
+                "abusive language used to express blame or censure",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "hi6{Y5h-l~",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1505",
+                "itinerary",
+                "an established line of travel or access",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "K9$|)R514W",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1506",
+                "lassitude",
+                "a feeling of lack of interest or energy",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "j/xeplIRD)",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1507",
+                "levee",
+                "an embankment built to prevent a river from overflowing",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "xK/9g0T[]n",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1508",
+                "levity",
+                "a manner lacking seriousness",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "E~}.W5k0oT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1509",
+                "log",
+                "a segment of the trunk of a tree when stripped of branches",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "g&(:Rgtk(=",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1510",
+                "malingerer",
+                "someone shirking duty by feigning illness or incapacity",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "do>BS{:$_@",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1511",
+                "mendacious",
+                "given to lying",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "dQ3i`VAH<w",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1512",
+                "negate",
+                "make ineffective by counterbalancing the effect of",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "dOdx|H,n88",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1513",
+                "officious",
+                "intrusive in a meddling or offensive manner",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "M2:U}A_847",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1514",
+                "opprobrium",
+                "a state of extreme dishonor",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "c+eAUz$udv",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1515",
+                "pate",
+                "liver or meat or fowl finely minced or ground and variously seasoned",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "kR0hi4_Qy{",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1516",
+                "pathological",
+                "relating to the study of diseases",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "d*9~/f4cw#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1517",
+                "penury",
+                "a state of extreme poverty or destitution",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "wMzbt]w4>5",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1518",
+                "perennial",
+                "lasting an indefinitely long time",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "o&I8CnY^Gb",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1519",
+                "permeable",
+                "allowing fluids or gases to pass or diffuse through",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Iu!m=t3!+5",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1520",
+                "piety",
+                "righteousness by virtue of being religiously devout",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "m<BsZ}mW9G",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1521",
+                "plasticity",
+                "the property of being physically malleable",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "lRY02YgiH8",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1522",
+                "porous",
+                "full of holes",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Jh]]o?rFQ8",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1523",
+                "preamble",
+                "a preliminary introduction, as to a statute or constitution",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "z<EMd9K:MZ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1524",
+                "problematic",
+                "making great mental demands",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "g9fPb#Bomv",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1525",
+                "profound",
+                "situated at or extending to great depth",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "JcKF,$P|N/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1526",
+                "prohibitive",
+                "tending to discourage, especially of prices",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Mif;uS/o?M",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1527",
+                "propensity",
+                "a natural inclination",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "dV+V*VYVB=",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1528",
+                "propitiate",
+                "make peace with",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "h>8#U%orTl",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1529",
+                "proscribe",
+                "command against",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "O[!FM/(;H4",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1530",
+                "qualified",
+                "meeting the proper standards and requirements for a task",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Bg1a0?LM?(",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1531",
+                "quiescent",
+                "being quiet or still or inactive",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "pn6#Xy(nVz",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1532",
+                "rarefied",
+                "of high moral or intellectual value",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "eizQGvYTN<",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1533",
+                "recluse",
+                "one who lives in solitude",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "dv}^!{euyg",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1534",
+                "refractory",
+                "stubbornly resistant to authority or control",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "PfO[$YE#K$",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1535",
+                "relegate",
+                "assign to a lower position",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "EZG%SLIVon",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1536",
+                "reprobate",
+                "a person without moral scruples",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "AlnRCTwJdm",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1537",
+                "resolution",
+                "a decision to do something or to behave in a certain manner",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "mFNhV@|XJ[",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1538",
+                "resolve",
+                "find a solution or answer",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "J.Q=nZRUba",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1539",
+                "sage",
+                "a mentor in spiritual and philosophical topics",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "e(xo.W:N4Z",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1540",
+                "saturate",
+                "infuse or fill completely",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "xDn7hs9:{|",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1541",
+                "savor",
+                "a particular taste or smell, especially an appealing one",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Medium",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "loKK$DTSR(",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1542",
+                "secrete",
+                "generate and separate from cells or bodily fluids",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "j(l|sc*E2l",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1543",
+                "shard",
+                "a broken piece of a brittle artifact",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "PuQw/8:m;P",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1544",
+                "skeptic",
+                "someone who habitually doubts accepted beliefs",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "xZ;0/Ixy3q",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1545",
+                "solicitous",
+                "full of anxiety and concern",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "ldghH4?ct*",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1546",
+                "spectrum",
+                "a broad range of related objects, values, or qualities",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "P,,})5Njxx",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1547",
+                "stint",
+                "supply sparingly and with restricted quantities",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "Ao]OuUK4id",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1548",
+                "striate",
+                "marked with stripes",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "zsqyN<DT2P",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1549",
+                "subside",
+                "wear off or die down",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "x3:hf8+:>l",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1550",
+                "supersede",
+                "take the place or move into the position of",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "e)W~^ECIO_",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1551",
+                "supposition",
+                "the cognitive process of conjecturing",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "BbotwmZ>UQ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1552",
+                "tangential",
+                "of superficial relevance if any",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "f#qIv|j:c`",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1553",
+                "tirade",
+                "a speech of violent denunciation",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "B<Vl7NQ[~/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1554",
+                "truculence",
+                "stubborn and defiant aggressiveness",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "gi+swlB0_}",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1555",
+                "unwarranted",
+                "incapable of being justified or explained",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "N..VcOJ1Qd",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1556",
+                "veracious",
+                "habitually speaking the truth",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "sO+hE7<%Yr",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1557",
+                "vituperative",
+                "marked by harshly abusive criticism",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "uWPz|ZZ$+u",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1558",
+                "wary",
+                "marked by keen caution and watchful prudence",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Easy",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "v-a)oJe;yh",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1559",
+                "zealot",
+                "a fervent and even militant proponent of something",
+                "",
+                "",
+                "",
+                "Hi Freq. GRE Hard",
+                "Barron"
+            ],
+            "flags": 0,
+            "guid": "QjYmJ,n~!8",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
         }
     ]
 }

@@ -11,6 +11,7 @@
 | capacity                 | this list (no.133)            | missing </b> & </u> in example.                                                                                                                                                                                                                                                                       |
 | eddy                     | this list (no.854)            | better example: _<u>Leonardo Da Vinci</u> could apply his <u>research into eddys</u> to the main <u>aorta</u>'s valve closing mechanism centuries before modern science proved his theories to be correct_ (maybe not specific, but something that helps me personally remember the word really well) |
 | effect/affect            | this list (no.260)            | either pin down underlines in example or remove, underlining everything seems redundant.                                                                                                                                                                                                              |
+| qualify                  | this list (no.1455)           | add a Source, cannot import without a source since trailing empty cells get cut off in the conversion to csv                                                                                                                                                                                          |
 
 
 
