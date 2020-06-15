@@ -1,7 +1,10 @@
 # Words that should be added/modified
 
-| Word                     | Occurence                     | Explanation             |
-| :----------------------- | :---------------------------- | :---------------------- |
+| Word                     | Occurence                     | Explanation                      |
+| :----------------------- | :---------------------------- | :----------------------          |
+| qualify                  | this list (no.1455)           | requires source to be importable |
+| zealot                   | this list (no.1559)           | requires source to be importable |
+| connote                  | this list (no.1663)           | requires source to be importable |
 
 # Questions to answer:
 

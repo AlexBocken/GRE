@@ -2133,8 +2133,8 @@
                 "blight",
                 "a thing that spoils or damages something",
                 "noun",
-                "Synonyms: affliction, scourge, bane",
-                "1. Because of the <u>urban <b>blight</u></b> that has taken over the downtown area, many of the stores have relocated to suburban malls.</br>2. The torrential rain <b>blighted</b> the crop.",
+                "Gleicher Wortstamm wie : \"bleichen\". </br>Synonyms: affliction, scourge, bane",
+                "1. Because of the <u>urban <b>blight</u></b> that has taken over the downtown area, many of the stores have relocated.</br>2. The torrential rain <b>blighted</b> the crop.",
                 "Least Difficult",
                 "FT"
             ],
@@ -2476,7 +2476,7 @@
                 "lie or slander, often to damage somone's reputation",
                 "noun",
                 "Old French calomnie/Latin calumnia \"trickery, subterfuge, misrepresentation, malicious charge",
-                "The film was supposed to be a true story, but in fact it was a huge<u> <b>calumny</b>  to tarnish the star’s reputation.</",
+                "The film was supposed to be a true story, but in fact it was a huge<u> <b>calumny</b>  to tarnish the star’s reputation</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -2746,7 +2746,7 @@
                 "deception by trickery, often to achieve a political, financial, or legal purpose",
                 "noun",
                 "French chicanerie \"trickery\"  Middle French chicaner \"to pettifog, quibble\"",
-                "<u>Instead</u> of being <u>truthful</u> on his campaign for sheriff, <u>he resorted to <b>chicanery</b>. </u",
+                "<u>Instead</u> of being <u>truthful</u> on his campaign for sheriff, <u>he resorted to <b>chicanery</b>. </u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -3970,7 +3970,7 @@
                 "Moral corruption; wickedness, state of being depraved, degeneracy",
                 "noun",
                 "Synonyms: vice, perversion, deviance",
-                "We moved to the quiet country to <u>keep our children away from the <b>depravity</b> of city life. </u",
+                "We moved to the quiet country to <u>keep our children away from the <b>depravity</b> of city life. </u>",
                 "Medium Difficult",
                 "FT"
             ],
@@ -4542,11 +4542,11 @@
             "data": "",
             "fields": [
                 "232",
-                "disinterested",
-                "objective, unbiased, unaffected by concern for one's own welfare",
+                "disinterested / uninterested",
+                "disinterested = objective, unbiased, unaffected by concern for one's own welfare",
                 "adj.",
                 "if you're <b>disinterested</b>, you're unbiased; you're out of the loop. <br>2. But if you're <b>uninterested</b>, you don't give a hoot; you're bored.",
-                "1. The referee should be <b><u>disinterested</b>in which team wins the game</u>, but<br> <u>grandmother was <b>uninterested</b> in who won the football game.</u>",
+                "1. The referee should be <b><u>disinterested</b>in which team wins the game</u>, but<br> <u>2. grandmother was <b>uninterested</b> in who won the football game.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -5769,8 +5769,8 @@
                 "epistemology",
                 "the theory of knowledge, especially with regard to its methods, validity, and scope",
                 "noun",
-                "",
-                "The only way to know for sure is to run the experiment (Mr. Lind's exotic epistemologynotwithstanding).",
+                "Greek : \"overstand,\" from epi \"over, near\" (see epi-) + histasthai \"to stand,\"",
+                "Probably the coolest use of <b>epistemology</b>, though, is artificial intelligence: teaching computers how to learn.",
                 "Medium Difficult",
                 "FT"
             ],
@@ -6561,7 +6561,7 @@
                 "facetious",
                 "Treating serious issues with deliberately inappropriate humor",
                 "adj.",
-                "Synonyms: flippant, glib, tongue-in-cheek",
+                "Synonyms: flippant, glib, tongue-in-cheek.</br> \"Facetious\" stresses a desire to produce laughter and may be derogatory in implying dubious or ill-timed attempts at wit or humor",
                 "More disturbing,' says Mr. Hart, I didn't note that his column was facetious. In tone, it was indeed, and I should have noted that.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -6885,8 +6885,8 @@
                 "flag",
                 "1. n. banner. </br>2. v. to wane or weaken",
                 "noun, verb",
-                "",
-                "(2) When the runner's strength begins to flag, she walks for a few minutes, then gradually increases her speed.",
+                "2. Bedeutung als Verb kommt vom gleichen germanischen Wortstamm wie \"flattern\"",
+                "2.  When <u>the runner's strength begins to <b>flag</b></u>, she walks for a few minutes, then gradually increases her speed.",
                 "Homonym",
                 "MSU"
             ],
@@ -21900,7 +21900,7 @@
                 "1. n. a baby deer. </br>2. v. to behave in an excessively humble or obsequious manner., to seek favor or attention",
                 "noun, verb",
                 "",
-                "(2)Charlie always fawned over his professors so much that all the other students disliked him.",
+                "1. bambi was a <b>fawn</b></br>2.Charlie always <u><b>fawned</b> over</u> his professors so much that all the other students disliked him.",
                 "Homonym",
                 "MSU"
             ],
@@ -24554,6 +24554,150 @@
             ],
             "flags": 0,
             "guid": "fr]gBkv9,]",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1664",
+                "inveigle",
+                "persuade someone through flattery",
+                "verb",
+                "Middle French word aveugler, meaning “delude, make blind,”",
+                "She <b>aveigled</b> him to drive her all the way across the country by telling him he was not only the best looking man in town, but also the best driver of all time.",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "s/B[4}q6SG",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1665",
+                "injudicious",
+                "lacking or showing lack of judgment or discretion; unwise",
+                "adj.",
+                "Latin in-\"not\"+ iudicium \"judgment\"=> lacking judgement. </br>Antonym : judicious",
+                "He <u>regretted his <b>injudicious</b> decision</u> to spend his last 5 dollars on an expensive cup of coffee",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "yiR+;@xsFO",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1666",
+                "judicious",
+                "exhibiting good judgment or sound thinking; prudent",
+                "adj.",
+                "Latin iiudicium \"judgment\"=> lacking judgement. </br>Antonym :injudicious",
+                "The man had become<u> wealthy by making <b>judicious</b> use of his money</u>",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "vK().*e{pO",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1667",
+                "pernicuous",
+                "harmful and <u>subtle</u>, often taking years",
+                "adj.",
+                "Latin:   per \"completely\" + necis \"violent death, murder,\"perniciosus, \"destructive,\"=>total destruction",
+                "The leftist claimed that  even during a pandemic, racism is as<b> pernicious</b> as ever.",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "G2&`|Qa^^f",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1668",
+                "debase",
+                "reduce in quality or value; lower in esteem; degrade",
+                "verb",
+                "Latin :  de- \"down\" + base (adj.) \"low,\"",
+                "The lack of fiscal discipline led to the <u>currency being <b>debased.</u></b>",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "tTXyh]*b!D",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1669",
+                "baseness",
+                "unworthiness by virtue of lacking higher values",
+                "adj.",
+                "from base (adj.) + -ness.",
+                "The pauper looked at the touristist skeptically, thinking that they gloried in his squalor as proof of his baseness.",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "sJm:j`XGp~",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1670",
+                "connote/denote",
+                "Connote is like giving a hint, but to denote is to refer to something outright.",
+                "verb",
+                "",
+                "",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "F(r1o,VwCy",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1671",
+                "fervent/fervid",
+                "Fervent is a synonym of fervid.",
+                "adj.",
+                "Fervent is used much more frequently than fervid. Some, but not all, say that fervid means 'very fervent\"",
+                "",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "bsva-A:?cA",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
