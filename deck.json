@@ -3484,7 +3484,7 @@
                 "order</br> world",
                 "Greek/Latin root",
                 "",
-                "cosmos</br> microcosm�",
+                "cosmos</br> microcosm",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -3517,9 +3517,9 @@
             "fields": [
                 "949",
                 "cosset",
-                "Care for and protect in an overindulgent way",
+                "1. a pet lamb</br>2. Care for and protect in an overindulgent way",
                 "verb",
-                "Synonyms: indulge, pander",
+                "Deutsch : 1. Hauslamm, 2. verhätscheln</br>Synonyms: indulge, pander",
                 "From buying expensive toys to boxing vegetable-free lunches, the mother would<u> <b>cosset</b> to her child's every whim</u>",
                 "Most Difficult",
                 "FT"
@@ -4690,7 +4690,7 @@
                 "to spread widely (esp. information)",
                 "verb",
                 "Latin : dis- \"in every direction\" (see dis-) + seminare \"to plant, propagate\" from semen (genitive seminis) \"seed\"",
-                "The pollen will disseminate into the region by Thursday, causing further burdens for allergy sufferers.",
+                "The pollen will <b><u>disseminate</b> into</u> the region by Thursday, causing further burdens for allergy sufferers.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -6922,7 +6922,7 @@
                 "flaunt is to display brazenly or pretentiously whereas flout is to to show an obvious disregard or disrespect for; to treat contemptuously",
                 "verb",
                 "Flaunt is to show off, but flout is to ignore the rules. Rebels do both — they flaunt their new pink motorcycles by popping a wheelie, and flout the law by running a red ligh",
-                "He came into the Church, flaunting his riches with his designer clothes, flouting all rules by dancing on the altar.",
+                "He came into the Church, <b><u>flaunting</b> his riches</u> with his designer clothes, <b><u>flouting</b> all rules</u> by dancing on the altar.",
                 "Easily confused words",
                 "MSU"
             ],
@@ -6940,7 +6940,7 @@
                 "a baby bird; an inexperienced person; inexperienced.",
                 "adj., noun",
                 "also implies potential to improve",
-                "Jill is a fledgling skater who must work on her turns more.",
+                "Jill is a <b>fledgling</b> skater who must work on her turns more.",
                 "Common GRE",
                 "MSU"
             ],
@@ -7372,7 +7372,7 @@
                 "an unintentional act or remark causing embarrassment to its originator",
                 "noun",
                 "French gaffe \"clumsy remark\"             </br>Synonyms: blunder, mistake, error",
-                "Goofy makes non-stop gaffes",
+                "Goofy makes <u>non-stop <b>gaffes</b></u>",
                 "Most Difficult",
                 "FT"
             ],
@@ -22586,7 +22586,7 @@
                 "Qualify is ONE OF THE 5 MOST COMMON MISTAKES made in the GRE! <br> The GRE primarily has examples of the 2nd definition, ie. To place a condition on a statement.",
                 "2a. I love living in San Francisco; however, the summers are very cold .<br>The latter, bold part however… qualifies or limits, my love for San Francisco. <br>You can also qualify a negative statement :<br>2b.I really dislike living in SF, because I can’t even wear a T-shirt in summer…the restaurants are great t",
                 "Common GRE",
-                ""
+                "MSU"
             ],
             "flags": 0,
             "guid": "Ny^4aOP!=H",
@@ -24492,9 +24492,9 @@
                 "1559",
                 "zealot",
                 "a fervent and even militant proponent of something",
-                "",
-                "",
-                "",
+                "noun",
+                ".",
+                ",",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -24698,6 +24698,24 @@
             ],
             "flags": 0,
             "guid": "bsva-A:?cA",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1663",
+                "connote",
+                "to imply something in addition to what is apparent",
+                "verb",
+                "Latin : com \"with, together\"  + notare \"to mark, note, make a note,\"=>to signify in addition to the main meaning",
+                "At work, we <b>connote</b> the employee of the month award with being the best worker on the team.",
+                "AMB",
+                "GRE Test Exam 1"
+            ],
+            "flags": 0,
+            "guid": "rr57Caw4sR",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
