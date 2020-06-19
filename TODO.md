@@ -2,6 +2,7 @@
 
 | Word                     | Occurence                     | Explanation             |
 | :----------------------- | :---------------------------- | :---------------------- |
+| husband                  | no.390                        | example uses "<b?"      |
 
 # Questions to answer:
 
