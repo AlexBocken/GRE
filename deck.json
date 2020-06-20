@@ -6611,24 +6611,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "338",
-                "fawn",
-                "to seek favor or attention; to act subserviantly (n, adj: fawning)",
-                "verb",
-                "",
-                "(2)Charlie always fawned over his professors so much that all the other students disliked him.",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "wk$ruWM:<x",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1080",
                 "fect",
                 "do</br> make",
@@ -7367,24 +7349,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "367",
-                "garrulous",
-                "talkative; verbose; talkative; rambling:",
-                "adjective",
-                "from Latin garrulus \"talkative, chattering",
-                "We tried to avoid our garrulous neighbor.",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "Z_czgsfl%",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "368",
                 "gauche",
                 "socially inept, inappropriate, or awkward",
@@ -7522,24 +7486,6 @@
             ],
             "flags": 0,
             "guid": "O#xrcQ,JsJ",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "372",
-                "gossamer",
-                "fine cobweb on foliage; fine gauzy fabric; very fine:",
-                "noun, adjective",
-                "",
-                "She wore a gossamer robe.",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "QZ53~a7?SR",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -10051,24 +9997,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "484",
-                "loquacious",
-                "talkative",
-                "adjective",
-                "",
-                "",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "Hu:iC14cZN",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "487",
                 "lucid",
                 "clear and coherent; Showing ability to think clearly",
@@ -11113,24 +11041,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "524",
-                "nascent",
-                "just beginning or in the early stages",
-                "adj.",
-                "",
-                "",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "EM/J?1s0ap",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1055",
                 "nat",
                 "born",
@@ -11509,24 +11419,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "538",
-                "obviate",
-                "to prevent by anticipatory measures; to make unnecessary:",
-                "verb",
-                "",
-                "",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "eb+l2hK}}h",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "999",
                 "occlude",
                 "block passage through",
@@ -11736,24 +11628,6 @@
             ],
             "flags": 0,
             "guid": "f-pTMKHZy&",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "552",
-                "opprobrium",
-                "criticism or condemnation",
-                "noun",
-                "",
-                "",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "u&~c0V>brg",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -12204,24 +12078,6 @@
             ],
             "flags": 0,
             "guid": "Mk:Ofxa0K",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "564",
-                "paucity",
-                "scarcity, poverty",
-                "noun",
-                "",
-                "",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "f~B{?!T@yZ",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -15757,60 +15613,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "713",
-                "tractable",
-                "",
-                "adjective",
-                "",
-                "",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "ydZ=Oa{RQw",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "713",
-                "tractable",
-                "",
-                "adjective",
-                "",
-                "",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "E;Sr1Nk0;;",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1105",
-                "trans",
-                "across</br> move",
-                "Greek/Latin root",
-                "",
-                "transit</br> transient",
-                "Greek/Latin",
-                "Manhattan"
-            ],
-            "flags": 0,
-            "guid": "eet-!!qW%A",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "804",
                 "transgression",
                 "the violation of a law or a duty or moral principle",
@@ -16110,24 +15912,6 @@
             ],
             "flags": 0,
             "guid": "h8rCaT0$%i",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "725",
-                "vacillate",
-                "to shift between multiple options or opinions",
-                "verb",
-                "",
-                "",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "ndJ`^MsC<D",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -16585,24 +16369,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "739",
-                "volatile",
-                "easily changeable or extreme; unstable",
-                "adjective",
-                "",
-                "",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "Op![_f-q(=",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1113",
                 "volu</br>volve",
                 "turn</br> roll",
@@ -16722,24 +16488,6 @@
             ],
             "flags": 0,
             "guid": "s(%/LqE/yp",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "743",
-                "waver",
-                "to hesitate or to tremble",
-                "verb",
-                "",
-                "",
-                "Common GRE",
-                "MSU"
-            ],
-            "flags": 0,
-            "guid": "epar@JwqhO",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -19105,24 +18853,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "1235",
-                "log",
-                "word</br> study",
-                "Greek/Latin root",
-                "",
-                "",
-                "Latin words",
-                "nko"
-            ],
-            "flags": 0,
-            "guid": "PheO*nyMXL",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1241",
                 "helic",
                 "spiral</br> circular",
@@ -20941,60 +20671,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "1120",
-                "desiccate",
-                "remove the moisture from (something)",
-                "verb",
-                "",
-                "The heat and energy from the sun can desiccate even the most hearty plants.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "Qx94:3@n.3",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1121",
-                "enervate",
-                "cause (someone or something) to feel drained of energy; weaken",
-                "verb",
-                "Enervate is ONE OF THE 5 MOST COMMON MISTAKES made in the GRE!",
-                "The boxer used a swift left uppercut to the jaw to enervate his opponent.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "x($foG$aoh",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1122",
-                "engender",
-                "to produce, cause, or give rise to (something)",
-                "verb",
-                "",
-                "Political debates can engender controversy regarding the subjects discussed.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "HuJ$*c^JOm",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1389",
                 "extra (part 2 of 2)",
                 "out of</br> beyond",
@@ -21024,24 +20700,6 @@
             ],
             "flags": 0,
             "guid": "y-4wQkC#:Z",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "968",
-                "gainsay",
-                "Speak against or oppose (someone), deny",
-                "verb",
-                "Synonyms: be against, object to, be hostile to",
-                "She was too young to know better, let alone gainsay her wicked uncle.",
-                "Most Difficult",
-                "FT"
-            ],
-            "flags": 0,
-            "guid": "E2st[E7Xo)",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -21085,24 +20743,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "1125",
-                "ingenuous",
-                "innocent and unsuspecting",
-                "adjective",
-                "",
-                "The scam artist preyed on ingenuous nursing home residents.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "Hhwgjqcmwb",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "893",
                 "loquacious",
                 "Tending to talk a great deal",
@@ -21114,42 +20754,6 @@
             ],
             "flags": 0,
             "guid": "FxWW>ZN^ZJ",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1126",
-                "loquacious",
-                "tending to talk a great deal",
-                "adjective",
-                "",
-                "The loquacious professor was known for his five-hour lectures.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "w%oo!r*ic%",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1127",
-                "lucid",
-                "very clear and easy to understand",
-                "adjective",
-                "",
-                "The lecture was lucid and straightforward, allowing the students to fully grasp the concepts presented.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "wEXAZ)Q~Z)",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -21175,24 +20779,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "1128",
-                "misanthrope",
-                "a person who dislikes humankind",
-                "noun",
-                "",
-                "The neighborhood misanthrope surrounded his yard with barbed wire to keep people away.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "BBYLf}[Zku",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "901",
                 "nascent",
                 "just coming into existence and beginning to display signs of future potential",
@@ -21204,24 +20790,6 @@
             ],
             "flags": 0,
             "guid": "E>;jm2-_#~",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1270",
-                "nat",
-                "born",
-                "Greek/Latin root",
-                "",
-                "national</br> natavity</br> native</br>",
-                "Latin words",
-                "nko"
-            ],
-            "flags": 0,
-            "guid": "kQwLp~RwcT",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -21247,42 +20815,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "777",
-                "opaque",
-                "Not able to be seen through; not transparent",
-                "adj.",
-                "Synonyms: cloudy, obscure",
-                "North Korea's government is very <b>opaque</b> to outsiders and  are constantly guessing as to reasons for decisions",
-                "Least Difficult",
-                "FT"
-            ],
-            "flags": 0,
-            "guid": "m_M*Uj4oQZ",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1277",
-                "pater</br> patri",
-                "father",
-                "Greek/Latin root",
-                "",
-                "",
-                "Latin words",
-                "nko"
-            ],
-            "flags": 0,
-            "guid": "FF|])aOYV6",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1003",
                 "paucity",
                 "an insufficient quantity or number",
@@ -21294,96 +20826,6 @@
             ],
             "flags": 0,
             "guid": "Q27L<~K{/0",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1130",
-                "placate",
-                "to make (someone) less angry or hostile",
-                "verb",
-                "",
-                "A parent may decide to placate a baby with a pacifier.",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "kB(m*AzoX=",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "913",
-                "plethora",
-                "a large or excessive amount",
-                "noun",
-                "Synonyms: excess, overabundance, surplus",
-                "Podcasts were facing fierce competition for audiences’ attention from a plethora of other new digital-native products including Facebook, YouTube and Twitte",
-                "Medium Difficult",
-                "FT"
-            ],
-            "flags": 0,
-            "guid": "C8:W6V->KV",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "785",
-                "prodigal",
-                "a person who leaves home and behaves recklessly, but later makes a repentant return",
-                "noun",
-                "",
-                "As the 73-year-old Mr. Obiang becomes frailer, his sons, including the prodigal Teodorín, have begun jockeying to succeed him",
-                "Least Difficult",
-                "FT"
-            ],
-            "flags": 0,
-            "guid": "xiHXYbq+1[",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "794",
-                "strut",
-                "Walk with a stiff, erect, and apparently arrogant or conceited gait",
-                "verb",
-                "Synonyms: swagger, prance, parade",
-                "Dogs strut their stuff on its pavements tricked out in tutus, hoodies, boots, overalls and trousers.",
-                "Least Difficult",
-                "FT"
-            ],
-            "flags": 0,
-            "guid": "c*fhfd-U[H",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "714",
-                "tractable",
-                "can be easily influenced or managed. ability to be easily managed or controlled:",
-                "adj.",
-                "",
-                "Her mother wished she were more tractable. (n: tractibility)",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "Pt%>As&Wz}",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -21438,24 +20880,6 @@
             ],
             "flags": 0,
             "guid": "gH7H@b2R[5",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1132",
-                "venerate",
-                "regard with great respect",
-                "verb",
-                "",
-                "To venerate the fire chief’s forty years of service, the department held a special banque",
-                "Common GRE",
-                "Kaplan"
-            ],
-            "flags": 0,
-            "guid": "Bn~YFl[MA)",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
@@ -22651,24 +22075,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "1509",
-                "log",
-                "a segment of the trunk of a tree when stripped of branches",
-                "",
-                "",
-                "",
-                "Hi Freq. GRE Easy",
-                "Barron"
-            ],
-            "flags": 0,
-            "guid": "g&(:Rgtk(=",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1510",
                 "malingerer",
                 "someone shirking duty by feigning illness or incapacity",
@@ -22993,24 +22399,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "1528",
-                "propitiate",
-                "make peace with",
-                "",
-                "",
-                "",
-                "Hi Freq. GRE Easy",
-                "Barron"
-            ],
-            "flags": 0,
-            "guid": "h>8#U%orTl",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1529",
                 "proscribe",
                 "command against",
@@ -23292,24 +22680,6 @@
             ],
             "flags": 0,
             "guid": "xZ;0/Ixy3q",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "1545",
-                "solicitous",
-                "full of anxiety and concern",
-                "",
-                "",
-                "",
-                "Hi Freq. GRE Easy",
-                "Barron"
-            ],
-            "flags": 0,
-            "guid": "ldghH4?ct*",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         },
