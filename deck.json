@@ -4473,7 +4473,7 @@
                 "disingenuous",
                 "not candid or sincere, generally by pretending one knows less than one actually does",
                 "adj.",
-                "from dis- \"opposite of\" + ingenuous(=naïve)</br>Synonyms: dishonest, deceitful, duplicitou",
+                "from dis- \"opposite of\" + ingenuous(=naïve)</br>Synonyms: dishonest, deceitful, duplicitous",
                 "The detective was a <b><u>disingenuous</b> man who  played dumb to trick others</u> into confessing",
                 "Least Difficult",
                 "FT"
@@ -5531,24 +5531,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "282",
-                "enervate",
-                "to exhaust or drain of energy. to weaken or destroy the strength or vitality of:  (adj: enervating)",
-                "verb",
-                "make tired by \"getting on your nerves\"",
-                "The heat <b>enervated</b> everyone.",
-                "357 prevalent GRE words",
-                "Prepscholar"
-            ],
-            "flags": 0,
-            "guid": "r9d=DAKP:^",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "284",
                 "engender",
                 "to cause or give rise to",
@@ -6166,7 +6148,7 @@
                 "a person or thing serving as a typical example or excellent model",
                 "noun",
                 "Synonyms: epitome, perfect example",
-                "_x005F_x0018_At times 'Utopia' seems less an exemplar of idealism, and more of a satire on it.",
+                "At times 'Utopia' seems less an exemplar of idealism, and more of a satire on it.",
                 "Medium Difficult",
                 "FT"
             ],
@@ -7696,7 +7678,7 @@
                 "overused,  so overused as to have become uninteresting, repeated  too often,  cliché, trite, bana",
                 "adj.",
                 "Named after London Borough of Hackney where small horses were let out for hire, so figuratively :  used many times over that it has become uninteresting",
-                "Too often used by young girls, <u>the word “like” has become <b>hackneyed</b>",
+                "Too often used by young girls, <u>the word “like” has become <b>hackneyed</b></u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -7984,7 +7966,7 @@
                 "1. n. a male spouse. </br>2. v. to farm, to manage frugally. to conserve",
                 "noun",
                 "Long ago husbands were robust men of the Earth — farmers, in other words. That meaning died out, but its current meaning survives as a remnant of it.",
-                "1. My mother's husband is my father. 2.  Our <u>animal <b?husbandry</b></u>, or animal care, staff—the ones who clean cages and feed the animals—is physically isolated down the road.",
+                "1. My mother's husband is my father. 2.  Our <u>animal <b>husbandry</b></u>, or animal care, staff—the ones who clean cages and feed the animals—is physically isolated down the road.",
                 "Homonym",
                 "MSU"
             ],
@@ -8325,7 +8307,7 @@
                 "imperious",
                 "commanding,domineering; expecting ones' orders to be followed",
                 "adj.",
-                "",
+                "Latin imperiōsus\"command, supreme power, empire.\"</br>Synonyms : arrogant, overbearing, and domineering",
                 "<u>In an <b>imperious tone</b></u>, the police officer ordered the driver to step out of the car.",
                 "Common GRE",
                 "MSU"
@@ -8433,7 +8415,7 @@
                 "imply",
                 "to suggest indirectly; to entail:  (n: implication)",
                 "verb",
-                "",
+                "Latin :in- \"into, in, on, upon\" + plicare \"to fold\"=  Meaning \"to involve something unstated as a logical consequence",
                 "She implied she didn't believe his story.",
                 "Common GRE",
                 "MSU"
@@ -8451,7 +8433,7 @@
                 "improvidence",
                 "an absence of foresight; a failure to provide for future needs or events:",
                 "noun",
-                "",
+                "Latin : im-, \"not,\" and providentia, \"foresight.\"</br>Synonyms : shortsightedness",
                 "Their improvidence resulted in the loss of their home.",
                 "Common GRE",
                 "MSU"
@@ -8469,7 +8451,7 @@
                 "imprudence",
                 "bad judgment, often through quick and  rash decisions",
                 "noun",
-                "",
+                "Latin: imprudentem means \"not forseeing, unaware, or inconsiderate.\"</br>Syn:  a)heedlessness, mindlessness, rashness  b)improvidence, shortsightedness, c)lightheadedness,  d)extravagance, prodigality, profligacy, e) thriftlessness, waste, wastefulness",
                 "Phil’s <u><b>imprudent</b> turn</u> on the highway caused a six-car accident",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -8487,7 +8469,7 @@
                 "impudent",
                 "disrespectful",
                 "adj.",
-                "Latin:   im, meaning without, + pudens, meaning shame",
+                "Latin:   im, meaning without, + pudens, meaning shame</br>Syn:   a) impertinent, overbold, sassy, saucy, smart, wise, forward.  B)    flip, insolent, snotty-nosed, disrespectful",
                 "The boy is an <u><b>impudent</b> scoundrel</u> who doesn’t seem to respect rules or people",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -8505,8 +8487,8 @@
                 "impugn",
                 "Dispute the truth, validity, or honesty of (a statement or motive)",
                 "verb",
-                "Synonyms: call into question, challenge",
-                "Impugning Mr. Abe’s motives is too cynical. His commitment to economic revival was no doubt sincere.",
+                "Latin : in- \"into, in, on, upon\"  + pugnare \"to fight\"=>attack by argument</br>Synonyms: call into question, challenge",
+                "The media vilified the protesters and their cause by<u><b> impugning</b> their character.</u>",
                 "Most Difficult",
                 "FT"
             ],
@@ -8520,10 +8502,10 @@
             "data": "",
             "fields": [
                 "415",
-                "in",
-                "in",
+                "in</br> il</br> im</br> ir",
+                "in  : Deutscher Stamm : \"in\"",
                 "Greek/Latin root",
-                "",
+                "This is the first of 2 generic meanings of \"in\". The other is 'NOT\"",
                 "incarcerate</br> incorporate</br> inculcate</br> induction</br> inductance</br> indigenous</br> indicator</br> inspiration",
                 "Greek/Latin",
                 "MSU"
@@ -8539,9 +8521,9 @@
             "fields": [
                 "416",
                 "in</br> im",
-                "not",
+                "not , against : Deutscher Stamm : \"un-\"",
                 "Greek/Latin root",
-                "",
+                "This is the SECOND of 2 generic meanings of \"in\". The other is ÏNTO",
                 "incredible</br> ignoble</br> inglorious</br> inhospitable</br> infinite</br> infinitesimal</br> immoral",
                 "Greek/Latin",
                 "MSU"
@@ -8559,8 +8541,8 @@
                 "inadvertent",
                 "by accident or unintentional",
                 "adj.",
-                "",
-                "Because the principal neglected to turn off the microphone on the PA system, some statements were inadvertently broadcat to all.",
+                "Latin: in- = \"not+ ad =\"to, toward\" + vertere= \"to turn.\" =>   inadvertent means “not turning the mind to</br>Syn: accident, unintended",
+                "Because the principal neglected to turn off the microphone on the PA system, <u>some statements were <b>inadvertently</b> broadcat to all. </u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8578,7 +8560,7 @@
                 "rudimentary, in the beginning stages",
                 "adj.",
                 "of uncertain origin. Probably something like to start strapping up the ox, ie. Start work",
-                "The act of writing forces one to clarify <u>vague <b>incohate</u></b> thoughts.",
+                "The act of writing forces one to clarify <u>vague <b>inchoate</u></b> thoughts.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8595,7 +8577,7 @@
                 "incise",
                 "Mark or decorate (an object or surface) with a cut or a series of cut",
                 "verb",
-                "Synonyms: engrave, etch, carve",
+                "Latin : in=in + cis=cut</br>Synonyms: engrave, etch, carve",
                 "This 12th-century incense burner is incised with calligraphy that identifies its maker and first owner.",
                 "Most Difficult",
                 "FT"
@@ -8613,8 +8595,8 @@
                 "inconclusive",
                 "indeterminate or unresolved",
                 "adj.",
-                "",
-                "",
+                "Latin:  in- \"not, opposite of\" + con :\"together\"  + -cludere : \"to shut\"=>not shut together, not finalised</br>Syn: equivocal, indeterminate,  head-to-head, neck and neck, nip and tuck,  nisi, indecisive, indeterminate, undetermined",
+                "<u>An autopsy was <b>inconclusive</u></b> on how Mason died.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8629,9 +8611,9 @@
             "fields": [
                 "421",
                 "incorrigible",
-                "not capable of being corrected: \"",
+                "not capable of being corrected",
                 "adj.",
-                "",
+                "Latin : in : \"not, opposite of\" + corrigibilis\"to correct,\"=> not correctable </br>Syn:a) unreformable, unregenerate\n  b)   uncontrollable, uncorrectable, unmanageable c) disobedient",
                 "The school board finally decided the James was incorrigible and expelled him from school.",
                 "Common GRE",
                 "MSU"
@@ -8646,7 +8628,7 @@
             "data": "",
             "fields": [
                 "422",
-                "incredulous (credulous) </br> incredible (credible)",
+                "incredulous (credulous) versus </br> incredible (credible)",
                 "incredulous is when a person is disbelieving, very doubtful - but when the statement or action is incredible, then IT is difficult to believe",
                 "adj.",
                 "",
@@ -8665,10 +8647,10 @@
             "fields": [
                 "980",
                 "incubus",
-                "a cause of distress or anxiety",
+                "<u>a cause of distress or anxiety.</u> originally,   incubus = mythological character that visits people in their sleep, a kind of nightmare demon.",
                 "noun",
-                "",
-                "The Japanese people, freed of the incubus of a war industry which by 1938 was absorbing 61 per cent of their national income, have a chance of recovering...",
+                "Latin incubo, \"nightmare, one who lies down on the sleeper\"</br> incubate is linked to this word. </br> Syn: a) demon, devil, fiend b) nightmare c)  a complex situation d) disagreeable person, unpleasant person",
+                "An idea shot through her mind that <u>she might call a policeman to rid her of this <b>incubus</b></u>",
                 "Most Difficult",
                 "FT"
             ],
@@ -8704,7 +8686,7 @@
                 "owing money",
                 "adj.",
                 "adj. owing gratitude to someone or something",
-                "",
+                "Because his friend saved him from drowning in the pool, Carl felt <b>indebted</b> to return the favor somehow.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8721,8 +8703,8 @@
                 "indefatigable",
                 "cannot be made tired",
                 "adj.",
-                "",
-                "",
+                "in: \"not\" + de:\"toward\" + fatigue:\"tiredness\" =>not  to bring to tiredness",
+                "The Kenyan marathon runner was indefatigable, and finished in 2 hours",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8739,7 +8721,7 @@
                 "indelible",
                 "permanent; unerasable; strong: \"",
                 "adj.",
-                "",
+                "Latin : in- \"not\"+ delere \"destroy, blot out\" => cannot be erased",
                 "The Queen made an indelible impression on her subjects.",
                 "Common GRE",
                 "MSU"
@@ -8776,7 +8758,7 @@
                 "1. local, native </br>     2. poor, needy",
                 "adj.",
                 "",
-                "The ingenous population was hungry and indigent",
+                "The <b>indigenous</b> population was hungry and <b>indigent</b>",
                 "Easily confused words",
                 "MSU"
             ],
@@ -8793,7 +8775,7 @@
                 "indolence",
                 "Avoidance of activity or exertion",
                 "noun",
-                "Synonyms: laziness, idleness, slothfulness",
+                "",
                 "The indolence of a society brought up to expect that oil riches will be lavished upon them is another large hurdle.",
                 "Medium Difficult",
                 "FT"
@@ -8811,8 +8793,8 @@
                 "indolent",
                 "lazy",
                 "adj.",
-                "adj. idle",
-                "",
+                "Latin indolentem: causing no pain, painless,\"",
+                "The <b>indolent</b> schoolboy failed the test.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8848,7 +8830,7 @@
                 "undescribable; inexpressible in words; unspeakable",
                 "adj.",
                 "",
-                "",
+                "The joy I experienced at the birth of my first child was <b>ineffable.</b>",
                 "Common GRE",
                 "MSU"
             ],
@@ -8865,7 +8847,7 @@
                 "inert",
                 "Lacking vigor",
                 "adj.",
-                "Synonyms: idle, inactive, underactive",
+                "",
                 "America’s founders, he argued, put their faith in reasoned discussion among citizens and believed that the 'greatest menace to freedom is an inert people.",
                 "Least Difficult",
                 "FT"
@@ -8883,7 +8865,7 @@
                 "infer",
                 "to conclude from implicit evidence (as opposed to explicit facts)",
                 "verb",
-                "",
+                "Latin  in- \"in\"  + ferre \"to carry, to bear,\"=>to 'bring in' as a conclusion of a process of reasoning,\"",
                 "New genetic evidence led some zoologists to infer that the red wolf is actually a hybrid of the coyote and the gray wolf.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -8901,7 +8883,7 @@
                 "ingenious",
                 "clever: (n: ingenuity)",
                 "adj.",
-                "",
+                "Latin : In=in + genious=born, ie.   for inborn talent",
                 "She developed an ingenious method for testing her hypothesis.",
                 "Common GRE",
                 "MSU"
@@ -8919,8 +8901,8 @@
                 "ingenuous",
                 "naive or innocent ;unsophisticated; artless; straightforward; candid:",
                 "adj.",
-                "Latin : ingenuus \"with the virtues of freeborn people, of noble character, frank, upright, candid\"",
-                "The scam artist preyed on ingenuous nursing home residents.",
+                "Latin : ingenuus \"with the virtues of freeborn people, of noble character, frank, upright, candid\" </br> naïve, innocent",
+                "The scam artist preyed on <u><b>ingenuous</b> nursing home residents.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8938,7 +8920,7 @@
                 "an ungrateful person",
                 "noun",
                 "</br>Deutsch : undankbar. </br> Latin : in- \"not\"  + gratus \"pleasing, beloved, dear, agreeable\"",
-                "Greater liberty... over the past generation is abused by ingrates who think it funny to depict their leaders pantless...",
+                "Greater liberty over the past generation is abused by ingrates who think it funny to depict their leaders pantless...",
                 "Least Difficult",
                 "FT"
             ],
@@ -8955,8 +8937,8 @@
                 "inhibit",
                 "to hold back, prohibit, forbid, or restrain (n: inhibition, adj: inhibited)",
                 "verb",
-                "",
-                "",
+                "PIE / Latin : in= not + hibere = have (haben auf Deutsch) => to hinder</br> Syn : a) hinder, impede   b)conquer, curb, stamp down, subdue, suppress c) hold back, keep, keep back, restrain",
+                "1. Contact between  young adults  was inhibited by strict social customs</br>2.The trace component inhibited the rate of a chemical reaction",
                 "Common GRE",
                 "MSU"
             ],
@@ -8973,8 +8955,8 @@
                 "inimical",
                 "harmful or hostile",
                 "adj.",
-                "",
-                "",
+                "Latin inimicus \"unfriendly; an enemy\"",
+                "NATO is seen to be <b>inimical</b>to the best interests of the Russian people.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -8991,8 +8973,8 @@
                 "innocuous",
                 "harmless; having no adverse affect; not likely to provoke strong emotion",
                 "adj.",
-                "",
-                "",
+                "from in- \"not\" + nocuus \"hurtful,\"</br> Syn: a) harmless, innoxious   b) innocent, harmless    c) unobjectionable,   inoffensive",
+                "Because the virus was <b>innocuous</b>, the hospital staff had no need to worry about the leak.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9027,8 +9009,8 @@
                 "inscrutable",
                 "enigmatic, incomprehensible",
                 "adj.",
-                "",
-                "",
+                "in- \"not, opposite of\"  + scrutari \"examine, ransack\"=> that cannot be discovered by searching </br>Syn:  cryptic, cryptical, deep, mysterious, mystifying, incomprehensible, inexplicable",
+                "Not even the leading experts in criminology could understand <u>the killer’s<b> inscrutable</b> motives.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9046,7 +9028,7 @@
                 "barely able to be perceived",
                 "adj.",
                 "",
-                "Wayne was rendered insensible by a blow to the head.                   They were insensibile to the suffering of others.:",
+                "Wayne was rendered <b>insensible</b> by a blow to the head. </br> They were <b>insensibile</b> to the suffering of others.:",
                 "Common GRE",
                 "MSU"
             ],
@@ -9082,7 +9064,7 @@
                 "lacking interest or significance or impact",
                 "adj.",
                 "Synonyms: boring, vapid, dull. </br>Deutsch : Geschmacklos, fad. </br> Latin  in- \"not\"  + Latin sapidus \"tasty\"  sapere",
-                "It was a stultifying procession of patriotic songs... insipid skits and bald propaganda.",
+                "It was a stultifying procession of patriotic songs, nothing but insipid skits and bald propaganda.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9099,7 +9081,7 @@
                 "insular",
                 "of or pertaining to an island, thus, excessively exclusive: tight-knit and isolated; uninterested in matters outside one’s immediate spher",
                 "adj.",
-                "",
+                "gleicher Wortstamm wie \"insel\"",
                 "Newcomers found it difficult to make friends in the insular community.",
                 "357 prevalent GRE words",
                 "Prepscholar"
@@ -9115,10 +9097,10 @@
             "fields": [
                 "448",
                 "intensive",
-                "concentrated and in-depth",
+                "1. concentrated and in-depth </br>2. of agriculture; intended to increase productivity of a fixed area by expending more capital and labor",
                 "adj.",
                 "",
-                "",
+                "1. “the questioning was intensive”, “intensive care”, “research- intensive”, “a labor- intensive industry” </br>2. “intensive agriculture”",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9153,8 +9135,8 @@
                 "intermediary",
                 "a go-between",
                 "noun",
-                "",
-                "",
+                "inter- = between, +  medius= the middle  =>go-between or a mediator between two other people. </br>Syn :  go-between, intercessor, intermediator, mediator",
+                "For online exchanges, I use PayPal because it is an <b>intermediary</b> that performs secure financial transactions.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9189,8 +9171,8 @@
                 "intractable",
                 "difficult to manage or mold",
                 "adj.",
-                "adj. stubborn or obstinate",
-                "",
+                "in=not + tract= manage (like contract) => not manageable</br> Syn: a) defiant, noncompliant b) disobedient c) obstinate, stubborn, unregenerate d) untamed, wild\ne)  balking, balky f) refractory, stubborn g)  uncontrollable, unmanageable h) unmalleable",
+                "1. Additional police officers were called to the scene when the crowd became intractable</br>2. It took six paramedics to handle the intractable task of lifting the eight hundred pound woman.</br>adj. stubborn or obstinate",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9205,10 +9187,10 @@
             "fields": [
                 "454",
                 "intransigent",
-                "uncompromising, obstinate ;stubborn; immovable; unwilling to change:",
+                "uncompromising, obstinate s tubborn, immovable, unwilling to change:",
                 "adj.",
-                "",
-                "She was so intransigent we finally gave up trying to convince her. (n: intransigence)",
+                "in- : \"not,\" + trans=movement =>is not moving</br>Syn: bullheadedness, obstinacy, obstinance, pigheadedness, self-will, stubbornness",
+                "He was an <u><b>intransigent</b> conservative</u> opposed to every liberal tendency",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9225,8 +9207,8 @@
                 "intrepid",
                 "bold and adventurous",
                 "adj.",
-                "",
-                "",
+                "in- \"not\"  + trepidus \"alarmed,tremble\".=> no fear </br> same root as trepidation=fear",
+                "To be an astronaut, you must be an <b>intrepid</b> person who craves adventure and is not afraid of heights.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9243,8 +9225,8 @@
                 "inveterate",
                 "ingrained, habitual",
                 "adj.",
-                "",
-                "",
+                "associated with chronic disease in middle English. Now refers to something that is a signature habit with a person. </br>Syn : chronic, usual",
+                "Mark is an inveterate liar who could not tell the truth even if you paid him",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9261,8 +9243,8 @@
                 "invulnerable",
                 "indestructible, impervious to harm",
                 "adj.",
-                "",
-                "",
+                "Syn :      unconquerable, protected,  safesecure, air-tight, airtight, bombproof, shellproof,  defendable, defensible, impregnable, inviolable, secure, strong, unassailable, unattackable, tight, sheltered, untouchable",
+                "Gunners shot at the beach from <b>invulnerable</b> positions on the cliffs",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9315,8 +9297,8 @@
                 "irresolute",
                 "uncertain how to act or proceed",
                 "adj.",
-                "",
-                "",
+                "Syn :      indecisive,  discouraged, infirm, unstable, vacillant, vacillating, wavering, weak-kneed",
+                "Because Jack is <b>irresolute</b> about the future of the stock market, he is hesitant to make a large financial investment at this time.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9406,7 +9388,7 @@
                 "Traveling from place to place",
                 "adj.",
                 "Synonyms: peripatetic, wandering, roving",
-                "Her first America-set film is a freewheeling road movie in which an 18-year-old escapes a dysfunctional family by joining a group of itinerant young misfits.",
+                "My father is an <b>itinerant</b>, spending weeks a year on a plane",
                 "Medium Difficult",
                 "FT"
             ],
@@ -9495,7 +9477,7 @@
                 "lachrymose",
                 "Inducing tears; sad",
                 "adj.",
-                "was in Stephan's GMAT !</br>Synonyms: sad, tearful, weepy",
+                "Latin :  lacryma \"a tear\"=> tearful</br>was in Stephan's GMAT !</br>Synonyms: sad, tearful, weepy",
                 "This morning the world is not talking about a dubious song by the host, a lachrymose speech or even an appalling outfit.",
                 "Most Difficult",
                 "FT"
@@ -9531,8 +9513,8 @@
                 "lacuna",
                 "an unfilled space or interval; a gap",
                 "noun",
-                "Synonyms: interval, gap",
-                "This insane lacuna in the justice system reflects extreme systemic prejudice by drivers against cyclists, and would be easy enough to fix.",
+                "Latin lacuna \"hole, pit,\" figuratively \"a gap, void, want,\" </br>Synonyms: interval, gap</br> same root as word \"Lake\", \"lagoon\"",
+                "Discovering the ancient text, historians were sad to discover there was a <b>lacuna</b> in the middle with several missing pages.",
                 "Most Difficult",
                 "FT"
             ],
@@ -9549,8 +9531,8 @@
                 "lambaste",
                 "Criticize (someone or something) harshly",
                 "verb",
-                "Synonyms: castigate, chastise, condemn",
-                "Yet the president was lambasted for his otherworldly complacency.",
+                "Synonyms: castigate, chastise, condemn, correct, objurgate, bawl out, berate, call down, call on the carpet, chew out, chew up, chide, dress down, have words, jaw, lecture, rag, rebuke, remonstrate, reprimand, reproof, scold, take to task, trounce, vituperate",
+                "Yet the president was <b>lambasted</b> for his otherworldly complacency.",
                 "Most Difficult",
                 "FT"
             ],
@@ -9568,7 +9550,7 @@
                 "Theft of personal property",
                 "noun",
                 "Synonyms: stealing, robbery, pilfering",
-                "But there are still no checks and balances on its exercise, as the larceny of governors illustrates.",
+                "The <b>larceny</b charges were dropped when it was discovered he received verbal permission to use the car.",
                 "Most Difficult",
                 "FT"
             ],
@@ -9583,10 +9565,10 @@
             "fields": [
                 "890",
                 "largesse",
-                "Generosity in bestowing money or gifts upon others",
+                "large generosity, liberality in bestowing gifts; extremely liberal and generous of spirit",
                 "noun",
-                "Synonyms: liberality, munificence, bounty",
-                "All else equal, such largesse should indeed give the economy some temporary vim.",
+                "Synonyms: liberality, munificence,  magnanimity, openhandedness, gift",
+                "All else equal, such <b>largesse</b> should indeed give the economy some temporary vim.",
                 "Medium Difficult",
                 "FT"
             ],
@@ -9619,10 +9601,10 @@
             "fields": [
                 "472",
                 "laud",
-                "praise, glorify, or honor",
+                "praise, glorify, or honor often in a very public manner",
                 "verb",
-                "",
-                "",
+                "Syn :   exalt, extol, glorify, proclaim,  canonise, canonize, ensky, crack up, hymn",
+                "Because the soldier saved the president, everyone is going to <b>laud</b> him at a huge event",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9640,7 +9622,7 @@
                 "praiseworthy; commendable (v. laud)",
                 "adj.",
                 "",
-                "Providing affordable healthcare for all citizens is a laudable goal.",
+                "Providing affordable healthcare for all citizens is <u>a <b>laudable</b> goal.</u>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9658,7 +9640,7 @@
                 "Not sufficiently strict, severe, or careful",
                 "adj.",
                 "Synonyms: slack, slipshod, negligent. </br>Deutsch : Lasch",
-                "Mario Draghi has faced attacks from critics in Germany (for being too lax) and Greece (for being too tight).",
+                "Mario Draghi has faced attacks from critics in Germany (<u>for being too<b> lax</b></u>) and Greece (for being too tight).",
                 "Least Difficult",
                 "FT"
             ],
@@ -9729,7 +9711,7 @@
                 "lethargic",
                 "lacking energy",
                 "adj.",
-                "ic=nature of, like</br>",
+                "From same Greek word. ic=nature of, like</br>",
                 "It’s not uncommon to feel lethargic for weeks or even months after major surger",
                 "Common GRE",
                 "Kaplan"
@@ -9747,8 +9729,8 @@
                 "leviathan",
                 "giant whale, therefore, something very large",
                 "noun",
-                "",
-                "",
+                "from Hebrew livyathan \"dragon, serpent, huge sea animal </br>a) freak, lusus naturae, monster, monstrosity  b) mythical creature, mythical monster",
+                "The tree was a <b>leviathan</b> among redwoods",
                 "Common GRE",
                 "MSU"
             ],
@@ -9819,7 +9801,7 @@
                 "lied",
                 "1. v. past tense. to tell an untruth. 2. n. (plural: lieder) German. a song, lyric, or ballad.",
                 "verb, noun",
-                "",
+                "Selbsterklaerend",
                 "2. This opera was inspired by a traditional lied.",
                 "Homonym",
                 "MSU"
@@ -9858,7 +9840,7 @@
                 "(especially of writing or music) clear and accessible or melodious",
                 "adj.",
                 "Synonyms: lucid, plain, understandable",
-                "Unlike many writers of Spanish, he preferred short, simple sentences, and they gave his writing a limpid intensity.",
+                "Because the sky was  limpid, we could  see the stars.",
                 "Medium Difficult",
                 "FT"
             ],
@@ -9893,8 +9875,8 @@
                 "litigation",
                 "legal proceedings",
                 "noun",
-                "",
-                "",
+                "Latin :  act of carrying on a lawsuit",
+                "Charles <u>entered into <b>litigation</u></b> when he opened a civil suit, attempting to hold his former employer liable for withholding wages",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -9909,10 +9891,10 @@
             "fields": [
                 "766",
                 "livid",
-                "furiously angry",
+                "1.  furiously angry </br>2. anemic looking from illness or emotion, bluish-gray (eg. sea, bruise, lips)</br>3. (of a light) imparting a deathlike luminosity",
                 "adj.",
-                "Synonyms: infuriated, irate, fuming",
-                "A livid Vladimir Putin minced no words in his response, calling the downing a 'stab in the back'...",
+                "Latin :  \"bluish-gray. </br>Synonyms: 1. infuriated, irate, fuming</br>  2.black-and-blue,  injured, ashen, blanched, bloodless, white, colourless</br>3. deathly",
+                "1. A <b>livid</b> Vladimir Putin minced no words in his response, calling the downing a 'stab in the back'…</br>2.The  <b><u>livid</b> bruises</u> on Judy’s face took weeks to dissapear </br>3. </u><b>livid</b> lightning</u> streaked the sky”",
                 "Least Difficult",
                 "FT"
             ],
@@ -9930,7 +9912,7 @@
                 "speak",
                 "Greek/Latin root",
                 "",
-                "Grandiloquent =pompous or inflated in language            eloquent =speaking beautifully and forcefully        loquacio loquacious =very talkative                          circumlocution=roundabout talk                 elocution =art of clear & expressive speaking",
+                "Grandiloquent =pompous or inflated in language</br>eloquent =speaking beautifully and forcefully</br>loquacious =very talkative</br>circumlocution=roundabout talk</br>elocution =art of clear & expressive speaking</br>locution=talking</br> soliloquy= long solo talk",
                 "Root words",
                 "Aristotle"
             ],
@@ -9948,7 +9930,7 @@
                 "place",
                 "Greek/Latin root",
                 "",
-                "locality</br> local</br> circumlocution",
+                "locality</br> local</br> circumlocution</br>locus</br>: allocate, dislocate, local, locale, locate, locomotive, relocate.",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -9983,8 +9965,8 @@
                 "loll",
                 "Sit, lie, or stand in a lazy, relaxed way",
                 "verb",
-                "Synonyms: lounge, sprawl, drape oneself.   </br>Deutsch : sich rekeln",
-                "The pair loll on a green hillside at Murnau south of Munich where Münter had bought a house",
+                "From Dutch : loll= to doze</br>Synonyms: lounge, sprawl, drape oneself.   </br>Deutsch : sich rekeln",
+                "The pair </b>loll</b> on a green hillside at Murnau south of Munich where Münter had bought a house",
                 "Least Difficult",
                 "FT"
             ],
@@ -10019,8 +10001,8 @@
                 "lugubrious",
                 "weighty, mournful, or gloomy, especially to an excessive degree: \"Jake's lugubrious monologues depressed his friends.\"",
                 "adj.",
-                "Synonyms: mournful, gloomy, sad",
-                "The lugubrious strains of 'Heaven Knows I’m Miserable Now' waft across a sunny beach in Acapulc",
+                "Latin lugubris \"mournful, doleful, pertaining to mourning,\"</br>Synonyms: mournful, gloomy, sad",
+                "After his wife left him, he walked around in a <b>lugubrious</b> condition for months",
                 "Common GRE",
                 "MSU"
             ],
@@ -10055,8 +10037,8 @@
                 "luminous",
                 "softly bright or radiant",
                 "adj.",
-                "",
-                "",
+                "Latin luminosus \"shining, full of light, conspicuous,\"",
+                "One <b>luminous</b> bulb produces enough light to brighten both the kitchen and the dining room.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -10073,8 +10055,8 @@
                 "lurid",
                 "Presented in vividly shocking or sensational terms",
                 "adj.",
-                "Synonyms: melodramatic, exaggerated, overdramatized. </br>Deutsch : Reißerisch, grell. </br> Latin : pale, the colour of bruises, ghastl",
-                "Their absence from the public eye, especially in a Western country with an abundant supply of good hospitals, tends to spark lurid rumours of illness and even death.",
+                "Latin lūridis, \"ghastly, pale yellow,\" </br>Synonyms: melodramatic, exaggerated, overdramatized. </br>Deutsch : Reißerisch, grell.",
+                "She asked the police officer <u>to spare her the <b>lurid</b> details</u> so that she did not have to have the shocking and ugly images put into her imagination.",
                 "Least Difficult",
                 "FT"
             ],
@@ -10125,10 +10107,10 @@
             "fields": [
                 "988",
                 "maelstrom",
-                "a situation or state of confused movement or violent turmoil",
+                "1. a powerful circular current of water</br>2. fig.  a situation or state of confused movement or violent turmoil",
                 "noun",
-                "Synonyms: turbulence, tumult, turmoil",
-                "The execution of its leaders, as much as the Easter Rising itself, triggered a maelstrom of events: a surge of anti-British rage...",
+                "old Dutch Maelstrom (modern maalstroom), literally \"grinding-stream - zu Deutsch : Mahlstrom</br> Synonyms: turbulence, tumult, turmoil</br>Syn:vortex, whirlpool",
+                "“The military is very concerned about getting pulled into the maelstrom of politics in an election year in order to push protesters.”",
                 "Most Difficult",
                 "FT"
             ],
@@ -10521,7 +10503,7 @@
             "fields": [
                 "897",
                 "milieu",
-                "a person’s social environme",
+                "a person’s social environment",
                 "noun",
                 "Synonyms: sphere, background, backdrop",
                 "Armed with a view of themselves in a seething milieu of particles careening around a stretchy space-time, readers are reminded they are 'an integral part of the world which we perceive...'",
@@ -13131,7 +13113,7 @@
             "fields": [
                 "624",
                 "prodigal",
-                "rashly wasteful:, wastefully extravagant",
+                "a person who leaves home and behaves recklessly, but later makes a repentant return",
                 "adj.",
                 "",
                 "Americans' <b>prodigal</b> devotion to the automobile is unique.</br>The <b>prodigal</b> prince bought lavish gifts and planned expensive events.",
@@ -17759,8 +17741,8 @@
                 "ingenious (ingenuity) </br> ingenuous (and disingenuous)",
                 "Ingenious indicates cleverness, particularly relating to inventive, while ingenuous refers to sincerity or a naive nature.",
                 "adj.",
-                "genuous comes  same root as genuine",
-                "Einstein was ingenious while his wife was ingenuous",
+                "Latin :  ingenuus \"having the qualities of people born free, noble, honest, open</br>\"genuous comes  same root as genuine",
+                "Einstein was <b>ingenious</b> while his wife was <b>ingenuous</b>",
                 "Easily confused words",
                 "MSU"
             ],
@@ -17886,7 +17868,7 @@
                 "milk",
                 "Greek/Latin root",
                 "",
-                "lactose</br> lactate</br>",
+                "lactose</br> lactate</br> lactivorous(milk eating)</br>lactescence(milky appearance)</br>lacteal(pertaining to milk)</br>lactation(breast-feeding)",
                 "Latin words",
                 "nko"
             ],
@@ -17922,7 +17904,7 @@
                 "fat",
                 "Greek/Latin root",
                 "",
-                "liposuction</br> lippid</br>",
+                "liposuction</br> lipid</br>",
                 "Latin words",
                 "nko"
             ],
@@ -18912,7 +18894,7 @@
                 "play",
                 "Greek/Latin root",
                 "",
-                "",
+                "allude, allusion, collude, collusion, delude, delusion, elude, elusive, illusion, illusory, interlude, ludicrous, prelude.",
                 "Latin words",
                 "nko"
             ],
@@ -20565,9 +20547,9 @@
             "fields": [
                 "1378",
                 "incumbent  </br> recumbent",
-                "incumbent=The person who has or had a particular official position   </br> recumbent=Lying down",
+                "incumbent=The person who has or had a particular official position",
                 "adj.",
-                "",
+                "Latin: in=in, on, upon + recumbent=Lying down => resting or lying on something",
                 "The  future incumbent went to his job interview in a recumbent bicyle",
                 "Easily confused words",
                 "Khan"
@@ -20583,10 +20565,10 @@
             "fields": [
                 "1379",
                 "loath  </br> loathe",
-                "loath=To be unwilling to do something   </br> loathe=To hate someone or something",
+                "loath=To be unwilling to do something   </br> loath<b><u>e</b></u>=To hat<b><u>e</b></u> someone or something",
                 "verb, noun",
-                "",
-                "The secretary was loath to do the filing and loathed her boss for insisting she did it",
+                "both have same Germanic root : \"leiden\", with its 2 meanings, too. </br>1.Leiden etwas zu tun </br> jmdm nicht leiden können.",
+                "The secretary was <b><u>loath</b> to do the filing and <b><u>loathed</b> her boss</u> for insisting she did it",
                 "Easily confused words",
                 "Khan"
             ],
@@ -20694,7 +20676,7 @@
                 "1. n. a baby deer. </br>2. v. to behave in an excessively humble or obsequious manner., to seek favor or attention",
                 "noun, verb",
                 "noun : same Latin word root as fetus</br>verb: same root as \"feiern\" in Deutsch",
-                "1. bambi was a <b>fawn</b></br>2.Charlie always <u><b>fawned</b> over</u> his professors so much that all the other students disliked him.",
+                "1. bambi was a <b>fawn</b></br> 2. Charlie always <u><b>fawned</b> over</u> his professors so much that all the other students disliked him.",
                 "Homonym",
                 "MSU"
             ],
@@ -20748,7 +20730,7 @@
                 "Tending to talk a great deal",
                 "adj.",
                 "Synonyms: talkative, voluble, communicative",
-                "The loquacious professor was known for his five-hour lectures.",
+                "The <b>loquaciou</b>s professor was known for his five-hour lectures.",
                 "Medium Difficult",
                 "FT"
             ],
@@ -21684,7 +21666,7 @@
                 "characterized by attack on established beliefs",
                 "adj.",
                 "Greek  eikōn, or \"image,\" coupled with -klastēs, \"one who breaks,\"=> one who breaks icons",
-                "",
+                "In the 1960's, iconclastic altneratives to the standard democrate and republican parties were  set up in California.",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21702,7 +21684,7 @@
                 "the worship of objects or images as gods",
                 "noun",
                 "",
-                "",
+                "Both abhorred idolatry and intercession, and both relied on their books, the Bible and the Quran, for direct contact with God",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -21719,8 +21701,8 @@
                 "impassive",
                 "having or revealing little emotion or sensibility",
                 "adj.",
-                "",
-                "",
+                "Impassive is tricky, as it sounds it should be the opposite of passive. It's not, though. The fact is you can be passive and impassive at the same time. When a passive person gets passed over for a promotion at work, their face might remain impassive upon hearing the news.",
+                "he remained <b>impassive</b>, showing neither interest in nor concern for our plight",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -21737,8 +21719,8 @@
                 "impede",
                 "be a hindrance or obstacle to",
                 "verb",
-                "",
-                "",
+                "Latin impedire which literally means \"to hold the feet,\" formed from the prefix in-, (\"in\") plus pes (\"foot\").",
+                "Los Alamos’ housing shortage impedes business growth because there are too few people living in town to attract new retailers, the proposal said.",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -21756,7 +21738,7 @@
                 "preventing especially liquids to pass or diffuse through",
                 "adj.",
                 "",
-                "",
+                "The <u><b>impermeable</b> rain coat</u> kept water from ruining the woman’s cashmere sweater.",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21773,8 +21755,8 @@
                 "impervious",
                 "not admitting of passage or capable of being affected",
                 "adj.",
-                "",
-                "",
+                "im-, = “not,” + permeable,= “allowing to pass through,” impermeable synonyms of  impervious or impenetrable. However,  impermeable is especially associated with liquids, often used in a scientific,  technical context.",
+                "Borders aren’t impermeable</br?The impermeable rain coat kept water from ruining the woman’s cashmere sweater</br>They are impermeable to social reforms.",
                 "Hi Freq. GRE Medium",
                 "Barron"
             ],
@@ -21790,9 +21772,9 @@
                 "1493",
                 "inadvertently",
                 "without knowledge or intention",
-                "adj.",
-                "",
-                "",
+                "adv.",
+                "adv of inadvertent",
+                "We <b>indaver<u>tent</u>ly</b> ripped the <u>tent</u> (spelling donkey's bridge)",
                 "Hi Freq. GRE Medium",
                 "Barron"
             ],
@@ -21807,10 +21789,10 @@
             "fields": [
                 "1494",
                 "incongruity",
-                "the quality of disagreeing",
+                "the quality of disagreeing or being unsuitable and inappropriate",
                 "adj.",
-                "",
-                "",
+                "Latin: in=\"not\"  +con/m \"with, together\" + gruere\"fall, rush,\" =>that which does not fall/fit together</br>Syn:  incongruousness",
+                "The <b>incongruity</b> between an American power cord and a Swedish power outlet means you can’t charge your devices.",
                 "Hi Freq. GRE Medium",
                 "Barron"
             ],
@@ -21828,7 +21810,7 @@
                 "lacking worth or importance",
                 "adj.",
                 "",
-                "",
+                "It was decided that <u>Pluto was too <b>inconsequential</b> to be a planet.</u>",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21845,8 +21827,8 @@
                 "incorporate",
                 "make into a whole or make part of a whole",
                 "verb",
-                "",
-                "",
+                "Latin : in- \"into, in, on, upon\"  + verb of corpus  \"body\" => put into a body/whole",
+                "According to culinary guidelines, a chef should never <b>incorporate</b> cheese into a fish dish.",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -21863,8 +21845,8 @@
                 "indeterminate",
                 "not fixed or known in advance",
                 "adj.",
-                "",
-                "",
+                "Latin  : in- \"not,\" + determinare \"to enclose, bound, set limits to\" => not to be defined, limited</br>Syn: undetermined, uncertain, inconclusive, indeterminable, undeterminable",
+                "“the influence of environment is <b>indeterminate</b></br>The deceased hobo was of <b><u>indeterminate</b> age</u>",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21881,8 +21863,8 @@
                 "indigence",
                 "a state of extreme poverty or destitution",
                 "noun",
-                "",
-                "",
+                "</br>Syn : need, pauperisation, pauperism, pauperization, penury, beggary, mendicancy, mendicity, impoverishment, poorness, poverty",
+                "She even forbade me to write about anything in my college essay that hinted at our immigrant indigence.",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21897,10 +21879,10 @@
             "fields": [
                 "1499",
                 "insinuate",
-                "suggest in an indirect or covert way; give to understand",
+                "1. suggest in an indirect or covert way; give to understand 2. introduce or insert (oneself) in a subtle manner",
                 "verb",
-                "",
-                "",
+                "Latin : in: in + sinuare \"to wind, bend, curve,\"=> \"wind one's way into.\"</br> Syn :   1. adumbrate, intimate, hint, suggest    2. bring in, introduce",
+                "1. I <b>insinuated</b> that I did not like his wife. </br>2. He <b>insinuated</b> himself into the conversation of the people at the nearby table",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -21917,8 +21899,8 @@
                 "insularity",
                 "the state of being isolated or detached",
                 "noun",
-                "",
-                "",
+                "Latin :  insula, for \"island.\"</br> Deutsch= Insel </br>Syn : detachment, insularism, insulation",
+                "Their <b>insularity</b> led to the belief that they were the best in all things.",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21935,8 +21917,8 @@
                 "intransigence",
                 "stubborn refusal to compromise or change",
                 "noun",
-                "",
-                "",
+                "in- : \"not,\" + trans=movement =>is not moving</br>Syn: bullheadedness, obstinacy, obstinance, pigheadedness, self-will, stubbornness",
+                "I can’t understand Rachel’s <b>intransigence</b>, considering that we have undeniable proof that her idea is incorrect.",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21951,10 +21933,10 @@
             "fields": [
                 "1502",
                 "inundate",
-                "fill or cover completely, usually with water",
+                "fill or cover completely, usually with water, but increasingly with information, work etc.",
                 "verb",
-                "",
-                "",
+                "Latin :  inundare \"to overflow, run over, to flood\" </br> Syn : deluge, submerge, fill, fill up",
+                "The Black writer was <b>inundated</b> with calls from movie industry executives looking for Black editors to hire",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -21971,8 +21953,8 @@
                 "inured",
                 "made tough by habitual exposure",
                 "adj.",
-                "",
-                "",
+                "contracted from phrase :  (put) in ure = put in use, now meaning \"toughen or harden by experience </br> Syn:  enured, hardened,  tough, toughened",
+                "People in northern regions are <b>inured</b> to the cold weather, and some will even jump into freezing water on occasion.</br>a peasant, dark, lean-faced, wind- inured",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -21989,8 +21971,8 @@
                 "invective",
                 "abusive language used to express blame or censure",
                 "adj.",
-                "",
-                "",
+                "from in- \"against\" + vehere \"to carry\" => =to carry words against = \"abusive speech</br> Syn : vitriol, vituperation",
+                "When my ex-husband tried to start a fight with me by using an <b>invective</b>, I simply walked away from him.",
                 "Hi Freq. GRE Medium",
                 "Barron"
             ],
@@ -22007,8 +21989,8 @@
                 "itinerary",
                 "an established line of travel or access",
                 "noun",
-                "",
-                "",
+                "Latin itinerarium \"account of a journey, description of a route of travel, road-book,\"",
+                "The teacher had to submit an <b>itinerary</b> for her field trip to Disneyworld listing every stop they would make at each hour of the day",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -22026,7 +22008,7 @@
                 "a feeling of lack of interest or energy",
                 "noun",
                 "",
-                "",
+                "Whereas <u>Latitude</u> is the distance from the equator,<b>lassitude</b> is the weariness you'd experience after attempting to run a marathon around the equator",
                 "Hi Freq. GRE Hard",
                 "Barron"
             ],
@@ -22043,8 +22025,8 @@
                 "levee",
                 "an embankment built to prevent a river from overflowing",
                 "noun",
-                "",
-                "",
+                "New Orleans French levée \"a raising, a lifting; an embankment,",
+                "<b>Levees</b> protect land that is normally dry but that may be flooded occasionally, while <u>Dikes</u> protect land that would naturally be underwater most of the time.",
                 "Hi Freq. GRE Medium",
                 "Barron"
             ],
@@ -22061,8 +22043,8 @@
                 "levity",
                 "a manner lacking seriousness",
                 "noun",
-                "",
-                "",
+                "Levity = \"lightness,",
+                "Joking that his dead grandmother \"never looked better\"  injected some <b>levity</b> into her funeral, but his relatives found his joke inappropriate to the occasion.",
                 "Hi Freq. GRE Easy",
                 "Barron"
             ],
@@ -23148,6 +23130,24 @@
             ],
             "flags": 0,
             "guid": "rr57Caw4sR",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1121",
+                "enervate",
+                "cause (someone or something) to feel drained of energy; weaken",
+                "verb",
+                "Enervate is ONE OF THE 5 MOST COMMON MISTAKES made in the GRE!",
+                "The boxer used a swift left uppercut to the jaw to enervate his opponent.",
+                "Common GRE",
+                "Kaplan"
+            ],
+            "flags": 0,
+            "guid": "dKwT37*aPx",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
