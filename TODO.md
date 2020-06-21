@@ -17,6 +17,7 @@
 
 ## Formatting issues in explanation of _ac_:
 <img src="/../assets/ac.png" alt="ac" width="600">
+
 ## Formatting issues in example of _locus_:
 <img src="/../assets/locus.png" alt="ac" width="600">
 
