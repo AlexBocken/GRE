@@ -1,7 +1,9 @@
 # Words that should be added/modified
 
-| Word                     | Occurence                     | Explanation             |
-| :----------------------- | :---------------------------- | :---------------------- |
+| Word                     | Occurence                     | Explanation                            |
+| :----------------------- | :---------------------------- | :----------------------                |
+| mercurial                | no.503                        | missing end of underline delimitor     |
+| meticulous               | no.505                        | bold delimitor misformatted in example |
 
 ----
 
