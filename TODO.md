@@ -1,7 +1,9 @@
 # Words that should be added/modified
 
-| Word                     | Occurence                     | Explanation                            |
-| :----------------------- | :---------------------------- | :----------------------                |
+| Word                     | Occurence                     | Explanation                                          |
+| :----------------------- | :---------------------------- | :----------------------                              |
+| mundane                  | no.521                        | end of underline delimiter missing                   |
+| listless                 | no.765                        | better example, can't remember it for the life of me |
 
 ----
 
@@ -14,3 +16,4 @@
 - Connotation of _facetious_
 - _diatribe_ vs _harangue_<br />
   → harangue more official and bombastic?
+- Difference between _obstinate_ &  _obdurate_
