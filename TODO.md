@@ -12,6 +12,8 @@
 | para                     | no.1129                       | weird formatting with new lines (see below)                  |
 | larceny                  | no.985                        | example just says "The larceny"                              |
 | hackneyed                | no.379                        | meaning cuts off mid-word                                    |
+| phon                     | no.587                        | no meaning                                                   |
+| pique                    | no.1007                       | Meaning does not seem to fit example                         |
 
 
 ## Example pictures for weird formatting
