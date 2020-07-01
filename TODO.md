@@ -20,6 +20,7 @@
 | sanguine                 | no.1020                       | maybe move end of meaning to explanation                                                                          |
 | peruse                   | no.577                        | missing "peruse" in 2nd example, maybe remove triple exclamation marks, looks cheap. (An underline does the same) |
 | rarefy                   | no.640                        | add line break between meanings                                                                                   |
+| screen                   | no.668                        | move example from explanation to example column                                                                   |
 
 
 ## Example pictures for weird formatting
