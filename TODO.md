@@ -10,10 +10,7 @@
 | peruse                   | no.577                        | missing "peruse" in 2nd example, maybe remove triple exclamation marks, looks cheap. (An underline does the same) |
 | rarefy                   | no.640                        | add line break between meanings                                                                                   |
 | screen                   | no.668                        | move example from explanation to example column                                                                   |
-
-
-## Example pictures for weird formatting
- <div style="text-align:center"><img src="/../assets/para.png" alt="para" width="600"/></div>
+| soliloquy                | no.928                        | meaning cuts off mid-word                                                                                         |
 
 ----
 
