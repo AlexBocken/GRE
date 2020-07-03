@@ -16,6 +16,10 @@
 | tacit             | no.699    | remove ":" in the beginning of example                                                                                         |
 | temperance        | no.704    | he exercised temperance _whenever_ he drank but he would never drink? Example sentence seems a bit off but i get the idea      |
 | rue               | no.791    | weird example sentence. _slavery to the slave rule_?                                                                           |
+| toady             | no.1027   | example cuts off mid-word                                                                                                      |
+| transgression     | no.804    | word does not occur in example                                                                                                 |
+| truculent         | no.1028   | example cuts off mid-word                                                                                                      |
+| urbane            | no.936    | example cuts off mid-word                                                                                                      |
 
 ----
 
@@ -30,3 +34,4 @@
   → harangue more official and bombastic?
 - Difference between _obstinate_ &  _obdurate_
 - quiescence vs. abeyance
+- phlegmatic has a negative connotion, doesn't it?
