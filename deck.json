@@ -9816,13 +9816,13 @@
             "data": "",
             "fields": [
                 "481",
-                "lied / lied (pronounced leed)",
-                "the past tense of lie, as in",
-                "verb / noun",
-                "a song; a type German of song, meant to be sung, as opposed to a purely instrumental tune (since this is actually a German word, the plural is lieder, not lieds)",
-                "\"He lied about his age to get into the Army.\"",
-                "Easily confused words",
-                "MSU"
+                "badinage",
+                "teasing conversation; good-humored, playful conversation",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "o~JQNSInfw",
@@ -9980,13 +9980,13 @@
             "data": "",
             "fields": [
                 "487",
-                "lucid",
-                "clear and coherent; Showing ability to think clearly",
+                "beatific",
+                "completely happy and contented; showing or producing exalted joy",
                 "adj.",
-                "Synonyms: rational, sane, in one's right mind",
-                "He made a lucid argument to support his theory.",
-                "357 prevalent GRE words",
-                "Prepscholar"
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "H,$;7o}w#C",
@@ -12303,10 +12303,10 @@
             "fields": [
                 "577",
                 "peruse",
-                "1.  to read something carefully and closely OR </br> 2.  to read something informally or quickly (ie. Just the opposite meaning!!!)",
+                "1.  to read something carefully and closely OR </br> 2.  to read something informally or quickly (ie. Just the opposite meaning !)",
                 "verb",
-                "(context is important for this word!!!!)</br>Syn : browse or skim",
-                "1. The customer <b>perused</b> the wine list in great detail</br>2. The customers <b> the bookshelves</b> in the bookstore",
+                "(context is important for this word)</br>Syn : browse or skim",
+                "1. The customer <b>perused</b> the wine list in great detail</br>2. The customers <b><u>peruse</b> the bookshelves</u> in the bookstore",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -12392,13 +12392,13 @@
             "data": "",
             "fields": [
                 "581",
-                "phenomena",
-                "things that happen",
-                "noun",
+                "brindled",
+                "of brownish, tawny colour, with streaks, spots, or patterns",
+                "adj.",
                 "",
                 "",
-                "357 prevalent GRE words",
-                "Prepscholar"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "vEhY=MfEy1",
@@ -12501,10 +12501,10 @@
             "fields": [
                 "1007",
                 "pique",
-                "a feeling of irritation or resentment resulting from a slight",
+                "1.  a feeling of irritation or resentment resulting from a slight </br>2. to arouse/provoke interest",
                 "noun",
-                "Synonyms: annoyance, displeasure, indignation",
-                "Hopefully the movie trailer will <u><b>pique</b> the interest</u> of moviegoers and motivate them to buy tickets to see the film.",
+                "Deutsch : Pieksen</br> French piquer, \"to prick.\" Thus something that piques you could make you either excited OR angry</br>Syn1: annoyance, displeasure, indignation</br>Syn2:rouse, trigger (interest/curiosity/attention)",
+                "1. The criticism <b>piqued</b> him and he kept quiet the whole evening</br>2. Hopefully the movie trailer will <u><b>pique</b> the interest</u> of moviegoers and motivate them to buy tickets to see the film.",
                 "Most Difficult",
                 "FT"
             ],
@@ -13635,10 +13635,10 @@
             "fields": [
                 "640",
                 "rarefy",
-                "1. to make or become thin; 2. to purify or refine (n: rarefaction, adj: rarefied)",
+                "1. to make or become thin</br> 2. to purify or refine (n: rarefaction, adj: rarefied)",
                 "verb",
                 "Latin : to make rare",
-                "1. A lack of calcium has caused the boy’s bones to <b>rarefy</b> and become brittle.</br>",
+                "1. A lack of calcium has caused the boy’s bones to <b>rarefy</b> and become brittle.</br>2. In <u>the<b> rariefied</b> air at the top of the mountain</u>, he was unable to run for longer periods of time",
                 "Common GRE",
                 "MSU"
             ],
@@ -13905,10 +13905,10 @@
             "fields": [
                 "652",
                 "respectively",
-                "ad in the sequential order previously given",
+                "in the sequential order previously given",
                 "adj.",
                 "",
-                "Each recipient was called up to receive their award, respectively.",
+                "Each recipient was called up to receive their award, <b>respectively.</b>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -13941,10 +13941,10 @@
             "fields": [
                 "790",
                 "reticence",
-                "the quality of not revealing one’s thoughts or feelings readi",
+                "the quality of not revealing one’s thoughts or feelings readily",
                 "noun",
                 "Synonyms: reserve, introversion, restraint",
-                "The shy wallflower’s reticence kept her from talking to anyone at the school dance.",
+                "The <u>shy wallflower’s <b>reticence</u></b> kept her from talking to anyone at the school dance.",
                 "Least Difficult",
                 "FT"
             ],
@@ -14015,8 +14015,8 @@
                 "ribald",
                 "Referring to sexual matters in an amusingly rude or irreverent way",
                 "adj.",
-                "Synonyms: bawdy, indecent, risqu�",
-                "When challenged... about human rights in Chechnya, he replied with a ribald offer to arrange for the questioner's Islamic circumcision.",
+                "Synonyms: bawdy, indecent, risque",
+                "When challenged... about human rights in Chechnya, he replied with <u>a <b>ribald</b> offer to arrange for the questioner's Islamic circumcision.</u>",
                 "Most Difficult",
                 "FT"
             ],
@@ -14069,8 +14069,8 @@
                 "rue",
                 "Bitterly regret (something one has done or allowed to happen)",
                 "verb",
-                "Synonyms: deplore, lament, bemoan",
-                "Meanwhile, Mr. Showalter will now have a long six months to <b>rue</b> his slavery to the save rule before his club plays another game.",
+                "Deutscher Stamm : reuen </br>Synonyms: deplore, lament, bemoan</br> don't confuse with \"rue\"=street in French",
+                "1.to his <b>rue</b> , the error cost him the game</br>2. He <u><b>rued</b> the day</u> he took his first dose of heroin.",
                 "Least Difficult",
                 "FT"
             ],
@@ -14175,10 +14175,10 @@
             "fields": [
                 "1020",
                 "sanguine",
-                "Optimistic or positive, especially in an apparently bad or difficult situation. cheerful; confident: \"Her sanguine attitude put everyone at ease.\"(Sangfroid (noun) is a related French word meaning unflappibility. Literally, it means cold blood)",
+                "Optimistic or positive, especially in an apparently bad or difficult situation. cheerful; confident:",
                 "adj.",
                 "Synonyms: hopeful, buoyant, assured",
-                "Some fear a future of mass unemployment. Others are <b>sanguine</b> that people will have time to adapt.",
+                "Her <b><u>sanguine</b> attitude</u> put everyone at ease.\"</br>Some fear a future of mass unemployment. Others are <b>sanguine</b> that people will have time to adapt.",
                 "Most Difficult",
                 "FT"
             ],
@@ -14373,10 +14373,10 @@
             "fields": [
                 "668",
                 "screen",
-                "1. n. a flat surface on which to project an image. 2. N. a mesh designed to allow passage of some things while excluding others, as a window screen. 3. v. to select some items from a larger group.",
+                "1. n. a flat surface on which to project an image. </br>2. N. a mesh designed to allow passage of some things while excluding others, as a window screen. </br>3. v. to select some items from a larger group.",
                 "noun",
                 "",
-                "(3) The applicants were screened based on their resumes before the finalists were selected for interviews.",
+                "1. I scratched his TV <b>screen</b></br>2.He passed the sand and stones through a <b>screen</b></br>(3) The applicants were <b>screened</b> based on their resumes.",
                 "Homonym",
                 "MSU"
             ],
@@ -14661,10 +14661,10 @@
             "fields": [
                 "928",
                 "soliloquy",
-                "an act of speaking one’s thoughts aloud when by oneself, especially by a character in a pl",
+                "an act of speaking one’s thoughts aloud when by oneself, especially by a character in a play",
                 "noun",
                 "Synonyms: monologue, speech",
-                "Patrick Stewart, for instance, reworked Hamlet’s soliloquy as an ode to the letter B ('B or not a B, that is the question'",
+                "Patrick Stewart, for instance, reworked <u>Hamlet’s <b>soliloquy</b></u> as an ode to the letter B ('B or not a B, that is the question')",
                 "Medium Difficult",
                 "FT"
             ],
@@ -15003,7 +15003,7 @@
             "fields": [
                 "692",
                 "superbly",
-                "ad excellently",
+                "excellently",
                 "adj.",
                 "Syn:    marvellously, marvelously, terrifically, toppingly, wonderfully, wondrous, wondrously",
                 "The soprano's voice was  <b>superbly</b> disciplined",
@@ -15042,7 +15042,7 @@
                 "1. Failing to act as a result of moral weakness or indolence;  </br>2.laying back with the face upward (opposite position to prone)",
                 "adj.",
                 "Latin : supinus= “thrown backwards” or “inactive.”</br>Synonyms: weak, spineless",
-                "Austria as a country offered <b>supine</b>, selfish helplessness in allowing her country to be taken over by the Nazis.<br>2.After being sprayed with the poison, the roach flipped onto its back in a <u><b>supine</b> position</u> and died.",
+                "1. Austria as a country offered <b>supine</b>, selfish helplessness in allowing her country to be taken over by the Nazis.</br>2.After being sprayed with the poison, the roach flipped onto its back in a <u><b>supine</b> position</u> and died.",
                 "Most Difficult",
                 "FT"
             ],
@@ -15186,7 +15186,7 @@
                 "unspoken; implicit",
                 "adj.",
                 "",
-                ": Katie and carmella had a tacit agreement that they would not mention the dented fender to their parents.",
+                "Katie and carmella had <u>a tacit <b>agreement</b></u> that they would not mention the dented fender to their parents.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -15312,7 +15312,7 @@
                 "moderation and restraint, sometimes used to specifically describe abstinence from alcohol",
                 "noun",
                 "Latin temperare, \"restrain.\"",
-                "Tim <u>exercised <b>temperance</b></u> whenever he drank, so he wouldn’t drink alcohol at all.",
+                "Tim <u>exercised <b>temperance</b></u> whenever he went out, so he wouldn’t drink alcohol at all.",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -23418,6 +23418,1770 @@
             ],
             "flags": 0,
             "guid": "pM^$?k#*N@",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "135",
+                "acrimonious",
+                "bitter and sharp in language, tone, or manner",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "piCkOj@*@?",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "136",
+                "acrimony",
+                "animosity, sharp or bitter hatred",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "sB#j|$YU.r",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "138",
+                "adage",
+                "an old saying, that has obtained credit by long use",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Aoj)ut5g~o",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "139",
+                "addle",
+                "muddle; drive crazy; become confused",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "E<-=iqPAzE",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "140",
+                "adjudicate",
+                "hear and settle a case by judicial procedure",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "En)&yON%e6",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "145",
+                "adjure",
+                "appeal to or entreat earnestly; command or enjoin solemnly, as under oath",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "CvDP&!81bP",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "151",
+                "adornment",
+                "embellishment; decoration; something that beautifies or adorns; ornament",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "h3^c&gbd=Q",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "152",
+                "adroit",
+                "skillful and adept under pressing conditions",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "EB>#]2w!1P",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "156",
+                "adumbrate",
+                "give hint or indication of something; disclose partially or guardedly; overshadow; shade",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "d6.!p$T%V/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "160",
+                "affable",
+                "easily approachable; warmly friendly",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "I@cCb6ptm7",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "162",
+                "agnostic",
+                "one who is skeptical of existence of a god or any ultimate reality",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "b;iF|zcX0n",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "171",
+                "allurement",
+                "temptation; enticement; any real or apparent good held forth, or operating, as a motive to action",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "s*_`NFg8-Q",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "183",
+                "allusion",
+                "an indirect reference",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "zn/ViRlBbk",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "187",
+                "amble",
+                "moving at an easy pace; walk slowly or leisurely",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "r,pYjn<Yj*",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "193",
+                "amenity",
+                "pleasantness resulting from agreeable conditions",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "E^qH^v@hE~",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "200",
+                "analgesic",
+                "serving to reduce sensibility to pain without loss of consciousness",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "gBv4lc21dp",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "206",
+                "ancillary",
+                "serving as aid or accessory; auxiliary",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ciWT/ek+7|",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "209",
+                "animus",
+                "feeling of animosity",
+                "noun",
+                "Same word root as \"animosity\"",
+                "Obama felt that Trump had a bizarre personal <b>animus</b> against him, all rooted in the birther lie, until he realised Trump himself was bizarre.",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "hDh0R3@SOr",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "216",
+                "antedate",
+                "be earlier in time; go back further",
+                "verb",
+                "Latin: ante=earlier + date=time=> be earlier in time.",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Ig-qB,(G_l",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "217",
+                "anthology",
+                "book of literary selections by various authors",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "OF9NZ%H3e/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "220",
+                "antithesis",
+                "contrast; direct contrast; opposition",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "t/u3K2ZnH<",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "223",
+                "antler",
+                "entire horn, or any branch of the horn",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "sEdH24NpNL",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "226",
+                "aphasia",
+                "loss of speech due to injury or illness",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "xFWg_^gS{5",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "236",
+                "aphorism",
+                "definition or concise statement of principle; tersely phrased statement of truth or opinion",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "KoH$=g!>rA",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "239",
+                "apiary",
+                "place where bees and beehives are kept, especially where bees are raised for their honey",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "K|)#oG:;Xd",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "257",
+                "apocryphal",
+                "untrue; of questionable authorship or authenticity; erroneous; fictitious",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "k|@S|O84uR",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "261",
+                "apogee",
+                "the highest point; point in orbit most distant from the body being orbited",
+                "noun",
+                "</br>Antnym:perigee.",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "IYfWh4w<J$",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "272",
+                "apostate",
+                "one who abandons his religious faith or political beliefs",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "c_w/j>8bGl",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "278",
+                "apotheosis",
+                "elevation to godhood; fact or action of becoming a god; an ideal example of something",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "DQ#OJ;pN?Y",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "281",
+                "appellation",
+                "name; title; act of naming; act of appealing for aid, sympathy",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q(:+$WsU9^",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "282",
+                "apposite",
+                "strikingly appropriate and relevant; well-suited",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "erM|5R^vt9",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "283",
+                "appropriation",
+                "funding; money set aside for a specific purpose",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "EI}h001?k|",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "289",
+                "aquifer",
+                "underground bed or layer yielding ground water for wells and springs etc",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "nk{!rI0F.x",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "291",
+                "aquiline",
+                "curved or hooked like an eagle's beak",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "frhB&62(!R",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "298",
+                "arboreal",
+                "tree-dwelling; treelike; living in trees",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Gy6`3V?U;i",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "304",
+                "archetype",
+                "prototype; original model or type after which other similar things are patterned",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ra7a+J}}y*",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "310",
+                "arraign",
+                "officially charge someone in a court of law",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q#Sr:_GcS.",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "313",
+                "arrears",
+                "being in debt; unpaid, overdue debt or an unfulfilled obligation",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "y?h]8T?XA!",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "316",
+                "arrogate",
+                "claim without justification; claim for oneself without right",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "FUSLwOASdP",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "329",
+                "artifice",
+                "subtle but base deception; trickery; cleverness or skill; ingenuity",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "I/IW_1R%>/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "338",
+                "ascendancy",
+                "superiority or decisive advantage; domination",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "yOhUQFZ/9:",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "349",
+                "aseptic",
+                "preventing infection; having cleansing effect",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "O<x*t~cljU",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "367",
+                "asperity",
+                "harshness of manner, roughness",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "GQ7{~oBfIf",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "372",
+                "aspirant",
+                "one who aspires, as to advancement, honors, or a high position",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "xEQ$7miL]j",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "376",
+                "assent",
+                "express agreement to what is alleged or proposed; accept",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "r/J4_W7j}~",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "380",
+                "assimilate",
+                "to make similar, to incorporate or absorb into",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "lvp&^,cevV",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "387",
+                "astigmatism",
+                "eye defect that prevents proper focus",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "P/<r-;v_NX",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "394",
+                "at loggerheads",
+                "engaged in a dispute",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "e$;>}GezeJ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "418",
+                "atrial",
+                "of or pertaining to an atrium, especially the upper chambers of the heart",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "jNCpbyfGuT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "430",
+                "attrition",
+                "gradual decrease in numbers; reduction in work force without firing employees; wearing away of opposition by means of harassment",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Ai{%88rYo`",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "434",
+                "augury",
+                "sign of something coming; art or practice of foretelling events by signs or omens",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "w=V![([L;W",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "439",
+                "avocation",
+                "activity taken up in addition to one's regular work or profession, usually for enjoyment",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "e=<$O<$`^~",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "444",
+                "avowal",
+                "open declaration; frank acknowledgment",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "hH)`?$kZop",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "446",
+                "avuncular",
+                "in manner of uncle, pertaining to uncle; kind, genial, benevolent or tolerant",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Oa`w5k%{2N",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "453",
+                "azure",
+                "sky blue; light purplish-blue",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "d&tklP:KQ+",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "459",
+                "bacchanalian",
+                "drunken; relating to reveling and drunkenness",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "rNC?N+DHB|",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "484",
+                "bailiff",
+                "legal officer to whom some degree of authority",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "z0Vle|-ofN",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "485",
+                "baleful",
+                "portending evil; harmful in intent or effect.",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "L&|Ys#lf3F",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "486",
+                "beamline",
+                "line traveled by a particle beam in an accelerator",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "OOcGNtAu&T",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "493",
+                "beatitude",
+                "blessedness; state of extreme happiness",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "JdA3$+@~OQ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "497",
+                "bedeck",
+                "adorn or ornament in a showy fashion",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "vhu!)vr5&k",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "508",
+                "beget",
+                "produce; give rise to",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "tnK*{Z#@bw",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "512",
+                "beguile",
+                "mislead; delude; deceive by guile",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "c0VD~C++Zf",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "515",
+                "beleaguer",
+                "besiege or attack; harass; surround with troops",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "r7}3aW(B9N",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "524",
+                "benediction",
+                "blessing; invocation of divine blessing; expression of good wishes",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "deK*TW{cF.",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "528",
+                "bilious",
+                "suffering from indigestion; appearing as if affected by disorder; sickly",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "F8Kc>gJGG,",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "530",
+                "blare",
+                "loud, harsh roar or screech; dazzling blaze of light",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "l#%f}@iiK$",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "533",
+                "blench",
+                "draw back, from lack of courage or resolution; turn pale, as if in fear",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "JD=;S8Z}h|",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "538",
+                "blindside",
+                "to take by surprise",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "g9`x=o}+=9",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "540",
+                "boisterous",
+                "rough and stormy; loud, noisy, and lacking in restraint or discipline",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "c=C,6,qL=0",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "541",
+                "bonny",
+                "handsome; beautiful; pretty; attractively lively and graceful",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "x4QmMq+c@7",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "550",
+                "bounteous",
+                "liberal in charity; disposed to give freely; generously liberal; beneficent; free in bestowing gifts",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "o>1X@FM?0/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "552",
+                "bounty",
+                "liberality in giving; something that is given liberally; goodness, kindness",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q_-~:Ee(l",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "564",
+                "bridle",
+                "headgear with which a horse is directed and which carries a bit and reins",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "lnca:$x3<w",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "567",
+                "brimful",
+                "full to the brim; completely full; ready to overflow",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "I>]u@{Tq6F",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "584",
+                "bulwark",
+                "earthwork or other strong defense; person who defends",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "I9dWm3pp*-",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "587",
+                "bursary",
+                "treasury, especially of a public institution or religious order; scholarship granted to a university student in need",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "vvJJNZpKT#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "589",
+                "buxom",
+                "healthily plump and ample of figure; full-bosomed; vigorous; jolly",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "EQ]O[$]XfL",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "592",
+                "callow",
+                "youthful; immature; inexperienced; without feathers",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "k8i(WPW)nR",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "593",
+                "canister",
+                "small box or case for tea, coffee, etc",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "iSu=kJ{[1/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "595",
+                "canker",
+                "corroding or sloughing ulcer; anything which corrodes, corrupts, or destroy; disease incident to trees, causing the bark to rot and fall off",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "cFRhgGehYT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "596",
+                "cantankerous",
+                "ill humored; irritable; marked by ill-tempered contradiction or opposition; ugly; malicious",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "K_ozg/K/6a",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "606",
+                "cantata",
+                "story or poem set to music that can be sung by chorus",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "IbF}8*Y5g2",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "612",
+                "capacious",
+                "capable of containing a large quantity; spacious or roomy",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "q=RjxEeeSd",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "614",
+                "caper",
+                "crime, especially theft, or a narrative about such a crime",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "e*,,X^Nj%Z",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "619",
+                "capitalize",
+                "to use something to one's benefit for advantage",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "fbZ?}7y;yD",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "625",
+                "captious",
+                "intended to confuse in an argument",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "jOY1GYtE:D",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "629",
+                "carapace",
+                "hard outer covering or case of certain organisms such as arthropods and turtles",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "xKe~D/G@3/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "638",
+                "careen",
+                "lean to one side, as a ship under press of sail; sway from side to side",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "s.q#(h+,UI",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "650",
+                "carnage",
+                "massive slaughter, as in war; massacre; corpses, especially of those killed in battle",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "hzhq(Yk(GE",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "661",
+                "cataclysm",
+                "an event resulting in great loss and misfortune; deluge or overflowing of water",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "r4V0d<hBad",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "666",
+                "cataract",
+                "disease of the eye causing its opacity and, unless treated, leading to blindness",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "JN[`H&7Y)#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "673",
+                "categorical",
+                "absolute; having no exception; of using category or categories",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "h0^)f/v6Q}",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "679",
+                "caulk",
+                "make watertight by filling in cracks",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "OkzM!gr0Xl",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "681",
+                "cavil",
+                "criticise for petty or frivolous reasons; raise trivial objections",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "A9Vv:dA5Ol",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "694",
+                "celerity",
+                "swiftness of action or motion; speed",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "OCath_X&>m",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "698",
+                "cerebral",
+                "intellectual rather than emotional",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "PF]Fg!!J(q",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "700",
+                "cerebration",
+                "act of cerebrating; thinking, mental activity",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "C:|Il!Mff;",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
