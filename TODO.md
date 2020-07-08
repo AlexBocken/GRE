@@ -38,6 +38,9 @@
 | vilify                     | no.808    | underline starts one char too early, same as in listless                                                                                                                                                 |
 | nav                        | no.1271   | last word cut off in example                                                                                                                                                                             |
 | intransigent               | no.454    | typo in meaning "s tubborn" instead of "stubborn"                                                                                                                                                        |
+| limpid                     | no.892    | add break between meanings                                                                                                                                                                               |
+| qualification              | no.637    | rempve "<>" in 3rd example, add numbering for 2nd example and add space between numbering and words (example and meaning)                                                                                |
+| cranio                     | no.1192   | explanation just reads "a"                                                                                                                                                                               |
 
 ----
 
@@ -51,6 +54,7 @@
 - _diatribe_ vs _harangue_<br />
   → harangue more official and bombastic?
 - Difference between _obstinate_ &  _obdurate_
-- quiescence vs. abeyance
-- phlegmatic has a negative connotation, doesn't it?
-- mendacity vs.
+- _quiescence_ vs. _abeyance_
+- _phlegmatic_ has a negative connotation, doesn't it?
+- _mendacity_ vs.
+- _presage_ vs. _omen_
