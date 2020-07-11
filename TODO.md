@@ -20,6 +20,7 @@
 | inane/innate               | no.1377                 | maybe remove "word=" from meaning                                                          |
 | fac/fact/fect              | no.1206                 | remove comma after only example                                                            |
 | e/ex/ef                    | no.1388                 | remove comma after only example                                                            |
+| promulgate                 | web                     |                                                                                            |
 
 In general I've noticed how all the greek/latin roots need examples, otherwise it often becomes nearly impossible to remember them. Maybe prioritze that instead of the many formatting fixes listed above.
 
