@@ -21,6 +21,12 @@
 | fac/fact/fect              | no.1206                 | remove comma after only example                                                            |
 | e/ex/ef                    | no.1388                 | remove comma after only example                                                            |
 | promulgate                 | web                     |                                                                                            |
+| prudence                   | The Catechism Explained | thought it would be similar to _prude_ but has a completely different meaning              |
+| perdition                  | The Catechism Explained |                                                                                            |
+| officious                  | The Catechism Explained |                                                                                            |
+| edict                      | The Catechism Explained |                                                                                            |
+| hireling                   | The Catechism Explained |                                                                                            |
+| apostatizing               | The Catechism Explained |                                                                                            |
 
 In general I've noticed how all the greek/latin roots need examples, otherwise it often becomes nearly impossible to remember them. Maybe prioritze that instead of the many formatting fixes listed above.
 
