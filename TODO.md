@@ -1,4 +1,4 @@
-# Words that should be added/modified
+[#](#) Words that should be added/modified
 
 | Word                | Occurence               | Explanation                                                                                       |
 | :----------------   | :--------               | :----------------------                                                                           |
@@ -18,6 +18,10 @@
 | extra               | no.1389                 | what is the idea of splitting it inot two? also fix brackets in word field                        |
 | chide               | no.1355                 | fix type/level field. _1000 difficult GRE word**s**_                                              |
 | gossamer            | no.765                  | last part of explanation seems incorrect, that's only the origin of the word, not today's meaning |
+| irredentist         | web                     |                                                                                                   |
+| potentate           | The Catechism Explained |                                                                                                   |
+| haute               | web                     |                                                                                                   |
+| reprobate           | The Catechism Explained |                                                                                                   |
 
 
 ----

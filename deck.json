@@ -694,7 +694,7 @@
                 "act",
                 "Greek/Latin root",
                 "",
-                "agent</br> agency</br> agenda",
+                "agent</br> agency</br> agenda </br>manager",
                 "Greek/Latin",
                 "MSU"
             ],
@@ -10686,7 +10686,7 @@
                 "a brass musical instrument with a brilliant tone",
                 "noun",
                 "",
-                "",
+                "The musician said that that the <b>cornet</b> sounds similar to a trumpet, but softer and mellower.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -15222,7 +15222,7 @@
                 "touch",
                 "Greek/Latin root",
                 "",
-                "contact</br> tactless (without feeling)",
+                "contact</br> tactless (without feeling), tactful (with feeling),",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -15348,7 +15348,7 @@
                 "time",
                 "Greek/Latin root",
                 "",
-                "contemporary",
+                "contemporary, temporary,",
                 "Greek/Latin",
                 "Manhattan"
             ],
@@ -18368,13 +18368,13 @@
             "data": "",
             "fields": [
                 "1150",
-                "Aur",
-                "Gold",
-                "Greek/Latin root",
+                "debunk",
+                "expose as false, exaggerated, worthless; ridicule",
+                "verb",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "wv?h%Q7cBq",
@@ -18386,13 +18386,13 @@
             "data": "",
             "fields": [
                 "1154",
-                "anth",
-                "flower",
-                "Greek/Latin root",
+                "decrepitude",
+                "state of collapse caused by illness or old age",
+                "noun",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "lC-MYiWycO",
@@ -18422,13 +18422,13 @@
             "data": "",
             "fields": [
                 "1171",
-                "ced, cess",
-                "yield, go",
-                "Greek/Latin root",
+                "denizen",
+                "inhabitant or resident; regular visitor",
+                "noun",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "ISqK!YFmHc",
@@ -18440,13 +18440,13 @@
             "data": "",
             "fields": [
                 "1172",
-                "celer",
-                "swift",
-                "Greek/Latin root",
+                "denouement",
+                "outcome; final resolution or clarification of dramatic or narrative plot",
+                "noun",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "D<YJ2$PiJx",
@@ -18476,13 +18476,13 @@
             "data": "",
             "fields": [
                 "1178",
-                "clud, clus",
-                "close, shut",
-                "Greek/Latin root",
+                "derogate",
+                "annul in part; repeal partly; restrict; limit the action of",
+                "verb",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "j9&^:&?8s/",
@@ -18494,13 +18494,13 @@
             "data": "",
             "fields": [
                 "1191",
-                "claim, clam",
-                "shout, speak out",
-                "Greek/Latin root",
+                "dietetics",
+                "study of nutrition as it relates to health",
+                "noun",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "r+>V7d:eQm",
@@ -18584,13 +18584,13 @@
             "data": "",
             "fields": [
                 "1215",
-                "fus",
-                "pour</br>",
-                "Greek/Latin root",
+                "drawl",
+                "speaking with slow and lingering utterance, from laziness, lack of spirit; lengthened, slow monotonous utterance",
+                "noun",
                 "",
                 "",
-                "Latin words",
-                "nko"
+                "1000 Difficult GRE word",
+                "Examword"
             ],
             "flags": 0,
             "guid": "dA2a][@&iD",
@@ -19253,8 +19253,8 @@
                 "cession",
                 "yielding to another; ceding or surrendering",
                 "noun",
-                "",
-                "",
+                "Latin  : \"a giving up\"</br>related to <u>secession</u>, ie. government breaking away from another, or \"giving up\" the connection between them",
+                "Having been conquered by Germany in 6 days, the Netherlands had no choice but to agree to the <b>cession</b> of their land to the Nazis",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -19379,8 +19379,8 @@
                 "chary",
                 "cautious; sparing or restrained about giving",
                 "adj.",
-                "",
-                "",
+                "the adjective from care",
+                "As he lost two teeth in last year’s rugby season, he was <b>chary</b> of signing up again this year.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -19595,8 +19595,8 @@
                 "chagrin",
                 "anxiety caused by humiliation or injured pride; disappointment",
                 "noun",
-                "",
-                "",
+                "French : \"melancholy, anxiety, vexation.\"",
+                "<u>Much to my <b>chagrin</u></b>, I failed my math test.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -24434,11 +24434,11 @@
             "data": "",
             "fields": [
                 "486",
-                "beamline",
-                "line traveled by a particle beam in an accelerator",
+                "doggerel",
+                "poor verse; of crude or irregular construction",
                 "noun",
-                "",
-                "",
+                "Probably from pejorative suffix -rel + dog",
+                "William McGonagall <u>wrote such bad <b>doggerel</u></b> that he would regularly get belted with rotten eggs, tomatoes and the like during his poetic readings.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -25680,7 +25680,7 @@
                 "a fancy way of saying to think hard about, think earnestly or studiously; meditate; ponder; think deeply",
                 "verb",
                 "Latin cogitatus :  \"to think\"",
-                "",
+                "After not progressing at all, he sat down and <u>consciously <b>cogitated</u></b> on what would be the right thing to do",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -25859,8 +25859,8 @@
                 "conscientious",
                 "thorough, careful, or vigilant; implies a desire to do a task well; characterized by extreme care and great effort",
                 "adj.",
-                "",
-                "",
+                "</br>Syn: conscionable, ethical, honest, honorable, just, moral, principled, scrupulous",
+                "1a.Everyone knew him to work hard and with great care and were convinced that he would continue with the <b>conscientious</b> application to the work at hand</br>1b. Because my brother is a <u>conscientious <b>objector</u></b>, he refuses to serve in the military.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -25877,8 +25877,8 @@
                 "condole",
                 "grieve; express sympathy; speak sympathetically to one in pain, grief, or misfortune",
                 "verb",
-                "",
-                "",
+                "Latin :com \"with, together\" + dolere \"to grieve\"</br>Deutsch : kondolieren",
+                "I <b>condoled</b> my classmate on the death of his mother",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -25893,10 +25893,10 @@
             "fields": [
                 "968",
                 "congruent",
-                "possessing congruity; suitable; agreeing; corresponding",
+                "1. Geom : superposable (triangles) or Maths 2 numbers with same remainder when divided by same modulo. </br>2.  suitable; agreeing; corresponding",
                 "adj.",
-                "",
-                "",
+                "Latin : come together",
+                "1a. 38 and 14 are <b>congruent</b> modulo 12</br> Two SAS triangles are always <b>congruent</b></br>Daddy's approach of eating chocolate bars is not <b>congruent</b> with his weight loss plan.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -25949,8 +25949,8 @@
                 "consternation",
                 "intense state of fear or dismay; astonishment combined with terror",
                 "noun",
-                "",
-                "",
+                "Ahnlich zu Deutsch : konstaniert, aber stärker",
+                "Witnessing a gruesome car accident paralyzed the woman with <b>consternation</b>.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -25967,8 +25967,8 @@
                 "consummate",
                 "complete or perfect in every respect; supremely accomplished or skilled",
                 "adj.",
-                "",
-                "",
+                "Latin :com \"together, with\" +   summus \"highest\"=highest, most perfect</br>similar to \"summa com (lauda)\"",
+                "Even at a young age he was a <b>consummate</b> liar,  lying to his grandmother that he was attending school every day while playing truant.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26021,8 +26021,8 @@
                 "convalesce",
                 "recover gradually from an illness",
                 "verb",
-                "",
-                "",
+                "Latin : com=with + valere =strong (same root at valour)=>gain strength</br>Syn :recover, recuperate, recuperate",
+                "In order to help patients<b>convalesce</b> faster from COVID, doctors now administer a cheap anti-biotic steroid compound.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26039,8 +26039,8 @@
                 "crabbed",
                 "characterized by or manifesting, sourness, peevishness, or moroseness; harsh; cross; cynical",
                 "adj.",
-                "",
-                "",
+                "from the crab's combative disposition</br>Syn:    bad-tempered, crabby, cross, fussy, grouchy, grumpy, ill-tempered",
+                "He seems to have been constantly <b>crabbed</b>, forbiddingly morose and harsh  of manner.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26129,8 +26129,8 @@
                 "countermand",
                 "cancel; revoke command or order; order or direct in opposition to; prohibit; forbid",
                 "verb",
-                "",
-                "",
+                "French: contre- \"against\" + mander- \"to order\"=> to change or retract a command</br>Syn: annul, lift, overturn, repeal, rescind, reverse, revoke, vacate",
+                "After learning his troops would be outnumbered in battle, the colonel elected to <u><b>countermand</b> the order</u> and return to camp",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26148,7 +26148,7 @@
                 "steep, rugged rock; rough, broken cliff, or point of a rock, on a ledge",
                 "noun",
                 "",
-                "",
+                "As the cliff climbers made their way up <u>the mountain <b>crag</b></u>, the made sure to reach for the most sturdy pieces to hold on to.",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26163,10 +26163,10 @@
             "fields": [
                 "1114",
                 "cravat",
-                "a piece of silk, fine muslin, or other cloth, worn by men about the neck",
+                "a piece of silk, fine muslin, or other cloth, worn by men about the neck (not a tie)",
                 "noun",
-                "",
-                "",
+                "Deutsch wortstamm : Kravatte, aber nicht das Gleiche",
+                "The dandy folded a silken handkerchief into a <b>cravat</b> before wrapping it around his neck",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26216,11 +26216,11 @@
             "data": "",
             "fields": [
                 "1122",
-                "cuddly:ad.withawayofnestlingtogether;byhugging,embracingsoastokeepwarm",
+                "cuddly",
+                "with a way of nestling together; by hugging,embracing so as to keep warm",
+                "adj.",
                 "",
-                "",
-                "",
-                "",
+                "On the cold winter's day, he and his wife took a cuddly blanket and warmed up in front of the fire",
                 "1000 Difficult GRE word",
                 "Examword"
             ],
@@ -26352,6 +26352,762 @@
             ],
             "flags": 0,
             "guid": "OE,5#V/tS]",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1152",
+                "dappled",
+                "spotted; having mottled or spotted skin or coat",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Ce{BTq%ECa",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1140",
+                "daub",
+                "smear as with paint; apply with quick or crude strokes to surface; make crude paintings",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ftmy6z.)gJ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1143",
+                "dauntless",
+                "bold; incapable of being discouraged; fearless",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ytQ>n<<Hee",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1147",
+                "debase",
+                "reduce in quality or value; lower in esteem; degrade",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q5{a?c7OIk",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1146",
+                "deciduous",
+                "falling off as of leaves; falling off or shed at specific season or stage of growth",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Ja:G9({~|-",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1149",
+                "declaim",
+                "speak loudly and vehemently; make formal speech",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "f(`~f;/&D7",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1151",
+                "declivity",
+                "downward slope, as of a hill",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "m|K<JTV`5d",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1156",
+                "decry",
+                "express strong disapproval of; disparage",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "dt[llR8f%y",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1159",
+                "defection",
+                "withdrawing support or help; act of abandoning something to which one is bound by allegiance or duty; failure in duty",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "p3|lfcG!JV",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1160",
+                "defunct",
+                "dead; no longer in use or existence",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "wkGEJ8-78,",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1161",
+                "dejected",
+                "being in low spirits; depressed",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "OA`CEexNPN",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1162",
+                "deleterious",
+                "having harmful effect; injurious; having quality of destroying life; noxious; poisonous",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Gfnf-p>|>^",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1176",
+                "deportment",
+                "manner of deporting or demeaning one's self; manner of acting; conduct; carriage",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "x(5G^U/ZlC",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1179",
+                "descant",
+                "discuss fully; talk at great length about something of one's interest",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "iMIGDR_-rI",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1181",
+                "despoil",
+                "deprive of something valuable by force; rob; take as spoils",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "L:OX*~&b#y",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1182",
+                "dexterity",
+                "right-handedness; readiness and grace in physical activity; skill and ease in using the hands; expertness in manual acts",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "tXk}#|a@%(",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1183",
+                "dexterous",
+                "skillful in the use of the hands; having mental skill",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "g8jC~?ZifB",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1194",
+                "direful",
+                "dire; dreadful; terrible; calamitous; woeful",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "wnew1frBKN",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1196",
+                "discomfit",
+                "to defeat completely,to make perplex or uneasy",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "I{0XV[Xbe?",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1197",
+                "discomposure",
+                "state of being discomposed; disorder; agitation; disturbance; inconsistency; disagreement",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "sCl?Hx%d&Y",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1199",
+                "discreet",
+                "respectful of privacy or secrecy; quiet; diplomatic",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "f=I6!L{rG#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "28",
+                "discriminate",
+                "make a clear distinction; make distinctions on basis of category without regard to individual merit; show preference or prejudice",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "P.)g2kRx**",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "97",
+                "discursive",
+                "1.  moving from topic to topic without order </br>\n2  : proceeding coherently from topic to topic  : marked by analytical reasoning",
+                "adj.",
+                "Latin discursus \"a running about\"</br>Note that def 1. and def 2. are in essence opposites ito 1. being a random move from point to point and def 2. being a structured moving from point to point.</br> Def 2. is often in academic context",
+                "1. I started reading the book, but the a<u> rambling <b>discursive</b> contents</u> soon put me off. </br>2. Her <b>discursive</b> dissertation on Colonial American women was well-argued and well-reasoned, impressing her professors.",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "jfnC0(oKp#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "99",
+                "disembodied",
+                "divested of a body; ceased to be corporal; incorporeal.",
+                "adj.",
+                "dis=Reverse + embody= \"a soul or spirit that has been put into a physical form\"",
+                "The magians' trick made it appear that a <b>disembodied</b> head was floating in the air",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "QwLvq;1Pt2",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "115",
+                "disgorge",
+                "1. bring up and expel from throat or stomach; vomit</br>2. discharge or pour forth contents from a container",
+                "verb",
+                "dis=remove +gorge=throat</br>Syn 1barf, be sick, chuck, throw up, vomit, vomit up</br>disgorge often used for animals</br>Syn2:    shed, spill",
+                "1.  llamas <b>disgorge</b> stomach juices to show pique or displeasure. </br>2.The train <b>disgorged</b> its passengers",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "BB^</S)CxO",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "121",
+                "disinter",
+                "dig up; unearth; dig up or remove from grave or tomb; bring to public notice",
+                "verb",
+                "\"inter\"is not the std. \"inter\" here. It is from \"in\"+ \"terre\"= earth. Also pronounced differently.",
+                "They <b>disintered</b> Bonaporte's body to check the theory that he had died of arsenic poisoning.",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "jaCy8+-2AT",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "122",
+                "dismantle",
+                "1.to take apart, disassemble</br>2. to destroy the integrity or functioning of",
+                "verb",
+                "French: strip of a cloak, tear down a fortress",
+                "1. will have to dismantle the engine</br>2.The program was later dismantled due to a lack of funding",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "n.vMyh.1.Y",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "127",
+                "disputatious",
+                "argumentative; fond of arguing; inclined to dispute",
+                "adj.",
+                "Same root word origin as \"dispute\".</br>",
+                "This was a strangely obtuse debate between two <b>disputatious old lawyers</b>",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "nkS$Ym+{Jz",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "255",
+                "disquiet",
+                "make uneasy or anxious; trouble",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "y>n2g+d#ue",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "358",
+                "dissimulate",
+                "pretend; hide feelings from other people",
+                "verb",
+                "Has nothing to do with  \"dis-similar\", but means to \"simulieren\"(Deutsch im negativen Sinn) with a negative intent of hiding one's true feelings. </br> Hide one feelings is what one has to remember here\"",
+                "As Louis XI once said, \"He who knows not how to <b>dissimulate</b>, can not reign.\"",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "L#=T:Mb??R",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "366",
+                "dissolute",
+                "lacking moral restraint; indulging in sensual pleasures or vices",
+                "adj.",
+                "</br>Syn:    debauched, degenerate, degraded, dissipated, fast, libertine, profligate, riotous",
+                "His father's half sister <u>chose to lead a <b>dissolute</b> lifestyle</u> : she partied all the time, got addicted to heroin, found work too much of an effort and generally wasted her life.",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ugUC*%[Mbj",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "473",
+                "doctrinaire",
+                "unable to compromise about points of doctrine; unyielding",
+                "adj.",
+                "from doctrine. </br>Syn:dogmatic, instructive",
+                "The <u>leftest <b>doctrinaire</b></u> was completely unwilling to accept any belief other than her own",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "i|B9zXOK&#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "705",
+                "doldrums",
+                "period of depression or unhappy listlessness; slack period; state of inactivity",
+                "noun",
+                "The doldrums is a seaman's term for  an area around the thermal equator where there are frequenlty no winds, making sailing <u>slow and difficult. </u></br>Syn    abeyance, cold storage, deep freeze, dormancy, holding pattern, latency, moratorium, quiescence, suspended animation, suspense, suspension",
+                "After Jane underwent a painful divorce, she was <u>in the <b>doldrums</u></b> for quite a while.",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "pKkB48zt4R",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "869",
+                "dole",
+                "1. give out in small portions; distribute sparingly</br>2.money paid by the government to the unemployed",
+                "verb",
+                "Gleicher Wortstamm als \"teilen\" in Deutsch",
+                "1. Once a week the priest would do his rounds and <u><b>dole</b> out</u> food to the needy</br>2. Though he is receiving unemployment, Gary wants to find a job so he can get <u>off the dole</u> immediately",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "mEm{^Q9Y:@",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "872",
+                "doleful",
+                "sorrowful; filled with or expressing grief; mournful",
+                "adj.",
+                "French origin: deuil : to mourn</br>Syn:mournful, sad",
+                "Because Jane has not received any news of her missing son, she has been <b>doleful</b> to the point of not being able to eat or sleep.",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "A^Qxx/p3v6",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1201",
+                "domesticate",
+                "cultivate; make fit for cultivation, domestic life, and service to humans",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "k8$)U~QcUc",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1204",
+                "dour",
+                "hard; inflexible; obstinate; sour in aspect",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "BCEXVmH@y?",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1211",
+                "downcast",
+                "low in spirits; depressed; directed downward",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "N2YKWL|3$z",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1212",
+                "draconian",
+                "extremely harsh; very severe, oppressive or strict",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "pB1PXR3`zS",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1222",
+                "dredger",
+                "one who fishes with a dredge, which is an instrument used to gather things by dragging",
+                "noun",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "PYCS9>P=_v",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1225",
+                "dub",
+                "to honor with a title or description",
+                "verb",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "LK?gfcGHv#",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1226",
+                "ductile",
+                "easily influenced; flexible; pliable",
+                "adj.",
+                "",
+                "",
+                "1000 Difficult GRE word",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "c;h[+MQKad",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
