@@ -1,4 +1,4 @@
-[#](#) Words that should be added/modified
+# Words that should be added/modified
 
 | Word                | Occurence               | Explanation                                                                                       |
 | :----------------   | :--------               | :----------------------                                                                           |
@@ -22,6 +22,15 @@
 | potentate           | The Catechism Explained |                                                                                                   |
 | haute               | web                     |                                                                                                   |
 | reprobate           | The Catechism Explained |                                                                                                   |
+| limpid              | no.892                  | brackets in second meaning                                                                        |
+| obviate             | no.539                  | "2.." in 2nd example, needs space between numbering and sentence in example                       |
+| vacillate           | no.1131                 | add break between meanings                                                                        |
+| badinage            | no.481                  | end of bold delimiter missing in example                                                          |
+| effect/affect       | no.1450                 | clean up formatting in example in general, shorten meaning                                        |
+|                     |                         |                                                                                                   |
+
+
+Punctuation and commas are often surrouned by spaces for some reason, a simple replace should do the trick " , " -> ", " . " -> ".", " ! " -> "! "
 
 
 ----
