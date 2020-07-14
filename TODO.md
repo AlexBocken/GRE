@@ -1,7 +1,8 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation             |
-| :---------------- | :-------- | :---------------------- |
+| Word              | Occurence | Explanation                                                                                                                                               |
+| :---------------- | :-------- | :----------------------                                                                                                                                   |
+| licit             | web       | somehow I always got the meaning of 'illicit' wrong it seems, maybe add that one since it's a bit more abundant and they are just negations of each other |
 
 ## Import errors
 '1260' had 1 fields, expected 8
