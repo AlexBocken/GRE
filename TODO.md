@@ -4,10 +4,12 @@
 | :---------------- | :-------- | :----------------------                                                                                                                                   |
 | licit             | web       | somehow I always got the meaning of 'illicit' wrong it seems, maybe add that one since it's a bit more abundant and they are just negations of each other |
 | prudence          | no.1236   | example cuts off                                                                                                                                          |
+| maenadic          | no.739    | missing number for 2nd meaning                                                                                                                            |
+| acerbity          | no.90     | example for one has a number but no text, either remove number or add example                                                                             |
+| imperturbable     | no.407    | word misspelled in example                                                                                                                                |
+| caducity          | no.761    | fix number formatting in meaning                                                                                                                          |
+| covenant          | no.781    | end of bold delimiter missin in example, 2nd example not numbered. "<>" in first example                                                                  |
 
-## Import errors
-'1260' had 1 fields, expected 8
-'1430' had 1 fields, expected 8
 ----
 
 # Questions to answer:
