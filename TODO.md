@@ -1,17 +1,15 @@
 # Words that should be added/modified
 
-| Word              | Occurence               | Explanation                                                                                                                                               |
-| :---------------- | :--------               | :----------------------                                                                                                                                   |
-| licit             | web                     | somehow I always got the meaning of 'illicit' wrong it seems, maybe add that one since it's a bit more abundant and they are just negations of each other |
-| prudence          | no.1236                 | example cuts off                                                                                                                                          |
-| maenadic          | no.739                  | missing number for 2nd meaning                                                                                                                            |
-| acerbity          | no.90                   | example for one has a number but no text, either remove number or add example                                                                             |
-| imperturbable     | no.407                  | word misspelled in example                                                                                                                                |
-| caducity          | no.761                  | fix number formatting in meaning                                                                                                                          |
-| covenant          | no.781                  | end of bold delimiter missin in example, 2nd example not numbered. "<>" in first example                                                                  |
-| felicity          | The Catechism Explained |                                                                                                                                                           |
-| foil              | no.353                  | numbering in example                                                                                                                                      |
-| adept             | no.19                   | example cuts off mid-word                                                                                                                                 |
+| Word              | Occurence | Explanation                                                             |
+| :---------------- | :-------- | :----------------------                                                 |
+| appropraite       | no.68     | missing space after bold                                                |
+| sap               | no.662    | remove bracket in example                                               |
+| analgesic         | no.200    | end of bold delimiter missing in example, needless numbering in meaning |
+| drawl             | no.1215   | end of underline delimiter missing in example                           |
+| theo              | no.1063   | remove linebreaks for "god & etc" in theology example                   |
+| exigency          | no.1480   | end of underline delimiter missing                                      |
+| impervious        | no.1492   | examples are for "impermeable"                                          |
+| circumlocution    | no.819    | end of bold delimiter missing/corrupted                                 |
 
 ----
 
