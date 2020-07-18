@@ -2,14 +2,14 @@
 
 | Word              | Occurence | Explanation                                                             |
 | :---------------- | :-------- | :----------------------                                                 |
-| appropraite       | no.68     | missing space after bold                                                |
-| sap               | no.662    | remove bracket in example                                               |
-| analgesic         | no.200    | end of bold delimiter missing in example, needless numbering in meaning |
-| drawl             | no.1215   | end of underline delimiter missing in example                           |
-| theo              | no.1063   | remove linebreaks for "god & etc" in theology example                   |
-| exigency          | no.1480   | end of underline delimiter missing                                      |
-| impervious        | no.1492   | examples are for "impermeable"                                          |
-| circumlocution    | no.819    | end of bold delimiter missing/corrupted                                 |
+| appropbriation    | no.283    | missing space after 2nd example, what's "het" in that example?          |
+| convalesce        | no.1072   | no space before bold in example                                         |
+
+## Import errors:
+- '1318 ad hominen A way of arguing or criticizing that ignores the larger issues at hand and just attacks someone's character adj. Latin : "aimed at the man." Unfortunately, people are skipping to the assumed end of the debate right away and concentrating their efforts on <u>trading <b>ad hominem</b> attacks.</u>' had 6 fields, expected 8
+- '1410 ipso facto    ipso facto evidence' had 6 fields, expected 8
+- '1411 exalt/exult To exalt, means to glorify or elevate something, but to exult is to rejoice.  verb ex "out, out of, from within" + <b>a</b>ltus "high"=>exalt =raise to the highest</br>ex"out, out of, from within" + sauter:jump=> jump for joy While she <b>exalted</b> God in the highest, she was <b>exulted</b> when she got the last two tickets to see Robbie Williams. Easily confused words' had 7 fields, expected 8
+
 
 ----
 
