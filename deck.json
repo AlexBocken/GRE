@@ -18804,7 +18804,7 @@
                 "blood",
                 "Greek/Latin root",
                 "",
-                "anaemia:an=lack of blood\n    azotemia:azot=nitrogen in the blodd</br>\n    glycemia:glyco=sugar in the blood\n    hematite:tite=stone, ie. bloodlike stone</br>\n    hemoglobin:globule=red cells in blood\n    hemophilia:philia=loves (to shed) blood, ie. bluter</br>\n    hemorrhage:rhage=breaking/tear, ie. losing a lot of blood\n    hemorrhoids:rhoos=stream, ie. stream of blood from veins (in rectal area)</br>\n    hypoglycemia:hypo=under+glyc=sugar, d.h. low sugar level\n    leukemia:leukos=white cell accumulation in blood, ie. cancer</br>\n    thalassemia:thalasse=sea, ie. an inherited blood disease common to those nations around hte mediterreanean sea\n    toxemia:toxon=toxic blood, ie. blood poisoning</br>\n    uremia:disease of urine/urea in blood due to kidney malfunctioning",
+                "anaemia:an=lack of blood          \n    azotemia:azot=nitrogen in the blodd</br>\n    glycemia:glyco=sugar in the blood       \n    hematite:tite=stone, ie. bloodlike stone</br>\n    hemoglobin:globule=red cells in blood         \n    hemophilia:philia=loves (to shed) blood, ie. bluter</br>\n    hemorrhage:rhage=breaking/tear, ie. losing a lot of blood           \n    hemorrhoids:rhoos=stream, ie. stream of blood from veins (in rectal area)</br>\n    hypoglycemia:hypo=under+glyc=sugar, d.h. low sugar level              \n    leukemia:leukos=white cell accumulation in blood, ie. cancer</br>\n    thalassemia:thalasse=sea, ie. an inherited blood disease common to those nations around hte mediterreanean sea              \n    toxemia:toxon=toxic blood, ie. blood poisoning</br>\n    uremia:disease of urine/urea in blood due to kidney malfunctioning",
                 "Latin words",
                 "nko"
             ],
@@ -18944,13 +18944,13 @@
             "data": "",
             "fields": [
                 "1410",
-                "semi",
-                "half",
-                "Latrin Prefix",
-                "",
-                "semi circle</br>",
-                "Latin words",
-                "nko"
+                "ipso facto",
+                "by that very fact or act , as an inevitable result",
+                "Latin",
+                "Latin : Ipso facto literally means \"by that very fact\"",
+                "A liberal arts education does not <b>ipso facto</b> lead to a life of low-wage jobs and financial irresponsibility",
+                "vocab",
+                "SMB"
             ],
             "flags": 0,
             "guid": "D#dJ9ZgSS_",
@@ -19937,8 +19937,8 @@
                 "venal</br>venial",
                 "venal=A person is willing to behave in a way that is not honest or moral in exchange for money  <br / >venial=Describes a wrong action that is not serious and therefore easy to forgive",
                 "adj.",
-                "",
-                "",
+                "venal same root as \"vendre\" in French;</br>venail : Latin venialis \"pardonable\"",
+                "The <u><b>venial</b> acts of the cheeky children</u> in no way are comparable to those terrible acts committed by <u><b>venal</b> persons</u> to satify their avarice.",
                 "Easily confused words",
                 "Khan"
             ],
@@ -20099,8 +20099,8 @@
                 "exegesis",
                 "explanation; interpretation, especially of biblical or religious text",
                 "noun",
-                "",
-                "",
+                "Greek:  ex \"out\"  + hegeisthai \"to lead, guide\"=>explanation, interpretation often by somene else</br>\"Jesus\" seems to be linked to the greek root word, too. </br>eisegesis is to interpret a text oneself",
+                "Because the youth minister wanted the children to easily understand the scripture, he wrote a simple <b>exegesis</b> of the passage.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -20226,7 +20226,7 @@
                 "rejoice; feel extreme happiness",
                 "verb",
                 "",
-                "",
+                "My mother <b>exulted</b> when she got the last 2 tickets to the Robbie Williams concert.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -20263,7 +20263,7 @@
                 "adj.",
                 "",
                 "",
-                "dd",
+                "1000 Difficult GRE words",
                 "Examword"
             ],
             "flags": 0,
@@ -20658,7 +20658,7 @@
                 "Used to refer to something very light, thin, and insubstantial or delicate",
                 "adj.",
                 "refers to the similarity in appearance of softness between geese down and cobwebs,</br>Syn : gauzy, gossamery, fine   </br>Deutsch : Hauchdünn.</br> As a NOUN it means a\"goose summer\", ie.  referring to an autumn after a good summer -> \"goose summer\" (middle english)(Altweibersommer).",
-                "1. Two days later, Taal Volcano erupted outside of Manila, coating the parked cars in Poblacion with a <b>gossamer</b> of white ash.</br>1b.\nFairies are often depicted wearing a <b>gossamer</b> or tattered clothes",
+                "1. Two days later, Taal Volcano erupted outside of Manila, coating the parked cars in Poblacion with a <b>gossamer</b> of white ash.</br>1b. \nFairies are often depicted wearing a <b>gossamer</b> or tattered clothes",
                 "Least Difficult",
                 "FT"
             ],
@@ -20964,7 +20964,7 @@
                 "testify=To speak seriously about something, especially in a court of law; to give or provide proof  </br> testy=Easily annoyed and not patient",
                 "verb, adj.",
                 "",
-                "",
+                "The impatient and <b>testy</b> witness was forced to wait his turn when <b>testifying</b> in court.",
                 "Easily confused words",
                 "Khan"
             ],
@@ -20982,7 +20982,7 @@
                 "wraith=A spirit of a dead person which is sometimes represented as a pale, transparent image of that person  <br/ >wrath=Extreme anger",
                 "noun",
                 "",
-                "",
+                "A 19th century photographer superimposed a wispy image on a print and claimed that he had managed to photograph a <b>wraith</b>, but this soon generated a lot of <b>wrath</b> from serious customers, who recognised the fraud.",
                 "Easily confused words",
                 "Khan"
             ],
@@ -21000,7 +21000,7 @@
                 "vindicate=To prove that what someone said or did was right or true, after other people thought it was wrong  <br /> vindictive=Having or showing a wish to harm someone because you think that they have harmed you; unwilling to forgive",
                 "verb, adj.",
                 "",
-                "",
+                "After the forensic investigator, to everyone's surprise,  <b>vindicated</b> the accused's statements with facts, the victim's family became very <b>vendicative</b> and threatened him.",
                 "Easily confused words",
                 "Khan"
             ],
@@ -23934,7 +23934,7 @@
                 "1. taking something and making it your own, either in a positive or negative sense</br>2. setting money aside or budgeting to do something as act of legislature",
                 "noun",
                 "",
-                "1. I <b>appropriated</b> my mother's french fries while she was not looking. </br> 1b.<u>Cultural <b>appropriation</u></b> is one of the issues that gets het most upset </br>2. The government committee appropriated sufficient funds to agricultural renewal program",
+                "1. I <b>appropriated</b> my mother's french fries while she was not looking. </br> 1b. <u>Cultural <b>appropriation</u></b> is one of the issues that gets het most upset </br>2. The government committee appropriated sufficient funds to agricultural renewal program",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -25911,7 +25911,7 @@
             "fields": [
                 "987",
                 "consign",
-                "1. give over to another for care or safekeeping</br>\n2. to give, transfer, or deliver into the hands or control of another also : to commit especially to a final destination or fate </br>\n3. to send or address to an agent to be cared for or sold",
+                "1. give over to another for care or safekeeping</br> \n2. to give, transfer, or deliver into the hands or control of another also : to commit especially to a final destination or fate </br>\n3. to send or address to an agent to be cared for or sold",
                 "verb",
                 "con = \"with, together\"  + signare \"to sign, mark\"=>formally hand over by signing",
                 "1. She <b>consigned</b> her baggage to the service provider at the station.</br>2. After publishing a piece of politically incorrect writing, the author was <u><b>consigned</b> to oblivion</u></br>3. Since I <b>consign</b> my blankets to ebay agent stores, I don’t get paid until a sale is made",
@@ -26004,7 +26004,7 @@
                 "recover gradually from an illness",
                 "verb",
                 "Latin : com=with + valere =strong (same root at valour)=>gain strength</br>Syn :recover, recuperate, recuperate",
-                "In order to help patients<b>convalesce</b> faster from COVID, doctors now administer a cheap anti-biotic steroid compound.",
+                "In order to help patients <b>convalesce</b> faster from COVID, doctors now administer a cheap anti-biotic steroid compound.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -27584,13 +27584,13 @@
             "data": "",
             "fields": [
                 "1318",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "ad hominen",
+                "A way of arguing or criticizing that ignores the larger issues at hand and just attacks someone's character",
+                "adj.",
+                "Latin : \"aimed at the man.\"",
+                "Unfortunately, people are skipping to the assumed end of the debate right away and concentrating their efforts on <u>trading <b>ad hominem</b> attacks.</u>",
+                "Vocab",
+                "SMB"
             ],
             "flags": 0,
             "guid": "MYkL@zE[E!",
@@ -27839,8 +27839,8 @@
                 "exchequer",
                 "one of the superior courts of law; department of state having charge of the collection and management of the royal revenue",
                 "noun",
-                "",
-                "",
+                "Syn : treasury",
+                "The <u>chancellor of the <b>Exchequer</b></u> is called the Finance Minister in most other countries, although the US calls it the Finance Secretary.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -27893,8 +27893,8 @@
                 "exhortation",
                 "act of practice of exhorting; act of inciting to laudable deeds; incitement to that which is good; language intended to incite and encourage",
                 "noun",
-                "",
-                "",
+                "ex- \"thoroughly\" + hortari \"encourage, urge\"=>incitement by means of argument, appeal, or admonition</br>Syn: incitement, pep talk,",
+                "When a vaccine for COVID 19 appears, you can be sure that there will be many <b>exhortations</b> from governments througout the world to have their people vaccinated",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -27911,8 +27911,8 @@
                 "exodus",
                 "departure of a large number of people",
                 "noun",
-                "",
-                "",
+                "Greek  ex \"out\"  + hodos \"a way, path, road; a ride, journey, march\"=> a going out",
+                "If the fire alarm goes off in your building, be sure to join the <b>exodus</b> of people who are heading outside to the parking lot.</br>The brain-drain <b>exodus</b> from South Africa does not seem to bother the ANC government at all.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -27927,10 +27927,10 @@
             "fields": [
                 "1398",
                 "exponent",
-                "one that expounds or interprets; one that speaks for, represents, or advocates",
+                "1. one who is a big promoter of something, ie. Champions,  practices, or exemplifies a cause</br>\n2. math. Symbol indicating n-fold muliplication",
                 "noun",
-                "",
-                "",
+                "Latin : \"to put forth\"</br> Syn: advocate, advocator, apostle, backer, booster, champion, expounder, espouser, friend, gospeler , herald, hierophant, high priest, paladin, promoter, proponent, protagonist, supporter, true believer, tub-thumper, white knight",
+                "The school-teacher was an <b>exponent</b> of the four-day school and work week as she found she had too little holiday.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -27947,8 +27947,8 @@
                 "expound",
                 "explain or describe in detail",
                 "verb",
-                "",
-                "",
+                "French:  espondre = \"to elaborate\" or \"put forth\" (same root as \"respond\")",
+                "Oma's handwritten pie recipe called for \"some sugar,\" \"plenty of butter,\" and \"sliced apples,\" so I asked her to <b>expound</b> by adding measurements of how much of each to use.",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -27965,8 +27965,8 @@
                 "expropriate",
                 "take possession of; transfer another's property to oneself",
                 "verb",
-                "",
-                "",
+                "Latin:  ex \"away from\" + propriare \"take as one's own\"=>to take away from someone else and make one's own. </br> typically used to describe taking property from someone by a state or city.",
+                "When the farmer refused to sell part of his land needed for road expansion, it was simply <b>expropriated</b>",
                 "1000 Difficult GRE words",
                 "Examword"
             ],
@@ -28116,6 +28116,24 @@
             ],
             "flags": 0,
             "guid": "KQgx?w2~9:",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1411",
+                "exalt/exult",
+                "To exalt, means to glorify or elevate something, but to exult is to rejoice.",
+                "verb",
+                "ex \"out, out of, from within\" + <b>a</b>ltus \"high\"=>exalt =raise to the highest</br>ex\"out, out of, from within\" + sauter:jump=> jump for joy",
+                "While she <b>exalted</b> God in the highest, she was <b>exulted</b> when she got the last two tickets to see Robbie Williams.",
+                "Easily confused words",
+                "SMB"
+            ],
+            "flags": 0,
+            "guid": "t:tH)%BWju",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
