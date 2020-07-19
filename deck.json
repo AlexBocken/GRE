@@ -9827,9 +9827,7 @@
             "flags": 0,
             "guid": "o~JQNSInfw",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": [
-                "v7"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
