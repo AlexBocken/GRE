@@ -1,9 +1,18 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                             |
-| :---------------- | :-------- | :----------------------                                                 |
-| appropbriation    | no.283    | missing space after 2nd example, what's "het" in that example?          |
-| convalesce        | no.1072   | no space before bold in example                                         |
+| Word              | Occurence | Explanation                                                                                                          |
+| :---------------- | :-------- | :----------------------                                                                                              |
+|                   |           | fix " : " to ": "                                                                                                    |
+|                   |           | fix " </u>" to "</u> "                                                                                               |
+| appropbriation    | no.283    | missing space after 2nd example, what's "het" in that example?                                                       |
+| convalesce        | no.1072   | no space before bold in example                                                                                      |
+| arboreal          | no.298    | underline too long in first example, no space between bold and rest of underline                                     |
+| lassitude         | no.1506   | missing space between bold and rest                                                                                  |
+| arrears           | no.313    | corrupted end of bold delimiter                                                                                      |
+| mendacious        | no.1511   | end of bold delimiter missing                                                                                        |
+| apotheosis        | no.278    | theosis is pretty much already a word for itself in my view, in that context then the explanation is a bit wonky imo |
+| covenant          | no.781    | end of bold delimiter and end of unerline delimiter missing                                                          |
+
 
 ## Import errors:
 - '1318 ad hominen A way of arguing or criticizing that ignores the larger issues at hand and just attacks someone's character adj. Latin : "aimed at the man." Unfortunately, people are skipping to the assumed end of the debate right away and concentrating their efforts on <u>trading <b>ad hominem</b> attacks.</u>' had 6 fields, expected 8
