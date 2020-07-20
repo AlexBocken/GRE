@@ -1,15 +1,7 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                                                                          |
-| :---------------- | :-------- | :----------------------                                                                                              |
-|                   |           | fix " : " to ": "                                                                                                    |
-|                   |           | fix " </u>" to "</u> "                                                                                               |
-| arboreal          | no.298    | underline too long in first example, no space between bold and rest of underline                                     |
-| lassitude         | no.1506   | missing space between bold and rest                                                                                  |
-| arrears           | no.313    | corrupted end of bold delimiter                                                                                      |
-| mendacious        | no.1511   | end of bold delimiter missing                                                                                        |
-| apotheosis        | no.278    | theosis is pretty much already a word for itself in my view, in that context then the explanation is a bit wonky imo |
-| covenant          | no.781    | end of bold delimiter and end of unerline delimiter missing                                                          |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 
 
