@@ -3,7 +3,7 @@
 | Word              | Occurence             | Explanation                                                                      |
 | :---------------- | :--------             | :----------------------                                                          |
 | bailiff           | no.484                | no space after underline in example                                              |
-| portending        | definition of baleful |                                                                                  |
+| portending        | definition of baleful | never heard of it before, might be useful as a seperate word                     |
 | defection         | no.1159               | end of underline delimiter missing                                               |
 | cogency           | no.875                | underline delimiter starts one character too early -> replace "<u> " with " <u>" |
 | precocious        | Mishima               |                                                                                  |
