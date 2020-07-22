@@ -6,6 +6,14 @@
 | portending        | definition of baleful |                                                                                  |
 | defection         | no.1159               | end of underline delimiter missing                                               |
 | cogency           | no.875                | underline delimiter starts one character too early -> replace "<u> " with " <u>" |
+| precocious        | Mishima               |                                                                                  |
+| incipient         | Mishima               |                                                                                  |
+| acolyte           | Mishima               |                                                                                  |
+| descant           | no.1179               | add linebreak between examples                                                   |
+| appellation       | no.281                | end of bold delimiter missing in example                                         |
+| augury            | no.434                | underline too long                                                               |
+| bonny             | no.541                | see quotation marks in example                                                   |
+| secrete           | no.1542               | end of underline delimiter missing                                               |
 
 ----
 
@@ -22,5 +30,5 @@
 - _quiescence_ vs. _abeyance_
 - _phlegmatic_ has a negative connotation, doesn't it?
 - _mendacity_ vs.
-- _presage_ vs. _omen_
+- _presage_ vs. _omen_ vs. _augury_
 - _frenetic_ vs _frantic_
