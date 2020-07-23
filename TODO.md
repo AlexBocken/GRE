@@ -1,20 +1,14 @@
 # Words that should be added/modified
 
-| Word              | Occurence             | Explanation                                                                      |
-| :---------------- | :--------             | :----------------------                                                          |
-| bailiff           | no.484                | no space after underline in example                                              |
-| portending        | definition of baleful | never heard of it before, might be useful as a seperate word                     |
-| defection         | no.1159               | end of underline delimiter missing                                               |
-| cogency           | no.875                | underline delimiter starts one character too early -> replace "<u> " with " <u>" |
-| precocious        | Mishima               |                                                                                  |
-| incipient         | Mishima               |                                                                                  |
-| acolyte           | Mishima               |                                                                                  |
-| descant           | no.1179               | add linebreak between examples                                                   |
-| appellation       | no.281                | end of bold delimiter missing in example                                         |
-| augury            | no.434                | underline too long                                                               |
-| bonny             | no.541                | see quotation marks in example                                                   |
-| secrete           | no.1542               | end of underline delimiter missing                                               |
+| Word              | Occurence | Explanation                      |
+| :---------------- | :-------- | :----------------------          |
+| precocious        | no.1307   | replace "Mashima" with "Mishima" |
+| incipient         | no.1308   | replace "Mashima" with "Mishima" |
+| acolyte           | no.1421   | replace "Mashima" with "Mishima" |
 
+## Import errors:
+
+'1422' expected 8 fields, found 1
 ----
 
 # Questions to answer:
