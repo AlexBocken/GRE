@@ -4,6 +4,8 @@
 | :---------------- | :--------    | :----------------------               |
 | cantankerous      | no.596       | fix example                           |
 | excise            | no.1661/1263 | remove one of the two, are duplicates |
+| espy              | no.1350      | remove "..." from example             |
+| cantata           | no.606       | "relgious" -> "religious" in meaning  |
 
 ## Import errors:
 
