@@ -9,6 +9,8 @@
 | deprecate/depreciate | no.203    | remove lots of straggling " , clean up formatting         |
 | eluding              | no.1277   | add linebreak before 2nd example                          |
 | in general           |           | " : " -> ": ", " , " -> ", " " . " -> ". ", " ; " -> "; " |
+| credence             | no.185    | end of bold delimiter missing                             |
+| cantankerous         | no.596    | fix example                                               |
 
 ----
 
