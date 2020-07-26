@@ -2,7 +2,7 @@
 
 | Word                 | Occurence | Explanation                                               |
 | :----------------    | :-------- | :----------------------                                   |
-| ipso facto           | no.1410   | " , " -> ","                                              |
+| ipso facto           | no.1410   | " , " -> ", "                                             |
 | apostatize           | no.1259   | "one.s" -> "one's"                                        |
 | fervid,fervent       | no.342    | remove straggling "                                       |
 | irredentist          | no.1234   | corrupted end of bold delimiter                           |
@@ -10,12 +10,6 @@
 | eluding              | no.1277   | add linebreak before 2nd example                          |
 | in general           |           | " : " -> ": ", " , " -> ", " " . " -> ". ", " ; " -> "; " |
 
-## Import errors:
-'1392' had 1 fields, expected 8
-'1422' had 1 fields, expected 8
-'1518' had 1 fields, expected 8
-'1661' had 1 fields, expected 8
-'1668' had 1 fields, expected 8
 ----
 
 # Questions to answer:
