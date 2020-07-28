@@ -3895,10 +3895,10 @@
             "fields": [
                 "201",
                 "denigrate",
-                "attack the good name and reputation of someone",
+                "1. attack the good name and reputation of someone</br>2. to deny the importance or validity of",
                 "verb",
                 "Latin denigratus \"to blacken; to defame\"  de- \"completely\" + nigr-, stem of niger \"black\"",
-                "During the election, the crooked <u>politician did everything in his power to <b>denigrate</b> his rival</u>.",
+                "1. During the election, the crooked <u>politician did everything in his power to <b>denigrate</b> his rival</u>. </br>2. The professor <b>denigrated</b> the achievements of a rival, trying to position his research as more important",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -20656,7 +20656,7 @@
                 "Used to refer to something very light, thin, and insubstantial or delicate",
                 "adj.",
                 "refers to the similarity in appearance of softness between geese down and cobwebs, </br>Syn: gauzy, gossamery, fine   </br>Deutsch: Hauchdünn. </br> As a NOUN it means a\"goose summer\", ie.  referring to an autumn after a good summer -> \"goose summer\" (middle english)(Altweibersommer).",
-                "1. Two days later, Taal Volcano erupted outside of Manila, coating the parked cars in Poblacion with a <b>gossamer</b> of white ash. </br>1b. \nFairies are often depicted wearing a <b>gossamer</b> or tattered clothes",
+                "1. Two days later, Taal Volcano erupted outside of Manila, coating the parked cars in Poblacion with a <b>gossamer</b> of white ash. </br>1b.\nFairies are often depicted wearing a <b>gossamer</b> or tattered clothes",
                 "Least Difficult",
                 "FT"
             ],
@@ -25891,7 +25891,7 @@
             "fields": [
                 "987",
                 "consign",
-                "1. give over to another for care or safekeeping</br> \n2. to give, transfer, or deliver into the hands or control of another also: to commit especially to a final destination or fate </br>\n3. to send or address to an agent to be cared for or sold",
+                "1. give over to another for care or safekeeping</br>\n2. to give, transfer, or deliver into the hands or control of another also: to commit especially to a final destination or fate </br>\n3. to send or address to an agent to be cared for or sold",
                 "verb",
                 "con = \"with, together\"  + signare \"to sign, mark\"=>formally hand over by signing",
                 "1. She <b>consigned</b> her baggage to the service provider at the station. </br>2. After publishing a piece of politically incorrect writing, the author was <u><b>consigned</b> to oblivion</u></br>3. Since I <b>consign</b> my blankets to ebay agent stores, I don’t get paid until a sale is made",
@@ -28528,6 +28528,168 @@
             ],
             "flags": 0,
             "guid": "K&hR0.A!JM",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1565",
+                "ingenuous vs. genial",
+                "1 : ingenuous :  Naive and trusting, Demonstrating childlike simplicity. </br>2. genial : friendly and cheerful OR (like in German) characteristic of a genius=ingenial",
+                "adj.",
+                "",
+                "1. The <b>ingenuous</b> boy gave all his savings to his elder brother, who promtly used the funds to buy himself a new computer game.</br>2. While the host was not a genius, she was <b>genial</b>, welcoming all to her party with a friendly tone that made all feel at home immediately.",
+                "Easily confused words",
+                "SMB"
+            ],
+            "flags": 0,
+            "guid": "sN$2#ZM!Yb",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1566",
+                "gambol",
+                "dance and skip about in sport; leap playfully",
+                "verb",
+                "Syn:    cavort, disport, frisk, frolic, lark, lark about, rollick, romp, run around, skylark, sport",
+                "The boy and his puppy would run out in the garden,  sprint around, jumping up and down,  yelling \"woo-hoo and the dog a-barking,  showing no restraint in their slap-happy <b>gambol.</b>",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "kU#X*f?e?c",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1567",
+                "gantry",
+                "1. a mount for a traveling crane consisting of a large frame to move along a set of tracks; </br>2. supporting framework for a barrel",
+                "noun",
+                "Deutsch : Brückenkran, Signalbrücke",
+                "1a. On the new paying highway, the tolls would be assessed electronically via <b>gantries</b> over the road.<br>1b. The gantry crane lifted the container from the truck onto the ship</br>1c. The lunar rocket was transported to the launch site with the support of a mobile gantry.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "cD$t^xK]x/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1568",
+                "geniality",
+                "warmth of disposition and manners; kindliness; sympathy",
+                "noun",
+                "",
+                "The <b>geniality</b> of the host made everyone feel welcome at the party",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "F|m`8e;tQS",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1569",
+                "gibe",
+                "mock; laugh at with contempt and derision",
+                "verb",
+                "Sometimes spelt \"jibe\". </br> yn1   barrack, flout, jeer, scoff",
+                "\"Loser! Bonehead!\" the kids shouted, tossing those words and other <b>gibes</b> at the people who offered themselves up to the annual humiliation of the harvest-fest dunk-tank.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "P|.MowE0!>",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1570",
+                "girder",
+                "beam of steel, wood, or reinforced concrete, used as main horizontal support in building",
+                "noun",
+                "",
+                "Mechanical engineers learn statics, where the forces on beams and girders are calculated and correspondingly dimensioned.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "PL|0TrcN3i",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1571",
+                "glean",
+                "1. gather grain left behind by reapers</br>2. collect something (eg. Information) bit by bit",
+                "verb",
+                "Deutsch : nachlesen",
+                "1. The poor sharecroppers <b>gleaned</b> the field after its harvest. <br>2a. The police used old-fashioned detective work to <b>glean</b> his whereabouts</br>2b.  He has a collection of antique tools <b>gleaned</b> from flea markets and garage sales.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "i?vbRVf5Ke",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1572",
+                "glossary",
+                "brief explanation of words, often placed at back of book",
+                "noun",
+                "Deutsch : Glossar",
+                "The biology textbook had a <b>glossary</b> in the back, so you can quickly look up all the technical words and terms specific to biology.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ITd-Pf{~[/",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1573",
+                "glower",
+                "look at with a fixed gaze; angry stare",
+                "verb",
+                "Deutsch : böse Gucken",
+                "The elderly couple <b>glowered</b> at the Bocken children climbing all over the stones at stonehenge",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "f[Qw24_t^y",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
