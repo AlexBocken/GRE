@@ -1,11 +1,9 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation                                    |
-| :---------------- | :-------- | :----------------------                        |
-| fathom            | no.337    | add end of bold delimiter in example           |
-| gratify           | no.1577   | remove numbering                               |
-| ellipsis          | no.1273   | add linebreak between examples                 |
-| forswear          | no.1442   | meaning cuts off, remove numbering in examples |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
+| telluric          | RATMW     |                         |
+| crepuscular       | RATMW     |                         |
 
 ----
 
