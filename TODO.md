@@ -1,10 +1,7 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                        |
-| :---------------- | :-------- | :----------------------                                            |
-| epitaph/epithet   | no.1422   | misspelled epitaph in example                                      |
-| feint/faint       | no.1425   | "1 :" -> "1." in meaning (do via replace, multiple times an issue) |
-|                   |           | " : " -> ": "                                                      |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 ----
 
