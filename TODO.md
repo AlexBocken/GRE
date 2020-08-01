@@ -2,8 +2,6 @@
 
 | Word              | Occurence | Explanation             |
 | :---------------- | :-------- | :---------------------- |
-| telluric          | RATMW     |                         |
-| crepuscular       | RATMW     |                         |
 
 ----
 
