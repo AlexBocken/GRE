@@ -20656,7 +20656,7 @@
                 "Used to refer to something very light, thin, and insubstantial or delicate",
                 "adj.",
                 "refers to the similarity in appearance of softness between geese down and cobwebs, </br>Syn: gauzy, gossamery, fine   </br>Deutsch: Hauchdünn. </br> As a NOUN it means a\"goose summer\", ie.  referring to an autumn after a good summer -> \"goose summer\" (middle english)(Altweibersommer).",
-                "1. Two days later, Taal Volcano erupted outside of Manila, coating the parked cars in Poblacion with a <b>gossamer</b> of white ash. </br>1b. \nFairies are often depicted wearing a <b>gossamer</b> or tattered clothes",
+                "1. Two days later, Taal Volcano erupted outside of Manila, coating the parked cars in Poblacion with a <b>gossamer</b> of white ash. </br>1b.\nFairies are often depicted wearing a <b>gossamer</b> or tattered clothes",
                 "Least Difficult",
                 "FT"
             ],
@@ -25891,7 +25891,7 @@
             "fields": [
                 "987",
                 "consign",
-                "1. give over to another for care or safekeeping</br> \n2. to give, transfer, or deliver into the hands or control of another also: to commit especially to a final destination or fate </br>\n3. to send or address to an agent to be cared for or sold",
+                "1. give over to another for care or safekeeping</br>\n2. to give, transfer, or deliver into the hands or control of another also: to commit especially to a final destination or fate </br>\n3. to send or address to an agent to be cared for or sold",
                 "verb",
                 "con = \"with, together\"  + signare \"to sign, mark\"=>formally hand over by signing",
                 "1. She <b>consigned</b> her baggage to the service provider at the station. </br>2. After publishing a piece of politically incorrect writing, the author was <u><b>consigned</b> to oblivion</u></br>3. Since I <b>consign</b> my blankets to ebay agent stores, I don’t get paid until a sale is made",
@@ -28895,24 +28895,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Column1",
-                "Column2",
-                "Column3",
-                "Column4",
-                "Column5",
-                "Column6",
-                "Column7",
-                "Column8"
-            ],
-            "flags": 0,
-            "guid": "gB9N&gPHvQ",
-            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "1586",
                 "hermitage",
                 "place where one can live in seclusion; home of one isolated from society for religious reasons",
@@ -29176,6 +29158,96 @@
             ],
             "flags": 0,
             "guid": "mx=Y`Nh3j.",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1601",
+                "telluric",
+                "of or relating to or inhabiting the land as opposed to the sea or air",
+                "adj.",
+                "Latin : Tellus, Roman goddess of the earth</br>Syn: tellurian, terrene, terrestrial",
+                "<u><b>Telluric</b> currents</u> in the earth's crust were first measured in 1862, and despite having many causes, are generally diurnal and are constantly flowing in direction of the sun.",
+                "AMB",
+                "RATMW"
+            ],
+            "flags": 0,
+            "guid": "g_.>SDUbM]",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1602",
+                "crepuscular",
+                "of, relating to, or resembling twilight",
+                "adj.",
+                "French/Latin crepuscule : twighlight",
+                "The combination of the red coat, the isolation of the girl and the <b>crepuscular</b> woods brings to mind Little Red Riding Hood",
+                "AMB",
+                "RATMW"
+            ],
+            "flags": 0,
+            "guid": "EY6u/,Zr[f",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1603",
+                "importune",
+                "beg persistently; ask for urgently or repeatedly; annoy",
+                "verb",
+                "Syn:beseech, implore,  plead",
+                "1.\" Hör auf zu stürmen\", my mother used to say, when I  <b>importuned</b> for something I wanted",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "pG:PeT`^%j",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1604",
+                "imprecation",
+                "1. curse, or  act of calling down a curse that invokes evil</br>2. A slanderous accusation",
+                "noun",
+                "Latin:in- \"against\" + precari \"to pray, ask, beg\"=>to curse",
+                "1a. A book titled “How Librarians Swear” lists such <b>imprecations</b> as “You stupid doorknob,” “What the fun” and “Oh shootdarn it.”</br>1b.The accused suffered the <b>imprecations</b> of the mob </br>2. He often tweets <b>imprecations</b> at immigrants: “We are indeed a nation of immigrants. We are also a nation of laws. Respect our laws and we welcome you.\"",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "qM2ekXXY&V",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1605",
+                "improvident",
+                "1. thriftless;  not providing for future; </br>2. incautious",
+                "adj.",
+                "Latin : im- = \"opposite, not\" +  providere =\"foresee, provide\"=>not providing for future</br>Syn2:myopic, short, shortsighted, unforesightful",
+                "1. Her <b>improvident</b> habits left her with no retirement savings. </br>2. In one heat, a driver made an <b>improvident</b> move and three cars collided, one flipping on its side.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "G~e.He.Bd_",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
