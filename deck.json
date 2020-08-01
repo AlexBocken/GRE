@@ -2836,7 +2836,7 @@
                 "word-forming element meaning (all)around, round about on all sides",
                 "Latin Prefix",
                 "circumnavigate: sail around the globe</br>circumpolar: surround one of the poles</br>circumscribe: to make a circle around= to encompass</br>circumspect: looking around from all sides=suspect</br>circumvent: to go around</br>circumvolve: to turn or to cause to roll around",
-                "Circa,  circuit, circumcision, circus, circumference, circumspection, circumstance</br> circadian: about a day</br>circumambient: surroundings</br> circumambulate: to walk around</br>circumbendibus: a round about way - round the bend</br>circumcise: cut around</br>circumflex: sign bent around</br> circumfluent:a fluid flowing around</br>circumjacent:bordering on every side</br>circumlocution: a round about way of speaking, ie. elusive",
+                "Circa,  circuit,  circus, circumference, circumspection, circumstance</br> circadian: about a day</br>circumambient: surroundings</br> circumambulate: to walk around</br>circumbendibus: a round about way - round the bend</br>circumcise: cut around</br>circumflex: sign bent around</br> circumfluent:a fluid flowing around</br>circumjacent:bordering on every side</br>circumlocution: a round about way of speaking, ie. elusive",
                 "Latin words",
                 "nko"
             ],
@@ -13834,7 +13834,7 @@
                 "to scold or express criticism",
                 "verb",
                 "",
-                "As a law enforcement officer, Jack must always make sure his behavior is above reproach",
+                "As a law enforcement officer, Jack must always make sure his behavior is <u>above <b>reproach</u></b>",
                 "357 prevalent GRE words",
                 "Prepscholar"
             ],
@@ -29482,6 +29482,294 @@
             ],
             "flags": 0,
             "guid": "/p^@4{Nvm",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1619",
+                "inroad",
+                "entrance of an enemy into a country with purposes of hostility; sudden or desultory incursion or invasion; raid; encroachment",
+                "noun",
+                "originally used only to talk about military movement, describing armies making hostile raids.",
+                "1a.  The army is finally <u>making <b>inroads</b></u> into enemy territory </br>1b. China is <u>making <b>inroads</b></u> in the world, in large part because the United States is offering no attractive alternative.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "y@yd?y$2[Q",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1620",
+                "insulate",
+                "make an island of; place in a detached situation, or in a state having no communication with surrounding objects; isolate; separate",
+                "verb",
+                "Latin insula=“to make into an island.”</br>Deutsches Stammwort : Inseln</br>Syn: isolate, weatherstrip",
+                "1a. They used a special type of expanded glassfiber mat to <b>insulate</b> the attic. </br>1b. Inner City dwellers often go to great lengths to <b>insulate</b> their children from dangerous experiences.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "n2MXQSr)QW",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1621",
+                "interlocutor",
+                "1. one who speaks in dialogue or takes part in conversation</br>2. a third party in a conversation,\" like a middleman who speaks on behalf of an organization.",
+                "noun",
+                "Latin :\"  inter \"between\" + loqui \"to speak\"=> \"speak between</br>Syn1: conversation partner</br>Syn2: middleman",
+                "1. At formal events one is often forced to exchange pleasantries with whatever <b>interlocutor</b> one happens to have struck conversation up with</br>2. Switzerland – which acts as <b>interlocutor</b> between Tehran and Washington – passed messages between the two arch foes and set the terms of a response.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "uj@,0a)>3k",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1622",
+                "internecine",
+                "mutually destructive; equally devastating to both sides",
+                "adj.",
+                "Latin inter- (“among”) + necare (“to kill”)=>very deadly, murderous, destructive</br>",
+                "The first world war was a terrible <b>internecine</b> war that utterly ruined both allies and axis.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Fb`Vc$vp^.",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1623",
+                "interpose",
+                "place between; thrust; intrude; be between, either for aid or for troubling",
+                "verb",
+                "French:  inter- \"between\" + poser \"to place\"=>to place in between",
+                "It's annoying when advertisers <b>interpose</b> commercials between segments of your favorite TV show",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "F6[O|0d9|X",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1624",
+                "interregnum",
+                "1a. the time during which a throne is vacant between two successive reigns or regimes</br>\n1b.  a period during which the normal functions of government or control are suspended",
+                "noun",
+                "Latin : inter \"between\"  + regnum \"reign, kingship\"=> interval between 2 reigns",
+                "The Apostolic Constitution dictated that Cardinal Albanese would serve as temporary caretaker of the Roman Catholic Church during the <b>interregnum</b>, which ended with the election of a new pope.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "szt:_R{w}s",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1625",
+                "invertebrate",
+                "1. animal, such as an insect, that lacks backbone or spinal column</br>2. a courage-less or weak person",
+                "noun",
+                "Latin in- \"not\"  + vertebratus \"spine\"=>Spineless</br>Deutsch : Rückgratlos",
+                "1. worms are an example of <b>invertebrate</b> animals</br>2. an <b>invertebrate</b> Congress that blithely went along with the President's ill-conceived plan",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "sLfA-%[=,7",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1626",
+                "invidious",
+                "an act, thought, opinion or critique that is full of ill will or prejudice",
+                "adj.",
+                "Same word root as \"envious\", \"envy\"</br>Syn: obnoxious, discriminatory",
+                "The boss was not well liked because he made <b>invidious</b> distinctions between employees.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q)kV+o(:/R",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1627",
+                "insidious / invidious",
+                "1. insidious describes something nasty that lies in wait to get you</br>2. invidious is something offensive or defamatory.",
+                "adj.",
+                "",
+                "Cancer can be <b>insidious</b>, lurking in your body without your knowing it - but nasty, <b>invidious</b> comments are noticed right away",
+                "Easily confused words",
+                "SMB"
+            ],
+            "flags": 0,
+            "guid": "KR:I}w}&l?",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1628",
+                "invigilate",
+                "watch diligently; keep watch over examination candidates to prevent cheating",
+                "verb",
+                "Same word root as \"vigilante\"</br>Deutsch : aufpassen, vor allem bei Prüfungen (Brit.)",
+                "One of the job functions of the  professor's assistant was to <b>invigilate</b> during the final exam",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "F]/IG**4UC",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1629",
+                "inviolable",
+                "secure from corruption, attack, or violation; unassailable",
+                "adj.",
+                "Latin  in-  \"not\" + violare \"to violate\"=>not violable</br>",
+                "1a. \"We call upon you to recognize the <b>inviolable</b> human dignity of the child, before and after birth,” the group wrote in its letter</br>1b. Before WW2, the French thought that the Margot line made the border to Germany <b>inviolable</b>",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "f~i+lMa=o=",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1630",
+                "invocation",
+                "1. prayer for help; </br>2. calling upon as reference or support</br>3 .an act of legal or moral implementation",
+                "noun",
+                "Syn1 : conjuration</br>Syn3 : enforcement",
+                "1a. In the hospital chapel, the religious man hoped to save his dying wife by making an <b>invocation.</b> to the Almighty</br>2. He justified his position by <b>invocation</b> of the past </br>3. Will the <b>invocation</b> of the Defense Production Act mean that there will be more masks soon?",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q0|kU76U)*",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1631",
+                "iridescent",
+                "exhibiting or giving out colors like those of rainbow; gleaming or shimmering with rainbow colors",
+                "adj.",
+                "Latin : iris=\"rainbow\" + escent=\"in the process of becoming\"=>multicoloured like a rainbow.",
+                "1a. an <b>iridescent</b> oil slick</br>1b. A dragonfly hovered, vibrating and <b>iridescent</b>",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "nO16v6evHy",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1632",
+                "irksome",
+                "causing annoyance, weariness, or vexation; tedious",
+                "adj.",
+                "Gleicher Wortstamm wie \"ärgern\", also  irksome= \"ärgerlich\"</br>Syn: tedious, boring, deadening, dull, ho-hum, slow, tiresome, wearisome",
+                "Arguments are put forward, surely <b>irksome</b> to some in France, about the Italian influence on French cooking.",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "Q)}Z.2V1V!",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1633",
+                "irreproachable",
+                "perfect or blameless in every respect; faultless; impeccable",
+                "adj.",
+                "French : in- \"not, opposite of\" + reproach =>not reproachable</br>see Nr. 647 \"reproach\"</br>Syn: blameless, inculpable, unimpeachable,  clean-handed, guiltless, innocent",
+                "His conduct as a police officer was <b>irreproachable. <?b>",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "ehP>*U?+v9",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1634",
+                "jaundiced",
+                "1. showing or affected by prejudice or envy or distaste; </br>2. affected by jaundice which causes yellowing of skin; yellow or yellowish",
+                "adj.",
+                "",
+                "1a. She has a very <b>jaundiced</b> view of politics and politicians. </br>1b. In my view, it takes a <b>jaundiced</b> eye to read anything negative into the strong job growth.</br>2. His <b>jaundiced</b> skin was a sign that he had liver problems",
+                "1000 Difficult GRE words",
+                "Examword"
+            ],
+            "flags": 0,
+            "guid": "g,Fh3+s[ym",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
