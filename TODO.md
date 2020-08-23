@@ -19,6 +19,7 @@
 | engross           | no.1301   | number different meanigns to fit the examples                                                                                                                                                |
 | manacle           | no.1682   | lmao either use "Blacks" or "blacks", but definitely not "the Blacks". Maybe another example would be better to begin with.                                                                  |
 | fulsome           | no.1561   | add line breaks between meanings                                                                                                                                                             |
+| patsy             | web       | maybe it's too colloquial? Add it at your discretion                                                                                                                                         |
 
 ----
 
