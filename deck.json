@@ -31212,6 +31212,204 @@
             "guid": "ingVa7RG]A",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1730",
+                "canvass",
+                "1a. to go through (a district) or go to (persons) in order to solicit orders or political support or </br>1b. to determine opinions or sentiments </br>2. consider in detail and subject to an analysis in order to discover essential features or meaning",
+                "verb",
+                "",
+                "1a. A team of volunteers is <b>canvassing</b> the city for the Republican Party, going to every house.</br>1b. In a normal year, many of these households’ information would be collected during census enumerators’ follow-up <b>canvass</b></br>2. By the time the three states complete their <b>canvass</b> of votes nearly a month after the election, the nation faces an astonishing result.",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "h[rk<~c(P,",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1731",
+                "cavalcade",
+                "1. a procession, orginally of horses, now of any sort (eg. Motorcycles, cars, people, ships, etc.)</br>2. a sequence, a series - often dramatic",
+                "noun",
+                "Same Latin root as \"cavalry\"",
+                "1. It was followed in quick succession by almost 20 vehicles that departed in a long <b>cavalcade</b>.</br>2. Despite  a <b>cavalcade</b> of natural disasters, the country was able to recover",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "P}=(dZn>0S",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1732",
+                "Chicane",
+                "1. deception, trickery</br>2. a removable obstacle on a racecourse, eg.  a series of tight turns in opposite directions in an otherwise straight stretch of a road-racing course",
+                "verb, noun",
+                "Middle French  chicaner =  \"to quibble\" or \"to prevent justice,\"",
+                "1. Most get-rich-quick schemes involve more than a smidgen of <b>chicane</b></br>2. The Le Mans circuit has <b>chicanes</b> on the frontstretch to slow the cars , forcing the drivers to altenatively swing their steering wheels left and right.",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "KKta]~#[NR",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1733",
+                "churl",
+                "bad-tempered person",
+                "noun",
+                "Same German root as \"Kerl\". </br>Had various meanings in middle English, :  \"man of the common people,\" \"a country man,\" \"husbandman,\" \"free peasant. </br>Like \"boor\" & \"villain\", it is a word for \"common man\" that became insulting with time.",
+                "1a. But gracious Prince, do not listen to these common people, to these <b>churls.</b><br>1b. The grump man is a miserable <b>churl</b> who is rude and surly at all times.",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "FFonBGva&Z",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1734",
+                "constrain",
+                "hold back, restrict",
+                "verb",
+                "",
+                "Japan’s economy is heavily reliant on exports, so weak demand in major overseas markets is <b>constraining</b> its growth",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "j{)L:on,nr",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1735",
+                "contumacious",
+                "insubordinate,  rebellious",
+                "adj,",
+                "Latin : com-=with + tumere \"to swell up\"(some origin as \"tumour\")=>to swell up, be rebellious",
+                "1a. She was warned that her <b>contumacious</b> conduct would not be tolerated.</br>1b. 1b. The judge threatened to charge the <b>contumacious</b> witness with contempt of court",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "PQu7>pzY7g",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1736",
+                "coruscate",
+                "sparkle",
+                "verb",
+                "From Latin : sparkle, emit flash of light",
+                "1a. He had a  classic car from the 1950s, replete with yards of <b>coruscating</b> chrome </br>1b. The little mirrors on a disco ball <b>coruscate</b> as the ball twirls, making the dance floor sparkle.</bb>1c. His playing <b>coruscated</b> throughout the concert hall</br>1d. The allegations threaten to curtail a <b>coruscating</b> career.",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "lxLXlRz`O:",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1737",
+                "countenance",
+                "1. the appearance conveyed by a person's face, thus also their composure - often understood to be calm</br>2. to favor or approve of",
+                "adj, verb",
+                "Old French contenance \"demeanor, bearing, conduct,\"",
+                "1a. The photograph showed his somber <b>countenance</b></br>1b. He managed to keep his <b>countenance</b> through the ordeal.</br>2. He was surprised at her <b>countenance</b> of their unsafe amusements",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "m6=,f;;Z1@",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1738",
+                "countervail",
+                "to counter something with equal force so as to succesffully offset or mitigate its effect",
+                "verb",
+                "counter=rebut + vail=value=>rebut or resist with equal force/value",
+                "In order to   <b>countervail</b> the storm’s effect of flooding the area, the authorities built levees to hold the waters back.",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "H`<6</YxAs",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1739",
+                "crass",
+                "stupid, vulgar, insensitive, without refinement or sensitivity; gross.",
+                "adj,",
+                "ähnlich (aber nicht identisch) wie \"Krass\" auf Deutsch",
+                "While you don't have to wear black to a funeral, but  showing up in clown pants is simply <b>crass.</b>",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "tZ%FL%G&S;",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1740",
+                "cursory",
+                "quick; hurried",
+                "adj.",
+                "From French via Latin: pp of currore= running </br>Syn: hasty",
+                "1a. He gave the applicant a <b>cursory</b> glance and already turned her down in his mind</br>1b. Only a <b>cursory</b> inspection of the building was done - resulting in a large under-estimate of the repairs needing to be done.",
+                "Grad_Hotline_1300_GRE",
+                "5_Highest_Level"
+            ],
+            "flags": 0,
+            "guid": "r~T$H3&%^K",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
         }
     ]
 }
