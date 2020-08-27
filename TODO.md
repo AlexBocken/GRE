@@ -19,6 +19,9 @@
 | impudent          | no.414    | two categories of synonyms in explanation but only one meaning?                                                                                       |
 | superficial       | no.693    | aren't the three different meanings basically the exact same one but applied to different areas/ideas?                                                |
 | forge             | no.1767   | add linebreaks between meanings                                                                                                                       |
+| whittle           | no.815    | add sub-numbering i.e. (1.a, 1.b)                                                                                                                     |
+| fulgurate         | no.731    | meaning: `2:` -> `2.`                                                                                                                                 |
+| congruity         | no.974    | end of underline missing in example. Also: remove numbering? Synonyms should only be listed in explanation, not example.                              |
 
 ----
 
