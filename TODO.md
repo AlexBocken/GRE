@@ -1,10 +1,15 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                                                                                                           |
-| :---------------- | :-------- | :----------------------                                                                                                                               |
-| whittle           | no.815    | add sub-numbering i.e. (1.a, 1.b)                                                                                                                     |
-| fulgurate         | no.731    | meaning: `2:` -> `2.`                                                                                                                                 |
-| congruity         | no.974    | end of underline missing in example. Also: remove numbering? Synonyms should only be listed in explanation, not example.                              |
+| Word              | Occurence | Explanation                                                                                                              |
+| :---------------- | :-------- | :----------------------                                                                                                  |
+| whittle           | no.815    | add sub-numbering i.e. (1.a, 1.b)                                                                                        |
+| fulgurate         | no.731    | meaning: `2:` -> `2.`                                                                                                    |
+| congruity         | no.974    | end of underline missing in example. Also: remove numbering? Synonyms should only be listed in explanation, not example. |
+| epicure           | no.1339   | fix typos in explanation.                                                                                                |
+| espouse           | no.1349   | list two different meanings seperately                                                                                   |
+| inveigh           | no.1778   | add linebreak between meanings, 1st meaning should be called `1a.`                                                       |
+| lam               | no.1780   | corrupt linebreak char in examples                                                                                       |
+|                   |           |                                                                                                                          |
 
 ----
 
