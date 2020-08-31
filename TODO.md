@@ -1,20 +1,7 @@
 # Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                       |
-| :---------------- | :-------- | :----------------------                                           |
-| victual           | web       |                                                                   |
-| premonition       | web       |                                                                   |
-| ewe               | 1795      | requires at least last column to be filled in                     |
-| resort            | 1818      | add linebreaks between meanings                                   |
-| moribund          | 1698      | `2a.` -> `2a. `                                                   |
-| stipple           | 1825      | add numbering two third example? remove one of the two linebreaks |
-| dissimulate       | 358       | `said"He` -> `said "He` & `reign. "` -> `reign."`                 |
-| suppliant         | 1828      | add linebreaks between examples                                   |
-| aspersion         | 1717      | remove numbering from only example                                |
-| trencherman       | 1834      | remove numbering from example                                     |
-| untoward          | 1837      | remove `or` from first meaning                                    |
-| vagary            | 1838      | 2nd example reformat numbering                                    |
-| virago            | 1840      | remove unnecessary third numbering from examples                  |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 ----
 
