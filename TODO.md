@@ -1,4 +1,4 @@
-# Words that should be added/modified
+:# Words that should be added/modified
 
 | Word              | Occurence | Explanation                                                            |
 | :---------------- | :-------- | :----------------------                                                |
@@ -8,6 +8,9 @@
 | exposulate        | 1863      | add numbering to examples                                              |
 | hackneyed         | 379       | meaning cuts off mid-word                                              |
 | extempore         | 1865      | `1c.` -> `1.c `                                                        |
+| determinant       | 213       | end of bold delimiter missing in example                               |
+| coruscate         | 1736      | add linebreak between 1b. and 1c.                                      |
+| bandy             | 1874      | add linebreak between 1b. & 1c.                                        |
 
 ----
 
