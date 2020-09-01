@@ -1,16 +1,7 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                            |
-| :---------------- | :-------- | :----------------------                                                |
-| hirsute           | 1772      | `1.` -> `1a.`                                                          |
-| dulcet            | 1857      | remove one of the two linebreaks between 1a(i). and 1a(ii). in example |
-| effluvia          | 1858      | remove period in the middle of the first example sentence              |
-| exposulate        | 1863      | add numbering to examples                                              |
-| hackneyed         | 379       | meaning cuts off mid-word                                              |
-| extempore         | 1865      | `1c.` -> `1.c `                                                        |
-| determinant       | 213       | end of bold delimiter missing in example                               |
-| coruscate         | 1736      | add linebreak between 1b. and 1c.                                      |
-| bandy             | 1874      | add linebreak between 1b. & 1c.                                        |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 ----
 
