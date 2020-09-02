@@ -13,7 +13,7 @@
                 "delays": [
                     10.0
                 ],
-                "leechAction": 0,
+                "leechAction": 1,
                 "leechFails": 8,
                 "minInt": 1,
                 "mult": 0.0
@@ -22041,7 +22041,7 @@
                 "officious",
                 "intrusive in a meddling or offensive manner, being annoyingly eager to do more than is required.",
                 "adj.",
-                "Has nothing to do with official or office!!!. People who are officious are busybodies. They want to make their opinions known and followed, despite not having any kind of real power.",
+                "Has nothing to do with official or office. People who are officious are busybodies. They want to make their opinions known and followed, despite not having any kind of real power.",
                 "The <b>officious</b> lunch lady made everyone's food choices her business, and made nasty comments when students chose cookies over carrots",
                 "Hi Freq. GRE Medium",
                 "Barron"
@@ -25775,7 +25775,9 @@
             "flags": 0,
             "guid": "Dgc}],m^Of",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -32842,7 +32844,7 @@
                 "1. a small tube that goes inside the body to drain fluid</br>2a. Send from one track to another</br>2b. push something over to someone else,  evade discussion",
                 "noun,verb",
                 "Syn1: stint</br>Syn2: shove, push",
-                "1. an arteriovenus <b>shunt</b> was inserted into his vein</br>2a. The waggons were <b>shunted</b> to set up new train configurations in preparation for the morning rush. 2b. President Trump abdicated leadership and <b>shunted</b> pandemic response to the states.",
+                "1. an arteriovenus <b>shunt</b> was inserted into his vein</br>2a. The waggons were <b>shunted</b> to set up new train configurations in preparation for the morning rush. </br>2b. President Trump abdicated leadership and <b>shunted</b> pandemic response to the states.",
                 "Grad Hotline 1300 GRE",
                 "5 Highest Level"
             ],
@@ -33886,7 +33888,7 @@
                 "1a. twisting or winding in a maze-like manner<br>1b. to entangle the state of affairs</br> 1c. Linked to the inner ear",
                 "adj",
                 "labyrynth + ine =adjectival word-forming element</br>intricate, involved",
-                "1a. Given the safety requirements and protocols, the setup for the graduation was <b>labyrinthine</b>. </br> 1b. tThe <b>labyrinthine</b> politics of Central Europe left us totally befuddled. </br>1c. If a student wants help, the process may seem <b>labyrinthine</b>.",
+                "1a. Given the safety requirements and protocols, the setup for the graduation was <b>labyrinthine</b>. </br> 1b. The <b>labyrinthine</b> politics of Central Europe left us totally befuddled. </br>1c. If a student wants help, the process may seem <b>labyrinthine</b>.",
                 "Grad Hotline 1300 GRE",
                 "4 High Level"
             ],
@@ -33976,7 +33978,7 @@
                 "1. To punish by a fine</br>2. to deprive (someone) of something, as by fraud, extortion, etc.",
                 "verb",
                 "Latin mulctare: \"to punish by a fine or forfeiture\" </br>Syn2: swindle</br> today, the 2nd meaning is more common",
-                "1. Any contravention of the edict shall entail a <b>mulct</b> of one hundred marks, one half payable to the fisc and one half to the party injured.</b>2a. The unethical reporter managed to <b>mulct</b> $500,000 from the corrupt police department.</br>2b.  He tried to <b>mulct</b> the insurance company for an accident that never happened",
+                "1. Any contravention of the edict shall entail a <b>mulct</b> of one hundred marks, one half payable to the fisc and one half to the party injured.</br>2a. The unethical reporter managed to <b>mulct</b> $500,000 from the corrupt police department.</br>2b.  He tried to <b>mulct</b> the insurance company for an accident that never happened",
                 "Grad Hotline 1300 GRE",
                 "4 High Level"
             ],
@@ -33993,7 +33995,7 @@
                 "numismatist",
                 "collector and student of money, in particular of coins",
                 "noun",
-                "Syn: stingy, close, niggardly, parsimonious, penurious, miserly",
+                "",
                 "Paper notes and coins will be valued only by collectors and <b>numismatists</b>.",
                 "1000 Difficult GRE words",
                 "Examword"
@@ -34011,7 +34013,7 @@
                 "penurious",
                 "1. marked by or suffering from penury</br>2. stingy",
                 "adj.",
-                "Latin: Latin penuria \"want, need; scarcity\"+ious=in want, needy, poverty-stricken\"",
+                "Latin: Latin penuria \"want, need; scarcity\"+ious=in want, needy, poverty-stricken\"</br>Syn: stingy, close, niggardly, parsimonious, penurious, miserly",
                 "1. In Beijing, where foreign diplomats are <b>penurious</b> and government officials prefer Chinese restaurants, there were three distinguished Western eateries..</br>2a. “Warren Buffett would approve of our overhead philosophy,” he added, referring to the famously <b>penurious</b> investor.</br>2b. The <b>penurious</b> nicotine levels proved frustrating and costly for South Korean vapers.",
                 "Grad Hotline 1300 GRE",
                 "4 High Level"
@@ -34120,7 +34122,7 @@
                 "small boat",
                 "noun",
                 "Gleicher Wortstamm als \"Schiff\". </br> Originally, a small boat of a ship",
-                "1. The fisherman hoped that the small <b>skiff</br> would be able to hold all of the fish he caught.</br>1b. McCrory started fishing salmon when he was 12, using a <b>skiff</br> to haul nets filled with salmon with his father.",
+                "1. The fisherman hoped that the small <b>skiff</b> would be able to hold all of the fish he caught.</br>1b. McCrory started fishing salmon when he was 12, using a <b>skiff</b> to haul nets filled with salmon with his father.",
                 "Grad Hotline 1300 GRE",
                 "4 High Level"
             ],
@@ -34288,6 +34290,258 @@
             ],
             "flags": 0,
             "guid": "Jkem@t){A1",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1901",
+                "ail",
+                "to cause pain, uneasiness, or trouble to.",
+                "verb",
+                "Ail is used when referring to non-specific illnesses. </br>The verb ail is used for things that are metaphorically unwell or unhealthy",
+                "1a. His back has been <b>ailing</b> him.</br>1b. But as the <u><b>ailing</b>  economy</u> contracted even more, officials desperate to stimulate business lifted some of the lockdown restrictions</br>1c. The family includes their daughter, and his <b>ailing</b> mother, whom Dan visits weekly.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "mF@lfLQW$M",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1902",
+                "alloy",
+                "1. A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten</br>2. To debase by mixing with something inferior",
+                "verb, noun",
+                "",
+                "1. Brass is an <b>alloy</b> of zinc and copper</br>2.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "j#*nQ:UjDn",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1903",
+                "anguish",
+                "extreme pain, distress, or anxiety - either or a noun or verb",
+                "noun, verb",
+                "Syn (noun): affliction, agony, distress, excruciation, hurt, misery, pain, rack, torment, torture, travail, tribulation, woe</br>Syn(verb): afflict, agonize, bedevil, beset, besiege, curse, excruciate, harrow, persecute, plague, rack, torment, torture",
+                "1a. When my husband died, the <b>anguish</b> I felt was nearly unbearable.</br>1b. They watched in <b>anguish</b> as fire spread through the house.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "qZi)X=H&Yy",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1904",
+                "benefactor",
+                "a person who helps people or institutions (especially with financial help)",
+                "noun",
+                "Latin: bene= \"well,\" and facere= \"to do\" =>benefactor=\"to do well.\"",
+                "1a. In an economy run on private enterprise, every school, museum, and struggling artist is in search for a generous <b>benefactor</b>,  or someone to provide the financial means to keep everything running smoothly.</br>1b. His endowments … placed him high among the <b>benefactor</b> of the convent. </br>1c. An anonymous benefactor gave the school a dozen new computers",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "qY&rRvn=.F",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1905",
+                "braggart",
+                "an individual who brags a great deal",
+                "noun",
+                "brag+ perjorative ending \"-ard\".",
+                "1a. My rich uncle is a <b>braggart</b> who constantly boasts about his possessions.</br>1b. When the <b>braggart</b> in our neighborhood got a sports car, he kept driving around so everyone would see his vehicle.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "dc<.[`v7@2",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1906",
+                "centurion",
+                "Roman army officer, head of a centuria\" (a group of one hundred)",
+                "noun",
+                "cent=100",
+                "Matthew 8:5-13: When Jesus had entered Capernaum, a <b>centurion</b> came to him, asking for help.  “Lord,” he said, “my servant lies at home paralyzed, suffering terribly.”",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "D4doY7Ia?_",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1907",
+                "console",
+                "1. v. Give comfort or sympathy to</br>2. n. Housing for electronic instruments, as radio or television",
+                "verb, noun",
+                "1. French consoler \"to comfort, console,\"</br>2. noun : Frenchbut of unknown origin.",
+                "1. The mother did her best to <b>console</b> her little son when his dog was run over by a car. 1b. The priest went to the hospital to <b>console</b> the military widows.</br>2. Transforming classic video game <b>consoles</b> into on-the-go gadget gaming goodness is practically a time-honored tradition",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "E~FXN(D5ti",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1908",
+                "defer",
+                "1. postpone</br>2. to submit to another's wishes, opinion, or governance usually through deference or respect",
+                "verb",
+                "Syn1: hold over, postpone, prorogue, put off, put over, remit, set back, shelve, table",
+                "1a. The doctor has decided to <b>defer</b> the surgery until my father’s health improves.</br>1b. One of the Covid pandemic support measures implemented by governments was to allow companies to <b>defer</b> the payment of their taxes2. She <b>deferred</b> to her father's wishes",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "u%~{zKF9l",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1909",
+                "dullard",
+                "A dumb person.",
+                "noun",
+                "somewhat old fashioned word",
+                "1a. Neanderthals were, she writes, “not <b>dullard</b> losers on a withered branch of the family tree, but enormously adaptable and even successful ancient relatives”</br>1b. The <b>dullard</b> carried on conversations that made no sense.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "MQv{}FwOar",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1910",
+                "embezzle",
+                "use in a wrong way for one's own benefit",
+                "verb",
+                "",
+                "1a. The accountant <b>embezzled</b> thousands of dollars while working for the wealthy family”</br>1b. <b>Embezzling</b> is a so-called \"white-collar crime\" which often involves some sort of cover-up, like falsifying financial records or stealing small amounts of money over a long period of time.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "H;7kbKY;g6",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1911",
+                "fidelity",
+                "1a. the quality or state of being faithful</br>1b.the degree to which an electronic device (such as a record player, radio, or television) accurately reproduces its effect (such as sound or picture)",
+                "noun",
+                "Syn:    adhesion, allegiance, attachment, commitment, constancy, dedication, devotedness, devotion, faith, faithfulness, fastness, fealty, loyalty, piety, steadfastness, troth",
+                "1a. Despite his apparent <b>fidelity</b>, she was never able to get over the feeling that he had another girlfriend on the side. </br>1b. These speakers reproduce sound with such high <b>fidelity</b>, you’d think you were actually in a concert hall.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "O9@>2i|gWs",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1912",
+                "foster",
+                "1. providing or receiving nurture or parental care though not related by blood or legal ties</br>2. nurture, help develop, help grow",
+                "noun, verb",
+                "Gleicher Wortstamm wie \"fördern\" auf Deutsch",
+                "1. John was given up for adoption at a young age and unfortunately was placed in several <b><u>foster</b> homes</u> durnig his life.</br>2. It is important to <b>foster</b> proper obedience in a dog early on.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "BGxqoKd3kX",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1917",
+                "patron",
+                "1. regular customer</br>2.  person who gives support",
+                "noun",
+                "",
+                "1a. If you have a <b>patron</b> who orders an alcoholic beverage, please ask to see his identification.</br>1b. \"We wish to thank all <b>patrons</b> for their custom\", was written on the old sign in the store</br>2. He was a <b>patron</b> of the arts because he show edhis appreciation to the arts by donating money to the Metropolitan museum of Art.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "Kb%^*T*O1c",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1923",
+                "tadpole",
+                "a baby frog, basically the larval form of the animal afte the eggs hatch.",
+                "noun",
+                "Tadpole comes from roots meaning \"toad\" and \"head.\"",
+                "During its life cycle, the toad will grow from a tailed <b>tadpole</b> into a land amphibian with lungs and legs.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "kXqH2Xn(3*",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
