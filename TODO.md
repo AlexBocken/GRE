@@ -1,7 +1,11 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation             |
-| :---------------- | :-------- | :---------------------- |
+| Word              | Occurence | Explanation                               |
+| :---------------- | :-------- | :----------------------                   |
+| contumacious      | 1735      | `adj,` -> `adj.`                          |
+| alloy             | 1902      | please add an example for the 2nd meaning |
+| lam               | 1780      | fix linebreak char in examples            |
+| interlocutor      | 1621      | remove random `"` in 2nd meaning          |
 
 ----
 
