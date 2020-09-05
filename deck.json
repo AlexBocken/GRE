@@ -8459,7 +8459,9 @@
             "flags": 0,
             "guid": "g9JT$agY.>",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -24119,7 +24121,9 @@
             "flags": 0,
             "guid": "GQ7{~oBfIf",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -28459,7 +28463,9 @@
             "flags": 0,
             "guid": "fiR]G(G)E_",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -29529,7 +29535,7 @@
             "fields": [
                 "1621",
                 "interlocutor",
-                "1. one who speaks in dialogue or takes part in conversation</br>2. a third party in a conversation\" like a middleman who speaks on behalf of an organization.",
+                "1. one who speaks in dialogue or takes part in conversation</br>2. a third party in a conversation, like a middleman who speaks on behalf of an organization.",
                 "noun",
                 "Latin:\"  inter \"between\" + loqui \"to speak\"=> \"speak between</br>Syn1: conversation partner</br>Syn2: middleman",
                 "1. At formal events one is often forced to exchange pleasantries with whatever <b>interlocutor</b> one happens to have struck conversation up with</br>2. Switzerland – which acts as <b>interlocutor</b> between Tehran and Washington – passed messages between the two arch foes and set the terms of a response.",
@@ -31312,7 +31318,7 @@
                 "1735",
                 "contumacious",
                 "insubordinate,  rebellious",
-                "adj,",
+                "adj.",
                 "Latin: com-=with + tumere \"to swell up\"(some origin as \"tumour\")=>to swell up, be rebellious",
                 "1a. She was warned that her <b>contumacious</b> conduct would not be tolerated.</br>1b. The judge threatened to charge the <b>contumacious</b> witness with contempt of court",
                 "Grad Hotline 1300 GRE",
@@ -32124,7 +32130,7 @@
                 "1. a hasty escape; flight.",
                 "noun",
                 "same origin as \"lambast\", but here in the sense either \"to beat\" or \"to beat it\" (ie. Run away)",
-                "1a. After he stole his cousin's car he went <u>on the <b>lam</u></b>/br>1b. More than a 1,000 soldiers are listed as active deserters, with some <u>on the <b>lam</u></b> for decades</br>1c.  Let's <b>lam</b> out of this hellhole while there's still time",
+                "1a. After he stole his cousin's car he went <u>on the <b>lam</u></b></br>1b. More than a 1,000 soldiers are listed as active deserters, with some <u>on the <b>lam</u></b> for decades</br>1c.  Let's <b>lam</b> out of this hellhole while there's still time",
                 "Grad Hotline 1300 GRE",
                 "5 Highest Level"
             ],
@@ -34320,7 +34326,7 @@
                 "1. A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten</br>2. To debase by mixing with something inferior",
                 "verb, noun",
                 "",
-                "1. Brass is an <b>alloy</b> of zinc and copper</br>2.",
+                "1. Brass is an <b>alloy</b> of zinc and copper</br>2. Pinchbeck is nothing but a cheap <b>alloy</b>",
                 "Grad Hotline 1300 GRE",
                 "1 Lowest Level"
             ],
@@ -34542,6 +34548,114 @@
             ],
             "flags": 0,
             "guid": "kXqH2Xn(3*",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1913",
+                "grievous",
+                "causing grief or pain; serious dire grave",
+                "adj.",
+                "Grievous is derived from the noun grief, which means \"sadness.\"",
+                "1a. He had suffered a <b>grievous</b> wound that he would never recover from.</br>1b.Sometimes, a verbal insult can cause a more <b>grievous</b> injury than any physical assault",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "j)H`Wo.qD*",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1914",
+                "indulgent",
+                "1. willing to allow excessive leniency, generosity, or consideration</br>2. done or enjoyed as a special treat or pleasure",
+                "adj.",
+                "\"lenient, willing to overlook faults,\" often in a bad sense, \"too lenient,\"  from Latin indulgentem (nominative indulgens)",
+                "1. <b>Indulgent</b> parents risk spoiling their children</br>2a. I drizzle a little more bourbon on top and, if I am feeling <b>Indulgent</b>, an extra spoonful of dulce de leche.</br>New York’s Levain Bakery – renowned for its thick, <b>Indulgent</b> cookies",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "M]k)A/GMY>",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1915",
+                "jabber",
+                "talk excitedly; utter rapidly - sometimes incoherently",
+                "verb",
+                "Syn: jibber-jabber, blabber",
+                "1a. After listening to the radio talk show host <b>jabber</b> about nonsense I switched the dial for some calming music.</br>1b. They <b>jabbered</b> away for hours.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "n_^C~zYWHZ",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1916",
+                "legacy",
+                "1a. Bequest or inheritance</br>1b. </br>2. of, relating to, associated with, or carried over from an earlier time, technology, business</br>3. Child of an alumunus to a school/university",
+                "verb, noun",
+                "Latin :  legare \"to appoint by a last will, send as an ambassador",
+                "1a. She left us a <b>legacy</b> of a million dollars.</br>1b. Japanese democracy, which turns 75 years old on Wednesday, is MacArthur’s greatest <b>legacy</b>.</br>2a. The <b>legacy</b> of the ancient Greek philosophers  influenced Europe enormously in the Renaissance. </br>2b. The biggest problem the company faced with the new cmoputer system was the cleaning and transferring of the <b>legacy</b> data  from the old program to the new one</br>3. <b>Legacies</b>, or children of alumni, are three times more likely to be accepted to Harvard than other high school graduates with the same (sometimes better) scores …",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "P2LVhr99h1",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1918",
+                "perjury",
+                "the act of deliberately lying under oath",
+                "verb",
+                "Latin : per \"away, false\"  + iurare \"to swear\"=>to swear falsely",
+                "1a. Maxwell is also charged with <b>perjury</b> for allegedly lying under oath during depositions in a civil lawsuit against her.</br>1b. John was warned by the judge to tell the truth or else be arrested for <b>perjury</b>.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "y(8G;z=[q%",
+            "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1922",
+                "retrograde",
+                "1. moving backwards or in the direction reverse to normal- either physically or figuratively (eg. Getting worse)</br>2. relating to, reviving, or being the styles and especially the fashions of the past : fashionably nostalgic or old-fashioned </br>3. affecting memories of a period prior to a precipitating event (such as brain injury or disease)",
+                "verb, noun",
+                "Latin :  retro- \"backward\" (see retro-) + gradi \"to go, step\" => to go backwards",
+                "1a. In tests on 11 astronauts in space after 50 days, 6 showed stagnant or <b>retrograde</b> blood flow in the left internal jugular vein.</br>1b. From this point of view, Mars’s orbit of the Sun appears erratic, for example it periodically goes '<b>retrograde</b>', reversing its course.</br>1c. The law imposed from mainland China “is a <b>retrograde</b> step for Hong Kong,” says the dean of science at HKU</br>1d.  It would be nice to think that the West was surging to triumph over a <b>retrograde</b>, collapsing Russia</br>2. The ad for \"Fischer-Bettwaren Fabrik in Au-Wädenswil\" has gained cult status in Switzerland as it is hilariously dry and <b>retrograde</b>. </br>3. The stroke caused the teenager to get <u><b>retrograde</b> amnesia</u>, fogetting everything before the stroke.",
+                "Grad Hotline 1300 GRE",
+                "1 Lowest Level"
+            ],
+            "flags": 0,
+            "guid": "rb:UeJ_G=B",
             "note_model_uuid": "868688d2-a7fe-11ea-8360-9cb6d013a4a3",
             "tags": []
         }
