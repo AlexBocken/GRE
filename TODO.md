@@ -1,17 +1,7 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                                                           |
-| :---------------- | :-------- | :----------------------                                                                               |
-| dullard           | 1909      | `person.` -> `person`                                                                                 |
-| amenable          | 46        | better example, hard to remember                                                                      |
-| floundering       | 350       | `struggling:` -> `struggling`                                                                         |
-| cide              | 150       | `Killer of ()` -> `Killer of _`, add space between brackets and examples (some have them, some don't) |
-| foppish           | 1765      | `17cent` in example                                                                                   |
-| tout              | 1832      | add linebreak between 2nd and 3rd meaning                                                             |
-| bandy             | 1874      | add numbering to 1st meaning, third meaning: `ajd.` -> `adj.`                                         |
-| wan               | 1898      | maybe renumber meanings as `1` and `2` to fit the numbering of examples                               |
-| retrograde        | 1922      | remove one of the four examples for the first meaning                                                 |
-| dolt              | 1856      | add linebreak between examples 1a. and 1b., `been !` -> `been!`                                       |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 ----
 
