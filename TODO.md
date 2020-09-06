@@ -1,15 +1,7 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation                                                                      |
-| :---------------- | :-------- | :----------------------                                                          |
-| apprehensive      | 1927      | `discenering` -> `discerning`                                                    |
-| exuberance        | 1934      | remove circular definition                                                       |
-| expostulate       | 1863      | 1a. example sentence is grammatically incorrect                                  |
-| amenable          | 46        | end of underline missing in 1a(i). linebreak missing after 1a(i).                |
-| indulge           | 1940      | meaning 1b. should probably be numbered as 2. -> example 2b. should be example 2 |
-| pinchbeck         | 1801      | `1b(ii).` -> `1b(ii). `                                                          |
-| bandy             | 1874      | numbering missing for 1st meaning                                                |
-| wan               | 1898      | `1b (i).` -> `ib(i).` (same for `1b(ii).`)                                       |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 ----
 
