@@ -1,10 +1,7 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation                       |
-| :---------------- | :-------- | :----------------------           |
-| ardor             | 1956      | add linebreak between 1b. and 1c. |
-| plumb             | 1802      | `3.completely`-> `3. completely`  |
-| clinch            | 1961      | meaning just reads `>`            |
+| Word              | Occurence | Explanation             |
+| :---------------- | :-------- | :---------------------- |
 
 ----
 
