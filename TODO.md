@@ -1,7 +1,14 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation             |
-| :---------------- | :-------- | :---------------------- |
+| Word              | Occurence | Explanation                                                                       |
+| :---------------- | :-------- | :----------------------                                                           |
+| prim              | 1982      | 2nd meaning not easily understandable                                             |
+| desultory         | 211       | `1. )`-> `1. ` (same for 2 as well)                                               |
+| rotund            | 1986      | corrupt linebreak character in meaning                                            |
+| ascertain         | 1957      | remove `1c.`                                                                      |
+| sanctimony        | 1988      | maybe use italics flags instead of capitalizing "FALSE" in meaning, looks cleaner |
+| tepid             | 1994      | `1b(ii)` -> `1b(ii).`                                                             |
+| alloy             | 1902      | doubtful that the 2nd example fits the 2nd meaning                                |
 
 ----
 
