@@ -1,7 +1,12 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation             |
-| :---------------- | :-------- | :---------------------- |
+| Word              | Occurence | Explanation                              |
+| :---------------- | :-------- | :----------------------                  |
+| amortize          | 2001      | add linebreak between meanings           |
+| blandness         | 2005      | `1b.` -> `1b. `                          |
+| coax              | 2009      | remove `1b.` from meaning                |
+| vain              | 1998      | end of bold character corrupted          |
+| palpability       | 1944      | missing end of bold character in example |
 
 ----
 
