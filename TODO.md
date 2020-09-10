@@ -1,7 +1,9 @@
 :# Words that should be added/modified
 
-| Word              | Occurence | Explanation             |
-| :---------------- | :-------- | :---------------------- |
+| Word              | Occurence | Explanation                                                                     |
+| :---------------- | :-------- | :----------------------                                                         |
+| jibe              | 2021      | end of bold delimiter missing                                                   |
+| poignant          | 2026      | number differently (1 and 2), it's not clear which example is for which meaning |
 
 ----
 
