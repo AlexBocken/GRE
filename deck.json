@@ -1887,7 +1887,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n<b>{{Word}}</b>\n<div class=pronounciation>{{pronounciation}}</div>\n{{part of speech}}<br>\n\n<hr id=answer>\n{{#example}}\n<i>Example:</i></br>\n{{example}}</br>\n{{/example}}\n\n</br>\n<div id=\"center\"><b>{{Meaning}}</b></div> </br>\n</br>\n{{#explanation}}\n<i>Explanation:</i></br>{{explanation}}</br>\n</br>\n{{/explanation}}\n</div>\n\n<div class=\"footer\">\n<div id=\"bottom-left\">{{no.}} </div>\n<div id=\"bottom-center\">{{Source}}</div>\n<div id=\"bottom-right\">{{type/level}}</div>\n</div>\n</div>",
+                    "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n<b>{{Word}}</b>\n<div class=pronounciation>/{{pronounciation}}/</div>\n{{part of speech}}<br>\n\n<hr id=answer>\n{{#example}}\n<i>Example:</i></br>\n{{example}}</br>\n{{/example}}\n\n</br>\n<div id=\"center\"><b>{{Meaning}}</b></div> </br>\n</br>\n{{#explanation}}\n<i>Explanation:</i></br>{{explanation}}</br>\n</br>\n{{/explanation}}\n</div>\n\n<div class=\"footer\">\n<div id=\"bottom-left\">{{no.}} </div>\n<div id=\"bottom-center\">{{Source}}</div>\n<div id=\"bottom-right\">{{type/level}}</div>\n</div>\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1895,7 +1895,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<div class=\"container\">\n<div class=\"card-content\">\n<b>{{Word}}</b><br>\n<div class=pronounciation>{{pronounciation}}</div>\n{{part of speech}}\n<div class=audio>{{audio}}</div>\n\n</div>\n\n<div class=\"footer\">\n<div id=\"bottom-left\">{{no.}} </div>\n<div id=\"bottom-center\">{{Source}}</div>\n<div id=\"bottom-right\">{{type/level}}</div>\n</div>\n</div>"
+                    "qfmt": "<div class=\"container\">\n<div class=\"card-content\">\n<b>{{Word}}</b><br>\n<div class=pronounciation>/{{pronounciation}}/</div>\n{{part of speech}}\n<div class=audio>{{audio}}</div>\n\n</div>\n\n<div class=\"footer\">\n<div id=\"bottom-left\">{{no.}} </div>\n<div id=\"bottom-center\">{{Source}}</div>\n<div id=\"bottom-right\">{{type/level}}</div>\n</div>\n</div>"
                 }
             ],
             "type": 0
@@ -1985,7 +1985,7 @@
                 "The <u>Covid pandemic  will</u>, with or without successful retaining measures,  <u>eventually <b>abate</b></u>",
                 "357 prevalent GRE words",
                 "[sound:4_abate.ogg]",
-                "",
+                "ə-ˈbāt",
                 "Prepscholar"
             ],
             "guid": "LGfrL)g&)0",
@@ -2021,7 +2021,7 @@
                 "The unexpected results were a <u>statistical <b>aberration</b></u>",
                 "Least Difficult",
                 "[sound:7_aberration.ogg]",
-                "",
+                "ˌa-bə-ˈrā-shən",
                 "FT"
             ],
             "guid": "PLy)T]A8`!",
@@ -2039,7 +2039,7 @@
                 "With the football leagues now <u>in <b>abeyance</b> during Corona crisis</u>, the question now is how and whether the season will finish",
                 "Most Difficult",
                 "[sound:939_abeyance.ogg]",
-                "",
+                "ə-ˈbā-ən(t)s",
                 "FT"
             ],
             "guid": "h&qxtEZ95o",
@@ -2057,7 +2057,7 @@
                 "Since 1986 he has been asking candidates for public office to sign his Taxpayer Protection Pledge, in which they <u><b>abjure</b> tax increases</u> of any sort forever.",
                 "357 prevalent GRE words",
                 "[sound:8_abjure.ogg]",
-                "",
+                "ab-ˈju̇r",
                 "Prepscholar"
             ],
             "guid": "L/d#a9zd`1",
@@ -2093,7 +2093,7 @@
                 "These daily updates were designed to help readers <u>keep <b>abreast</b> of the market</u>",
                 "Least Difficult",
                 "[sound:10_abreast.ogg]",
-                "",
+                "ə-ˈbrest",
                 "FT"
             ],
             "guid": "ORH$]y]CmR",
@@ -2201,7 +2201,7 @@
                 "Religious exceptions to the law, such as <u>those <b>pertaining</b> to</u> animal welfare, should ideally be ended.",
                 "Least Difficult",
                 "[sound:779_pertain.ogg]",
-                "",
+                "pər-ˈtān",
                 "FT"
             ],
             "guid": "btfWFH^X(m",
@@ -2273,7 +2273,7 @@
                 "adhere=stick to</br> adductor=muscle brings hips together </br>  adumbrate=to create shadowy(umbra) outline",
                 "Greek/Latin",
                 "[sound:17_ad.ogg]",
-                "",
+                "ˈad",
                 "MSU"
             ],
             "guid": "DIOh7P#ZEz",
@@ -2327,7 +2327,7 @@
                 "The security guard <b>admonished</b> the customer <u>to wear a face mask</u> in the store during these CoVid times",
                 "357 prevalent GRE words",
                 "[sound:20_admonish.ogg]",
-                "",
+                "ad-ˈmä-nish",
                 "Prepscholar"
             ],
             "guid": "=6e($@>C_",
@@ -2399,7 +2399,7 @@
                 "The poor man’s <b><u>affectation</b> of wealth</u> did not fool any of the elite at the part",
                 "357 prevalent GRE words",
                 "[sound:25_affectation.ogg]",
-                "",
+                "ˌa-ˌfek-ˈtā-shən",
                 "Prepscholar"
             ],
             "guid": "f+<bN~(w|E",
@@ -2471,7 +2471,7 @@
                 "The little <u>kids were <b>agog </b>as they waited for Santa Claus</u> to arrive.",
                 "Least Difficult",
                 "[sound:30_agog.ogg]",
-                "",
+                "ə-ˈgäg",
                 "FT"
             ],
             "guid": "Qxv^RDT|*(",
@@ -2507,7 +2507,7 @@
                 "Although Apple has in the past <u>expanded</u> its production capacities <u>with <b>alacrity</u></b>, it was not always able to  meet demand",
                 "357 prevalent GRE words",
                 "[sound:32_alacrity.ogg]",
-                "",
+                "ə-ˈla-krə-tē",
                 "Prepscholar"
             ],
             "guid": "I>5V.%-zZ:",
@@ -2543,7 +2543,7 @@
                 "Do good works, <u><b>alleviate</b> the suffering and misery</u>, comfort and refresh the sick</br>Alleviate the effects of the pandemic",
                 "357 prevalent GRE words",
                 "[sound:34_alleviate.ogg]",
-                "",
+                "ə-ˈlē-vē-ˌāt",
                 "Prepscholar"
             ],
             "guid": "M.us8gz]U)",
@@ -2561,7 +2561,7 @@
                 "Yet it was the <u><b>allure</b>of the Model T for millions</u> of consumers that finally drove the horse off the road.",
                 "Least Difficult",
                 "[sound:35_allure.ogg]",
-                "",
+                "ə-ˈlu̇r",
                 "FT"
             ],
             "guid": "ccaa@.rvWi",
@@ -2579,7 +2579,7 @@
                 "He was not the first to wonder about <u>the connection between religion and <b>altruism</u></b>",
                 "Least Difficult",
                 "[sound:36_altruism.ogg]",
-                "",
+                "ˈal-trü-ˌi-zəm",
                 "FT"
             ],
             "guid": "DNXYeuhq<}",
@@ -2615,7 +2615,7 @@
                 "The <u>2 companies <b>amalgamated</b> into one</u>",
                 "357 prevalent GRE words",
                 "[sound:38_amalgamate.ogg]",
-                "",
+                "ə-ˈmal-gə-ˌmāt",
                 "Prepscholar"
             ],
             "guid": "o-DyE*d[PY",
@@ -2651,7 +2651,7 @@
                 "Partly cloudy with a chance of rain makes for <u>an <b>ambiguous</b> weather forecast</u>",
                 "357 prevalent GRE words",
                 "[sound:40_ambiguous.ogg]",
-                "",
+                "am-ˈbi-gyə-wəs",
                 "Prepscholar"
             ],
             "guid": "KinlQ16#5%",
@@ -2705,7 +2705,7 @@
                 "The garden with its <u><b>ambrosial</b> and exotic blossoms</u> and fruit trees is a place for relaxation and privacy",
                 "Common GRE",
                 "[sound:44_ambrosial.ogg]",
-                "",
+                "am-ˈbrō-zh(ē-)ə",
                 "MSU"
             ],
             "guid": "d}V:{V(xRh",
@@ -2795,7 +2795,7 @@
                 "A  steam engine  in our modern digitised  world is nothing more than an <b>anachronism</b>.",
                 "357 prevalent GRE words",
                 "[sound:50_anachronism.ogg]",
-                "",
+                "ə-ˈna-krə-ˌni-zəm",
                 "Prepscholar"
             ],
             "guid": "yimkRPLkhp",
@@ -2813,7 +2813,7 @@
                 "One can solve all the other problems in <u>an <b>analagous</b> manner</u>.",
                 "357 prevalent GRE words",
                 "[sound:51_analogous.ogg]",
-                "",
+                "ə-ˈna-lə-gəs",
                 "Prepscholar"
             ],
             "guid": "Beq_~;xqYi",
@@ -2849,7 +2849,7 @@
                 "<u>The election results were <b>annulled</u></b> after electoral fraud was proven to have taken place.",
                 "Least Difficult",
                 "[sound:53_annul.ogg]",
-                "",
+                "ə-ˈnəl",
                 "FT"
             ],
             "guid": "OWw9#^!Z[p",
@@ -2867,7 +2867,7 @@
                 "After days of discussion at the G20 conference,  there was not much to show other than a <u>dull and safe <b>anodyne</b> communique</u>",
                 "Most Difficult",
                 "[sound:941_anodyne.ogg]",
-                "",
+                "ˈa-nə-ˌdīn",
                 "FT"
             ],
             "guid": "c5/BiO4/z8",
@@ -2885,7 +2885,7 @@
                 "Using holy oil, the pastor placed his hands on the woman’s head in order to <b>anoint</b> her",
                 "357 prevalent GRE words",
                 "[sound:54_anoint.ogg]",
-                "",
+                "ə-ˈnȯint",
                 "Prepscholar"
             ],
             "guid": "KrCrTjh;+h",
@@ -2903,7 +2903,7 @@
                 "<u>His  anomalous <b>behaviour</u></b>was a first sign that he had a problem.",
                 "Common GRE",
                 "[sound:55_anomalous.ogg]",
-                "",
+                "ə-ˈnä-mə-ləs",
                 "MSU"
             ],
             "guid": "gk2=?NE>:2",
@@ -2921,7 +2921,7 @@
                 "The student’s poor performance on the latest test was an <b>anomaly</b> since she had previously earned excellent grades",
                 "357 prevalent GRE words",
                 "[sound:56_anomaly.ogg]",
-                "",
+                "ə-ˈnä-mə-lē",
                 "Prepscholar"
             ],
             "guid": "Q@-N=<~?eq",
@@ -2957,7 +2957,7 @@
                 "antedate</br>anteroom</br>antecedent</br>anterior",
                 "Greek/Latin",
                 "[sound:58_ante.ogg]",
-                "",
+                "ˈan-tē",
                 "MSU"
             ],
             "guid": "ktp{|j,BlY",
@@ -3029,7 +3029,7 @@
                 "The students voiced their <u><b>antipathy</b> for homework</u> very loudly.",
                 "357 prevalent GRE words",
                 "[sound:63_antipathy.ogg]",
-                "",
+                "an-ˈti-pə-thē",
                 "Prepscholar"
             ],
             "guid": "nmk?paUV#I",
@@ -3047,7 +3047,7 @@
                 "Some critics say that <u>democracy is <b>antithetical</b> to the Islamic way of life</u>.",
                 "357 prevalent GRE words",
                 "[sound:64_antithetical.ogg]",
-                "",
+                "ˌan-tə-ˈthe-ti-kəl",
                 "Prepscholar"
             ],
             "guid": "tk3Rck9ppg",
@@ -3065,7 +3065,7 @@
                 "Political parties try to engage young voters who are more prone to  <b>apathy</b>  than older citizens.",
                 "357 prevalent GRE words",
                 "[sound:65_apathy.ogg]",
-                "",
+                "ˈa-pə-thē",
                 "Prepscholar"
             ],
             "guid": "xzM?a,%[?I",
@@ -3101,7 +3101,7 @@
                 "These gestures were meant to <b>appease</b> the religious right",
                 "357 prevalent GRE words",
                 "[sound:67_appease.ogg]",
-                "",
+                "ə-ˈpēz",
                 "Prepscholar"
             ],
             "guid": "n37&KeU%,l",
@@ -3209,7 +3209,7 @@
                 "The mediator arbitrated the dispute between the two parties.",
                 "Common GRE",
                 "[sound:73_arbitrate.ogg]",
-                "",
+                "ˈär-bə-ˌtrāt",
                 "MSU"
             ],
             "guid": "vcR87Op{j{",
@@ -3227,7 +3227,7 @@
                 "The traditional healer's arcane rituals confused her.",
                 "357 prevalent GRE words",
                 "[sound:74_arcane.ogg]",
-                "",
+                "är-ˈkān",
                 "Prepscholar"
             ],
             "guid": "f4!-_A)Q}j",
@@ -3245,7 +3245,7 @@
                 "monarchy</br> oligarchy</br> anarchy</br> archetype</br> architect </br> archbishop",
                 "Greek/Latin",
                 "[sound:77_arch.ogg]",
-                "",
+                "ˈärch",
                 "MSU"
             ],
             "guid": "uoEMXgK>rH",
@@ -3263,7 +3263,7 @@
                 "In comparison to portable laptop computers, typewriters are considered archaic",
                 "357 prevalent GRE words",
                 "[sound:75_archaic.ogg]",
-                "",
+                "är-ˈkā-ik",
                 "Prepscholar"
             ],
             "guid": "o3e]zOV89<",
@@ -3335,7 +3335,7 @@
                 "<u>Fire investigators suspected <b>arson</u></b> when they couldn’t find an electrical source for the fire",
                 "Medium Difficult",
                 "[sound:828_arson.ogg]",
-                "",
+                "ˈär-sᵊn",
                 "FT"
             ],
             "guid": "iANzuMOQ[N",
@@ -3371,7 +3371,7 @@
                 "With her artless look, the girl next door looked beautiful even though she had no make-up on and didn’t style her hai",
                 "357 prevalent GRE words",
                 "[sound:81_artless.ogg]",
-                "",
+                "ˈärt-ləs",
                 "Prepscholar"
             ],
             "guid": "x@zM(GBcO@",
@@ -3443,7 +3443,7 @@
                 "The homeless man looked at me in </b>astonishment</b> when I gave him the bag of money.",
                 "357 prevalent GRE words",
                 "[sound:86_astonishment.ogg]",
-                "",
+                "ə-ˈstä-nish-mənt",
                 "Prepscholar"
             ],
             "guid": "Cj|uxhXvp$",
@@ -3497,7 +3497,7 @@
                 "The new CEO <u>pursued <b>audacious</b> initiatives</u> to save the company from bankruptcy. </br> The student’s audacious remark earned her a seat in afternoon detentio",
                 "357 prevalent GRE words",
                 "[sound:91_audacious.ogg]",
-                "",
+                "ȯ-ˈdā-shəs",
                 "Prepscholar"
             ],
             "guid": "uSiRNz/}dB",
@@ -3515,7 +3515,7 @@
                 "audiophile(someone who likes music)</br> audiometer(something that measures sound)</br> auditory(somewhere where one listens to lectures)",
                 "Greek/Latin",
                 "[sound:92_audio.ogg]",
-                "",
+                "ˈȯ-dē-ˌō",
                 "MSU"
             ],
             "guid": "ISno_Ngutf",
@@ -3569,7 +3569,7 @@
                 "Aviary=a large enclosure for birds</br> Aviatrix=a female airplane pilot</br>Aviation=the art of designing or operating aircraft",
                 "Root words",
                 "[sound:1041_avi.ogg]",
-                "",
+                "ˌā-ˌvē-ˈī",
                 "Aristotle"
             ],
             "guid": "rot!ae04e3",
@@ -3605,7 +3605,7 @@
                 "Many of those who voted for the President,  <u>his opponent <b>averred</b></u>, did so because they were rooked by devious  lies",
                 "357 prevalent GRE words",
                 "[sound:98_aver.ogg]",
-                "",
+                "ə-ˈvər",
                 "Prepscholar"
             ],
             "guid": "E!{=.7g7vV",
@@ -3641,7 +3641,7 @@
                 "It would be a barefaced lie to claim that there is freedom in Venezuela",
                 "Common GRE",
                 "[sound:101_barefaced.ogg]",
-                "",
+                "ˈber-ˈfāst",
                 "MSU"
             ],
             "guid": "D?e5QF2M]t",
@@ -3731,7 +3731,7 @@
                 "Grandfather fortunately had a <b>benign</b> form of cancer",
                 "357 prevalent GRE words",
                 "[sound:104_benign.ogg]",
-                "",
+                "bi-ˈnīn",
                 "Prepscholar"
             ],
             "guid": "KOuvQdr]o",
@@ -3749,7 +3749,7 @@
                 "Because my mother wrote <u>a <b>bevy</b> of items on her grocery list</u>, I was in the store for nearly two hours",
                 "Medium Difficult",
                 "[sound:831_bevy.ogg]",
-                "",
+                "ˈbe-vē",
                 "FT"
             ],
             "guid": "bK.~zGN=SN",
@@ -3767,7 +3767,7 @@
                 "bi-partisan</br> bisexual</br> biennial</br> binary</br> bicuspid</br> bivalve",
                 "Greek/Latin",
                 "[sound:105_bi.ogg]",
-                "",
+                "ˈbī",
                 "MSU"
             ],
             "guid": "e_r`m1ts?",
@@ -3785,7 +3785,7 @@
                 "The bigot admits that he is u><b>biased</b> toward immigrants</u> and stereotypes people according to their race before he ever meets them",
                 "357 prevalent GRE words",
                 "[sound:106_biased.ogg]",
-                "",
+                "ˈbī-əst",
                 "Prepscholar"
             ],
             "guid": "w%GE1<&g/F",
@@ -3803,7 +3803,7 @@
                 "bibliography</br> Bible</br> bibliophile",
                 "Greek/Latin",
                 "[sound:107_bible.ogg]",
-                "",
+                "ˈbī-bəl",
                 "MSU"
             ],
             "guid": "e212(sAF;5",
@@ -3821,7 +3821,7 @@
                 "Because the police in that country are not paid regularly, they <b>bilk</b> the system and get away with it, as their bosses have the same issue.",
                 "Most Difficult",
                 "[sound:942_bilk.ogg]",
-                "",
+                "ˈbilk",
                 "FT"
             ],
             "guid": "yIlZIYNQj?",
@@ -3839,7 +3839,7 @@
                 "biology</br> biography</br> bio-active",
                 "Greek/Latin",
                 "[sound:108_bio.ogg]",
-                "",
+                "ˈbī-(ˌ)ō",
                 "MSU"
             ],
             "guid": "qcUX19R-K_",
@@ -3857,7 +3857,7 @@
                 "Even though the salesman produced every <u><b>blandishment</b></u> he could think of from his <u>bag of tricks</u>, his prospect wouldn’t be budged by <u>his flattery</u>.",
                 "Common GRE",
                 "[sound:109_blandishment.ogg]",
-                "",
+                "ˈblan-dish-mənt",
                 "MSU"
             ],
             "guid": "kQI*,ZF_#k",
@@ -3875,7 +3875,7 @@
                 "1. Because of the <u>urban <b>blight</u></b> that has taken over the downtown area, many of the stores have relocated. </br>2. The torrential rain <b>blighted</b> the crop.",
                 "Least Difficult",
                 "[sound:110_blight.ogg]",
-                "",
+                "ˈblīt",
                 "FT"
             ],
             "guid": "r2Af,:;S%e",
@@ -3911,7 +3911,7 @@
                 "<u>The self-promoting <b>blowhard</b> talked</u> about his own accomplishments until his guests were bored to tears",
                 "Least Difficult",
                 "[sound:112_blowhard.ogg]",
-                "",
+                "ˈblō-ˌhärd",
                 "FT"
             ],
             "guid": "diNeBId8}~",
@@ -3929,7 +3929,7 @@
                 "The prosecutor worked to find evidence that would <u><b>bolster</b> her case against the defendant</u>.",
                 "Common GRE",
                 "[sound:113_bolster.ogg]",
-                "",
+                "ˈbōl-stər",
                 "Kaplan"
             ],
             "guid": "N)b~4g$9L>",
@@ -3947,7 +3947,7 @@
                 "Madam President, Commissioner, we have <u>no need for sentimentality and <b>bombast</b> on such a serious issue</u>",
                 "Common GRE",
                 "[sound:114_bombast.ogg]",
-                "",
+                "ˈbäm-ˌbast",
                 "MSU"
             ],
             "guid": "B@TX#>[T.V",
@@ -3965,7 +3965,7 @@
                 "If you want to sell your energy drink, then you must use <u><b>bombastic</b> claims</u> in your commercials.",
                 "357 prevalent GRE words",
                 "[sound:116_bombastic.ogg]",
-                "",
+                "bäm-ˈba-stik",
                 "Prepscholar"
             ],
             "guid": "M[6ig`X=y_",
@@ -3983,7 +3983,7 @@
                 "Because Frank is so rude, I tend to think of him as a <b>boor. </b>",
                 "Medium Difficult",
                 "[sound:832_boor.ogg]",
-                "",
+                "ˈbu̇r",
                 "FT"
             ],
             "guid": "J~wVg#wZhh",
@@ -4001,7 +4001,7 @@
                 "1. the lecturer repeated everything we already knew and <b>bored</b> all in the class</br>2. Pickleworms <u><b>bore</b> into</u> the fruit of cucumber and squash plants to feed on their flesh.",
                 "Homonym",
                 "[sound:117_bore.ogg]",
-                "",
+                "ˈbȯr",
                 "MSU"
             ],
             "guid": "I~/YOrOkLp",
@@ -4037,7 +4037,7 @@
                 "In a <b><u>brazen</b> assault</u>, the gang fired their weapons at the policeman.",
                 "357 prevalent GRE words",
                 "[sound:119_brazen.ogg]",
-                "",
+                "ˈbrā-zᵊn",
                 "Prepscholar"
             ],
             "guid": "t#(`;c0jPM",
@@ -4055,7 +4055,7 @@
                 "The club members never forgot his <u><b>breach</b> of ettiquette</u>.",
                 "Common GRE",
                 "[sound:120_breach.ogg]",
-                "",
+                "ˈbrēch",
                 "MSU"
             ],
             "guid": "cUbuvaDF*@",
@@ -4073,7 +4073,7 @@
                 "General Electric. is now swapping its <b>bucolic</b> site for a collection of warehouses on the Boston waterfront.",
                 "Medium Difficult",
                 "[sound:833_bucolic.ogg]",
-                "",
+                "byü-ˈkä-lik",
                 "FT"
             ],
             "guid": "qv-)hlm.v|",
@@ -4091,7 +4091,7 @@
                 "Left untreated, the garden <u>weeds will <b>burgeon</b> and take over the entire property within days</u>",
                 "357 prevalent GRE words",
                 "[sound:123_burgeon.ogg]",
-                "",
+                "ˈbər-jən",
                 "Prepscholar"
             ],
             "guid": "M!8[#A[U)p",
@@ -4109,7 +4109,7 @@
                 "Madame JoJo’s, a <b>burlesque</b> bar in London’s Soho, had its license revoked in 2014 after two bouncers brandished a baseball bat at a rowdy cr",
                 "Least Difficult",
                 "[sound:124_burlesque.ogg]",
-                "",
+                "(ˌ)bər-ˈlesk",
                 "FT"
             ],
             "guid": "B>n6sZ^L-N",
@@ -4127,7 +4127,7 @@
                 "Her good arguments <u><b>buttressed</b> her credibility</u>",
                 "Common GRE",
                 "[sound:125_buttress.ogg]",
-                "",
+                "ˈbə-trəs",
                 "MSU"
             ],
             "guid": "zoT5^7_c]J",
@@ -4181,7 +4181,7 @@
                 "By flirting with the bartender, the pretty girl was able to <u><b>cadge</b> free drinks</u>.",
                 "Common GRE",
                 "[sound:129_cadge.ogg]",
-                "",
+                "ˈkaj",
                 "MSU"
             ],
             "guid": "h9hhz*p4N3",
@@ -4235,7 +4235,7 @@
                 "When questioned, she <u>held nothing back and gave a <b>candid <b>/response</u>",
                 "357 prevalent GRE words",
                 "[sound:131_candid.ogg]",
-                "",
+                "ˈkan-dəd",
                 "Prepscholar"
             ],
             "guid": "NRq*nW,7&c",
@@ -4253,7 +4253,7 @@
                 "At the same time, <u><b>canon</b> law is part of the temporal legal system</u>, and bishops are appointed jointly by the Prime Minister and the head of state",
                 "357 prevalent GRE words",
                 "[sound:132_canon.ogg]",
-                "",
+                "ˈka-nən",
                 "Prepscholar"
             ],
             "guid": "DV%e|#N2oU",
@@ -4271,7 +4271,7 @@
                 "1a. His proposals were generally accepted as orthodox and </b> </br>1b. The 4 gospels of the New Testament are key in establishing the Christian <b>canon</b>",
                 "Medium Difficult",
                 "[sound:834_canonical.ogg]",
-                "",
+                "kə-ˈnä-ni-kəl",
                 "FT"
             ],
             "guid": "Ok>?sGrfoi",
@@ -4307,7 +4307,7 @@
                 "Because John <u>did not think before acting, </u> he could spend years in prison for a silly <b>caprice. </b>",
                 "Common GRE",
                 "[sound:134_caprice.ogg]",
-                "",
+                "kə-ˈprēs",
                 "MSU"
             ],
             "guid": "m5_u&kquTH",
@@ -4379,7 +4379,7 @@
                 "Crying is a great <u><b>catharsis</b> for releasing pain and anger</u>.",
                 "Most Difficult",
                 "[sound:945_catharsis.ogg]",
-                "",
+                "kə-ˈthär-səs",
                 "FT"
             ],
             "guid": "N*{y_GhGl6",
@@ -4397,7 +4397,7 @@
                 "His <b><u>caustic</b> remarks</u> spoiled the mood of the party",
                 "357 prevalent GRE words",
                 "[sound:141_caustic.ogg]",
-                "",
+                "ˈkȯ-stik",
                 "Prepscholar"
             ],
             "guid": "H^tI)m{noa",
@@ -4415,7 +4415,7 @@
                 "Since the marine left base without permission, he is <u>expecting both a censure and punishment</u> when he returns tomorrow.",
                 "357 prevalent GRE words",
                 "[sound:142_censure.ogg]",
-                "",
+                "ˈsen(t)-shər",
                 "Prepscholar"
             ],
             "guid": "sHS_n2N?i5",
@@ -4433,7 +4433,7 @@
                 "As recently as 2014, a biannual survey of right-wing attitudes in Germany found that xenophobia, <b>chauvinism</b>, anti-Semitism and authoritarian longings were declining.",
                 "Medium Difficult",
                 "[sound:836_chauvinism.ogg]",
-                "",
+                "ˈshō-və-ˌni-zəm",
                 "FT"
             ],
             "guid": "g9f&6,H[s8",
@@ -4451,7 +4451,7 @@
                 "<u>His sister was <b>chauvinist</b> when it comes to feminism</u>, as she gets both angry and irritated when someone opposes her point of view",
                 "357 prevalent GRE words",
                 "[sound:143_chauvinist.ogg]",
-                "",
+                "ˈshō-və-ˌni-zəm",
                 "Prepscholar"
             ],
             "guid": "p|GZA|^!-F",
@@ -4505,7 +4505,7 @@
                 "Pessimists think the productivity problem is <b>chronic</b>.",
                 "Least Difficult",
                 "[sound:147_chronic.ogg]",
-                "",
+                "ˈkrä-nik",
                 "FT"
             ],
             "guid": "B^j.{M?!RN",
@@ -4595,7 +4595,7 @@
                 "This is an area where <u>we need to be extraordinarily careful and <b>circumspect'</u></b>, he said. 'We’re literally talking about life and death",
                 "Medium Difficult",
                 "[sound:837_circumspect.ogg]",
-                "",
+                "ˈsər-kəm-ˌspekt",
                 "FT"
             ],
             "guid": "qt4SH[1CB;",
@@ -4631,7 +4631,7 @@
                 "You need majority support of parliamentarians to <u>invoke <b>cloture</u> </b>and end the filibuster.",
                 "Most Difficult",
                 "[sound:946_cloture.ogg]",
-                "",
+                "ˈklō-chər",
                 "FT"
             ],
             "guid": "gB^[F]0Z2T",
@@ -4649,7 +4649,7 @@
                 "As they radiate away, the waves tend to <b>coalesce</b> to form two main shock waves.",
                 "Medium Difficult",
                 "[sound:838_coalesce.ogg]",
-                "",
+                "ˌkō-ə-ˈles",
                 "FT"
             ],
             "guid": "i|Kx)EBBN-",
@@ -4667,7 +4667,7 @@
                 "The final section of the song was <u>sealed with a <b>coda</u></b> that sounded like an entirely different melody.",
                 "Least Difficult",
                 "[sound:153_coda.ogg]",
-                "",
+                "ˈkō-də",
                 "FT"
             ],
             "guid": "CWS=E7^@,p",
@@ -4703,7 +4703,7 @@
                 "Cognizant=fully informed</br> conscious</br>cognition=process of acquiring knowledge</br> incognito=disguised so no one knows you</br>recognize=to discover that one knows</br> cogitate=to think carefully about",
                 "Root words",
                 "[sound:1043_cog.ogg]",
-                "",
+                "ˈkäg",
                 "Aristotle"
             ],
             "guid": "e=h]e}YTO}",
@@ -4721,7 +4721,7 @@
                 "The politician's <u>clear <b>cogent</b> argument</u> against the war won him many votes in the election",
                 "357 prevalent GRE words",
                 "[sound:154_cogent.ogg]",
-                "",
+                "ˈkō-jənt",
                 "Prepscholar"
             ],
             "guid": "vSB*w-6!Jc",
@@ -4793,7 +4793,7 @@
                 "The entertainer relies on a crowdsourced <b>compendium</b> of fishermen’s tales and jokes.",
                 "Most Difficult",
                 "[sound:947_compendium.ogg]",
-                "",
+                "kəm-ˈpen-dē-əm",
                 "FT"
             ],
             "guid": "wVJ!.nfUh!",
@@ -4847,7 +4847,7 @@
                 "Rashad Ali  argues that deradicalisation can be worse than useless if practitioners, while condemning ISIS, <u><b>condone</b>  other violence</u>.",
                 "Medium Difficult",
                 "[sound:840_condone.ogg]",
-                "",
+                "kən-ˈdōn",
                 "FT"
             ],
             "guid": "L(p|iP8.(?",
@@ -4865,7 +4865,7 @@
                 "1. The combustion products such as smoke, heat and hot <b>conflagration</b> gases generated during a <u>fire</u> rise upwards</br>2. It seems as though the <u><b>conflagration</b> in the Middle East</u> has been going on for centuries",
                 "Common GRE",
                 "[sound:161_conflagration.ogg]",
-                "",
+                "ˌkän-flə-ˈgrā-shən",
                 "MSU"
             ],
             "guid": "sRDc6/67Yj",
@@ -4937,7 +4937,7 @@
                 "The <u><b>consequential damages</b></u> of the critical reactor breaking down were significant, as the entire plant had to shut for months",
                 "357 prevalent GRE words",
                 "[sound:165_consequential.ogg]",
-                "",
+                "ˌkän(t)-sə-ˈkwen(t)-shəl",
                 "Prepscholar"
             ],
             "guid": "PtB-Kej4z[",
@@ -4991,7 +4991,7 @@
                 "Excessive <u>alcohol consumption</u> has been linked to liver damage",
                 "357 prevalent GRE words",
                 "[sound:168_consumption.ogg]",
-                "",
+                "kən-ˈsəm(p)-shən",
                 "Prepscholar"
             ],
             "guid": "J7=|0op2d/",
@@ -5009,7 +5009,7 @@
                 "In order to obtain custody of her children in the divorce, Bridgett will <b>contend</b> nasty things about her husband",
                 "357 prevalent GRE words",
                 "[sound:169_contend.ogg]",
-                "",
+                "kən-ˈtend",
                 "Prepscholar"
             ],
             "guid": "DA_,rmZk9L",
@@ -5027,7 +5027,7 @@
                 "As a rule, I tend to <u>avoid <b>contentious</b> topics of conversation</u> which might lead to arguments",
                 "357 prevalent GRE words",
                 "[sound:170_contentious.ogg]",
-                "",
+                "kən-ˈten(t)-shəs",
                 "Prepscholar"
             ],
             "guid": "xq#dT.]-5{",
@@ -5081,7 +5081,7 @@
                 "<u>Take <b>copious</b> notes in class</u> so that you have plenty of review material for the test.",
                 "357 prevalent GRE words",
                 "[sound:173_copious.ogg]",
-                "",
+                "ˈkō-pē-əs",
                 "Prepscholar"
             ],
             "guid": "C_PG$RzQ(z",
@@ -5117,7 +5117,7 @@
                 "As Jack reached for <u>the ghost</u>, he realized it <u>was not <b>corporeal</b></u> when his hands went straight through the shape.",
                 "Common GRE",
                 "[sound:175_corporeal.ogg]",
-                "",
+                "kȯr-ˈpȯr-ē-əl",
                 "MSU"
             ],
             "guid": "e>SO|C|+RH",
@@ -5135,7 +5135,7 @@
                 "corpse</br> corporal punishment</br> corpus callosum",
                 "Greek/Latin",
                 "[sound:176_corpus.ogg]",
-                "",
+                "ˈkȯr-pəs",
                 "MSU"
             ],
             "guid": "w3xLvRa+XB",
@@ -5153,7 +5153,7 @@
                 "The scientist was able to corroborate his hypothesis with data gathered from multiple sources.          The witness corroborted his story.",
                 "Common GRE",
                 "[sound:177_corroborate.ogg]",
-                "",
+                "kə-ˈrä-bə-ˌrāt",
                 "MSU"
             ],
             "guid": "C>wmd]`P;T",
@@ -5207,7 +5207,7 @@
                 "With its hugely diverse population, <u>New York City is considered one of the most <b>cosmopolitan</b></u> cities in the world",
                 "357 prevalent GRE words",
                 "[sound:179_cosmopolitan.ogg]",
-                "",
+                "ˌkäz-mə-ˈpä-lə-tən",
                 "Prepscholar"
             ],
             "guid": "ABd%gs9l&x",
@@ -5225,7 +5225,7 @@
                 "From buying expensive toys to boxing vegetable-free lunches, the mother would <u><b>cosset</b> to her child's every whim</u>",
                 "Most Difficult",
                 "[sound:949_cosset.ogg]",
-                "",
+                "ˈkä-sət",
                 "FT"
             ],
             "guid": "f1FSfKj[kH",
@@ -5261,7 +5261,7 @@
                 "In the book by Dickens, the miser did <u>nothing but <b>covet</b> money</u></br>10th commandment:  You shall not <b>covet</b> your neighbor's wife, . . etc",
                 "357 prevalent GRE words",
                 "[sound:180_covet.ogg]",
-                "",
+                "ˈkə-vət",
                 "Prepscholar"
             ],
             "guid": "thzR0euEmI",
@@ -5279,7 +5279,7 @@
                 "1a. The advertising industry’s goal is to make you <b>covetous</b> of the things that other people have</br>1b. The sister was jealous of her brother's success and <b>covetous</b> of his possessions</br>1c. He looked at his boss's new car with <b>covetous</b> eyes.",
                 "Grad Hotline 1300 GRE",
                 "[sound:181_covetous.ogg]",
-                "",
+                "ˈkə-və-təs",
                 "3 Mid Level"
             ],
             "guid": "muY)pj@Bb8",
@@ -5297,7 +5297,7 @@
                 "The retired teacher is looking for a new <b>craft</b> to take up since she is good at making things with her hands",
                 "357 prevalent GRE words",
                 "[sound:182_craft.ogg]",
-                "",
+                "ˈkraft",
                 "Prepscholar"
             ],
             "guid": "j=Q}u2^tK-",
@@ -5315,7 +5315,7 @@
                 "Because police officers must be fearless, <u><b>craven</b> people should not apply for positions in law enforcement</u>.",
                 "357 prevalent GRE words",
                 "[sound:184_craven.ogg]",
-                "",
+                "ˈkrā-vən",
                 "Prepscholar"
             ],
             "guid": "D7CvIVo}lB",
@@ -5333,7 +5333,7 @@
                 "credence=belief that something is true or valid</br>credulous=believing things too easily</br> gullible</br>incredible=unbelievable</br>incredulous=skeptical</br> disbelieving",
                 "Greek/Latin",
                 "[sound:186_cred.ogg]",
-                "",
+                "ˈkred",
                 "MSU"
             ],
             "guid": "i8jflz:c#y",
@@ -5351,7 +5351,7 @@
                 "The crazy man’s UFO story was so <u>ridiculous that not a single person gave it any <b>credence</u>. </b>",
                 "357 prevalent GRE words",
                 "[sound:185_credence.ogg]",
-                "",
+                "ˈkrē-dᵊn(t)s",
                 "Prepscholar"
             ],
             "guid": "tG$Fl+7Nnq",
@@ -5369,7 +5369,7 @@
                 "Supplements boast a unique trifecta: lax regulation, potent marketing and millions of <b>credulous</b> consumers keen to pin their hopes of a healthier life on a pill.",
                 "357 prevalent GRE words",
                 "[sound:842_credulous.ogg]",
-                "",
+                "ˈkre-jə-ləs",
                 "Prepscholar"
             ],
             "guid": "z5.YX_ItL+",
@@ -5405,7 +5405,7 @@
                 "The judge found the man culpable of the crime and sentenced him to life in prison",
                 "Common GRE",
                 "[sound:189_culpable.ogg]",
-                "",
+                "ˈkəl-pə-bəl",
                 "MSU"
             ],
             "guid": "yl^SsXKvAm",
@@ -5477,7 +5477,7 @@
                 "The prosecutor complained about the dearth of concrete evidence against the suspect.",
                 "Common GRE",
                 "[sound:191_dearth.ogg]",
-                "",
+                "ˈdərth",
                 "MSU"
             ],
             "guid": "wZQPwUWZg|",
@@ -5549,7 +5549,7 @@
                 "The deft musician was able to play the harmonica and the piano at the same time.",
                 "357 prevalent GRE words",
                 "[sound:196_deft.ogg]",
-                "",
+                "ˈdeft",
                 "Prepscholar"
             ],
             "guid": "A*{)M4pQ|V",
@@ -5567,7 +5567,7 @@
                 "If the Senate <b><u>deigns</b> to consider and confirm</u> a nominee, do not expect changes overnight.",
                 "Least Difficult",
                 "[sound:197_deign.ogg]",
-                "",
+                "ˈdān",
                 "FT"
             ],
             "guid": "gTw&:N+_-`",
@@ -5621,7 +5621,7 @@
                 "Mr. Sasse <b> demurs</b> . He does not want less fighting between the left and right. He wants more meaningful fighting about issues of substance.",
                 "357 prevalent GRE words",
                 "[sound:843_demur.ogg]",
-                "",
+                "di-ˈmər",
                 "Prepscholar"
             ],
             "guid": "xx/jD2l5iN",
@@ -5639,7 +5639,7 @@
                 "1. During the election, the crooked <u>politician did everything in his power to <b>denigrate</b> his rival</u>. </br>2. The professor <b>denigrated</b> the achievements of a rival, trying to position his research as more important",
                 "357 prevalent GRE words",
                 "[sound:201_denigrate.ogg]",
-                "",
+                "ˈde-ni-ˌgrāt",
                 "Prepscholar"
             ],
             "guid": "rXx3Wh:R@J",
@@ -5729,7 +5729,7 @@
                 "The <u><b>depredations</b> of the invaders demoralized</u> the population.",
                 "Common GRE",
                 "[sound:205_depredation.ogg]",
-                "",
+                "ˈde-prə-ˌdāt",
                 "MSU"
             ],
             "guid": "z@vrgk|woW",
@@ -5765,7 +5765,7 @@
                 "The new antibiotic is listed as a <b>derivative</b> of penicillin because it was produced from a penicillin base.",
                 "357 prevalent GRE words",
                 "[sound:207_derivative.ogg]",
-                "",
+                "di-ˈri-və-tiv",
                 "Prepscholar"
             ],
             "guid": "LkEJnPbW;R",
@@ -5783,7 +5783,7 @@
                 "<u>If you <b>descry</b> illegal content</u> on the linked websites, we beg for notification",
                 "Common GRE",
                 "[sound:208_descry.ogg]",
-                "",
+                "di-ˈskrī",
                 "MSU"
             ],
             "guid": "pq;LAD>])(",
@@ -5801,7 +5801,7 @@
                 "1. One should use sliced fruits within one day as the insides quickly <b>desiccate. </b> </br>2. The professional soccer player became <u><b>desiccated</b> after being in a car accident that left him in a coma</u>.",
                 "357 prevalent GRE words",
                 "[sound:210_desiccate.ogg]",
-                "",
+                "ˈde-si-ˌkāt",
                 "Prepscholar"
             ],
             "guid": "mlKY>^De=k",
@@ -5909,7 +5909,7 @@
                 "CNN and other outlets were wrong to turn one disgruntled passenger’s Facebook diatribe into headline news",
                 "357 prevalent GRE words",
                 "[sound:846_diatribe.ogg]",
-                "",
+                "ˈdī-ə-ˌtrīb",
                 "FT"
             ],
             "guid": "ckVU+`nRKy",
@@ -6089,7 +6089,7 @@
                 "Elton John <u>wrote and sang the <b>dirge</b> at Lady Di's funeral</u>.",
                 "357 prevalent GRE words",
                 "[sound:224_dirge.ogg]",
-                "",
+                "ˈdərj",
                 "Prepscholar"
             ],
             "guid": "dQv}%;ahT:",
@@ -6107,7 +6107,7 @@
                 "disperse</br> disinherit</br> disenfranchise</br> distend",
                 "Greek/Latin",
                 "[sound:225_dis.ogg]",
-                "",
+                "ˈdis",
                 "MSU"
             ],
             "guid": "G}`0$F-J`=",
@@ -6125,7 +6125,7 @@
                 "We had to <u><b>disabuse</b> her of the notion</u> that she was invited.",
                 "357 prevalent GRE words",
                 "[sound:227_disabuse.ogg]",
-                "",
+                "ˌdis-ə-ˈbyüz",
                 "Prepscholar"
             ],
             "guid": "rV~uNI%6yY",
@@ -6179,7 +6179,7 @@
                 "My friend believes that movies should entertain, but I insist that movies should inspire, so the two of us <u>hold <b>discordant</b> views</u> on the purpose of movies",
                 "Medium Difficult",
                 "[sound:850_discordant.ogg]",
-                "",
+                "di-ˈskȯr-dᵊnt",
                 "FT"
             ],
             "guid": "s&bH$q_^)E",
@@ -6197,7 +6197,7 @@
                 "The police were <u>confused by the <b>discrepancy</b> between</u> the testimonies of the two witnesses who saw the same event.",
                 "357 prevalent GRE words",
                 "[sound:230_discrepancy.ogg]",
-                "",
+                "di-ˈskre-pən-sē",
                 "Prepscholar"
             ],
             "guid": "E+b~arH8)Z",
@@ -6305,7 +6305,7 @@
                 "Liza is a <u><b>dispassionate</b> person who rarely displays her emotions</u> to others",
                 "357 prevalent GRE words",
                 "[sound:237_dispassionate.ogg]",
-                "",
+                "(ˌ)dis-ˈpa-sh(ə-)nət",
                 "Prepscholar"
             ],
             "guid": "o.Y#56p@uQ",
@@ -6323,7 +6323,7 @@
                 "If you <u><b>disregard</b> the red light</u> at an intersection  you are not only breaking the law but also endangering your life",
                 "357 prevalent GRE words",
                 "[sound:238_disregard.ogg]",
-                "",
+                "ˌdis-ri-ˈgärd",
                 "Prepscholar"
             ],
             "guid": "MPJ1CwA6PG",
@@ -6341,7 +6341,7 @@
                 "Rather than answer the reporter’s questions directly, <u>the politician chose to mislead and <b>dissembled</b> his responses</u>",
                 "357 prevalent GRE words",
                 "[sound:240_dissemble.ogg]",
-                "",
+                "di-ˈsem-bəl",
                 "Prepscholar"
             ],
             "guid": "t*bMnFO_xa",
@@ -6377,7 +6377,7 @@
                 "The pollen will <b><u>disseminate</b> into</u> the region by Thursday, causing further burdens for allergy sufferers.",
                 "357 prevalent GRE words",
                 "[sound:242_disseminate.ogg]",
-                "",
+                "di-ˈse-mə-ˌnāt",
                 "Prepscholar"
             ],
             "guid": "kDiTE%[4wn",
@@ -6395,7 +6395,7 @@
                 "The school board’s meeting lasted for hours due to the length debate fueled by <b>dissonance</b> among opinion",
                 "357 prevalent GRE words",
                 "[sound:243_dissonance.ogg]",
-                "",
+                "ˈdi-sə-nən(t)s",
                 "Prepscholar"
             ],
             "guid": "lQl}YdiBDO",
@@ -6413,7 +6413,7 @@
                 "Our body clock follows a <b><u>diurnal</b> rhythm</u>.",
                 "Most Difficult",
                 "[sound:953_diurnal.ogg]",
-                "",
+                "dī-ˈər-nᵊl",
                 "FT"
             ],
             "guid": "F5T(*xq*&:",
@@ -6503,7 +6503,7 @@
                 "<u>Her <b>dogged</b> pursuit</u> of the degree eventually paid off.",
                 "Common GRE",
                 "[sound:247_dogged.ogg]",
-                "",
+                "ˈdȯ-gəd",
                 "MSU"
             ],
             "guid": "utA{Zy4ua_",
@@ -6593,7 +6593,7 @@
                 "dominant</br> dominion",
                 "Greek/Latin",
                 "[sound:251_dominus.ogg]",
-                "",
+                "ˌdȯ-mi-ˌnu̇s-wō-ˈbēs-ˌku̇m",
                 "MSU"
             ],
             "guid": "ox<2?cK0~t",
@@ -6611,7 +6611,7 @@
                 "Falling birth-rates allowed parents to dote on fewer children, who were increasingly likely to go to school.",
                 "Least Difficult",
                 "[sound:252_dote.ogg]",
-                "",
+                "ˈdōt",
                 "FT"
             ],
             "guid": "LvIJLdXePb",
@@ -6629,7 +6629,7 @@
                 "He was a <b>droll</b> little man with a peculiar sense of humor",
                 "Medium Difficult",
                 "[sound:852_droll.ogg]",
-                "",
+                "ˈdrōl",
                 "FT"
             ],
             "guid": "v_p0[AXTz=",
@@ -6791,7 +6791,7 @@
                 "1. He won the Olympics, cofirming that he had reached the upper <b>echelon</b> of athletics</br>2. The aircraft flew <u>in <b>echelon</b> formation</u>, providing each plane with excellent range of vision while allowing them to act as a single unit",
                 "Medium Difficult",
                 "[sound:853_echelon.ogg]",
-                "",
+                "ˈe-shə-ˌlän",
                 "FT"
             ],
             "guid": "GL*eE8{dfH",
@@ -6827,7 +6827,7 @@
                 "<u>Leonardo Da Vinci</u> could apply his <u>research into eddies</u> to the main <u>aorta</u>'s valve closing mechanism centuries before modern science proved his theories to be correct",
                 "Medium Difficult",
                 "[sound:854_eddy.ogg]",
-                "",
+                "ˈe-dē",
                 "FT"
             ],
             "guid": "bzb3AM-zY3",
@@ -6845,7 +6845,7 @@
                 "The Church school aims to <b>edify</b> its pupils mind and spirits",
                 "Most Difficult",
                 "[sound:957_edify.ogg]",
-                "",
+                "ˈe-də-ˌfī",
                 "FT"
             ],
             "guid": "njZ-89#qGU",
@@ -6899,7 +6899,7 @@
                 "The instructor’s <b>efficacy</b> was reduced by the lack of educational materials",
                 "357 prevalent GRE words",
                 "[sound:262_efficacy.ogg]",
-                "",
+                "ˈe-fi-kə-sē",
                 "Prepscholar"
             ],
             "guid": "D!5bpadwPh",
@@ -6917,7 +6917,7 @@
                 "An <b>effigy</b> of the governor later was hanged in a tree on the state Capitol grounds.",
                 "Medium Difficult",
                 "[sound:855_effigy.ogg]",
-                "",
+                "ˈe-fə-jē",
                 "FT"
             ],
             "guid": "c5oe-^5>R!",
@@ -6989,7 +6989,7 @@
                 "When the princess died, one of her favorite songwriters wrote a moving <b>elegy</b> for her.",
                 "357 prevalent GRE words",
                 "[sound:265_elegy.ogg]",
-                "",
+                "ˈe-lə-jē",
                 "Prepscholar"
             ],
             "guid": "MV!tW80kW~",
@@ -7007,7 +7007,7 @@
                 "In the experiment, the scientist hoped to <u><b>elicit</b> a response</u> from a mouse by piping high-pitched sounds into a sealed cage.",
                 "357 prevalent GRE words",
                 "[sound:266_elicit.ogg]",
-                "",
+                "i-ˈli-sət",
                 "Prepscholar"
             ],
             "guid": "i].Jj6;6?F",
@@ -7025,7 +7025,7 @@
                 "Since the girl spoke from the heart, the <u><b>eloquence</b> in her words</u> allowed everyone to completely understand and believe what she was saying.",
                 "357 prevalent GRE words",
                 "[sound:267_eloquence.ogg]",
-                "",
+                "ˈe-lə-kwən(t)s",
                 "Prepscholar"
             ],
             "guid": "x}A7mkFNJ]",
@@ -7043,7 +7043,7 @@
                 "When asked for details, he declined to <b>elucidate</b> further.",
                 "Medium Difficult",
                 "[sound:856_elucidate.ogg]",
-                "",
+                "i-ˈlü-sə-ˌdāt",
                 "FT"
             ],
             "guid": "CECL3;REf.",
@@ -7079,7 +7079,7 @@
                 "Everyone was looking forward to taking the class with such <u>an <b>eminent</b> professor</u>.",
                 "357 prevalent GRE words",
                 "[sound:269_eminent.ogg]",
-                "",
+                "ˈe-mə-nənt",
                 "Prepscholar"
             ],
             "guid": "O8HCZtU!5r",
@@ -7097,7 +7097,7 @@
                 "The lotion was a great <u><b>emollient</b> for her dry skin</u>",
                 "Common GRE",
                 "[sound:270_emollient.ogg]",
-                "",
+                "i-ˈmäl-yənt",
                 "MSU"
             ],
             "guid": "CcW7uw^$!:",
@@ -7205,7 +7205,7 @@
                 "Mrs. Poundstone was surprised and delighted on the last day of school when the students in her most difficult class presented her with an <b>encomium</b> they had written, praising her work as a teacher.",
                 "Common GRE",
                 "[sound:277_encomium.ogg]",
-                "",
+                "en-ˈkō-mē-əm",
                 "MSU"
             ],
             "guid": "wN4d/kM6*.",
@@ -7403,7 +7403,7 @@
                 "Probably the coolest use of <b>epistemology</b>, though, is artificial intelligence: teaching computers how to learn.",
                 "Medium Difficult",
                 "[sound:858_epistemology.ogg]",
-                "",
+                "i-ˌpi-stə-ˈmä-lə-jē",
                 "FT"
             ],
             "guid": "N#H{n4t$;.",
@@ -7457,7 +7457,7 @@
                 "Republicans complained that Bill Clinton's answers were <b>equivocal. </b>",
                 "Common GRE",
                 "[sound:294_equivocal.ogg]",
-                "",
+                "i-ˈkwi-və-kəl",
                 "MSU"
             ],
             "guid": "tk~2!*iMKQ",
@@ -7475,7 +7475,7 @@
                 "Whenever the politician responded to questions, he would avoid eye contact and <b>equivocate</b> his answers.",
                 "357 prevalent GRE words",
                 "[sound:295_equivocate.ogg]",
-                "",
+                "i-ˈkwi-və-ˌkāt",
                 "Prepscholar"
             ],
             "guid": "wtrvC{?j{9",
@@ -7565,7 +7565,7 @@
                 "The <b>erstwhile</b> owner and company founder kept a close eye on how the new shareholders grew his baby",
                 "Most Difficult",
                 "[sound:960_erstwhile.ogg]",
-                "",
+                "ˈərst-ˌ(h)wī(-ə)l",
                 "FT"
             ],
             "guid": "vWDm4V]UPh",
@@ -7709,7 +7709,7 @@
                 "Our <b>estimable</b> professor is constantly being recognized for his cancer research",
                 "357 prevalent GRE words",
                 "[sound:307_estimable.ogg]",
-                "",
+                "ˈe-stə-mə-bəl",
                 "Prepscholar"
             ],
             "guid": "H#Nln~Io*)",
@@ -7745,7 +7745,7 @@
                 "Mr. Cotton presented himself as a member of the generation moved by the patriotic spirit. leaving civilian careers to join the army and learn a ‘warrior ethos",
                 "Least Difficult",
                 "[sound:309_ethos.ogg]",
-                "",
+                "ˈē-ˌthäs",
                 "FT"
             ],
             "guid": "pfK2NiF{@f",
@@ -7781,7 +7781,7 @@
                 "The rabbi’s <b>eulogy</b> was both heartfelt and inspiring.",
                 "357 prevalent GRE words",
                 "[sound:311_eulogy.ogg]",
-                "",
+                "ˈyü-lə-jē",
                 "Prepscholar"
             ],
             "guid": "x[wK_]OcMP",
@@ -7799,7 +7799,7 @@
                 "I was moved by the melodious <b>euphony</b> of the spoken poem",
                 "Most Difficult",
                 "[sound:961_euphony.ogg]",
-                "",
+                "ˈyü-fə-nē",
                 "FT"
             ],
             "guid": "Ma4Wm`5(;a",
@@ -7817,7 +7817,7 @@
                 "exotic</br> exterior</br> extraneous</br> extemporaneous</br> exophalmic</br> exogenous</br> exothermic</br> exoskeleton",
                 "Greek/Latin",
                 "[sound:312_ex.ogg]",
-                "",
+                "ˈeks",
                 "MSU"
             ],
             "guid": "l1MtVr5HWi",
@@ -7835,7 +7835,7 @@
                 "The decision to fortify the border <b>exacerbated</b> tensions.",
                 "357 prevalent GRE words",
                 "[sound:314_exacerbate.ogg]",
-                "",
+                "ig-ˈza-sər-ˌbāt",
                 "Prepscholar"
             ],
             "guid": "CWIN&:aeNx",
@@ -7907,7 +7907,7 @@
                 "An <b>exigent</b> officer is difficult to get along with because he asks ridiculous things of his soldiers.",
                 "357 prevalent GRE words",
                 "[sound:318_exigent.ogg]",
-                "",
+                "ˈek-sə-jənt",
                 "Prepscholar"
             ],
             "guid": "C!s<GJb[li",
@@ -7943,7 +7943,7 @@
                 "The cab fare was <b>exorbitant</b>, so I suspected the driver had taken a round about route.",
                 "Common GRE",
                 "[sound:320_exorbitant.ogg]",
-                "",
+                "ig-ˈzȯr-bə-tənt",
                 "MSU"
             ],
             "guid": "N8QVN,&bk0",
@@ -7961,7 +7961,7 @@
                 "During his book signing, Clark will <b>expatiate</b> on his military adventures <u>for as long as you are willing to listen</u>",
                 "357 prevalent GRE words",
                 "[sound:321_expatiate.ogg]",
-                "",
+                "ek-ˈspā-shē-ˌāt",
                 "Prepscholar"
             ],
             "guid": "wYmtTe0pxc",
@@ -7979,7 +7979,7 @@
                 "To <b>expiate</b> for breaking his neighbor’s window, John shovelled snow for three months",
                 "Most Difficult",
                 "[sound:962_expiate.ogg]",
-                "",
+                "ˈek-spē-ˌāt",
                 "FT"
             ],
             "guid": "kg(k>k/e1F",
@@ -7997,7 +7997,7 @@
                 "If the auditor finds an error in the accounting records, the treasurer <u>will need to <b>explicate</b> the mistake</u>.",
                 "357 prevalent GRE words",
                 "[sound:322_explicate.ogg]",
-                "",
+                "ˈek-splə-ˌkāt",
                 "Prepscholar"
             ],
             "guid": "G%?Y%1`EC&",
@@ -8015,7 +8015,7 @@
                 "The bank representative made sure the borrower was aware of the <b>explicit</b> terms of the loan agreement.",
                 "Common GRE",
                 "[sound:323_explicit.ogg]",
-                "",
+                "ik-ˈspli-sət",
                 "MSU"
             ],
             "guid": "DFr[+g1K^o",
@@ -8033,7 +8033,7 @@
                 "The researcher gave <u>a full <b>exposition</b> of his research results</u>.",
                 "357 prevalent GRE words",
                 "[sound:324_exposition.ogg]",
-                "",
+                "ˌek-spə-ˈzi-shən",
                 "Prepscholar"
             ],
             "guid": "K>uyH.SfA7",
@@ -8087,7 +8087,7 @@
                 "During the church service, the minister went out of his way to <b>extol</b> the contributions of the children’s youth choir.",
                 "Medium Difficult",
                 "[sound:863_extol.ogg]",
-                "",
+                "ik-ˈstōl",
                 "FT"
             ],
             "guid": "q7!5t(4uq[",
@@ -8123,7 +8123,7 @@
                 "If you slip off your diet, the <u><b>extraneous</b> calories</u> will make you gain all the weight you lost.",
                 "357 prevalent GRE words",
                 "[sound:327_extraneous.ogg]",
-                "",
+                "ek-ˈstrā-nē-əs",
                 "Prepscholar"
             ],
             "guid": "AX3R6[K.hC",
@@ -8141,7 +8141,7 @@
                 "The scientist tried to <b><u>extrapolate</b> the future results by looking at data from previous testing</u> dates",
                 "357 prevalent GRE words",
                 "[sound:328_extrapolate.ogg]",
-                "",
+                "ik-ˈstra-pə-ˌlāt",
                 "Prepscholar"
             ],
             "guid": "iTvZq|[xdC",
@@ -8195,7 +8195,7 @@
                 "More disturbing, ' says Mr. Hart, I didn't note that his column was <b>facetious</b>. In tone, it was indeed, and I should have noted that.",
                 "357 prevalent GRE words",
                 "[sound:330_facetious.ogg]",
-                "",
+                "fə-ˈsē-shəs",
                 "Prepscholar"
             ],
             "guid": "LS2TDxIm~x",
@@ -8213,7 +8213,7 @@
                 "Going to all lectures and doing all tutorials greatly <b>facilitates</b> passing the exam",
                 "357 prevalent GRE words",
                 "[sound:331_facilitate.ogg]",
-                "",
+                "fə-ˈsi-lə-ˌtāt",
                 "Prepscholar"
             ],
             "guid": "CK}0H)GST)",
@@ -8231,7 +8231,7 @@
                 "One particular separatist faction is now widely accepted to have been responsible for a string of small bombs which detonated in August.",
                 "Least Difficult",
                 "[sound:332_faction.ogg]",
-                "",
+                "ˈfak-shən",
                 "FT"
             ],
             "guid": "x4*2%NBegd",
@@ -8249,7 +8249,7 @@
                 "He clung to the <b>fallacious</b> hope that she would return.",
                 "357 prevalent GRE words",
                 "[sound:333_fallacious.ogg]",
-                "",
+                "fə-ˈlā-shəs",
                 "Prepscholar"
             ],
             "guid": "r}*l(r.Mue",
@@ -8267,7 +8267,7 @@
                 "Their fickle attention might waver for a few fallow years of rebuilding, but Angel Stadium will still be standing.",
                 "Least Difficult",
                 "[sound:334_fallow.ogg]",
-                "",
+                "ˈfa-(ˌ)lō",
                 "FT"
             ],
             "guid": "vXW^el7)<#",
@@ -8285,7 +8285,7 @@
                 "His early steps were faltering, and a frailer soul might have been daunted by his mentors’ fate.",
                 "Least Difficult",
                 "[sound:335_falter.ogg]",
-                "",
+                "ˈfȯl-tər",
                 "FT"
             ],
             "guid": "hL^nFt/U#%",
@@ -8321,7 +8321,7 @@
                 "1. <u>Nautical charts in the US measure water depth in feet as well as <b>fathoms</b></u></br>2. <u>I couldn't <b>fathom</b></u> her reasoning</u> on that issue.",
                 "Common GRE",
                 "[sound:337_fathom.ogg]",
-                "",
+                "ˈfa-t͟həm",
                 "MSU"
             ],
             "guid": "dY;-pK/>CG",
@@ -8375,7 +8375,7 @@
                 "He feigned illness to avoid going to school. (adj: feigned)",
                 "Common GRE",
                 "[sound:341_feign.ogg]",
-                "",
+                "ˈfān",
                 "MSU"
             ],
             "guid": "o{:u9>a[nl",
@@ -8393,7 +8393,7 @@
                 "The child showed a fervid fascination for superheroes, pouring over comic books for hours.",
                 "Common GRE",
                 "[sound:1123_fervid.ogg]",
-                "",
+                "ˈfər-vəd",
                 "Kaplan"
             ],
             "guid": "HP{x}vZZ>[",
@@ -8501,7 +8501,7 @@
                 "The man <u>stranded on the deserted island  <b>flailed</b> his arms in the air</u> to get the passing by ship captain’s attention.",
                 "Least Difficult",
                 "[sound:346_flail.ogg]",
-                "",
+                "ˈflāl",
                 "FT"
             ],
             "guid": "QWYMOEjab:",
@@ -8537,7 +8537,7 @@
                 "1. The <u><b>fledgling</b> storks</u> start to leave the nest about 2 months after hatching. </br>2. Jill is a <b>fledgling</b> skater who must work on her turns more.",
                 "Common GRE",
                 "[sound:348_fledgling.ogg]",
-                "",
+                "ˈflej-liŋ",
                 "MSU"
             ],
             "guid": "hH834pBoxu",
@@ -8591,7 +8591,7 @@
                 "He <u><b>flouted</b> the law</u> and the concept of civilian safety by making a concerted effort to jaywalk every time he crossed a street",
                 "Medium Difficult",
                 "[sound:867_flout.ogg]",
-                "",
+                "ˈflau̇t",
                 "FT"
             ],
             "guid": "f}Iq)Ofx(;",
@@ -8627,7 +8627,7 @@
                 "The ball sank into the net after 2 deflections in what can only be called <u>a  lucky <b>fluke</u></b>",
                 "Least Difficult",
                 "[sound:352_fluke.ogg]",
-                "",
+                "ˈflük",
                 "FT"
             ],
             "guid": "IB3~c4V)hT",
@@ -8645,7 +8645,7 @@
                 "The elder Bongo had among other <b>foibles</b>, a liking to show off his pet tiger to guests",
                 "Medium Difficult",
                 "[sound:868_foible.ogg]",
-                "",
+                "ˈfȯi-bəl",
                 "FT"
             ],
             "guid": "AGsw~3jr/k",
@@ -8663,7 +8663,7 @@
                 "1. Dad <u>wrapped the spare ribs in aluminium <b>foil</u></b> before putting them on the grill. </br>2. <u>The fencing competition took place with</u> rubber-ball capped <u><b>foils</b></u></br>3. She had brought <u>so many  unsuitable suitors</u> home to her parents that these <u>were nothing but <b>foils</b></u>, so the introduction of John led her parents to happily  agree to the marriage. </br>4.  The  <u>early return of their parents <b>foiled</b> their plans for a party</u>.",
                 "Homonym",
                 "[sound:353_foil.ogg]",
-                "",
+                "ˈfȯi(-ə)l",
                 "MSU"
             ],
             "guid": "OLMcY4{2k0",
@@ -8717,7 +8717,7 @@
                 "To <b>forestall</b> a social crisis, he mused, governments should consider a tax on robots; if automation slows as a result, so much the better.",
                 "357 prevalent GRE words",
                 "[sound:356_forestall.ogg]",
-                "",
+                "fȯr-ˈstȯl",
                 "Prepscholar"
             ],
             "guid": "wc<?ZbsRt`",
@@ -8735,7 +8735,7 @@
                 "uniform</br> reform",
                 "Greek/Latin",
                 "[sound:1081_form.ogg]",
-                "",
+                "ˈfȯrm",
                 "Manhattan"
             ],
             "guid": "pVQLSaE&Z0",
@@ -8825,7 +8825,7 @@
                 "He scurried around the kitchen <b>frenetically</b> trying to cook a last-minute dinner for 30 of his closest friends.",
                 "Medium Difficult",
                 "[sound:870_frenetic.ogg]",
-                "",
+                "fri-ˈne-tik",
                 "FT"
             ],
             "guid": "DU`Vq1slgx",
@@ -8861,7 +8861,7 @@
                 "Fringe beliefs reinforced in these ways can establish themselves and persist long after outsiders deem them debunked.",
                 "Least Difficult",
                 "[sound:753_fringe.ogg]",
-                "",
+                "ˈfrinj",
                 "FT"
             ],
             "guid": "k<%fIT(VG[",
@@ -8879,7 +8879,7 @@
                 "<u>Be more <b>frugal</b> with your expenses</u>, and you will not be in debt.",
                 "357 prevalent GRE words",
                 "[sound:360_frugal.ogg]",
-                "",
+                "ˈfrü-gəl",
                 "Prepscholar"
             ],
             "guid": "IE1a8?f#0x",
@@ -8897,7 +8897,7 @@
                 "2. The police were <u>not interested in the <b>small fry</b> drug dealers</u>, but wanted to catch the drug kingpin.",
                 "Homonym",
                 "[sound:361_fry.ogg]",
-                "",
+                "ˈfrī",
                 "MSU"
             ],
             "guid": "O84EaOSp|U",
@@ -8969,7 +8969,7 @@
                 "Goofy makes <u>non-stop <b>gaffes</b></u>",
                 "Most Difficult",
                 "[sound:967_gaffe.ogg]",
-                "",
+                "ˈgaf",
                 "FT"
             ],
             "guid": "cEVhe7vam1",
@@ -8987,7 +8987,7 @@
                 "It is <u>impossible to <u>gainsay</u> the importance of a good education</u> in today’s competitive job market",
                 "357 prevalent GRE words",
                 "[sound:364_gainsay.ogg]",
-                "",
+                "ˌgān-ˈsā",
                 "Prepscholar"
             ],
             "guid": "C9vz&DCkIs",
@@ -9005,7 +9005,7 @@
                 "1. With enough </b>gall</b> and entrepreneurial spirit, it suggests, anyone can end up driving a Porsche and living in a marble-floored luxury apartment. </br>2. The <b>gallbladder</b> stores digestive juices made in the liver</br>3. The ill-fitting saddle chafed the horse's skin and caused a parinful <b>gall</b>",
                 "Medium Difficult",
                 "[sound:871_gall.ogg]",
-                "",
+                "ˈgȯl",
                 "FT"
             ],
             "guid": "cSc06Fom@B",
@@ -9023,7 +9023,7 @@
                 "By holding a rally, <u>the politician hoped to <b>galvanize</b> young people to vote</u>",
                 "357 prevalent GRE words",
                 "[sound:365_galvanize.ogg]",
-                "",
+                "ˈgal-və-ˌnīz",
                 "Prepscholar"
             ],
             "guid": "AQS/bnh,{v",
@@ -9041,7 +9041,7 @@
                 "<u>What began as a <b>gambit</b> to</u> hold together his divided Tory party is turning into an alarmingly close contest.",
                 "Medium Difficult",
                 "[sound:873_gambit.ogg]",
-                "",
+                "ˈgam-bət",
                 "FT"
             ],
             "guid": "Q4f#.xl]~U",
@@ -9131,7 +9131,7 @@
                 "The president will only respond to media questions that are <b>germane</b> to the economic crisis.",
                 "357 prevalent GRE words",
                 "[sound:370_germane.ogg]",
-                "",
+                "(ˌ)jər-ˈmān",
                 "Prepscholar"
             ],
             "guid": "G.~b[p:!&-",
@@ -9149,7 +9149,7 @@
                 "But Muhammad bin Salman is not merely a young face in a <b>gerontocracy</b> he is a dynamic and apparently purposeful one.",
                 "Most Difficult",
                 "[sound:969_gerontocracy.ogg]",
-                "",
+                "ˌjer-ən-ˈtä-krə-sē",
                 "FT"
             ],
             "guid": "EFFTqMk{r0",
@@ -9167,7 +9167,7 @@
                 "<u>The <b>gist</b> of the matter is</u>",
                 "Least Difficult",
                 "[sound:755_gist.ogg]",
-                "",
+                "ˈjist",
                 "FT"
             ],
             "guid": "B&TdCrF)e/",
@@ -9185,7 +9185,7 @@
                 "Because she is so conceited, Linda is constantly fishing for compliments, and she <u>takes all the <b>glib</b> flattery seriously</u>.",
                 "357 prevalent GRE words",
                 "[sound:371_glib.ogg]",
-                "",
+                "ˈglib",
                 "Prepscholar"
             ],
             "guid": "x[Bv_#yZo{",
@@ -9203,7 +9203,7 @@
                 "Her words were meant to <u><b>goad</b> officials into action</u>",
                 "Medium Difficult",
                 "[sound:874_goad.ogg]",
-                "",
+                "ˈgōd",
                 "FT"
             ],
             "guid": "O#xrcQ,JsJ",
@@ -9221,7 +9221,7 @@
                 "1. The mafiosi <b>gouged</b> out the eyes of his disloyal clan member</br>2. He skillfully gouged a trough into the plaster of Paris</br>3. They <u>do not want monopolists to <b>gouge</b> consumers</u> and stifle innovation with their overcharging.",
                 "Medium Difficult",
                 "[sound:876_gouge.ogg]",
-                "",
+                "ˈgau̇j",
                 "FT"
             ],
             "guid": "il1wdcni@a",
@@ -9239,7 +9239,7 @@
                 "The authors give it a rather <b>grandiloquent name</b>: the desire 'to force destiny, to create serendipity. '",
                 "Medium Difficult",
                 "[sound:877_grandiloquent.ogg]",
-                "",
+                "gran-ˈdi-lə-kwən(t)s",
                 "FT"
             ],
             "guid": "CwK>lAhHvq",
@@ -9293,7 +9293,7 @@
                 "<u>Humans are by nature <b>gregarious</b></u>, and like to live close together",
                 "357 prevalent GRE words",
                 "[sound:374_gregarious.ogg]",
-                "",
+                "gri-ˈger-ē-əs",
                 "Prepscholar"
             ],
             "guid": "r:Eqk8R)kN",
@@ -9311,7 +9311,7 @@
                 "Some economists <b>grouse</b> about such rules, which can interfere with the smooth functioning of competitive labour markets.",
                 "Medium Difficult",
                 "[sound:878_grouse.ogg]",
-                "",
+                "ˈgrau̇s",
                 "FT"
             ],
             "guid": "p@>^db<@mK",
@@ -9347,7 +9347,7 @@
                 "The <u>devious conman well known for his <b>guile</b></u>.",
                 "Common GRE",
                 "[sound:375_guile.ogg]",
-                "",
+                "ˈgī(-ə)l",
                 "MSU"
             ],
             "guid": "G,7s(En,;:",
@@ -9365,7 +9365,7 @@
                 "The peasant's simple guileless comments made for refereshing talk",
                 "Common GRE",
                 "[sound:377_guileless.ogg]",
-                "",
+                "ˈgī(-ə)l-ləs",
                 "MSU"
             ],
             "guid": "N,]m3,|Dvr",
@@ -9383,7 +9383,7 @@
                 "The gullible little boy gave his older sister all of his allowance because she told him she would buy a pony for him.",
                 "Common GRE",
                 "[sound:1112_gullible.ogg]",
-                "",
+                "ˈgə-lə-bəl",
                 "Kaplan"
             ],
             "guid": "PPw>q/H`L#",
@@ -9401,7 +9401,7 @@
                 "1. <u>He hacked a <b>path</b> through the jungle</u> with his panga</br>2. Even though he worked for the New York Times, he always felt like a <b>hack. </b>",
                 "Homonym",
                 "[sound:378_hack.ogg]",
-                "",
+                "ˈhak",
                 "MSU"
             ],
             "guid": "L3D&DxjN|C",
@@ -9419,7 +9419,7 @@
                 "Too often used by young girls, <u>the word “like” has become <b>hackneyed</b></u>",
                 "357 prevalent GRE words",
                 "[sound:379_hackneyed.ogg]",
-                "",
+                "ˈhak-nēd",
                 "Prepscholar"
             ],
             "guid": "vKY1:dGWlW",
@@ -9437,7 +9437,7 @@
                 "In their <b>halcyon</b> days the mainstream parties used to share most of the vote between them.",
                 "Most Difficult",
                 "[sound:970_halcyon.ogg]",
-                "",
+                "ˈhal-sē-ən",
                 "FT"
             ],
             "guid": "tZD`+/z!A}",
@@ -9455,7 +9455,7 @@
                 "The <b>hapless</b> motorist had barely paid his bill and driven away from the body shop when a truck ran into his car",
                 "Medium Difficult",
                 "[sound:879_hapless.ogg]",
-                "",
+                "ˈha-pləs",
                 "FT"
             ],
             "guid": "JERjMmLwh6",
@@ -9473,7 +9473,7 @@
                 "State-run China Central Television (CCTV) has broadcast harsh criticisms of some multinationals, including an absurd <b>harangue</b> over Starbucks’ prices.",
                 "357 prevalent GRE words",
                 "[sound:381_harangue.ogg]",
-                "",
+                "hə-ˈraŋ",
                 "Prepscholar"
             ],
             "guid": "Hbq%F86(K#",
@@ -9509,7 +9509,7 @@
                 "Freddie Mercuy was known to be a great singer and a non-stop <b>hedonist</b>",
                 "357 prevalent GRE words",
                 "[sound:383_hedonism.ogg]",
-                "",
+                "ˈhē-də-ˌni-zəm",
                 "Prepscholar"
             ],
             "guid": "ms|[VJdld2",
@@ -9545,7 +9545,7 @@
                 "North Korea is often called the <u><b>\"hermetic</b> kingdom\"</u>",
                 "Most Difficult",
                 "[sound:972_hermetic.ogg]",
-                "",
+                "(ˌ)hər-ˈme-tik",
                 "FT"
             ],
             "guid": "k4_y,OC=e0",
@@ -9563,7 +9563,7 @@
                 "heterogeneous</br> heterosexual</br> heterodox</br> heterodont</br> hetero atom</br> heterocyclic</br> heterozygous</br>",
                 "Greek/Latin",
                 "[sound:384_hetero.ogg]",
-                "",
+                "ˈhe-tə-ˌrō",
                 "MSU"
             ],
             "guid": "h!Tp#|!#A$",
@@ -9635,7 +9635,7 @@
                 "homogeneous</br> homogenized</br> homozygous</br> homolytic fission</br> Homo sapiens</br> homonid</br> homeostasis </br> homophone",
                 "Greek/Latin",
                 "[sound:386_homo.ogg]",
-                "",
+                "ˈhō-(ˌ)mō",
                 "MSU"
             ],
             "guid": "G4}5Drx98G",
@@ -9707,7 +9707,7 @@
                 "1. My mother's husband is my father. </br>2. Our <u>animal <b>husbandry</b></u>, or animal care, staff—the ones who clean cages and feed the animals—is physically isolated down the road.",
                 "Homonym",
                 "[sound:390_husband.ogg]",
-                "",
+                "ˈhəz-bənd",
                 "MSU"
             ],
             "guid": "Cz9zT6:tD;",
@@ -9725,7 +9725,7 @@
                 "Obviously the network is <u>overreacting and engaging in <b>hyperbole</b></u> when they say 55 million people are in danger! Due to normal thunderstorms",
                 "357 prevalent GRE words",
                 "[sound:391_hyperbole.ogg]",
-                "",
+                "hī-ˈpər-bə-(ˌ)lē",
                 "Prepscholar"
             ],
             "guid": "f7n]_zD3U4",
@@ -9779,7 +9779,7 @@
                 "He has overtaken Manuel Valls, the centre-left prime minister, as the left’s most outspoken <b>iconoclast</b>, and shown up the Socialist left as die-hard conservative",
                 "357 prevalent GRE words",
                 "[sound:395_iconoclast.ogg]",
-                "",
+                "ī-ˈkä-nə-ˌklast",
                 "Prepscholar"
             ],
             "guid": "vd4AWTM7$(",
@@ -9905,7 +9905,7 @@
                 "Moreover, by controlling the body he controlled the equally unruly mind, keeping it pure from <u><b>'ignoble</b> strife'</u>.",
                 "Most Difficult",
                 "[sound:977_ignoble.ogg]",
-                "",
+                "ig-ˈnō-bəl",
                 "FT"
             ],
             "guid": "o&h`eD`Wo;",
@@ -9923,7 +9923,7 @@
                 "Some feminists argue, moreover, that the very framework of economics is <b>imbued</b> with subtler forms of sexism.",
                 "Medium Difficult",
                 "[sound:881_imbue.ogg]",
-                "",
+                "im-ˈbyü",
                 "FT"
             ],
             "guid": "EDx2VR4F6X",
@@ -9941,7 +9941,7 @@
                 "When the Secret Service arrived, everyone knew <u>the president’s arrival was <b>imminent. </b></u>",
                 "357 prevalent GRE words",
                 "[sound:401_imminent.ogg]",
-                "",
+                "ˈi-mə-nənt",
                 "Prepscholar"
             ],
             "guid": "gQTBp~a`#K",
@@ -9959,7 +9959,7 @@
                 "As memories can fade over time, they are not considered to be <b>immutable. </b>",
                 "357 prevalent GRE words",
                 "[sound:402_immutable.ogg]",
-                "",
+                "(ˌ)i(m)-ˈmyü-tə-bəl",
                 "Prepscholar"
             ],
             "guid": "xD,1$TNwMB",
@@ -9977,7 +9977,7 @@
                 "Inure means to get used to something difficult, painful, or unpleasant.",
                 "357 prevalent GRE words",
                 "[sound:403_impair.ogg]",
-                "",
+                "im-ˈper",
                 "Prepscholar"
             ],
             "guid": "C)t}t6P6+K",
@@ -10031,7 +10031,7 @@
                 "I am not letting my  broken wrist be an <b>impediment</b> to me keeping fit",
                 "357 prevalent GRE words",
                 "[sound:405_impediment.ogg]",
-                "",
+                "im-ˈpe-də-mənt",
                 "Prepscholar"
             ],
             "guid": "eZAk%4S[X]",
@@ -10049,7 +10049,7 @@
                 "<u>In an <b>imperious tone</b></u>, the police officer ordered the driver to step out of the car.",
                 "Common GRE",
                 "[sound:406_imperious.ogg]",
-                "",
+                "im-ˈpir-ē-əs",
                 "MSU"
             ],
             "guid": "sQX8v[8Xje",
@@ -10067,7 +10067,7 @@
                 "<u>The <b>imperturbable</b> Apollo 11 commander</u>  calmly landed the lunar module with 20 seconds of fuel remaining!",
                 "357 prevalent GRE words",
                 "[sound:407_imperturbable.ogg]",
-                "",
+                "ˌim-pər-ˈtər-bə-bəl",
                 "Prepscholar"
             ],
             "guid": "KA#mbCJj`N",
@@ -10121,7 +10121,7 @@
                 "<u>Bill resented the <b>implication</u></b> he was a drug dealer simply because he carried a large amount of cash in his pockets.",
                 "Common GRE",
                 "[sound:409_implication.ogg]",
-                "",
+                "ˌim-plə-ˈkā-shən",
                 "MSU"
             ],
             "guid": "qgKF`49:B$",
@@ -10139,7 +10139,7 @@
                 "Although you never stated I could use your car, your permission was <b>implicit</b> when you handed me your car keys.",
                 "357 prevalent GRE words",
                 "[sound:410_implicit.ogg]",
-                "",
+                "im-ˈpli-sət",
                 "Prepscholar"
             ],
             "guid": "hKsN)-#s<I",
@@ -10157,7 +10157,7 @@
                 "She <b>implied</b> she didn't believe his story.",
                 "Common GRE",
                 "[sound:411_imply.ogg]",
-                "",
+                "im-ˈplī",
                 "MSU"
             ],
             "guid": "z8<}E;PKN:",
@@ -10193,7 +10193,7 @@
                 "Phil’s <u><b>imprudent</b> turn</u> on the highway caused a six-car accident",
                 "357 prevalent GRE words",
                 "[sound:413_imprudence.ogg]",
-                "",
+                "(ˌ)im-ˈprü-dᵊn(t)s",
                 "Prepscholar"
             ],
             "guid": "g9JT$agY.>",
@@ -10213,7 +10213,7 @@
                 "The boy is an <u><b>impudent</b> scoundrel</u> who doesn’t seem to respect rules or people",
                 "357 prevalent GRE words",
                 "[sound:414_impudent.ogg]",
-                "",
+                "ˈim-pyə-dənt",
                 "Prepscholar"
             ],
             "guid": "E%>J[3$IG}",
@@ -10231,7 +10231,7 @@
                 "The media vilified the protesters and their cause by <u><b>impugning</b> their character</u>.",
                 "Most Difficult",
                 "[sound:978_impugn.ogg]",
-                "",
+                "im-ˈpyün",
                 "FT"
             ],
             "guid": "n`+=R]m}pH",
@@ -10285,7 +10285,7 @@
                 "Because the principal neglected to turn off the microphone on the PA system, <u>some statements were <b>inadvertently</b> broadcat to all</u>.",
                 "357 prevalent GRE words",
                 "[sound:417_inadvertent.ogg]",
-                "",
+                "ˌi-nəd-ˈvər-tᵊnt",
                 "Prepscholar"
             ],
             "guid": "G9+Yl{c]rN",
@@ -10429,7 +10429,7 @@
                 "Because his friend saved him from drowning in the pool, Carl felt <b>indebted</b> to return the favor somehow.",
                 "357 prevalent GRE words",
                 "[sound:423_indebted.ogg]",
-                "",
+                "in-ˈde-təd",
                 "Prepscholar"
             ],
             "guid": "B,X+c.a@<p",
@@ -10447,7 +10447,7 @@
                 "The Kenyan marathon <u>runner was <b>indefatigable</b></u>, and finished in 2 hours",
                 "357 prevalent GRE words",
                 "[sound:424_indefatigable.ogg]",
-                "",
+                "ˌin-di-ˈfa-ti-gə-bəl",
                 "Prepscholar"
             ],
             "guid": "uta{KWMtA7",
@@ -10465,7 +10465,7 @@
                 "The Queen <u>made an <b>indelible</b> impression</u> on her subjects.",
                 "Common GRE",
                 "[sound:425_indelible.ogg]",
-                "",
+                "in-ˈde-lə-bəl",
                 "MSU"
             ],
             "guid": "In$0qsVa!%",
@@ -10483,7 +10483,7 @@
                 "A <u>criminal <b>indictment</u></b> would, in all likelihood, force the prime minister to resign.",
                 "Least Difficult",
                 "[sound:762_indictment.ogg]",
-                "",
+                "in-ˈdīt-mənt",
                 "FT"
             ],
             "guid": "r8AFwDdOIR",
@@ -10519,7 +10519,7 @@
                 "The <b>indolence</b> of the Saudi society brought up to expect that oil riches will be lavished upon them is a large hurdle.",
                 "Medium Difficult",
                 "[sound:885_indolence.ogg]",
-                "",
+                "ˈin-də-lən(t)s",
                 "FT"
             ],
             "guid": "nvR$BVM-yE",
@@ -10537,7 +10537,7 @@
                 "The <b>indolent</b> schoolboy failed the test.",
                 "357 prevalent GRE words",
                 "[sound:427_indolent.ogg]",
-                "",
+                "ˈin-də-lənt",
                 "Prepscholar"
             ],
             "guid": "c,J[r`!X9^",
@@ -10573,7 +10573,7 @@
                 "The joy I experienced at the birth of my first child was <b>ineffable. </b>",
                 "Common GRE",
                 "[sound:429_ineffable.ogg]",
-                "",
+                "(ˌ)i-ˈne-fə-bəl",
                 "MSU"
             ],
             "guid": "N~qokLhQf;",
@@ -10591,7 +10591,7 @@
                 "America’s founders believed that the 'greatest menace to freedom is an <b>inert</b> people.",
                 "Least Difficult",
                 "[sound:763_inert.ogg]",
-                "",
+                "i-ˈnərt",
                 "FT"
             ],
             "guid": "o(UhF|j2tg",
@@ -10609,7 +10609,7 @@
                 "New genetic evidence led some zoologists to infer that the red wolf is actually a hybrid of the coyote and the gray wolf.",
                 "357 prevalent GRE words",
                 "[sound:431_infer.ogg]",
-                "",
+                "in-ˈfər",
                 "Prepscholar"
             ],
             "guid": "bP@X9FzeB9",
@@ -10627,7 +10627,7 @@
                 "She developed an ingenious method for testing her hypothesis.",
                 "Common GRE",
                 "[sound:433_ingenious.ogg]",
-                "",
+                "in-ˈjēn-yəs",
                 "MSU"
             ],
             "guid": "AwMDO8;=NO",
@@ -10663,7 +10663,7 @@
                 "Greater liberty over the past generation <u>is abused by <b>ingrates</b></u> who think it funny to depict their leaders pantless.",
                 "Least Difficult",
                 "[sound:760_ingrate.ogg]",
-                "",
+                "ˈin-ˌgrāt",
                 "FT"
             ],
             "guid": "t;iNT2A[u-",
@@ -10681,7 +10681,7 @@
                 "1. Contact between  young adults  was inhibited by strict social customs</br>2. The trace component inhibited the rate of a chemical reaction",
                 "Common GRE",
                 "[sound:437_inhibit.ogg]",
-                "",
+                "in-ˈhi-bət",
                 "MSU"
             ],
             "guid": "e~Lr`Kj@nz",
@@ -10699,7 +10699,7 @@
                 "NATO is seen to be <b>inimical</b> to the best interests of the Russian people.",
                 "357 prevalent GRE words",
                 "[sound:438_inimical.ogg]",
-                "",
+                "i-ˈni-mi-kəl",
                 "Prepscholar"
             ],
             "guid": "mIRyPkV?Bi",
@@ -10717,7 +10717,7 @@
                 "Because the virus was <b>innocuous</b>, the hospital staff had no need to worry about the leak.",
                 "357 prevalent GRE words",
                 "[sound:440_innocuous.ogg]",
-                "",
+                "i-ˈnä-kyə-wəs",
                 "Prepscholar"
             ],
             "guid": "fTOR_O~oHi",
@@ -10735,7 +10735,7 @@
                 "A <u>jury at a second <b>inquest</b> ruled</u> that they were unlawfully killed.",
                 "Medium Difficult",
                 "[sound:886_inquest.ogg]",
-                "",
+                "ˈin-ˌkwest",
                 "FT"
             ],
             "guid": "f7nd*Ua=WB",
@@ -10753,7 +10753,7 @@
                 "Not even the leading experts in criminology could understand <u>the killer’s <b>inscrutable</b> motives</u>.",
                 "357 prevalent GRE words",
                 "[sound:441_inscrutable.ogg]",
-                "",
+                "in-ˈskrü-tə-bəl",
                 "Prepscholar"
             ],
             "guid": "CmXxFEGK?`",
@@ -10771,7 +10771,7 @@
                 "Wayne was rendered <b>insensible</b> by a blow to the head. </br> They were <b>insensibile</b> to the suffering of others.:",
                 "Common GRE",
                 "[sound:442_insensible.ogg]",
-                "",
+                "(ˌ)in-ˈsen(t)-sə-bəl",
                 "MSU"
             ],
             "guid": "w?ZV/Idi;;",
@@ -10807,7 +10807,7 @@
                 "It was a stultifying procession of patriotic songs, nothing but <b>insipid</b> skits and bald propaganda.",
                 "357 prevalent GRE words",
                 "[sound:445_insipid.ogg]",
-                "",
+                "in-ˈsi-pəd",
                 "Prepscholar"
             ],
             "guid": "wFDwOoOmpt",
@@ -10843,7 +10843,7 @@
                 "1. “the questioning was intensive”, “intensive care”, “research- intensive”, “a labor- intensive industry” </br>2. “intensive agriculture”",
                 "357 prevalent GRE words",
                 "[sound:448_intensive.ogg]",
-                "",
+                "in-ˈten(t)-siv",
                 "Prepscholar"
             ],
             "guid": "ES;%x7+Db7",
@@ -10861,7 +10861,7 @@
                 "interact</br> interstellar</br> interpret</br> interstitial",
                 "Greek/Latin",
                 "[sound:449_inter.ogg]",
-                "",
+                "in-ˈtər",
                 "MSU"
             ],
             "guid": "jPgNr2}<K3",
@@ -10879,7 +10879,7 @@
                 "For online exchanges, I use PayPal because it is an <b>intermediary</b> that performs secure financial transactions.",
                 "357 prevalent GRE words",
                 "[sound:450_intermediary.ogg]",
-                "",
+                "ˌin-tər-ˈmē-dē-ˌer-ē",
                 "Prepscholar"
             ],
             "guid": "qoZrgkyY7j",
@@ -10915,7 +10915,7 @@
                 "1. Additional police officers were called to the scene when the crowd became <b>intractable</b></br>2. It took six paramedics to handle the intractable task of lifting the eight hundred pound woman.",
                 "357 prevalent GRE words",
                 "[sound:452_intractable.ogg]",
-                "",
+                "(ˌ)in-ˈtrak-tə-bəl",
                 "Prepscholar"
             ],
             "guid": "obT{P{=F2G",
@@ -10951,7 +10951,7 @@
                 "To be an astronaut, you must be an <b>intrepid</b> person who craves adventure and is not afraid of heights.",
                 "357 prevalent GRE words",
                 "[sound:455_intrepid.ogg]",
-                "",
+                "in-ˈtre-pəd",
                 "Prepscholar"
             ],
             "guid": "djR#;EIZ;`",
@@ -10971,7 +10971,7 @@
                 "Mark is an <b>inveterate</b> liar who could not tell the truth even if you paid him",
                 "357 prevalent GRE words",
                 "[sound:456_inveterate.ogg]",
-                "",
+                "in-ˈve-t(ə-)rət",
                 "Prepscholar"
             ],
             "guid": "EEO&A+bC6Q",
@@ -11025,7 +11025,7 @@
                 "He survived, but some of his contemporaries thought that the accident changed his personality from pleasant to <b>irascible. </b>",
                 "357 prevalent GRE words",
                 "[sound:460_irascible.ogg]",
-                "",
+                "i-ˈra-sə-bəl",
                 "Prepscholar"
             ],
             "guid": "G,e]FsV9a|",
@@ -11133,7 +11133,7 @@
                 "My father is an <b>itinerant</b>, spending weeks a year on a plane",
                 "Medium Difficult",
                 "[sound:888_itinerant.ogg]",
-                "",
+                "ī-ˈti-nə-rənt",
                 "FT"
             ],
             "guid": "KC%(s>9{`k",
@@ -11205,7 +11205,7 @@
                 "The change in policy is a blow to the prison industry, but it hardly sounds a <u>death <b>knell</b></u> for its business model.",
                 "Most Difficult",
                 "[sound:981_knell.ogg]",
-                "",
+                "ˈnel",
                 "FT"
             ],
             "guid": "pg.B=NKB`]",
@@ -11223,7 +11223,7 @@
                 "This morning the world is not talking about a dubious song by the host, a <b>lachrymose</b> speech or even an appalling outfit.",
                 "Most Difficult",
                 "[sound:982_lachrymose.ogg]",
-                "",
+                "ˈla-krə-ˌmōs",
                 "FT"
             ],
             "guid": "q)jMnCT/v5",
@@ -11241,7 +11241,7 @@
                 "1a. Maths proofs can sometimes be very short and <b>laconic</b></br>1b. Philip of Macedon threatened Laconians with\"If I enter Laconia, I will raze Sparta to the ground\" the <b>laconic</b> ' reply was\"If. \"",
                 "357 prevalent GRE words",
                 "[sound:470_laconic.ogg]",
-                "",
+                "lə-ˈkä-nik",
                 "Prepscholar"
             ],
             "guid": "Qx`fW%fzZ_",
@@ -11349,7 +11349,7 @@
                 "Because the soldier saved the president, everyone is going to <b>laud</b> him at a huge event",
                 "357 prevalent GRE words",
                 "[sound:472_laud.ogg]",
-                "",
+                "ˈlȯd",
                 "Prepscholar"
             ],
             "guid": "MIew#xMl{&",
@@ -11367,7 +11367,7 @@
                 "Providing affordable healthcare for all citizens is <u>a <b>laudable</b> goal</u>.",
                 "357 prevalent GRE words",
                 "[sound:474_laudable.ogg]",
-                "",
+                "ˈlȯ-də-bəl",
                 "Prepscholar"
             ],
             "guid": "j3Fyn!AN;e",
@@ -11385,7 +11385,7 @@
                 "Mario Draghi has faced attacks from critics in Germany (<u>for being too <b>lax</b></u>) and Greece (for being too tight).",
                 "Least Difficult",
                 "[sound:764_lax.ogg]",
-                "",
+                "ˈlaks",
                 "FT"
             ],
             "guid": "H<]2&xk46I",
@@ -11403,7 +11403,7 @@
                 "The past two decades have left working-class voters in many countries <b>leery </b>of globalisation.",
                 "Medium Difficult",
                 "[sound:891_leery.ogg]",
-                "",
+                "ˈlir-ē",
                 "FT"
             ],
             "guid": "nH+@_YQ@vn",
@@ -11475,7 +11475,7 @@
                 "The tree was a <b>leviathan</b> among redwoods",
                 "Common GRE",
                 "[sound:477_leviathan.ogg]",
-                "",
+                "li-ˈvī-ə-thən",
                 "MSU"
             ],
             "guid": "Ra1tD=&D@P",
@@ -11493,7 +11493,7 @@
                 "lexicon</br> lexicography",
                 "Greek/Latin",
                 "[sound:478_lexis.ogg]",
-                "",
+                "ˈlek-səs",
                 "MSU"
             ],
             "guid": "Acn|!g5[]c",
@@ -11529,7 +11529,7 @@
                 "1. There are aunts for every worldview, from <b>libertine</b> to puritan and from reactionary to radical. </br>2. A new pop archetype has emerged: the female <b>libertine</b> who brushed her teeth “with a bottle of Jack Daniels” before an all-nighter.",
                 "Most Difficult",
                 "[sound:986_libertine.ogg]",
-                "",
+                "ˈli-bər-ˌtēn",
                 "FT"
             ],
             "guid": "H~2Pl1g4yW",
@@ -11565,7 +11565,7 @@
                 "The two actors are  best friends and are often seen <u>exchanging humouress <b>badinage</u></b> during interviews",
                 "1000 Difficult GRE words",
                 "[sound:481_badinage.ogg]",
-                "",
+                "ˌba-də-ˈnäzh",
                 "Examword"
             ],
             "guid": "o~JQNSInfw",
@@ -11583,7 +11583,7 @@
                 "1. I could see the sand on the bottom of the <b>limpid</b> mountain pool</br>2. He writes in a <b>limpid</b> style",
                 "Medium Difficult",
                 "[sound:892_limpid.ogg]",
-                "",
+                "ˈlim-pəd",
                 "FT"
             ],
             "guid": "kV-s/B_7oY",
@@ -11601,7 +11601,7 @@
                 "As the professor went on and on and on, <u>the students becoming increasingly <b>listless</u></b>, one even fell asleep and started snoring!",
                 "Least Difficult",
                 "[sound:765_listless.ogg]",
-                "",
+                "ˈlist-ləs",
                 "FT"
             ],
             "guid": "PKu/qp1T#&",
@@ -11619,7 +11619,7 @@
                 "Charles <u>entered into <b>litigation</u></b> when he opened a civil suit, attempting to hold his former employer liable for withholding wages",
                 "357 prevalent GRE words",
                 "[sound:482_litigation.ogg]",
-                "",
+                "ˌli-tə-ˈgā-shən",
                 "Prepscholar"
             ],
             "guid": "BUV3uU9R].",
@@ -11637,7 +11637,7 @@
                 "1. A <b>livid</b> Vladimir Putin minced no words in his response, calling the downing a 'stab in the back'…</br>2. The  <b><u>livid</b> bruises</u> on Judy’s face took weeks to dissapear </br>3</u>. <b>livid</b> lightning</u> streaked the sky”",
                 "Least Difficult",
                 "[sound:766_livid.ogg]",
-                "",
+                "ˈli-vəd",
                 "FT"
             ],
             "guid": "M0-M$U*r#8",
@@ -11673,7 +11673,7 @@
                 "locality,  local,  circumlocution</br>locus,  allocate, dislocate, </br> local, locale, locate, </br>locomotive, relocate.",
                 "Greek/Latin",
                 "[sound:483_locus.ogg]",
-                "",
+                "ˈlō-kəs",
                 "MSU"
             ],
             "guid": "o,a[?qvi>`",
@@ -11709,7 +11709,7 @@
                 "The pair </b>loll</b> on a green hillside at Murnau south of Munich where Münter had bought a house",
                 "Least Difficult",
                 "[sound:767_loll.ogg]",
-                "",
+                "ˈläl",
                 "FT"
             ],
             "guid": "ceN=Dno1)&",
@@ -11727,7 +11727,7 @@
                 "The bride looked angelic and <u>wore a <b>beatific</b> expression</u> as she walked down the aisle.",
                 "1000 Difficult GRE words",
                 "[sound:487_beatific.ogg]",
-                "",
+                "ˌbē-ə-ˈti-fik",
                 "Examword"
             ],
             "guid": "H,$;7o}w#C",
@@ -11763,7 +11763,7 @@
                 "2. The Frankenstein monster lumbered toward the little girl.",
                 "Homonym",
                 "[sound:489_lumber.ogg]",
-                "",
+                "ˈləm-bər",
                 "MSU"
             ],
             "guid": "L5Z-#v!hu:",
@@ -11781,7 +11781,7 @@
                 "One <b>luminous</b> bulb produces enough light to brighten both the kitchen and the dining room.",
                 "357 prevalent GRE words",
                 "[sound:490_luminous.ogg]",
-                "",
+                "ˈlü-mə-nəs",
                 "Prepscholar"
             ],
             "guid": "em#1^mJu[u",
@@ -11799,7 +11799,7 @@
                 "She asked the police officer <u>to spare her the <b>lurid</b> details</u> so that she did not have to have the shocking and ugly images put into her imagination.",
                 "Least Difficult",
                 "[sound:768_lurid.ogg]",
-                "",
+                "ˈlu̇r-əd",
                 "FT"
             ],
             "guid": "KkQ^BrN2zC",
@@ -11835,7 +11835,7 @@
                 "macroeconomics</br>macroscopic</br>macrophage",
                 "Greek/Latin",
                 "[sound:492_macro.ogg]",
-                "",
+                "ˈma-(ˌ)krō",
                 "MSU"
             ],
             "guid": "lUJ9mj}|]p",
@@ -11871,7 +11871,7 @@
                 "Moved by <b>magnanimity</b>, the boxing champion reached his hand out to congratulate the runner-up on putting up a good fight",
                 "357 prevalent GRE words",
                 "[sound:494_magnanimity.ogg]",
-                "",
+                "ˌmag-nə-ˈni-mə-tē",
                 "Prepscholar"
             ],
             "guid": "cQp@<N>pYL",
@@ -11925,7 +11925,7 @@
                 "1. His own party criticizes what many call his <b>maladroit</b> communication on an anxiety-inducing subject. </br>2. a <b>maladroit</b> movement of his hand caused the car to swerve",
                 "357 prevalent GRE words",
                 "[sound:495_maladroit.ogg]",
-                "",
+                "ˌma-lə-ˈdrȯit",
                 "Prepscholar"
             ],
             "guid": "c)91T[tP4:",
@@ -11961,7 +11961,7 @@
                 "Failure made him <b>malevolent</b> toward those who were successful”</br> ant. Benevolent",
                 "Common GRE",
                 "[sound:496_malevolent.ogg]",
-                "",
+                "mə-ˈle-və-lənt",
                 "MSU"
             ],
             "guid": "AN5Pq)%dY|",
@@ -11979,7 +11979,7 @@
                 "Other, darker interpretations of what malign force the monster may represent once again abound.",
                 "Medium Difficult",
                 "[sound:895_malign.ogg]",
-                "",
+                "mə-ˈlīn",
                 "FT"
             ],
             "guid": "xS&v(srC5Z",
@@ -12069,7 +12069,7 @@
                 "she posted <b>maudlinly</b> on social media about her excess weight and received no likes.",
                 "Medium Difficult",
                 "[sound:896_maudlin.ogg]",
-                "",
+                "ˈmȯd-lən",
                 "FT"
             ],
             "guid": "KJ8T+CHwTC",
@@ -12123,7 +12123,7 @@
                 "<u>A first  sign of a new drug addict is their <b>mendacity</b></u>, not necessarily the effects of the drugs.",
                 "357 prevalent GRE words",
                 "[sound:501_mendacity.ogg]",
-                "",
+                "men-ˈda-sə-tē",
                 "Prepscholar"
             ],
             "guid": "OM&a+^HFBt",
@@ -12159,7 +12159,7 @@
                 "As my sister has \"<b><u>mercurial</b> moods</u> we never know how she will be feeling from one moment to the next.",
                 "357 prevalent GRE words",
                 "[sound:503_mercurial.ogg]",
-                "",
+                "(ˌ)mər-ˈkyu̇r-ē-əl",
                 "Prepscholar"
             ],
             "guid": "MjupofX<R^",
@@ -12177,7 +12177,7 @@
                 "metaphysics=study of nature and reality</br>metamorphosis=a complete change of form</br>metastasis=the transmission of disease to other parts of the body.",
                 "Root words",
                 "[sound:1053_meta.ogg]",
-                "",
+                "ˈme-tə",
                 "Aristotle"
             ],
             "guid": "xLb~!ITlCP",
@@ -12213,7 +12213,7 @@
                 "<u>This accounting job requires a <b>meticulous</b> person</u>.",
                 "357 prevalent GRE words",
                 "[sound:505_meticulous.ogg]",
-                "",
+                "mə-ˈti-kyə-ləs",
                 "Prepscholar"
             ],
             "guid": "hJXwf0/JXC",
@@ -12231,7 +12231,7 @@
                 "microscope</br> micron</br> micrometer</br> microorganism",
                 "Greek/Latin",
                 "[sound:506_micro.ogg]",
-                "",
+                "ˈmī-(ˌ)krō",
                 "MSU"
             ],
             "guid": "M,[LG^a1bU",
@@ -12267,7 +12267,7 @@
                 "2. John became very good at <b><u>milking</b> his misfortunes for all the sympathy he could get</u>.",
                 "Homonym",
                 "[sound:507_milk.ogg]",
-                "",
+                "ˈmilk",
                 "MSU"
             ],
             "guid": "sjT@/NS8bx",
@@ -12285,7 +12285,7 @@
                 "President Barack Obama didn’t <u><b>mince</b> his words</u> in a tweet on June 21st, the day after the Senate failed to pass four proposals.",
                 "Least Difficult",
                 "[sound:770_mince.ogg]",
-                "",
+                "ˈmin(t)s",
                 "FT"
             ],
             "guid": "F^D%~$rrpo",
@@ -12303,7 +12303,7 @@
                 "Its <b>minions</b> have set up thousands of social-media bots and other spamming weapons to drown out other content.",
                 "Least Difficult",
                 "[sound:771_minion.ogg]",
-                "",
+                "ˈmin-yən",
                 "FT"
             ],
             "guid": "x%*oQpTG22",
@@ -12321,7 +12321,7 @@
                 "Ms Park is hopelessly <b>mired</b> in an ever-deepening influence-peddling scandal.",
                 "Medium Difficult",
                 "[sound:898_mire.ogg]",
-                "",
+                "ˈmī(-ə)r",
                 "FT"
             ],
             "guid": "hW0?<KSFt+",
@@ -12339,7 +12339,7 @@
                 "A further proposal, to cut the salaries of senior public managers by 25%, <u>has caused both anger and <b>mirth. </b></u>",
                 "Least Difficult",
                 "[sound:772_mirth.ogg]",
-                "",
+                "ˈmərth",
                 "FT"
             ],
             "guid": "g0kZ~39Uf",
@@ -12357,7 +12357,7 @@
                 "He was a true <b>misanthrope</b> and hated even himself.",
                 "357 prevalent GRE words",
                 "[sound:509_misanthrope.ogg]",
-                "",
+                "ˈmi-sᵊn-ˌthrōp",
                 "Prepscholar"
             ],
             "guid": "wzQAPzk;sN",
@@ -12375,7 +12375,7 @@
                 "Labour did not fall into the traps of the old left: <u>confusing individualism for <b>misanthropy. </b></u>",
                 "Most Difficult",
                 "[sound:991_misanthropy.ogg]",
-                "",
+                "mi-ˈsan(t)-thrə-pē",
                 "FT"
             ],
             "guid": "j&]-D34P$4",
@@ -12393,7 +12393,7 @@
                 "Some historians claimed that China was the likely source of the deadliest flu pandemic in history, the 1918 Spanish Flu — a <b>misnomer</b> itself.",
                 "Common GRE",
                 "[sound:510_misnomer.ogg]",
-                "",
+                "ˌmis-ˈnō-mər",
                 "MSU"
             ],
             "guid": "K[pnxuzX@W",
@@ -12411,7 +12411,7 @@
                 "Others stated the women were not the property of men and called the rapper a <b>misogynist</b>",
                 "Common GRE",
                 "[sound:511_misogynist.ogg]",
-                "",
+                "mə-ˈsä-jə-nist",
                 "MSU"
             ],
             "guid": "yEwwgI]Gen",
@@ -12447,7 +12447,7 @@
                 "He was trying to mitigate the damage he had done. (n: mitigation)",
                 "357 prevalent GRE words",
                 "[sound:513_mitigate.ogg]",
-                "",
+                "ˈmi-tə-ˌgāt",
                 "Prepscholar"
             ],
             "guid": "Kh1(aE#!c0",
@@ -12483,7 +12483,7 @@
                 "With these <b>modish</b> safety demonstrations becoming the norm, the question is what, exactly, do they accomplish?",
                 "Medium Difficult",
                 "[sound:899_modish.ogg]",
-                "",
+                "ˈmō-dish",
                 "FT"
             ],
             "guid": "tj=17@R^hq",
@@ -12501,7 +12501,7 @@
                 "She managed to <b>mollify</b> the angry customer",
                 "357 prevalent GRE words",
                 "[sound:516_mollify.ogg]",
-                "",
+                "ˈmä-lə-ˌfī",
                 "Prepscholar"
             ],
             "guid": "iCsJzZBkz!",
@@ -12519,7 +12519,7 @@
                 "monocle</br> monopoly</br> monogamy</br> monovalent</br> monomania</br> monarchy",
                 "Greek/Latin",
                 "[sound:517_mono.ogg]",
-                "",
+                "ˈmä-(ˌ)nō",
                 "MSU"
             ],
             "guid": "h%R`FKzoFl",
@@ -12537,7 +12537,7 @@
                 "1. The <b>monolithic</b> proportions of Stalinist architecture”</br>2. But evangelicals are not a <b>monolithic</b> worldwide movement",
                 "Most Difficult",
                 "[sound:992_monolithic.ogg]",
-                "",
+                "ˌmä-nə-ˈli-thik",
                 "FT"
             ],
             "guid": "eg2IK08fBS",
@@ -12573,7 +12573,7 @@
                 "mortician</br> mortuary</br> moribund</br> morbid</br> mortal=certain to die     Morbid=gruesome</br> grisly      Morose=gloomy       moribund=dying</br> decaying      immortal=living forever</br> unable to die",
                 "Greek/Latin",
                 "[sound:519_mor(t).ogg]",
-                "",
+                "ˈmȯrt",
                 "MSU"
             ],
             "guid": "qGJI{QQ-F+",
@@ -12609,7 +12609,7 @@
                 "metamorphosis=complete change of form</br>morphology=the branch of biology that deals with the structure & form of organisms</br>amorphous=without distinct shape or form",
                 "Root words",
                 "[sound:1054_morph.ogg]",
-                "",
+                "ˈmȯrf",
                 "Aristotle"
             ],
             "guid": "tS/(4hUc7{",
@@ -12627,7 +12627,7 @@
                 "2. Our mother would never let us leave the house without our <u><b>mufflers</b> and mittens</u> in the winter.",
                 "Homonym",
                 "[sound:520_muffler.ogg]",
-                "",
+                "ˈmə-flər",
                 "MSU"
             ],
             "guid": "z9Pu<S6Nds",
@@ -12681,7 +12681,7 @@
                 "Anyone with a few million dollars to spare can join in. The initial awards for physics, for example, were followed by equally <b>munificent</b> prizes in life sciences and mathematics.",
                 "357 prevalent GRE words",
                 "[sound:522_munificent.ogg]",
-                "",
+                "myu̇-ˈni-fə-sənt",
                 "Prepscholar"
             ],
             "guid": "g`-!J[fO}.",
@@ -12699,7 +12699,7 @@
                 "Picasso took a habit of painting his many <b>muses</b>",
                 "Least Difficult",
                 "[sound:775_muse.ogg]",
-                "",
+                "ˈmyüz",
                 "FT"
             ],
             "guid": "/-<][[!^j",
@@ -12789,7 +12789,7 @@
                 "Although the <u><b>natty</b> clothing</u> was just her style, Terra couldn’t afford the boutique’s steep price tags.",
                 "Medium Difficult",
                 "[sound:902_natty.ogg]",
-                "",
+                "ˈna-tē",
                 "FT"
             ],
             "guid": "x8w@g_7v_P",
@@ -12807,7 +12807,7 @@
                 "Batman and Superman are always fighting evildoers and stopping their <u><b>nefarious</b> plots</u>",
                 "Common GRE",
                 "[sound:525_nefarious.ogg]",
-                "",
+                "ni-ˈfer-ē-əs",
                 "MSU"
             ],
             "guid": "HrS?X;?ZiG",
@@ -12825,7 +12825,7 @@
                 "1. (as verb) He <b>neglects</b> his children. </br>2. (as noun) The house was in a terrible <u>state of <b>neglect</b></u>",
                 "357 prevalent GRE words",
                 "[sound:526_neglect.ogg]",
-                "",
+                "ni-ˈglekt",
                 "Prepscholar"
             ],
             "guid": "CPp@waBcOq",
@@ -12843,7 +12843,7 @@
                 "Even  <u>the best golfer in the world was once a <b>neophyte</u></b> at the sport of golf",
                 "Most Difficult",
                 "[sound:996_neophyte.ogg]",
-                "",
+                "ˈnē-ə-ˌfīt",
                 "FT"
             ],
             "guid": "F0{!^}r*lk",
@@ -12879,7 +12879,7 @@
                 "Today Facebook seems to be the <b>nexus</b> of communication",
                 "Medium Difficult",
                 "[sound:903_nexus.ogg]",
-                "",
+                "ˈnek-səs",
                 "FT"
             ],
             "guid": "c0%IC8LoH%",
@@ -12897,7 +12897,7 @@
                 "The <u><b>noisome</b> odor</u> of the dump carried for miles.",
                 "Most Difficult",
                 "[sound:997_noisome.ogg]",
-                "",
+                "ˈnȯi-səm",
                 "FT"
             ],
             "guid": "sMuSKX9N<J",
@@ -12951,7 +12951,7 @@
                 "The inexperienced teenage <u>driver was <b>nonplussed</b> when his car began to slide on the ice</u>.",
                 "Medium Difficult",
                 "[sound:904_nonplussed.ogg]",
-                "",
+                "ˌnän-ˈpləst",
                 "FT"
             ],
             "guid": "kk-F<_^3(l",
@@ -12969,7 +12969,7 @@
                 "The Japanese philosopher  was highly critical of the <b><u>normative</b> thought</u> in the Japanese education system",
                 "Medium Difficult",
                 "[sound:905_normative.ogg]",
-                "",
+                "ˈnȯr-mə-tiv",
                 "FT"
             ],
             "guid": "DzOjgfM(}(",
@@ -13005,7 +13005,7 @@
                 "Because of John’s <u><b>notoriety</b> for being a mean drunk</u>, he is rarely invited to parties where alcohol is served.",
                 "357 prevalent GRE words",
                 "[sound:531_notoriety.ogg]",
-                "",
+                "ˌnō-tə-ˈrī-ə-tē",
                 "Prepscholar"
             ],
             "guid": "z#~l]Z&b_)",
@@ -13131,7 +13131,7 @@
                 "The more the parent pushes, the more <b>obstinate</b> the youngling becomes.",
                 "357 prevalent GRE words",
                 "[sound:537_obstinate.ogg]",
-                "",
+                "ˈäb-stə-nət",
                 "Prepscholar"
             ],
             "guid": "w/AAhenL|r",
@@ -13275,7 +13275,7 @@
                 "Because he believes in God’s <b>omniscience</b>, the child is sure that his creator is aware of everything he does all day.",
                 "357 prevalent GRE words",
                 "[sound:547_omniscience.ogg]",
-                "",
+                "äm-ˈni-shən(t)s",
                 "Prepscholar"
             ],
             "guid": "G[ngEX>H+E",
@@ -13311,7 +13311,7 @@
                 "Medical jargon includes many opaque terms like macrosomic, which describes a newborn who weighs more than, grams.",
                 "Common GRE",
                 "[sound:549_opaque.ogg]",
-                "",
+                "ō-ˈpāk",
                 "MSU"
             ],
             "guid": "EN*#p+b5{9",
@@ -13329,7 +13329,7 @@
                 "Rather than disagree with my husband in public, I waited until we got home to <b>opine</b> my thoughts on the subject.",
                 "Medium Difficult",
                 "[sound:906_opine.ogg]",
-                "",
+                "ō-ˈpīn",
                 "FT"
             ],
             "guid": "O%CpaG4_ls",
@@ -13365,7 +13365,7 @@
                 "The pendulum  <b>oscillated </b> from left to right",
                 "357 prevalent GRE words",
                 "[sound:553_oscillate.ogg]",
-                "",
+                "ˈä-sə-ˌlāt",
                 "Prepscholar"
             ],
             "guid": "QK0m3bUp3w",
@@ -13383,7 +13383,7 @@
                 "The <b>ossified</b> culture failed to adapt to new economic conditions and died out.",
                 "Common GRE",
                 "[sound:554_ossified.ogg]",
-                "",
+                "ˈä-sə-ˌfī",
                 "MSU"
             ],
             "guid": "i4@n-&+!b$",
@@ -13401,7 +13401,7 @@
                 "Owning a mansion doesn’t imply <b>ostentation</b>, but traveling exclusively by private jet certainly can",
                 "357 prevalent GRE words",
                 "[sound:555_ostentatious.ogg]",
-                "",
+                "ˌä-stən-ˈtā-shəs",
                 "Prepscholar"
             ],
             "guid": "z+~;T42eBM",
@@ -13419,7 +13419,7 @@
                 "“If you want to <u><b>outstrip</b> the competition</u>, then you need to work out at the gym, ” the coach told his athletes.",
                 "357 prevalent GRE words",
                 "[sound:556_outstrip.ogg]",
-                "",
+                "ˌau̇t-ˈstrip",
                 "Prepscholar"
             ],
             "guid": "Q]1V0+8OaE",
@@ -13437,7 +13437,7 @@
                 "the tragedy <b>overshadowed</b> the couple's happiness",
                 "357 prevalent GRE words",
                 "[sound:557_overshadow.ogg]",
-                "",
+                "ˌō-vər-ˈsha-(ˌ)dō",
                 "Prepscholar"
             ],
             "guid": "mR1kt]eIiV",
@@ -13473,7 +13473,7 @@
                 "The boy wrote a <b>paean</b> for his dad, praising his many accomplishments.",
                 "Most Difficult",
                 "[sound:1000_paean.ogg]",
-                "",
+                "ˈpē-ən",
                 "FT"
             ],
             "guid": "CNy[-~3Gw3",
@@ -13491,7 +13491,7 @@
                 "The technology seems to work but persuading the concrete industry to sign on is proving a <b>painstaking</b> and costly process",
                 "357 prevalent GRE words",
                 "[sound:558_painstaking.ogg]",
-                "",
+                "ˈpān-ˌstā-kiŋ",
                 "Prepscholar"
             ],
             "guid": "AnVz$TJv!e",
@@ -13509,7 +13509,7 @@
                 "His <u><b>pallid</b> complexion</u> is a definite indication that he spends all his time indoors",
                 "Medium Difficult",
                 "[sound:907_pallid.ogg]",
-                "",
+                "ˈpa-ləd",
                 "FT"
             ],
             "guid": "vDc+BxCZ>7",
@@ -13527,7 +13527,7 @@
                 "panacea=a cure for all diseases or problems</br>panorama=an allaround view</br>pantheism=the worship of all gods</br>pandemic=affecting all",
                 "Root words",
                 "[sound:1058_pan.ogg]",
-                "",
+                "ˈpan",
                 "Aristotle"
             ],
             "guid": "A<cv%BU^jy",
@@ -13581,7 +13581,7 @@
                 "Because the Orient is a luxury hotel, its <u><b>panoply</b> of premium services</u> and amenities is unrivalled in the hotel industry",
                 "Most Difficult",
                 "[sound:1001_panoply.ogg]",
-                "",
+                "ˈpa-nə-plē",
                 "FT"
             ],
             "guid": "t3]QYNmFMs",
@@ -13653,7 +13653,7 @@
                 "1. There was a <b><u>partial</b> eclipse</u> of the moon last month. </br>2. Clearly the woman was still <b>partial</b> to here ex-boyfriend",
                 "357 prevalent GRE words",
                 "[sound:560_partial.ogg]",
-                "",
+                "ˈpär-shəl",
                 "Prepscholar"
             ],
             "guid": "dcd3U)]9x",
@@ -13779,7 +13779,7 @@
                 "1.  parallel (alongside each other)    paramedic (someone alongside a medic)</br>paraphrase (restatement=coming  phase)     parastatal (organisation that runs alongside state )</br>paresis (altered ie. partial paralysis)     paralegal(one trained in subsidiary legal matters \"alongside legal\")</br> parameter (used alongside to measure system)      paraplegic (to be struck on the one side - eg lower side</br> left side)      paranormal (beyond normal)</br>parasite (alongside food)",
                 "Greek/Latin",
                 "[sound:1129_para.ogg]",
-                "",
+                "ˈpär-ə",
                 "SMB"
             ],
             "guid": "zfkd0tMh$l",
@@ -13815,7 +13815,7 @@
                 "He ignored his children's <b>pecadilloes</b> of forgetting to say thank-you and please",
                 "Common GRE",
                 "[sound:565_peccadillo.ogg]",
-                "",
+                "ˌpe-kə-ˈdi-(ˌ)lō",
                 "MSU"
             ],
             "guid": "lX)PZMk~8)",
@@ -13833,7 +13833,7 @@
                 "Professor Blackwell, a well-known pedant, required his pre-med students to speak in Latin throughout the entire semester.",
                 "Common GRE",
                 "[sound:1117_pedant.ogg]",
-                "",
+                "ˈpe-dᵊnt",
                 "Kaplan"
             ],
             "guid": "k+-JL,@a?/",
@@ -13851,7 +13851,7 @@
                 "When the teacher covered my daughter’s term paper with red marks, I felt she was being way too <b>pedantic in her review</b>",
                 "357 prevalent GRE words",
                 "[sound:568_pedantic.ogg]",
-                "",
+                "pi-ˈdan-tik",
                 "Prepscholar"
             ],
             "guid": "Hq,v[Fq[vB",
@@ -13869,7 +13869,7 @@
                 "A large number of <u>people fell asleep during the <b>pedestrian</b> play</u>.",
                 "357 prevalent GRE words",
                 "[sound:569_pedestrian.ogg]",
-                "",
+                "pə-ˈde-strē-ən",
                 "Prepscholar"
             ],
             "guid": "ii?pLFHpf6",
@@ -13887,7 +13887,7 @@
                 "A sentence that teaches a new vocabulary word should always be <b>pellucid</b>, that is, its style and meaning should be easily understandable so that you can derive the definition from the sentence",
                 "Most Difficult",
                 "[sound:1004_pellucid.ogg]",
-                "",
+                "pə-ˈlü-səd",
                 "FT"
             ],
             "guid": "hdED7V!H+d",
@@ -13923,7 +13923,7 @@
                 "the <b>perfidious</b> Judas kissed Jesus on the cheek",
                 "Common GRE",
                 "[sound:570_perfidious.ogg]",
-                "",
+                "(ˌ)pər-ˈfi-dē-əs",
                 "MSU"
             ],
             "guid": "FR)e?dtCza",
@@ -13941,7 +13941,7 @@
                 "Judas' infamous kiss was a despicable <u>act of <b>perfidy</b></u>",
                 "357 prevalent GRE words",
                 "[sound:571_perfidy.ogg]",
-                "",
+                "ˈpər-fə-dē",
                 "Prepscholar"
             ],
             "guid": "w$$o@UxeP}",
@@ -13959,7 +13959,7 @@
                 "When we went out to dinner last night, the bored hostess <u>gave us a <b>perfunctory</b> hello</u>",
                 "357 prevalent GRE words",
                 "[sound:572_perfunctory.ogg]",
-                "",
+                "pər-ˈfəŋ(k)-t(ə-)rē",
                 "Prepscholar"
             ],
             "guid": "x,c.p-pcg",
@@ -13977,7 +13977,7 @@
                 "peripatetic</br>periscope</br>perineum</br>peritoneum",
                 "Greek/Latin",
                 "[sound:573_peri.ogg]",
-                "",
+                "ˈpir-ē",
                 "MSU"
             ],
             "guid": "lZU=F$r<DS",
@@ -13995,7 +13995,7 @@
                 "1. a.  “Russia's peripheral provinces”,</br>1b. “peripheral suburbs”</br>2. energy is far from a peripheral issue in the economy",
                 "357 prevalent GRE words",
                 "[sound:574_peripheral.ogg]",
-                "",
+                "pə-ˈri-f(ə-)rəl",
                 "Prepscholar"
             ],
             "guid": "F.v5P<akuv",
@@ -14013,7 +14013,7 @@
                 "The rain <b>permeated</b> his pullover until he was drenched.",
                 "357 prevalent GRE words",
                 "[sound:575_permeate.ogg]",
-                "",
+                "ˈpər-mē-ˌāt",
                 "Prepscholar"
             ],
             "guid": "spUvb/VIHb",
@@ -14031,7 +14031,7 @@
                 "The disabled young man’s <b>perseverance</b> allowed him to complete the marathon.",
                 "357 prevalent GRE words",
                 "[sound:576_perseverance.ogg]",
-                "",
+                "ˌpər-sə-ˈvir-ən(t)s",
                 "Prepscholar"
             ],
             "guid": "wQm?AQq7zv",
@@ -14049,7 +14049,7 @@
                 "1. The customer <b>perused</b> the wine list in great detail</br>2. The customers <b><u>peruse</b> the bookshelves</u> in the bookstore",
                 "357 prevalent GRE words",
                 "[sound:577_peruse.ogg]",
-                "",
+                "pə-ˈrüz",
                 "Prepscholar"
             ],
             "guid": "r}C>x&8RiY",
@@ -14085,7 +14085,7 @@
                 "The <b>petulant</b> child threw a tantrum at the supermarket when his mother wouldn't buy him the sweets he so wanted.",
                 "Common GRE",
                 "[sound:579_petulant.ogg]",
-                "",
+                "ˈpe-chə-lənt",
                 "MSU"
             ],
             "guid": "H0n6v]kLwj",
@@ -14139,7 +14139,7 @@
                 "Patches was a perfect name for the <u><b>brindle</b> coated boxer puppy</u> the boy adopted from the shelter",
                 "1000 Difficult GRE words",
                 "[sound:581_brindled.ogg]",
-                "",
+                "ˈbrin-dᵊld",
                 "Examword"
             ],
             "guid": "vEhY=MfEy1",
@@ -14157,7 +14157,7 @@
                 "The students were grateful to receive financial support from philanthropic organizations that promote education.",
                 "Common GRE",
                 "[sound:582_philanthropy.ogg]",
-                "",
+                "fə-ˈlan(t)-thrə-pē",
                 "MSU"
             ],
             "guid": "JFE7$N_RpY",
@@ -14211,7 +14211,7 @@
                 "Those palace guards who wear the red coats and big hats and show absolutely no expression on their faces are <b>phlegmatic. </b>",
                 "357 prevalent GRE words",
                 "[sound:585_phlegmatic.ogg]",
-                "",
+                "fleg-ˈma-tik",
                 "Prepscholar"
             ],
             "guid": "t@x~z2.]:X",
@@ -14229,7 +14229,7 @@
                 "Few DJs <b><u>pine</b> for the day</u> of ones-and-twos; the possibilities of modern technology are too alluring.",
                 "Least Difficult",
                 "[sound:780_pine.ogg]",
-                "",
+                "ˈpīn",
                 "FT"
             ],
             "guid": "Ld$+0I]k==",
@@ -14265,7 +14265,7 @@
                 "2. Instead of getting to the <b><u>pith</b> of his point</u> and shouting \"HELP\", he instead said \"I would most appreciate some kind assistance\"",
                 "357 prevalent GRE words",
                 "[sound:588_pith.ogg]",
-                "",
+                "ˈpith",
                 "Prepscholar"
             ],
             "guid": "k7RA2WGt-:",
@@ -14283,7 +14283,7 @@
                 "The best greeting card messages are <b>pithy</b> and meaningful. </br>They finally got to the <u>pith of the discussion.</u>",
                 "Medium Difficult",
                 "[sound:912_pithy.ogg]",
-                "",
+                "ˈpi-thē",
                 "FT"
             ],
             "guid": "w.m#Zloj&M",
@@ -14319,7 +14319,7 @@
                 "The artist like to work with plastic substances such as wax or clay, as they could be easily molded",
                 "Common GRE",
                 "[sound:591_plastic.ogg]",
-                "",
+                "ˈpla-stik",
                 "MSU"
             ],
             "guid": "DlvW6Qpkr<",
@@ -14355,7 +14355,7 @@
                 "When Jason forgot to do his homework, <u>he tried to come up with a <b>plausible</b> excuse</u> his teacher would believe.",
                 "357 prevalent GRE words",
                 "[sound:594_plausible.ogg]",
-                "",
+                "ˈplȯ-zə-bəl",
                 "Prepscholar"
             ],
             "guid": "Obn;<kn:)0",
@@ -14373,7 +14373,7 @@
                 "Despite the <b>plethora</b> of movies offered by the video store, Jason always rents the same movie over and over again.",
                 "Least Difficult",
                 "[sound:783_plethora.ogg]",
-                "",
+                "ˈple-thə-rə",
                 "FT"
             ],
             "guid": "n<A&5?tf!e",
@@ -14391,7 +14391,7 @@
                 "Stock prices <b>plumeted</b> after the crash",
                 "357 prevalent GRE words",
                 "[sound:597_plummet.ogg]",
-                "",
+                "ˈplə-mət",
                 "Prepscholar"
             ],
             "guid": "iKO*B(cK*`",
@@ -14409,7 +14409,7 @@
                 "President Trump has a knack at <b>polarising</b> the American nation",
                 "357 prevalent GRE words",
                 "[sound:598_polarize.ogg]",
-                "",
+                "ˈpō-lə-ˌrīz",
                 "Prepscholar"
             ],
             "guid": "AAV@)?&0A&",
@@ -14463,7 +14463,7 @@
                 "With strong trade unions, <u>privatisation is a major <b>polemical</b> issue in South Africa</u>",
                 "357 prevalent GRE words",
                 "[sound:600_polemical.ogg]",
-                "",
+                "pə-ˈle-mi-kəl",
                 "Prepscholar"
             ],
             "guid": "k1i6O&Exe-",
@@ -14481,7 +14481,7 @@
                 "A ponderous book is better than a sleeping pill.",
                 "Common GRE",
                 "[sound:603_ponderous.ogg]",
-                "",
+                "ˈpän-d(ə-)rəs",
                 "MSU"
             ],
             "guid": "i$RvfnEN=8",
@@ -14517,7 +14517,7 @@
                 "The students were asked to <b>posit</b> their ideas about the dance through the school suggestion box.",
                 "Least Difficult",
                 "[sound:784_posit.ogg]",
-                "",
+                "ˈpä-zət",
                 "FT"
             ],
             "guid": "P}/QrS]9Sf",
@@ -14535,7 +14535,7 @@
                 "post script (p. s. )</br> ex post facto</br> post hoc</br> post-mortem",
                 "Greek/Latin",
                 "[sound:605_post.ogg]",
-                "",
+                "ˈpōst",
                 "MSU"
             ],
             "guid": "C0g(_TDbL.",
@@ -14553,7 +14553,7 @@
                 "A <b>pragmatic</b> approach to legislation can be difficult given the complexities of politics.",
                 "357 prevalent GRE words",
                 "[sound:607_pragmatic.ogg]",
-                "",
+                "prag-ˈma-tik",
                 "Prepscholar"
             ],
             "guid": "kwegp;w$Mx",
@@ -14589,7 +14589,7 @@
                 "Gripping with a lack of shelter, homeless people <bu>live in <b>precarious</b> conditions</u>.",
                 "357 prevalent GRE words",
                 "[sound:609_precarious.ogg]",
-                "",
+                "pri-ˈker-ē-əs",
                 "Prepscholar"
             ],
             "guid": "tvs,=9|zsi",
@@ -14607,7 +14607,7 @@
                 "Pres. Oboma <b>preceded</b> Pres. Trump, who superseded President Oboma",
                 "357 prevalent GRE words",
                 "[sound:610_preceded.ogg]",
-                "",
+                "pri-ˈsēd",
                 "Prepscholar"
             ],
             "guid": "P;iH*vv$oq",
@@ -14625,7 +14625,7 @@
                 "Because of competition from the big convenience chains, the mom and pop store is on the <b>precipice</b> of closing its doors.",
                 "Common GRE",
                 "[sound:611_precipice.ogg]",
-                "",
+                "ˈpre-s(ə-)pəs",
                 "MSU"
             ],
             "guid": "k0ul@yG,e1",
@@ -14751,7 +14751,7 @@
                 "Even though our troops are tired and hungry, we will <b>prevail</b> against the enemy",
                 "357 prevalent GRE words",
                 "[sound:618_prevail.ogg]",
-                "",
+                "pri-ˈvāl",
                 "Prepscholar"
             ],
             "guid": "l96{yCO<TW",
@@ -14805,7 +14805,7 @@
                 "project</br> projectile</br>",
                 "Greek/Latin",
                 "[sound:622_pro.ogg]",
-                "",
+                "ˈprō",
                 "MSU"
             ],
             "guid": "C#=9/_G6WD",
@@ -14823,7 +14823,7 @@
                 "The person who returned the stolen necklace to the police showed a great deal of <b>probity</b>",
                 "357 prevalent GRE words",
                 "[sound:623_probity.ogg]",
-                "",
+                "ˈprō-bə-tē",
                 "Prepscholar"
             ],
             "guid": "iR>(^r[vO|",
@@ -14841,7 +14841,7 @@
                 "Americans' <b>prodigal</b> devotion to the automobile is unique. </br>The <b>prodigal</b> prince bought lavish gifts and planned expensive events.",
                 "Common GRE",
                 "[sound:624_prodigal.ogg]",
-                "",
+                "ˈprä-di-gəl",
                 "MSU"
             ],
             "guid": "o3{P}(/wIq",
@@ -14859,7 +14859,7 @@
                 "As evidenced by  Two-Ton Tina's weight, she has a <b>prodigious</b> appetite.",
                 "357 prevalent GRE words",
                 "[sound:626_prodigious.ogg]",
-                "",
+                "prə-ˈdi-jəs",
                 "Prepscholar"
             ],
             "guid": "J_,k!2d.qm",
@@ -14895,7 +14895,7 @@
                 "Once introduced,  <u>rabbits <b>proliferated</b> in Australia</u> as they had no natural enemies",
                 "357 prevalent GRE words",
                 "[sound:628_proliferate.ogg]",
-                "",
+                "prə-ˈli-fə-ˌrāt",
                 "Prepscholar"
             ],
             "guid": "QAthtg:qZA",
@@ -14913,7 +14913,7 @@
                 "It is true that few artists have been so <b>prolific</b>. On average, he released a studio album every year.",
                 "Medium Difficult",
                 "[sound:916_prolific.ogg]",
-                "",
+                "prə-ˈli-fik",
                 "FT"
             ],
             "guid": "sRf7:;%%}]",
@@ -14931,7 +14931,7 @@
                 "If I had <b>prophetic</b> abilities, I would be picking up my lottery winnings right now.",
                 "Least Difficult",
                 "[sound:786_prophetic.ogg]",
-                "",
+                "prə-ˈfe-tik",
                 "FT"
             ],
             "guid": "KiMKrn(h:2",
@@ -14949,7 +14949,7 @@
                 "They made sacrifices to <b>propitiate</b> angry gods.",
                 "357 prevalent GRE words",
                 "[sound:630_propitiate.ogg]",
-                "",
+                "prō-ˈpi-shē-ˌāt",
                 "Prepscholar"
             ],
             "guid": "INzM21Jxz0",
@@ -14967,7 +14967,7 @@
                 "The students were instructed to behave with the utmost <b>propriety</b> while on their class field trip.",
                 "357 prevalent GRE words",
                 "[sound:631_propriety.ogg]",
-                "",
+                "prə-ˈprī-ə-tē",
                 "Prepscholar"
             ],
             "guid": "dP%_RA+Tt|",
@@ -14985,7 +14985,7 @@
                 "Because the biggest thing in my hometown is the grocery store, the city really is a <b>prosaic</b> little place.",
                 "Most Difficult",
                 "[sound:1010_prosaic.ogg]",
-                "",
+                "prō-ˈzā-ik",
                 "FT"
             ],
             "guid": "l9~udMrdYI",
@@ -15021,7 +15021,7 @@
                 "During the action sequence, a stand-in will act as a <b>proxy</b> for the A-list actor.",
                 "Medium Difficult",
                 "[sound:917_proxy.ogg]",
-                "",
+                "ˈpräk-sē",
                 "FT"
             ],
             "guid": "r~p(@+7^[q",
@@ -15039,7 +15039,7 @@
                 "My grandmother’s narrowminded and <b>prudish</b> viewpoints do not line up with today’s world views",
                 "Medium Difficult",
                 "[sound:918_prudish.ogg]",
-                "",
+                "ˈprü-dish",
                 "FT"
             ],
             "guid": "t`*c)2?}*?",
@@ -15057,7 +15057,7 @@
                 "psychology",
                 "Greek/Latin",
                 "[sound:633_psych.ogg]",
-                "",
+                "ˈsīk",
                 "MSU"
             ],
             "guid": "kI#SQ71@oK",
@@ -15111,7 +15111,7 @@
                 "And yet the prevailing view among pundits is that Russia is indeed back in Asia.",
                 "Most Difficult",
                 "[sound:1011_pundit.ogg]",
-                "",
+                "ˈpən-dət",
                 "FT"
             ],
             "guid": "sP/#py>SfQ",
@@ -15129,7 +15129,7 @@
                 "Purge=remove anything undesirable</br>purgatory=according to Roman Catholics a placewhere souls must clean themselves of sin</br>expurgate=remove objectionable passages from a publication",
                 "Root words",
                 "[sound:1060_purge.ogg]",
-                "",
+                "ˈpərj",
                 "Aristotle"
             ],
             "guid": "bTH<`xWal9",
@@ -15147,7 +15147,7 @@
                 "Dressed in a suit and tie, the <b>purist</b> raised his hand every time to answer each question the teacher asked.",
                 "Least Difficult",
                 "[sound:787_purist.ogg]",
-                "",
+                "ˈpyu̇r-ist",
                 "FT"
             ],
             "guid": "z9W8^-##;{",
@@ -15183,7 +15183,7 @@
                 "The tribesmen were <u>burned on a <b>pyre</u></b> so the evil spirits could not capture their bodies.",
                 "Least Difficult",
                 "[sound:788_pyre.ogg]",
-                "",
+                "ˈpī(-ə)r",
                 "FT"
             ],
             "guid": "i:}Kk2(je~",
@@ -15201,7 +15201,7 @@
                 "The <b>quack</b> claimed that consuming a few daily teaspoons of his miraculous snake oil would prevent and cure any signs of the Corona virus",
                 "Least Difficult",
                 "[sound:789_quack.ogg]",
-                "",
+                "ˈkwak",
                 "FT"
             ],
             "guid": "EpGPskp4AA",
@@ -15219,7 +15219,7 @@
                 "1. His new ideas involves a <b><u>qualification</b> of his party's platform</u></br>2. One of the qualifications for admission is an academic degree. </br>3. Newton's laws are still valid, <u>subject to several extreme <b>qualifications</u></b>, such as speed of the body, etc.",
                 "357 prevalent GRE words",
                 "[sound:637_qualification.ogg]",
-                "",
+                "ˌkwä-lə-fə-ˈkā-shən",
                 "Prepscholar"
             ],
             "guid": "fB|T6sAh@*",
@@ -15255,7 +15255,7 @@
                 "The old man drinks warm milk to <b>quell</b> his upset stomach.",
                 "Medium Difficult",
                 "[sound:920_quell.ogg]",
-                "",
+                "ˈkwel",
                 "FT"
             ],
             "guid": "J0!Q2*~K$&",
@@ -15291,7 +15291,7 @@
                 "It is normal for married couples to <u><b>quibble</b> over</u> small things like who controls the television remote",
                 "Medium Difficult",
                 "[sound:921_quibble.ogg]",
-                "",
+                "ˈkwi-bəl",
                 "FT"
             ],
             "guid": "ec%i{35aNy",
@@ -15327,7 +15327,7 @@
                 "The idea of an obese person participating in a triathlon is a <b>quixotic</b> notion.",
                 "Most Difficult",
                 "[sound:1014_quixotic.ogg]",
-                "",
+                "kwik-ˈsä-tik",
                 "FT"
             ],
             "guid": "oUr/z^wQ1=",
@@ -15345,7 +15345,7 @@
                 "They are seers, and mystics unfettered by the <b>quotidian</b>, connecting with the divine and reporting back.",
                 "357 prevalent GRE words",
                 "[sound:639_quotidian.ogg]",
-                "",
+                "kwō-ˈti-dē-ən",
                 "Prepscholar"
             ],
             "guid": "ndgpDc_g3+",
@@ -15381,7 +15381,7 @@
                 "1. A lack of calcium has caused the boy’s bones to <b>rarefy</b> and become brittle. </br>2. In <u>the <b>rariefied</b> air at the top of the mountain</u>, he was unable to run for longer periods of time",
                 "Common GRE",
                 "[sound:640_rarefy.ogg]",
-                "",
+                "ˈrer-ə-ˌfī",
                 "MSU"
             ],
             "guid": "tS4Wz$7%xB",
@@ -15417,7 +15417,7 @@
                 "Over time, the hopeless soldiers became <b>recalcitrant</b> and refused to follow orders",
                 "Medium Difficult",
                 "[sound:923_recalcitrant.ogg]",
-                "",
+                "ri-ˈkal-sə-trənt",
                 "FT"
             ],
             "guid": "hiMIr&^9k,",
@@ -15435,7 +15435,7 @@
                 "The judge ordered the magazine to <u><b>recant</b> the false statements</u> it made about the actress.",
                 "Medium Difficult",
                 "[sound:924_recant.ogg]",
-                "",
+                "ri-ˈkant",
                 "FT"
             ],
             "guid": "rqXC/7TMEl",
@@ -15453,7 +15453,7 @@
                 "Instead of spending a fortune in court fees, the two parties have agreed to see a mediator to <u><b>reconcile</b> their differences</u>.",
                 "357 prevalent GRE words",
                 "[sound:642_reconcile.ogg]",
-                "",
+                "ˈre-kən-ˌsī(-ə)l",
                 "Prepscholar"
             ],
             "guid": "nmIvc+yh9Q",
@@ -15507,7 +15507,7 @@
                 "The evidence provided by the prosecutor will <b>refute</b> the defendant’s claim of innocenc",
                 "357 prevalent GRE words",
                 "[sound:644_refute.ogg]",
-                "",
+                "ri-ˈfyüt",
                 "Prepscholar"
             ],
             "guid": "Q:K;r-Bqf3",
@@ -15525,7 +15525,7 @@
                 "<b>relentless</b> and driven, the runner managed to finish the race despite his bruised ankle",
                 "357 prevalent GRE words",
                 "[sound:645_relentless.ogg]",
-                "",
+                "ri-ˈlent-ləs",
                 "Prepscholar"
             ],
             "guid": "DWl/#U;@ro",
@@ -15543,7 +15543,7 @@
                 "According to the judge, the witness’ identification of the suspect was not <b>relevant</b> because of her poor eyesight.",
                 "357 prevalent GRE words",
                 "[sound:646_relevant.ogg]",
-                "",
+                "ˈre-lə-vənt",
                 "Prepscholar"
             ],
             "guid": "M=+@2]{+|u",
@@ -15615,7 +15615,7 @@
                 "During his next speech, the president will <b>repudiate</b> blame for the economic situation.",
                 "357 prevalent GRE words",
                 "[sound:649_repudiate.ogg]",
-                "",
+                "ri-ˈpyü-dē-ˌāt",
                 "Prepscholar"
             ],
             "guid": ".=dzhqaj/",
@@ -15633,7 +15633,7 @@
                 "In 1933, because none of the expected advantages had come to pass, the government decided to <b>rescind</b> the prohibition act.",
                 "357 prevalent GRE words",
                 "[sound:651_rescind.ogg]",
-                "",
+                "ri-ˈsind",
                 "Prepscholar"
             ],
             "guid": "j$:cYOOXb3",
@@ -15651,7 +15651,7 @@
                 "Each recipient was called up to receive their award, <b>respectively. </b>",
                 "357 prevalent GRE words",
                 "[sound:652_respectively.ogg]",
-                "",
+                "ri-ˈspek-tiv-lē",
                 "Prepscholar"
             ],
             "guid": "M_e4,ys(Xo",
@@ -15687,7 +15687,7 @@
                 "The <u>shy wallflower’s <b>reticence</u></b> kept her from talking to anyone at the school dance.",
                 "Least Difficult",
                 "[sound:790_reticence.ogg]",
-                "",
+                "ˈre-tə-sən(t)s",
                 "FT"
             ],
             "guid": "xzy$IHV<aT",
@@ -15705,7 +15705,7 @@
                 "Rather than voice her political opinions, Eileen <u>prefers to remain <b>reticent</u></b>",
                 "357 prevalent GRE words",
                 "[sound:654_reticent.ogg]",
-                "",
+                "ˈre-tə-sənt",
                 "Prepscholar"
             ],
             "guid": "z]C&hFi?}d",
@@ -15813,7 +15813,7 @@
                 "1a. to his <b>rue</b>, the error cost him the game</br>1b. He <u><b>rued</b> the day</u> he took his first dose of heroin.",
                 "Least Difficult",
                 "[sound:791_rue.ogg]",
-                "",
+                "ˈrü",
                 "FT"
             ],
             "guid": "L_3LFNad:[",
@@ -15831,7 +15831,7 @@
                 "Alfred Sauvy, the French thinker, was prone to worry that the first world would become 'a society of old people, living in old houses, <b><u>ruminating </b>about old ideas. '</u>",
                 "Least Difficult",
                 "[sound:792_ruminate.ogg]",
-                "",
+                "ˈrü-mə-ˌnāt",
                 "FT"
             ],
             "guid": "m{D.J>g[3)",
@@ -15885,7 +15885,7 @@
                 "<u>Broccoli, chicken and peanut butter are <b>salubrious</b> foods</u> which provide essential nutrients",
                 "357 prevalent GRE words",
                 "[sound:659_salubrious.ogg]",
-                "",
+                "sə-ˈlü-brē-əs",
                 "Prepscholar"
             ],
             "guid": "s0$)8JpVja",
@@ -15903,7 +15903,7 @@
                 "The US president <b>sanctioned</b> the killing of Osama Bin Laden before the special troops moved in.",
                 "357 prevalent GRE words",
                 "[sound:660_sanction.ogg]",
-                "",
+                "ˈsaŋ(k)-shən",
                 "Prepscholar"
             ],
             "guid": "s:+e3xaL,4",
@@ -15939,7 +15939,7 @@
                 "2. Chronic sleep deprivation will eventually <u><b>sap</b> the vitality</u> of those who suffer  it.",
                 "Homonym",
                 "[sound:662_sap.ogg]",
-                "",
+                "ˈsap",
                 "MSU"
             ],
             "guid": "s6wqW=w7Y}",
@@ -15957,7 +15957,7 @@
                 "Ms Jefferson, it must be said, is a master of the arched-eyebrow, <b>sardonic</b> quip.",
                 "Medium Difficult",
                 "[sound:926_sardonic.ogg]",
-                "",
+                "sär-ˈdä-nik",
                 "FT"
             ],
             "guid": "k7ypMr/cqH",
@@ -16011,7 +16011,7 @@
                 "As the widow accepted offers of sympathy at her husband’s funeral, she struggled to keep tears from her <b>saturnine</b> eyes.",
                 "Common GRE",
                 "[sound:665_saturnine.ogg]",
-                "",
+                "ˈsa-tər-ˌnīn",
                 "MSU"
             ],
             "guid": "v]9BJf|RJ#",
@@ -16047,7 +16047,7 @@
                 "ascend</br> descend",
                 "Greek/Latin",
                 "[sound:1097_scend.ogg]",
-                "",
+                "ˈsend",
                 "Manhattan"
             ],
             "guid": "n*`je5|r,(",
@@ -16083,7 +16083,7 @@
                 "The investigator could not find a single <b>scintilla</b> of evidence to the claim",
                 "Most Difficult",
                 "[sound:1021_scintilla.ogg]",
-                "",
+                "sin-ˈti-lə",
                 "FT"
             ],
             "guid": "M`&/w}#s1S",
@@ -16101,7 +16101,7 @@
                 "microscope</br> oscilloscope",
                 "Greek/Latin",
                 "[sound:667_scope.ogg]",
-                "",
+                "ˈskōp",
                 "MSU"
             ],
             "guid": "DXtsl>gS9?",
@@ -16119,7 +16119,7 @@
                 "1. I scratched his TV <b>screen</b></br>2. He passed the sand and stones through a <b>screen</b></br>3. The applicants were <b>screened</b> based on their resumes.",
                 "Homonym",
                 "[sound:668_screen.ogg]",
-                "",
+                "ˈskrēn",
                 "MSU"
             ],
             "guid": "mC}gLY.ig.",
@@ -16155,7 +16155,7 @@
                 "postscript",
                 "Greek/Latin",
                 "[sound:1098_script.ogg]",
-                "",
+                "ˈskript",
                 "Manhattan"
             ],
             "guid": "MO#)rwd8vU",
@@ -16227,7 +16227,7 @@
                 "His <b>sedulity</b> was there for all to see: he worked hard and never gave up easily.",
                 "Common GRE",
                 "[sound:672_sedulous.ogg]",
-                "",
+                "ˈse-jə-ləs",
                 "MSU"
             ],
             "guid": "y[:E**U:LK",
@@ -16245,7 +16245,7 @@
                 "Semantic parsing also ensued over whether the modifier 'meaningful' is significantly (or meaningfully) different from 'significant. '",
                 "Most Difficult",
                 "[sound:1022_semantic.ogg]",
-                "",
+                "si-ˈman-tik",
                 "FT"
             ],
             "guid": "dWk0ZvX&A?",
@@ -16335,7 +16335,7 @@
                 "3. The director decided to list the actors' names alphabetically, so as not to <b>slight</b> anyone.",
                 "Homonym",
                 "[sound:676_slight.ogg]",
-                "",
+                "ˈslīt",
                 "MSU"
             ],
             "guid": "x$<$zW|0,*",
@@ -16407,7 +16407,7 @@
                 "Patrick Stewart, for instance, reworked <u>Hamlet’s <b>soliloquy</b></u> as an ode to the letter B ('B or not a B, that is the question')",
                 "Medium Difficult",
                 "[sound:928_soliloquy.ogg]",
-                "",
+                "sə-ˈli-lə-kwē",
                 "FT"
             ],
             "guid": "OWL^}[-6Cr",
@@ -16443,7 +16443,7 @@
                 "While <u>alcohol is <b>soporific</b></u> and can help you sleep, it does not take away your problems.",
                 "Most Difficult",
                 "[sound:1024_soporific.ogg]",
-                "",
+                "ˌsä-pə-ˈri-fik",
                 "FT"
             ],
             "guid": "B5(>vmJQ(T",
@@ -16461,7 +16461,7 @@
                 "With only a <u><b>sparse</b> amount of hair</u>, the man decided to completely shave his head",
                 "357 prevalent GRE words",
                 "[sound:680_sparse.ogg]",
-                "",
+                "ˈspärs",
                 "Prepscholar"
             ],
             "guid": "b+CeCuBAoB",
@@ -16479,7 +16479,7 @@
                 "Her argument, though <b>specious</b>, was readily accepted by many.",
                 "357 prevalent GRE words",
                 "[sound:682_specious.ogg]",
-                "",
+                "ˈspē-shəs",
                 "Prepscholar"
             ],
             "guid": "EY|Ei9_uO)",
@@ -16497,7 +16497,7 @@
                 "<u>In the mountains, internet service is <b>sporadic</b></u> so you will not be able to download videos.",
                 "357 prevalent GRE words",
                 "[sound:683_sporadic.ogg]",
-                "",
+                "spə-ˈra-dik",
                 "Prepscholar"
             ],
             "guid": "coBK6LDH..",
@@ -16515,7 +16515,7 @@
                 "In the art-scene millions can be made with the help of so-called experts who  can  convert <u><b>spurios works of art</u></b> to authentic pieces via their certificates of authenticities.",
                 "357 prevalent GRE words",
                 "[sound:684_spurious.ogg]",
-                "",
+                "ˈspyu̇r-ē-əs",
                 "Prepscholar"
             ],
             "guid": "Q(pE*~_lBd",
@@ -16533,7 +16533,7 @@
                 "A <b>stigma</b> against adults having fun, strong in the aftermath of the Second World War, has faded.",
                 "Medium Difficult",
                 "[sound:929_stigma.ogg]",
-                "",
+                "ˈstig-mə",
                 "FT"
             ],
             "guid": "Q@Da%[#WtH",
@@ -16569,7 +16569,7 @@
                 "He was a <b>stolid</b> man who <u>did not even show his emotions</u> at his mother’s funeral",
                 "357 prevalent GRE words",
                 "[sound:685_stolid.ogg]",
-                "",
+                "ˈstä-ləd",
                 "Prepscholar"
             ],
             "guid": "MR!gDW}~ZQ",
@@ -16605,7 +16605,7 @@
                 "1. The beau <b>strutted</b> up and down the boardwalk, as if he were convinced he was God's greatest gift to all mankind. </br>2. Because the <b>struts</b> were made of inferior material, the wings of that plane became unstable.",
                 "Homonym",
                 "[sound:686_strut.ogg]",
-                "",
+                "ˈstrət",
                 "MSU"
             ],
             "guid": "P6$IV9yQX3",
@@ -16677,7 +16677,7 @@
                 "1. The theory was <b>substantiated<b> by a clear set of experimental facts</br>2. The president's trip will <b>substantiate</b> good relations with the former enemy country",
                 "357 prevalent GRE words",
                 "[sound:688_substantiate.ogg]",
-                "",
+                "səb-ˈstan(t)-shē-ˌāt",
                 "Prepscholar"
             ],
             "guid": "OL=~eQ~vJ.",
@@ -16731,7 +16731,7 @@
                 "The blanket would provide <b>sufficient</b> warmth for the night.",
                 "357 prevalent GRE words",
                 "[sound:691_sufficient.ogg]",
-                "",
+                "sə-ˈfi-shənt",
                 "Prepscholar"
             ],
             "guid": "rHpL}3(WOk",
@@ -16749,7 +16749,7 @@
                 "The soprano's voice was  <b>superbly</b> disciplined",
                 "357 prevalent GRE words",
                 "[sound:692_superbly.ogg]",
-                "",
+                "su̇-ˈpərb",
                 "Prepscholar"
             ],
             "guid": "vVn[FnLl+.",
@@ -16767,7 +16767,7 @@
                 "1. The car only had <b>superficial</b> damage to its paint. </br>2. her thinking was <b>superficial</b> and fuzzy, marked by lack of attention or insight. </br>3. she made a  few </b>superficial</b> editorial changes",
                 "Common GRE",
                 "[sound:693_superficial.ogg]",
-                "",
+                "ˌsü-pər-ˈfi-shəl",
                 "MSU"
             ],
             "guid": "CRqX+NIfo_",
@@ -16803,7 +16803,7 @@
                 "The computer has <b>supplanted</b> the slide rule",
                 "357 prevalent GRE words",
                 "[sound:695_supplant.ogg]",
-                "",
+                "sə-ˈplant",
                 "Prepscholar"
             ],
             "guid": "LleoP/g1M~",
@@ -16821,7 +16821,7 @@
                 "The <u><b>surly</b> man</u> was yelling at the waitress because he didn’t get the right order from the restaurant.",
                 "Least Difficult",
                 "[sound:796_surly.ogg]",
-                "",
+                "ˈsər-lē",
                 "FT"
             ],
             "guid": "g.3Rk]tX]c",
@@ -16875,7 +16875,7 @@
                 "At the beginning and the end of the course,  <b><u>synoptic</b> presentations</u> of the main physical theories were presented",
                 "Most Difficult",
                 "[sound:1026_synoptic.ogg]",
-                "",
+                "sə-ˈnäp-tik",
                 "FT"
             ],
             "guid": "Ah:aQ_dQ$R",
@@ -16893,7 +16893,7 @@
                 "The <b>syntax</b> in Jan’s sentences is incorrect as he doesn't follow the correct adjective sequence, viz: OSS-CAC-POMP, which  stands for Opinion, Size, Shape, - Condition, Age, Color-, Pattern, Origin,  Material & Purpose",
                 "Medium Difficult",
                 "[sound:933_syntax.ogg]",
-                "",
+                "ˈsin-ˌtaks",
                 "FT"
             ],
             "guid": "KpN<:;{k+9",
@@ -16911,7 +16911,7 @@
                 "It's becoming more common for doctors these days to <b>synthesize</b> Eastern and Western approaches to medicine",
                 "357 prevalent GRE words",
                 "[sound:697_synthesize.ogg]",
-                "",
+                "ˈsin(t)-thə-ˌsīz",
                 "Prepscholar"
             ],
             "guid": "PKySjM(X,<",
@@ -16929,7 +16929,7 @@
                 "Katie and carmella had <u>a tacit <b>agreement</b></u> that they would not mention the dented fender to their parents.",
                 "357 prevalent GRE words",
                 "[sound:699_tacit.ogg]",
-                "",
+                "ˈta-sət",
                 "Prepscholar"
             ],
             "guid": "c}K((zWnE6",
@@ -16947,7 +16947,7 @@
                 "My shy brother is <b>taciturn</b> and rarely speaks in public.",
                 "357 prevalent GRE words",
                 "[sound:701_taciturn.ogg]",
-                "",
+                "ˈta-sə-ˌtərn",
                 "Prepscholar"
             ],
             "guid": "wsy_t(;D51",
@@ -16965,7 +16965,7 @@
                 "contact</br> tactless (without feeling), tactful (with feeling),",
                 "Greek/Latin",
                 "[sound:1102_tact.ogg]",
-                "",
+                "ˈtakt",
                 "Manhattan"
             ],
             "guid": "lY~%p2_;pZ",
@@ -17037,7 +17037,7 @@
                 "2. She tried to remember to temper her words so as not to offend her listeners.",
                 "Homonym",
                 "[sound:703_temper.ogg]",
-                "",
+                "ˈtem-pər",
                 "MSU"
             ],
             "guid": "mmZzOs3TU`",
@@ -17073,7 +17073,7 @@
                 "The Netherlands, with its cool summers and mild winters is in a <u>temperate <b>climate</b> zone</u>.",
                 "Least Difficult",
                 "[sound:800_temperate.ogg]",
-                "",
+                "ˈtem-p(ə-)rət",
                 "FT"
             ],
             "guid": "Kl<]w0#M|`",
@@ -17145,7 +17145,7 @@
                 "<u>In a <b>terse</b> phone-call</u> on Thursday night, President Barack Obama paused only briefly to congratulate Mr. Netanyahu on his victory.",
                 "Least Difficult",
                 "[sound:801_terse.ogg]",
-                "",
+                "ˈtərs",
                 "FT"
             ],
             "guid": "rB0^W$gm[D",
@@ -17217,7 +17217,7 @@
                 "Britain’s Conservative government is accused of sacrificing the steel industry <u>to <b>toady</b> up to China</u>",
                 "Most Difficult",
                 "[sound:1027_toady.ogg]",
-                "",
+                "ˈtō-dē",
                 "FT"
             ],
             "guid": "x-Ih~?T{Q`",
@@ -17235,7 +17235,7 @@
                 "He went into the old library and saw <b>tome</b> after tome in the massive heavy bookshelves.",
                 "Least Difficult",
                 "[sound:802_tome.ogg]",
-                "",
+                "ˈtōm",
                 "FT"
             ],
             "guid": "Bgh8ea=x1?",
@@ -17253,7 +17253,7 @@
                 "During the winter, the bears fall into an intense <b>torpor</b>.",
                 "357 prevalent GRE words",
                 "[sound:710_torpor.ogg]",
-                "",
+                "ˈtȯr-pər",
                 "Prepscholar"
             ],
             "guid": "u7s0KDY!.&",
@@ -17307,7 +17307,7 @@
                 "tractor</br> attractive",
                 "Greek/Latin",
                 "[sound:1104_tract.ogg]",
-                "",
+                "ˈtrakt",
                 "Manhattan"
             ],
             "guid": "vFT~IB(r96",
@@ -17397,7 +17397,7 @@
                 "1. It promotes a cult of personality around Mr. Baghdadi and churns out <b>turgid</b> propaganda about repaired bridges and newly opened schools. </br>2. He looked at the <b>turgid</b> leeches having had their fill of blood",
                 "Most Difficult",
                 "[sound:1029_turgid.ogg]",
-                "",
+                "ˈtər-jəd",
                 "FT"
             ],
             "guid": "KBEEH!ur.a",
@@ -17433,7 +17433,7 @@
                 "He easily took advantage of the <b>tyro's</b> <u>inexperience</u> and beat him easily",
                 "Most Difficult",
                 "[sound:1030_tyro.ogg]",
-                "",
+                "ˈtī-(ˌ)rō",
                 "FT"
             ],
             "guid": "Csj]F#$g$b",
@@ -17451,7 +17451,7 @@
                 "Singapore aims to cloak itself in <b>ubiquitous</b>, free Wi-Fi in the next few years",
                 "357 prevalent GRE words",
                 "[sound:719_ubiquitous.ogg]",
-                "",
+                "yü-ˈbi-kwə-təs",
                 "Prepscholar"
             ],
             "guid": "CmANfF(IK6",
@@ -17469,7 +17469,7 @@
                 "Poroshenko, Ukraine’s president, <u>takes <b>umbrage</b> at charges</u> that reforms are lagging",
                 "Most Difficult",
                 "[sound:1031_umbrage.ogg]",
-                "",
+                "ˈəm-brij",
                 "FT"
             ],
             "guid": "RjUnMQ9}^5",
@@ -17487,7 +17487,7 @@
                 "“Yes, ” was the <b>unadorned</b> and quick answer",
                 "357 prevalent GRE words",
                 "[sound:720_unadorned.ogg]",
-                "",
+                "ˌən-ə-ˈdȯrnd",
                 "Prepscholar"
             ],
             "guid": "lH+gpDUcec",
@@ -17523,7 +17523,7 @@
                 "The director used music to <u><b>underscore</b> key scenes</u> of the movie",
                 "357 prevalent GRE words",
                 "[sound:722_underscore.ogg]",
-                "",
+                "ˈən-dər-ˌskȯr",
                 "Prepscholar"
             ],
             "guid": "d_{jy3nAA2",
@@ -17541,7 +17541,7 @@
                 "A COVID strategy that says we stay completely closed to everybody for the next 12 to 18 months is simply <b>untenable</b>",
                 "357 prevalent GRE words",
                 "[sound:723_untenable.ogg]",
-                "",
+                "ˌən-ˈte-nə-bəl",
                 "Prepscholar"
             ],
             "guid": "dEfB`?RDj;",
@@ -17559,7 +17559,7 @@
                 "Mark 16/IV, King James version: Afterward Jesus appeared unto the eleven as they sat at meat, and <b><u>upbraided</b> them with their unbelief</u> and hardness of heart,",
                 "Least Difficult",
                 "[sound:749_upbraid.ogg]",
-                "",
+                "ˌəp-ˈbrād",
                 "FT"
             ],
             "guid": "P-Yd9C)5r,",
@@ -17577,7 +17577,7 @@
                 "Everything from the man’s tailored suit to his Italian shoes and expensive watch screamed <b>urbane</b>",
                 "Medium Difficult",
                 "[sound:936_urbane.ogg]",
-                "",
+                "ˌər-ˈbān",
                 "FT"
             ],
             "guid": "C+(&-XsqL1",
@@ -17631,7 +17631,7 @@
                 "1. a <u><b>vacuous</b> space</u> </br>2. She <u>flashed a <b>vacuous</b> smile</u>. </br>3&4 his <b><u>vacuous</b> comments</u> did not impress anyone.",
                 "Common GRE",
                 "[sound:726_vacuous.ogg]",
-                "",
+                "ˈva-kyə-wəs",
                 "MSU"
             ],
             "guid": "Fs(Dg3,hjH",
@@ -17667,7 +17667,7 @@
                 "Apparently, there was no limit to former president Zuma's <b>venality</b>, with over 700 cases of corruption now being filed against him.",
                 "357 prevalent GRE words",
                 "[sound:727_venality.ogg]",
-                "",
+                "ˈvē-nᵊl",
                 "Prepscholar"
             ],
             "guid": "NU{@|`;!UC",
@@ -17703,7 +17703,7 @@
                 "The Chinese traditionally <b>venerated</b> their ancestors; ancestor worship is merely a popular misnomer for this tradition. (n: veneration, adj: venerable)",
                 "357 prevalent GRE words",
                 "[sound:729_venerate.ogg]",
-                "",
+                "ˈve-nə-ˌrāt",
                 "Prepscholar"
             ],
             "guid": "NXNWU+%]TF",
@@ -17721,7 +17721,7 @@
                 "advent=coming to christmas",
                 "Greek/Latin",
                 "[sound:1107_vent.ogg]",
-                "",
+                "ˈvent",
                 "Manhattan"
             ],
             "guid": "K]b?Z$C_]t",
@@ -17757,7 +17757,7 @@
                 "The police doubted the <b>veracity</b> of the suspect’s alibi.",
                 "357 prevalent GRE words",
                 "[sound:730_veracity.ogg]",
-                "",
+                "və-ˈra-sə-tē",
                 "Prepscholar"
             ],
             "guid": "sHU}(I!i&m",
@@ -17775,7 +17775,7 @@
                 "The instructor asked her <b>verbose</b> student make her paper more concise. (n: verbosity)",
                 "357 prevalent GRE words",
                 "[sound:732_verbose.ogg]",
-                "",
+                "(ˌ)vər-ˈbōs",
                 "Prepscholar"
             ],
             "guid": "GvQjaUFuIB",
@@ -17793,7 +17793,7 @@
                 "The lush, <b><u>verdant</b> hills of Ireland</u> are the theme of the song \"the green, green grass of home\"",
                 "Most Difficult",
                 "[sound:1032_verdant.ogg]",
-                "",
+                "ˈvər-dᵊnt",
                 "FT"
             ],
             "guid": "F3Uuj7is(b",
@@ -17829,7 +17829,7 @@
                 "convert",
                 "Greek/Latin",
                 "[sound:1109_vert.ogg]",
-                "",
+                "ˈvərt",
                 "Manhattan"
             ],
             "guid": "m#?Ol^h&4|",
@@ -17847,7 +17847,7 @@
                 "He said this would <u>remove a 'lingering <b>vestige</b></u> of the cold war. '",
                 "Least Difficult",
                 "[sound:807_vestige.ogg]",
-                "",
+                "ˈve-stij",
                 "FT"
             ],
             "guid": "Mq2/G(Q<>-",
@@ -17865,7 +17865,7 @@
                 "Franklin vexed his brother with his controversial writings.",
                 "Common GRE",
                 "[sound:733_vex.ogg]",
-                "",
+                "ˈveks",
                 "MSU"
             ],
             "guid": "I>Qs}+HBl+",
@@ -17883,7 +17883,7 @@
                 "<u>In <b>vexation</b></u>, I watched the neighbor’s dog poop in my yard",
                 "357 prevalent GRE words",
                 "[sound:734_vexation.ogg]",
-                "",
+                "vek-ˈsā-shən",
                 "Prepscholar"
             ],
             "guid": "ksmE{Kspno",
@@ -17919,7 +17919,7 @@
                 "Unfortunately, the internet and social media have made it very easy for people to <u><b>vilify</b> their enemies</u>.",
                 "Least Difficult",
                 "[sound:808_vilify.ogg]",
-                "",
+                "ˈvi-lə-ˌfī",
                 "FT"
             ],
             "guid": "N9Ouum8~<Y",
@@ -17955,7 +17955,7 @@
                 "Not all barrels of oil are alike. Crudes can be <b><u>viscous</b> like tar</u> or so 'light' they float on water.",
                 "Least Difficult",
                 "[sound:809_viscous.ogg]",
-                "",
+                "ˈvi-skəs",
                 "FT"
             ],
             "guid": "p)/O;h2:p6",
@@ -17991,7 +17991,7 @@
                 "As a child, I could never understand why my uncle could always prove,  by taking his shoes off, that his toes were crossed while making the promise, thus <u><b>vitiating</b> his promise</u>",
                 "Least Difficult",
                 "[sound:752_vitiate.ogg]",
-                "",
+                "ˈvi-shē-ˌāt",
                 "FT"
             ],
             "guid": "pn;e%k&vd9",
@@ -18009,7 +18009,7 @@
                 "Given the <b>vitriol</b> that has followed the film since its inception, it does well simply not to be a colossal misstep.",
                 "Most Difficult",
                 "[sound:1034_vitriol.ogg]",
-                "",
+                "ˈvi-trē-əl",
                 "FT"
             ],
             "guid": "l+@NpxRs+$",
@@ -18063,7 +18063,7 @@
                 "Ten weeks of ever-more <b>vociferous</b> argument, claims and counterclaims stretch between now the election date.",
                 "Most Difficult",
                 "[sound:1035_vociferous.ogg]",
-                "",
+                "vō-ˈsi-f(ə-)rəs",
                 "FT"
             ],
             "guid": "t<B@^]w?Pv",
@@ -18153,7 +18153,7 @@
                 "1. Honey, our dog, didn't have a tail to <b>wag</b></br>2. John's <u>reputation as a <b>wag</b> insured</u> he would be invited to many parties.",
                 "Homonym",
                 "[sound:741_wag.ogg]",
-                "",
+                "ˈwag",
                 "MSU"
             ],
             "guid": "n0Q1|Msu&6",
@@ -18225,7 +18225,7 @@
                 "The classroom was <u>in a <b>welter</b></u> when the teacher did not show up for class",
                 "Least Difficult",
                 "[sound:750_welter.ogg]",
-                "",
+                "ˈwel-tər",
                 "FT"
             ],
             "guid": "OW+#,IS%lj",
@@ -18243,7 +18243,7 @@
                 "1. He sharpened (<b>whetted</b>) the knife's blade with a <u>whetting stone</u></br>2. As I walked up my grandmother’s steps, I realized the smell of her food was enough to <u><b>whet</b> my appetite</u>",
                 "Medium Difficult",
                 "[sound:938_whet.ogg]",
-                "",
+                "ˈ(h)wet",
                 "FT"
             ],
             "guid": "IQe3#`;S,]",
@@ -18261,7 +18261,7 @@
                 "It's hard to make plans with such a <b>whimsical</b> best friend",
                 "357 prevalent GRE words",
                 "[sound:745_whimsical.ogg]",
-                "",
+                "ˈ(h)wim-zi-kəl",
                 "Prepscholar"
             ],
             "guid": "QHc}$`Do9v",
@@ -18297,7 +18297,7 @@
                 "1a. The <u>carver <b>whittled</b> away</u> at a piece of wood. </br>1b. fig. Democrats had spent a nervous September watching that lead <b><u>whittle</b> away</u> after Mrs. Clinton’s bout of pneumonia.",
                 "Least Difficult",
                 "[sound:815_whittle.ogg]",
-                "",
+                "ˈ(h)wi-tᵊl",
                 "FT"
             ],
             "guid": "oM_^&cU/I9",
@@ -18315,7 +18315,7 @@
                 "Many lawmakers from both parties join Mr. Obama in <u>wishing to <b>winnow</b> America’s overstuffed prisons</u>",
                 "Least Difficult",
                 "[sound:751_winnow.ogg]",
-                "",
+                "ˈwi-(ˌ)nō",
                 "FT"
             ],
             "guid": "niUmK+yP,n",
@@ -18333,7 +18333,7 @@
                 "After stealing food off the table, the dog begged for forgiveness by cocking his head and looking at his owner <u>in a <b>winsome</b> manner</u>.",
                 "Least Difficult",
                 "[sound:816_winsome.ogg]",
-                "",
+                "ˈwin(t)-səm",
                 "FT"
             ],
             "guid": "C(bZAPR|`S",
@@ -18369,7 +18369,7 @@
                 "Poor Cinderella had a <b>wretched</b> childhood, living in wretched conditions with a wretched stepmother",
                 "Common GRE",
                 "[sound:746_wretched.ogg]",
-                "",
+                "ˈre-chəd",
                 "MSU"
             ],
             "guid": "wfNn+0%1BU",
@@ -18387,7 +18387,7 @@
                 "Catherine Merridale is one of the foremost foreign historians of Russia, combining wry insights with deep sympathy for the human beings.",
                 "Least Difficult",
                 "[sound:818_wry.ogg]",
-                "",
+                "ˈrī",
                 "FT"
             ],
             "guid": "es,n{?u?]i",
@@ -18423,7 +18423,7 @@
                 "The existential consequences of throwing off the <u><b>yoke</b> of religion</u> is debated in many countries.",
                 "Most Difficult",
                 "[sound:1037_yoke.ogg]",
-                "",
+                "ˈyōk",
                 "FT"
             ],
             "guid": "QRA!a~8.N<",
@@ -18441,7 +18441,7 @@
                 "The great emperor’s crusading <b>zeal</b> led him to conquer many land",
                 "357 prevalent GRE words",
                 "[sound:748_zeal.ogg]",
-                "",
+                "ˈzēl",
                 "Prepscholar"
             ],
             "guid": "n3.fBe*-}I",
@@ -18477,7 +18477,7 @@
                 "grandeur=the quality of being grand/magnificient </br>grandiose=pretentiously grand </br>aggrandize=to make something appear bigger or greater </br>grandiloquent=pompous or bombastic",
                 "Greek/Latin",
                 "[sound:1068_grand.ogg]",
-                "",
+                "ˈgrand",
                 "SMB"
             ],
             "guid": "C9,Ldq)r6t",
@@ -18657,7 +18657,7 @@
                 "aptitude</br> apt</br>",
                 "Latin words",
                 "[sound:1145_apt.ogg]",
-                "",
+                "ˈapt",
                 "nko"
             ],
             "guid": "sS-vkO*]0J",
@@ -18675,7 +18675,7 @@
                 "arboreal(pertaining to trees)</br> arboretum(where trees are culitivated)</br> arborcide(killing of trees)",
                 "Latin words",
                 "[sound:1155_arbor.ogg]",
-                "",
+                "ˈär-bər",
                 "nko"
             ],
             "guid": "LHF~4X(vTI",
@@ -18729,7 +18729,7 @@
                 "barometer",
                 "Latin words",
                 "[sound:1164_bar.ogg]",
-                "",
+                "ˈbär",
                 "nko"
             ],
             "guid": "t6jS;]]!0a",
@@ -18765,7 +18765,7 @@
                 "bursary(stipend) </br> bursar(treasurer of a college)",
                 "Latin words",
                 "[sound:1165_burs.ogg]",
-                "",
+                "ˈbər",
                 "nko"
             ],
             "guid": "ih&!,5,gz.",
@@ -18855,7 +18855,7 @@
                 "cardio</br> cardiac arrest</br>cardiogram</br>",
                 "Latin words",
                 "[sound:1180_card.ogg]",
-                "",
+                "ˈkärd",
                 "nko"
             ],
             "guid": "i0D$CZo7/6",
@@ -18927,7 +18927,7 @@
                 "centimeter</br> centurion</br> cent</br>",
                 "Latin words",
                 "[sound:1173_cent.ogg]",
-                "",
+                "ˈsent",
                 "nko"
             ],
             "guid": "dQ|Y!Hrh#T",
@@ -19143,7 +19143,7 @@
                 "donor</br>",
                 "Latin words",
                 "[sound:1202_don.ogg]",
-                "",
+                "ˈdän",
                 "nko"
             ],
             "guid": "N=8/DYVFpW",
@@ -19161,7 +19161,7 @@
                 "dormitory</br> dormant</br>",
                 "Latin words",
                 "[sound:1200_dorm.ogg]",
-                "",
+                "ˈdȯrm",
                 "nko"
             ],
             "guid": "bHZ$FsVC:D",
@@ -19197,7 +19197,7 @@
                 "fidelity</br>",
                 "Latin words",
                 "[sound:1208_fid.ogg]",
-                "",
+                "ˈfid",
                 "nko"
             ],
             "guid": "k-C+qN&(o0",
@@ -19215,7 +19215,7 @@
                 "finish</br>",
                 "Latin words",
                 "[sound:1209_fin.ogg]",
-                "",
+                "ˈfin",
                 "nko"
             ],
             "guid": "c5eSyZzDXk",
@@ -19251,7 +19251,7 @@
                 "foremost, forehead, forefront, foreman, forefather, forefinger (next to thumb), forefend(prevent from happening), foreshadow(indicate by signs), foresight(see early), forearm, forebrain(front of brain), forebode(make a prediction), forebear(someone from whom you are descended), forecast, foreclosure(proceedings to retrieve collateral for a non-paid loan), foreclose(prevent from happening), foredoom(doomed beforehand), foredge(inside of book when shelved, opposite to spine), forego(do without), foreground, foregone(well in the past), foregather(put in one spot), forehand, foreknow, foremast(front mast), forename, forenoon, foreordain(determine in advance)",
                 "Latin words",
                 "[sound:1221_fore.ogg]",
-                "",
+                "ˈfȯr",
                 "nko"
             ],
             "guid": "FpaXcbA6%q",
@@ -19287,7 +19287,7 @@
                 "fugitive</br>",
                 "Latin words",
                 "[sound:1214_fug.ogg]",
-                "",
+                "ˈfəg",
                 "nko"
             ],
             "guid": "uv[)4,A9G^",
@@ -19413,7 +19413,7 @@
                 "hyper ventilate</br> hyperbole</br>",
                 "Latin words",
                 "[sound:1390_hyper.ogg]",
-                "",
+                "ˈhī-pər",
                 "nko"
             ],
             "guid": "r%@>RnzT%d",
@@ -19593,7 +19593,7 @@
                 "lateral</br> latitude</br>",
                 "Latin words",
                 "[sound:1251_later.ogg]",
-                "",
+                "ˈlā-tər",
                 "nko"
             ],
             "guid": "Ia`,`~sSnI",
@@ -19611,7 +19611,7 @@
                 "liposuction</br> lipid</br>",
                 "Latin words",
                 "[sound:1247_lip.ogg]",
-                "",
+                "ˈlip",
                 "nko"
             ],
             "guid": "F3oG*[}JtC",
@@ -19863,7 +19863,7 @@
                 "orthoate</br>orthodontist</br>",
                 "Latin words",
                 "[sound:1295_ortho.ogg]",
-                "",
+                "ˈȯr-(ˌ)thō",
                 "nko"
             ],
             "guid": "C=DdFz]W!K",
@@ -19899,7 +19899,7 @@
                 "pedestrian</br> pedal</br> pedicure</br>podiatrist",
                 "Greek/Latin",
                 "[sound:566_ped.ogg]",
-                "",
+                "ˈped",
                 "MSU"
             ],
             "guid": "gonN7KtcWr",
@@ -19989,7 +19989,7 @@
                 "political</br> metropolitan",
                 "Greek/Latin",
                 "[sound:601_polis.ogg]",
-                "",
+                "ˈpä-ləs",
                 "MSU"
             ],
             "guid": "qC^$0N3iBF",
@@ -20007,7 +20007,7 @@
                 "polygamy</br> polyphonic</br> hoi polloi",
                 "Greek/Latin",
                 "[sound:602_poly.ogg]",
-                "",
+                "ˈpä-lē",
                 "MSU"
             ],
             "guid": "C;SYro/#*P",
@@ -20025,7 +20025,7 @@
                 "potable water</br>",
                 "Latin words",
                 "[sound:1290_pot.ogg]",
-                "",
+                "ˈpät",
                 "nko"
             ],
             "guid": "nT]O|KPY4[",
@@ -20115,7 +20115,7 @@
                 "1. The result of biologist's experiments quickly <u><b>debunked</b> the theory</u> that 5G antennas were accelerating the spread of Corona.",
                 "1000 Difficult GRE words",
                 "[sound:1150_debunk.ogg]",
-                "",
+                "(ˌ)dē-ˈbəŋk",
                 "Examword"
             ],
             "guid": "wv?h%Q7cBq",
@@ -20169,7 +20169,7 @@
                 "1. Because Janet visits her local casino every day, she is considered a <b>denizen</b> of the gaming hall </br>2. The <b>denizens</b> of the deep ocean are often strange creatures indeed.",
                 "1000 Difficult GRE words",
                 "[sound:1171_denizen.ogg]",
-                "",
+                "ˈde-nə-zən",
                 "Examword"
             ],
             "guid": "ISqK!YFmHc",
@@ -20241,7 +20241,7 @@
                 "Prof. Sanders, emeritus professor of <u>nutrition and <b>dietetics</u></b> at King's College London, said: \" I'm concerned many people think B12 deficiency is a myth. \"",
                 "1000 Difficult GRE words",
                 "[sound:1191_dietetics.ogg]",
-                "",
+                "ˌdī-ə-ˈte-tiks",
                 "Examword"
             ],
             "guid": "r+>V7d:eQm",
@@ -20331,7 +20331,7 @@
                 "He spoke with a <u>Southern <b>drawl</u></b>, and had a cowboy hat and boots to match",
                 "1000 Difficult GRE words",
                 "[sound:1215_drawl.ogg]",
-                "",
+                "ˈdrȯl",
                 "Examword"
             ],
             "guid": "dA2a][@&iD",
@@ -20349,7 +20349,7 @@
                 "emigration",
                 "Latin words",
                 "[sound:1216_e.ogg]",
-                "",
+                "ˈē",
                 "nko"
             ],
             "guid": "mF_%vpR;_5",
@@ -20601,7 +20601,7 @@
                 "megaphone, mealithi (large stone), megabyte (1 mio byte)",
                 "Latin words",
                 "[sound:1256_mega.ogg]",
-                "",
+                "ˈme-gə",
                 "nko"
             ],
             "guid": "uM3yv20k]9",
@@ -20655,7 +20655,7 @@
                 "The company’s world headquarters will soon be relocated to an imposting <b>edifice</b> down the street.",
                 "1000 Difficult GRE words",
                 "[sound:1266_edifice.ogg]",
-                "",
+                "ˈe-də-fəs",
                 "Examword"
             ],
             "guid": "AZZMI@O|Eh",
@@ -23053,7 +23053,7 @@
                 "His <u><b>disjointed</b> argument</u> didn't make much sense",
                 "Hi Freq. GRE Hard",
                 "[sound:1471_disjointed.ogg]",
-                "",
+                "(ˌ)dis-ˈjȯin-təd",
                 "Barron"
             ],
             "guid": "L2O1m}7x3%",
@@ -23071,7 +23071,7 @@
                 "<u>She <b>dismissed</b> his advances</u>",
                 "Hi Freq. GRE Easy",
                 "[sound:1472_dismiss.ogg]",
-                "",
+                "dis-ˈmis",
                 "Barron"
             ],
             "guid": "tg]-9?Kk`f",
@@ -23089,7 +23089,7 @@
                 "She started divorce proceedings to achieve the <u><b>dissolution</b> of their marriage</u>",
                 "Hi Freq. GRE Easy",
                 "[sound:1473_dissolution.ogg]",
-                "",
+                "ˌdi-sə-ˈlü-shən",
                 "Barron"
             ],
             "guid": "Ov|W/*%h^P",
@@ -23107,7 +23107,7 @@
                 "<u>The pregrant woman's belly began to <b>distend </b></u>as the baby grew.",
                 "Hi Freq. GRE Medium",
                 "[sound:1474_distend.ogg]",
-                "",
+                "di-ˈstend",
                 "Barron"
             ],
             "guid": "d^<-xS!$8P",
@@ -23125,7 +23125,7 @@
                 "The <u><b>dormant</b> volcano errupted</u> after many years of inactivity.",
                 "Hi Freq. GRE Easy",
                 "[sound:1475_dormant.ogg]",
-                "",
+                "ˈdȯr-mənt",
                 "Barron"
             ],
             "guid": "bi[!=vSoFb",
@@ -23143,7 +23143,7 @@
                 "The couple strolled into the crowded restaurant, demanded the best table and threatened the staff but were soon <u>rejected by the maitre d' for their <b>effrontery. </b></u>",
                 "Hi Freq. GRE Medium",
                 "[sound:1476_effrontery.ogg]",
-                "",
+                "i-ˈfrən-tə-rē",
                 "Barron"
             ],
             "guid": "sgs;[<zkHr",
@@ -23161,7 +23161,7 @@
                 "<u>Mom <b>embellished</b> the cake</u> with a cherry on the top",
                 "Hi Freq. GRE Easy",
                 "[sound:1477_embellish.ogg]",
-                "",
+                "im-ˈbe-lish",
                 "Barron"
             ],
             "guid": "AVjUt`*1b3",
@@ -25845,7 +25845,7 @@
                 "Nurses stored the unused sterile syringes in <b>aseptic</b> containers for future use.",
                 "1000 Difficult GRE words",
                 "[sound:349_aseptic.ogg]",
-                "",
+                "(ˌ)ā-ˈsep-tik",
                 "Examword"
             ],
             "guid": "O<x*t~cljU",
@@ -26961,7 +26961,7 @@
                 "chthonic",
                 "Relating to or inhabiting the underworld.",
                 "adj.",
-                "Greek khthonios \"of the earth, in the earth\"</br>Usually about mythological creatures, but also, perhaps about our creepy basement</br> word frequency: every 195 k pages!",
+                "Greek khthonios \"of the earth, in the earth\"<br>Usually about mythological creatures, but also, perhaps about our creepy basement<br> word frequency: every 195 k pages!",
                 "Rammstein's song \"die Sonne\" is filled with <b>chthonic</b> scenes of dwarf miners intertwined with Snow White fantasies.",
                 "AMB",
                 "[sound:718_chthonic.ogg]",
@@ -37265,7 +37265,7 @@
                 "1a. Losing her <b>equipoise</b> seemed to always be a problem as her inner ear infection worsened without treatment.</br>1b. It requires an emotional <b>equipoise</b>, a blend of relaxation and concentration, stamina leavened by cheerfulness.",
                 "Grad Hotline 1300 GRE",
                 "[sound:1968_equipoise.ogg]",
-                "",
+                "ˈe-kwə-ˌpȯiz",
                 "3 Mid Level"
             ],
             "guid": "nny6&[8A]?",
@@ -37409,7 +37409,7 @@
                 "1a. If we didn’t have laws against <b>libel</b>, anyone could fall victim to malicious stories about them in print or on the internet.</br>1b. The girls wanted revenge against the volleyball coach for punishing them, so they wrote an editorial to <b>libel</b> her in the school newspaper.",
                 "Grad Hotline 1300 GRE",
                 "[sound:1976_libel.ogg]",
-                "",
+                "ˈlī-bəl",
                 "3 Mid Level"
             ],
             "guid": "iUP/[sV}bf",
@@ -37427,7 +37427,7 @@
                 "1a. The bank has a <b>lien</b> on the truck until the buyer fulfills his financial obligations.</br>1b. Bill will have a <b>lien</b> on his house until he pays his federal taxes.",
                 "Grad Hotline 1300 GRE",
                 "[sound:1977_lien.ogg]",
-                "",
+                "ˈlēn",
                 "3 Mid Level"
             ],
             "guid": "vR<Qf;3q#o",
