@@ -1,0 +1,22 @@
+#!/bin/python
+import json
+import requests
+import sys
+
+app_id  = sys.argv[2]
+app_key  = sys.argv[3]
+
+endpoint = "entries"
+language_code = "en-gb"
+word_id = "example"
+word_id = sys.argv[1]
+
+if not sys.argv[3]:
+    print("Error: Provide all necessary arguments")
+    sys.exit()
+
+url = "https://od-api.oxforddictionaries.com/api/v2/" + endpoint + "/" + language_code + "/" + word_id.lower()
+r = requests.get(url, headers = {"app_id": app_id, "app_key": app_key})
+# print("code {}\n".format(r.status_code))
+# print("text \n" + r.text)
+print(json.dumps(r.json()))

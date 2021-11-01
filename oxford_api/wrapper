@@ -1,0 +1,13 @@
+#!/bin/sh
+file="$1"
+oed_app_id="$(pass show GRE/oxforddictionary_api | grep -E '^app_id' | cut -d' ' -f2)"
+oed_app_key="$(pass show GRE/oxforddictionary_api | grep -E '^app_key' | cut -d' ' -f2)"
+
+while read -r line
+do
+	echo "word: $word"
+	no="$(echo "$line" | cut -f1)"
+	word="$(echo "$line" | cut -f2)"
+	json="$(./oed_get_json "$word" "$oed_app_id" "$oed_app_key")"
+	echo "$json" > json/"$no"_"$word".json
+done < "$file"
