@@ -1,0 +1,45 @@
+#!/bin/sh
+key="$(pass GRE/merriam_webster_api_key)"
+#ext="ogg"
+no="$1"
+echo "$2" | while read -r word; do
+	#echo "word:$word"
+	curl -Ls "https://www.dictionaryapi.com/api/v3/references/collegiate/json/$word?key=$key" > content
+	if grep -q "Access Denied"; then
+		continue
+	fi
+	if jq . content > /dev/null 2>&1
+		then
+			true
+		else
+			exit
+	fi
+	#file="$(jq '.[].hwi.prs | .[].sound.audio' content | sed 's/^\"//g; s/\"$//' | head -n1 )"
+	#echo "file:$file"
+	pronounciation="$(jq '.[].hwi.prs | .[].mw' content | sed 's/^\"//g; s/\"$//' | head -n1)"
+	#echo "pronounciation:$pronounciation"
+
+	##file beginning checks
+	#if echo "$file" | grep -qE "^bix"; then
+	#	subdir=bix
+	#elif
+	#	echo echo "$file" | grep -q '^gg'; then
+	#	subdir=gg
+	#elif
+	#	echo "$file" | grep -qE '^[0-9_\.,]'; then
+	#	subdir=number
+	#else
+	#	subdir="$(echo "$file" | grep -o '^.')"
+	#fi
+	#fileloc="$no"_"$word".$ext
+	#url="https://media.merriam-webster.com/audio/prons/en/us/$ext/$subdir/$file.$ext"
+	#echo "url:$url"
+	#curl -Ls "$url" -o "$fileloc"
+	#if grep -q "Access Denied" "$fileloc";then
+	#	rm "$fileloc"
+	#	printf '%s\t%s\n' "$no" "$word" >> not_found
+	#else
+	#	printf '%s\t%s\n' "$no" "$fileloc"
+	printf '%s\t%s\n' "$no" "$pronounciation"
+	#fi
+done
