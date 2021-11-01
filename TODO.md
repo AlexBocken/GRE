@@ -4,6 +4,42 @@
 | :---------------- | :-------- | :----------------------                                                         |
 | jibe              | 2021      | end of bold delimiter missing                                                   |
 | poignant          | 2026      | number differently (1 and 2), it's not clear which example is for which meaning |
+| consubstantial    | Mishima   |                                                                                 |
+| noctilucae        | Mishima   |                                                                                 |
+| din               | Mishima   | as in "din of waves"                                                            |
+| turbid            | Mishima   |                                                                                 |
+| sumpan            | Mishima   |                                                                                 |
+| shoal             | Mishima   |                                                                                 |
+| lèse majesté      | Mishima   |                                                                                 |
+| dandy             | Mishima   |                                                                                 |
+| davit             | Mishima   | as in "anchor davit"                                                            |
+| cuspids           | Mishima   |                                                                                 |
+| calcimined        | Mishima   |                                                                                 |
+| to sidle          | Mishima   |                                                                                 |
+| the offing        | Mishima   |                                                                                 |
+| derrick           | Mishima   |                                                                                 |
+| louvered          | Mishima   |                                                                                 |
+| to poise          | Mishima   |                                                                                 |
+| to totter         | Mishima   |                                                                                 |
+| tarpaulined       | Mishima   |                                                                                 |
+| to vy             | Mishima   |                                                                                 |
+| tremolo           | Mishima   |                                                                                 |
+| glutted           | Mishima   |                                                                                 |
+| to croon          | Mishima   |                                                                                 |
+| millenary         | Mishima   |                                                                                 |
+| to sunder         | Mishima   |                                                                                 |
+| insuperable       | Mishima   |                                                                                 |
+| paroxysm          | Mishima   |                                                                                 |
+| phrenoma          | Mishima   |                                                                                 |
+| rogatory          | Mishima   |                                                                                 |
+| soujorn           | Mishima   |                                                                                 |
+| squall (n.)       | Mishima   |                                                                                 |
+| cogitation        | Mishima   |                                                                                 |
+| gamut             | Mishima   |                                                                                 |
+| panoply           | Mishima   |                                                                                 |
+| meristic          | Mishima   |                                                                                 |
+| purposive         | Mishima   |                                                                                 |
+| contumely         | Mishima   |                                                                                 |
 
 ----
 
