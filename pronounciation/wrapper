@@ -1,0 +1,17 @@
+#!/bin/bash
+tac to_dl | while read -r line; do
+	#echo "$line" | cut -f1
+	no="$(echo "$line" | cut -f1)"
+	word="$(echo "$line" | cut -f2)"
+	echo "$no"_"$word.ogg"
+	if [ -f "$no"_"$word".ogg ]; then
+		echo "$word already downloaded"
+		continue
+	elif grep -qE "$no\t$word$" not_found; then
+		echo "we seem to have issues with this word, check manually"
+		continue
+	else
+		./audio "$no" "$word"
+	true
+	fi
+done
