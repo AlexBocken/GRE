@@ -1,0 +1,15 @@
+#!/bin/sh
+
+for file in json/*.json
+do
+	#echo "file:$file"
+	no="$(echo "$file" | cut -d'_' -f1 |  sed 's|json/||')"
+	word="$(echo "$file" | cut -d'_' --complement -f1 | sed 's/\.json$//')"
+	spellings="$(jq -r '.results[].lexicalEntries[].entries[].pronunciations[] | .phoneticSpelling' "$file" | awk '!seen[$0]++')"
+	if [ -z "$spellings" ]; then
+		echo "ERROR: no spelling for $word found!"
+		continue
+	fi
+	formatted="$(echo "$spellings" | sed 's/^/\//; s/$/\//' | sed 's/$/<br>/' | tr -d '\n' | sed 's/<br>$//')"
+	printf '%s\t%s\n' "$no" "$formatted"
+done

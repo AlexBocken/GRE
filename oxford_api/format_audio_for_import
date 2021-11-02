@@ -1,0 +1,13 @@
+#!/bin/sh
+for file in json/*.json
+do
+	#echo "file:$file"
+	no="$(echo "$file" | cut -d'_' -f1 |  sed 's|json/||')"
+	word="$(echo "$file" | cut -d'_' --complement -f1 | sed 's/\.json$//')"
+	sounds="$(for audio in audio/"$no"_$word*
+	do
+		file="$(echo "$audio" | sed 's/audio\///')"
+		printf '[sound:%s]' "$file"
+	done)"
+	printf '%s\t%s\n' "$no" "$sounds"
+done
