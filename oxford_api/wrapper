@@ -8,6 +8,7 @@ do
 	echo "word: $word"
 	no="$(echo "$line" | cut -f1)"
 	word="$(echo "$line" | cut -f2)"
-	json="$(./oed_get_json "$word" "$oed_app_id" "$oed_app_key")"
+	json="$(./oed_get_json "$word" "$oed_app_id" "$oed_app_key"
+		tr -d '\n')" # done since newlines can malform json data if appearing mid-string
 	echo "$json" > json/"$no"_"$word".json
 done < "$file"
