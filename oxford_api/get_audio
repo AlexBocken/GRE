@@ -1,0 +1,21 @@
+#!/bin/sh
+
+for file in json/*.json
+do
+	echo "file:$file"
+	no="$(echo "$file" | cut -d'_' -f1 |  sed 's|json/||')"
+	word="$(echo "$file" | cut -d'_' --complement -f1 | sed 's/\.json$//')"
+	links="$(jq -r '.results[].lexicalEntries[].entries[].pronunciations[] | .audioFile' "$file" | awk '!seen[$0]++')"
+	if [ -z "$links" ]; then
+		echo "ERROR: no links for $word found!"
+		continue
+	fi
+	i=1
+	echo "$links" | while read -r link; do
+		ext="$(echo "$link" | awk -F'.' '{print $NF}')"
+		dl_loc=audio/"$no"_"$word"_$i."$ext"
+		curl -L -s "$link" -o "$dl_loc"
+		echo "downloaded $word to $dl_loc"
+		i=$((i+1))
+	done
+done
