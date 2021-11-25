@@ -40,6 +40,7 @@
 | meristic          | Mishima   |                                                                                 |
 | purposive         | Mishima   |                                                                                 |
 | contumely         | Mishima   |                                                                                 |
+| parochial         | HBR       |                                                                                 |
 
 ----
 
